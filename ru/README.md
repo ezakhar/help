@@ -1,1 +1,1 @@
-Справочная система Staminity
+Staminity help
