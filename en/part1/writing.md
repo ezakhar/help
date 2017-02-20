@@ -1,4 +1,2 @@
-Это часть Writing
-
-Update 20/02
+Writing is nice
 
