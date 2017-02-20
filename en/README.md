@@ -1,1 +1,2 @@
-Staminity help
+Staminity help system 
+
