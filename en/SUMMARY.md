@@ -8,6 +8,6 @@
 
 ## Settings
 
-* [We love feedback](part2/feedback_please.md)
-* [Better tools for authors](part2/better_tools.md)
+* [General settings](part2/feedback_please.md)
+* [Privacy settings](part2/better_tools.md)
 
