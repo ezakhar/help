@@ -1,5 +1,7 @@
 {
 "plugins": [
-"theme-mobdoc"
+"theme-faq",
+"-fontsettings",
+"-sharing"
 ]
 }
