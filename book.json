@@ -1,7 +1,12 @@
 {
 "plugins": [
-"theme-faq",
+"theme-faq", 
 "-fontsettings",
-"-sharing"
-]
+"-sharing",
+"yametrika"]
+
+"pluginsConfig": {
+"yametrika": {
+"number": 43090034 }}
+
 }
