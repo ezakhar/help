@@ -5,10 +5,8 @@
 "-sharing",
 "yametrika"],
 
-"pluginsConfig": {
-"yametrika": {
-"number": 43090034 }}
-
-
-
+"pluginsConfig": 
+    { "yametrika": 
+        {"number": 43090034}
+    }
 }
