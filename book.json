@@ -6,7 +6,8 @@
 "yametrika"],
 
 "pluginsConfig": 
-    {"yametrika": 
-        {"number": 43090034}
-    }
+    {
+    "yametrika": {"number": 43090034},
+    "ga" : {"token": "UA-86484345-3"}
+    }      
 }
