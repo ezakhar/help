@@ -11,6 +11,8 @@
 * [Вход](part1/writing.md)
 * [Регистрация](part1/gitbook.md)
 
+## Тест
+
 ## Настройки
 
 * [Настройки приватности](part2/feedback_please.md)
@@ -18,5 +20,5 @@
 
 ## Стаминити для спортсмена
 
-* [Тренировочный календарь](zakrytaya-beta/trenirovochnyj-kalendar.md)
+* [Тренировочный календарь](athletes/calendar.md)
 
