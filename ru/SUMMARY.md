@@ -18,11 +18,6 @@
 
 * [Стаминити для клуба](clubs/staminity-for-clubs.md)
 
-## Настройки
-
-* [Настройки приватности](part2/feedback_please.md)
-* [Настройки отображения](part2/better_tools.md)
-
 ## Основы
 
 * [Introduction](README.md)
