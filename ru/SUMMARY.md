@@ -16,3 +16,7 @@
 * [Настройки приватности](part2/feedback_please.md)
 * [Настройки отображения](part2/better_tools.md)
 
+## Стаминити для спортсмена
+
+* [Тренировочный календарь](zakrytaya-beta/trenirovochnyj-kalendar.md)
+
