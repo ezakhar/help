@@ -3,10 +3,12 @@
 "theme-faq", 
 "-fontsettings",
 "-sharing",
-"yametrika"]
+"yametrika"],
 
 "pluginsConfig": {
 "yametrika": {
 "number": 43090034 }}
+
+
 
 }
