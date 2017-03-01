@@ -14,6 +14,10 @@
 ## Стаминити для тренера
 
 * [Стаминити для тренера](coaches/staminity-for-coach.md)
+* [Индивидуальные тренеры и тренеры в клубе](coaches/coaches-and-club-coaches.md)
+* [Управление спортсменами](coaches/athlete-management.md)
+* [Планирование тренировок для спортсменов](coaches/activity-planning.md)
+* [Анализ тренировок](coaches/activity-analysis.md)
 
 ## Стаминити для клуба
 
