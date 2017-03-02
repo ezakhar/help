@@ -9,7 +9,6 @@
 
 * [Стаминити для спортсмена](athletes/staminity-for-athlete.md)
 * [Подключиться к тренеру или клубу](athletes/podklyuchitsya-k-treneru-ili-klubu.md)
-* [Тренировочный календарь](athletes/calendar.md)
 
 ## Стаминити для тренера
 
@@ -26,6 +25,7 @@
 ## Основы
 
 * [Introduction](README.md)
+* [Тренировочный календарь](athletes/calendar.md)
 * [Вход](part1/writing.md)
 * [Регистрация](part1/gitbook.md)
 
