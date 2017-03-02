@@ -12,8 +12,8 @@
 
 ### Подключиться к тренеру или клубу
 
-* [Индивидуальные тренеры и тренерские клубы](/athletes/podklyuchitsya-k-treneru-ili-klubu.md#coachtypes)
-* [Отправить запрос тренеру](/athletes/podklyuchitsya-k-treneru-ili-klubu.md#startcoach)
+* [Индивидуальные тренеры и тренерские клубы](/athletes/coach-club-connection.md#coachtypes)
+* [Отправить запрос тренеру](/athletes/athletes/coach-club-connection.md#startcoach)
 * [Отправить запрос на вступление в клуб](/athletes/podklyuchitsya-k-treneru-ili-klubu.md#clubcoaching)
 * [Просмотреть статус запроса](/athletes/podklyuchitsya-k-treneru-ili-klubu.md#requeststatus)
 * [Отменить отправленный запрос](/athletes/podklyuchitsya-k-treneru-ili-klubu.md#cancelrequest)
