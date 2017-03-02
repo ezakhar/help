@@ -14,9 +14,9 @@
 
 * [Индивидуальные тренеры и тренерские клубы](/athletes/coach-club-connection.md#coachtypes)
 * [Отправить запрос тренеру](/athletes/athletes/coach-club-connection.md#startcoach)
-* [Отправить запрос на вступление в клуб](/athletes/podklyuchitsya-k-treneru-ili-klubu.md#clubcoaching)
-* [Просмотреть статус запроса](/athletes/podklyuchitsya-k-treneru-ili-klubu.md#requeststatus)
-* [Отменить отправленный запрос](/athletes/podklyuchitsya-k-treneru-ili-klubu.md#cancelrequest)
+* [Отправить запрос на вступление в клуб](/athletes/coach-club-connection.md#clubcoaching)
+* [Просмотреть статус запроса](/athletes/coach-club-connection.md#requeststatus)
+* [Отменить отправленный запрос](/coach-club-connection.md#cancelrequest)
 
 ### Просмотреть тренировочный календарь
 
