@@ -25,7 +25,5 @@
 ## Основы
 
 * [Introduction](README.md)
-* [Тренировочный календарь](athletes/calendar.md)
-* [Вход](part1/writing.md)
-* [Регистрация](part1/gitbook.md)
+* [Тренировочный календарь](basics/calendar.md)
 
