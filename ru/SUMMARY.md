@@ -8,7 +8,7 @@
 
 * [Стаминити для спортсмена](athletes/staminity-for-athlete.md)
 * [Первые шаги](athletes/getting-started.md)
-* [Подключиться к тренеру или клубу](athletes/podklyuchitsya-k-treneru-ili-klubu.md)
+* [Подключиться к тренеру или клубу](athletes/coach-club-connection.md)
 * [Просмотреть тренировочный календарь](athletes/athlete-calendar.md)
 * [Запланировать тренировку для себя](athletes/activity-planning.md)
 * [Проанализировать тренировку](athletes/activity-analysis.md)
