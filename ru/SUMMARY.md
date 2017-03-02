@@ -5,7 +5,7 @@
 * [Что такое закрытая бета](zakrytaya-beta/chto-takoe-zakrytaya-beta.md)
 * [Возникла ошибка? Есть идея? ](zakrytaya-beta/support.md)
 
-## Стаминити для спортсмена
+## Для спортсмена
 
 * [Стаминити для спортсмена](athletes/staminity-for-athlete.md)
 * [Первые шаги](athletes/getting-started.md)
@@ -14,7 +14,7 @@
 * [Запланировать тренировку для себя](athletes/activity-planning.md)
 * [Проанализировать тренировку](athletes/activity-analysis.md)
 
-## Стаминити для тренера
+## Для тренера
 
 * [Стаминити для тренера](coaches/staminity-for-coach.md)
 * [Индивидуальные тренеры и тренеры в клубе](coaches/coaches-and-club-coaches.md)
@@ -22,9 +22,14 @@
 * [Планирование тренировок для спортсменов](coaches/coach-activity-planning.md)
 * [Анализ тренировок спортсменов](coaches/coach-activity-analysis.md)
 
-## Стаминити для клуба
+## Для клуба
 
 * [Стаминити для клуба](clubs/staminity-for-clubs.md)
+* [Зачем нужен клуб](clubs/club.md)
+* [Управление членами клуба](clubs/club-management.md)
+* [Управление ролями в клубе](clubs/club-roles.md)
+* [Назначение тренеров для спортсменов клуба](clubs/coaches-and-athletes.md)
+* Управление тарифными планами членов клуба
 
 ## Основы
 
