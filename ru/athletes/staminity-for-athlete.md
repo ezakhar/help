@@ -13,10 +13,10 @@
 ### Подключиться к тренеру или клубу
 
 * [Индивидуальные тренеры и тренерские клубы](/athletes/coach-club-connection.md#coachtypes)
-* [Отправить запрос тренеру](/athletes/athletes/coach-club-connection.md#startcoach)
+* [Отправить запрос тренеру](/athletes/coach-club-connection.md#startcoach)
 * [Отправить запрос на вступление в клуб](/athletes/coach-club-connection.md#clubcoaching)
 * [Просмотреть статус запроса](/athletes/coach-club-connection.md#requeststatus)
-* [Отменить отправленный запрос](/coach-club-connection.md#cancelrequest)
+* [Отменить отправленный запрос](/athletes/coach-club-connection.md#cancelrequest)
 
 ### Просмотреть тренировочный календарь
 
