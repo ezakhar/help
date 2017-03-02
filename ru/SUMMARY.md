@@ -3,15 +3,18 @@
 ## Закрытая бета
 
 * [Что такое закрытая бета](zakrytaya-beta/chto-takoe-zakrytaya-beta.md)
-* [Что входит в закрытую бету](zakrytaya-beta/chto-vhodit-v-zakrytuyu-betu.md)
+
+## Начало работы
+
+* [getting started](nachalo-raboty/getting-started.md)
 
 ## Стаминити для спортсмена
 
 * [Стаминити для спортсмена](athletes/staminity-for-athlete.md)
 * [Подключиться к тренеру или клубу](athletes/podklyuchitsya-k-treneru-ili-klubu.md)
 * [Просмотреть тренировочный календарь](athletes/athlete-calendar.md)
-* [activity planning](athletes/activity-planning.md)
-* [activity analysis](athletes/activity-analysis.md)
+* [Запланировать тренировку для себя](athletes/activity-planning.md)
+* [Проанализировать тренировку](athletes/activity-analysis.md)
 
 ## Стаминити для тренера
 
