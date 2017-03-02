@@ -3,6 +3,7 @@
 ## Закрытая бета
 
 * [Что такое закрытая бета](zakrytaya-beta/chto-takoe-zakrytaya-beta.md)
+* [Возникла ошибка? Есть идея? ](zakrytaya-beta/support.md)
 
 ## Стаминити для спортсмена
 
