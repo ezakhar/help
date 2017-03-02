@@ -9,14 +9,17 @@
 
 * [Стаминити для спортсмена](athletes/staminity-for-athlete.md)
 * [Подключиться к тренеру или клубу](athletes/podklyuchitsya-k-treneru-ili-klubu.md)
+* [Просмотреть тренировочный календарь](athletes/athlete-calendar.md)
+* [activity planning](athletes/activity-planning.md)
+* [activity analysis](athletes/activity-analysis.md)
 
 ## Стаминити для тренера
 
 * [Стаминити для тренера](coaches/staminity-for-coach.md)
 * [Индивидуальные тренеры и тренеры в клубе](coaches/coaches-and-club-coaches.md)
 * [Управление спортсменами](coaches/athlete-management.md)
-* [Планирование тренировок для спортсменов](coaches/activity-planning.md)
-* [Анализ тренировок](coaches/activity-analysis.md)
+* [Планирование тренировок для спортсменов](coaches/coach-activity-planning.md)
+* [Анализ тренировок спортсменов](coaches/coach-activity-analysis.md)
 
 ## Стаминити для клуба
 

@@ -22,9 +22,9 @@
 
 ### Планирование тренировок для спортсменов
 
-* [Просмотреть тренировочный календарь спортсменов](/coaches/activity-planning.md#athletecalendar)
-* [Запланировать тренировку для спортсменов](/coaches/activity-planning.md#activityplanning)
-* [Просмотреть плановую тренировку](/coaches/activity-planning.md#viewactivity)
+* [Просмотреть тренировочный календарь спортсменов](/coaches/coach-activity-planning.md#athletecalendar)
+* [Запланировать тренировку для спортсменов](/coaches/coach-activity-planning.md#activityplanning)
+* [Просмотреть плановую тренировку](/coaches/coach-activity-planning.md#viewactivity)
 
 
 ### Анализ выполненных тренировок
