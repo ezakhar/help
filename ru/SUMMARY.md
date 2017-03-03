@@ -13,6 +13,7 @@
 * [Подключиться к тренеру или клубу](athletes/coach-club-connection.md)
 * [Просмотреть тренировочный календарь](athletes/athlete-calendar.md)
 * [Запланировать тренировку для себя](athletes/activity-planning.md)
+* [Выполнить тренировку](athletes/complete-activity.md)
 * [Проанализировать тренировку](athletes/activity-analysis.md)
 
 ## Для тренера
