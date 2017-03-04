@@ -33,8 +33,9 @@
 * [Назначение тренеров для спортсменов клуба](clubs/coaches-and-athletes.md)
 * [Управление тарифными планами членов клуба](clubs/upravlenie-tarifnymi-planami-chlenov-kluba.md)
 
-## Основы
+## Основы работы в Стаминити
 
 * [Introduction](README.md)
+* [Навигация в приложении](basics/navigation.md)
 * [Тренировочный календарь](basics/calendar.md)
 
