@@ -6,10 +6,21 @@
 * [Что сделано, что в работе](zakrytaya-beta/status.md)
 * [Возникла ошибка? Есть идея? ](zakrytaya-beta/support.md)
 
+## Основы работы в Стаминити
+
+* [Introduction](README.md)
+* [Навигация в приложении](basics/navigation.md)
+* [Первые шаги](basics/getting-started.md)
+* [Тренировочный календарь](basics/calendar.md)
+* [Создать плановую тренировку](basics/create-plan-activity.md)
+* [Посмотреть плановую тренировку](basics/view-plan-activity.md)
+* [Проанализировать выполненную тренировку](basics/analyse-detailed-activity.md)
+
+
+
 ## Для спортсмена
 
 * [Стаминити для спортсмена](athletes/staminity-for-athlete.md)
-* [Первые шаги](athletes/getting-started.md)
 * [Подключиться к тренеру или клубу](athletes/coach-club-connection.md)
 * [Просмотреть тренировочный календарь](athletes/athlete-calendar.md)
 * [Запланировать тренировку для себя](athletes/activity-planning.md)
@@ -33,14 +44,7 @@
 * [Назначение тренеров для спортсменов клуба](clubs/coaches-and-athletes.md)
 * [Управление тарифными планами членов клуба](clubs/upravlenie-tarifnymi-planami-chlenov-kluba.md)
 
-## Основы работы в Стаминити
 
-* [Introduction](README.md)
-* [Навигация в приложении](basics/navigation.md)
-* [Тренировочный календарь](basics/calendar.md)
-* [Создать плановую тренировку](basics/create-plan-activity.md)
-* [Посмотреть плановую тренировку](basics/view-plan-activity.md)
-* [Проанализировать выполненную тренировку](basics/analyse-detailed-activity.md)
 
 
 
