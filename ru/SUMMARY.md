@@ -39,4 +39,7 @@
 * [Навигация в приложении](basics/navigation.md)
 * [Тренировочный календарь](basics/calendar.md)
 * [Создать плановую тренировку](basics/create-plan-activity.md)
+* [Посмотреть плановую тренировку](basics/view-plan-activity.md)
+* [Проанализировать выполненную тренировку](basics/analyse-detailed-activity.md)
+
 
