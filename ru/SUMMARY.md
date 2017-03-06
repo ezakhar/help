@@ -38,4 +38,5 @@
 * [Introduction](README.md)
 * [Навигация в приложении](basics/navigation.md)
 * [Тренировочный календарь](basics/calendar.md)
+* [Создать плановую тренировку](basics/create-plan-activity.md)
 
