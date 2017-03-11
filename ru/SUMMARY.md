@@ -14,9 +14,8 @@
 * [Тренировочный календарь](basics/calendar.md)
 * [Создать плановую тренировку](basics/create-plan-activity.md)
 * [Проанализировать выполненную тренировку](basics/analyse-detailed-activity.md)
-* [Проанализировать выполненную структурированную тренировку](basics/analyse-detailed-structured-activity.md)
-
-
+* [(CКОРО)Проанализировать выполненную структурированную тренировку](basics/analyse-detailed-structured-activity.md)
+* [Рассчитываемые показатели](basics/measures.md)
 
 ## Для спортсмена
 
