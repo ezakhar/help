@@ -13,10 +13,7 @@
 * [Первые шаги](basics/getting-started.md)
 * [Тренировочный календарь](basics/calendar.md)
 * [Создать плановую тренировку](basics/create-plan-activity.md)
-* [Посмотреть плановую тренировку](basics/view-plan-activity.md)
 * [Проанализировать выполненную тренировку](basics/analyse-detailed-activity.md)
-
-
 
 ## Для спортсмена
 
@@ -44,11 +41,7 @@
 * [Назначение тренеров для спортсменов клуба](clubs/coaches-and-athletes.md)
 * [Управление тарифными планами членов клуба](clubs/upravlenie-tarifnymi-planami-chlenov-kluba.md)
 
-
-
-
-
 ## Тарифы и биллинг
-* [Тарифные планы Стаминити](billing/tariffs.md)
 
+* [Тарифные планы Стаминити](billing/tariffs.md)
 
