@@ -3,7 +3,8 @@
 "theme-faq", 
 "-fontsettings",
 "-sharing",
-"yametrika"],
+"yametrika",
+"katex"],
 
 "pluginsConfig": 
     {
