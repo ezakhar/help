@@ -10,7 +10,7 @@
  
 
 * [**Тренировочный календарь**](basics/calendar.md)
- * [тренировочные задания](basics/calendar.md#activities),
+ * [задания на тренировку](basics/calendar.md#activities),
  * [события, измерения и соревнования](basics/calendar.md#items).
 
 

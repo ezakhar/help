@@ -1,6 +1,5 @@
 # Summary
 
-
 ## Закрытая бета
 
 * [Что такое закрытая бета](zakrytaya-beta/chto-takoe-zakrytaya-beta.md)
@@ -16,7 +15,7 @@
 * [Тренировочный календарь](basics/calendar.md)
 * [Создать плановую тренировку](basics/create-plan-activity.md)
 * [Проанализировать выполненную тренировку](basics/analyse-detailed-activity.md)
-* [(CКОРО)Проанализировать выполненную структурированную тренировку](basics/analyse-detailed-structured-activity.md)
+* [\(CКОРО\)Проанализировать выполненную структурированную тренировку](basics/analyse-detailed-structured-activity.md)
 * [Рассчитываемые показатели](basics/measures.md)
 
 ## Для спортсмена
@@ -24,9 +23,6 @@
 * [Стаминити для спортсмена](athletes/staminity-for-athlete.md)
 * [Подключиться к тренеру или клубу](athletes/coach-club-connection.md)
 * [Просмотреть тренировочный календарь](athletes/athlete-calendar.md)
-* [Запланировать тренировку для себя](athletes/activity-planning.md)
-* [Выполнить тренировку](athletes/complete-activity.md)
-* [Проанализировать тренировку](athletes/activity-analysis.md)
 
 ## Для тренера
 
