@@ -22,7 +22,6 @@
 
 * [Стаминити для спортсмена](athletes/staminity-for-athlete.md)
 * [Подключиться к тренеру или клубу](athletes/coach-club-connection.md)
-* [Просмотреть тренировочный календарь](athletes/athlete-calendar.md)
 
 ## Для тренера
 
