@@ -1,4 +1,6 @@
 # Summary
+* [Introduction](README.md)
+
 
 ## Закрытая бета
 
@@ -8,7 +10,7 @@
 
 ## Основы работы в Стаминити
 
-* [Introduction](README.md)
+* [Основы работы в Стаминити](basics/basics.md)
 * [Навигация в приложении](basics/navigation.md)
 * [Первые шаги](basics/getting-started.md)
 * [Тренировочный календарь](basics/calendar.md)
