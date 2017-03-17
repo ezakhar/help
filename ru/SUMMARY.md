@@ -4,6 +4,7 @@
 
 * [Что такое закрытая бета](zakrytaya-beta/chto-takoe-zakrytaya-beta.md)
 * [Что сделано, что в работе](zakrytaya-beta/status.md)
+* [Известные ошибки]()
 * [Возникла ошибка? Есть идея? ](zakrytaya-beta/support.md)
 
 ## Основы работы в Стаминити
