@@ -5,7 +5,8 @@
 
 
 ###v0.0.1.beta#011, 20.03.2017{#beta002}
-* (new) [Анализ показателей по любому выбранному отрезку в тренировке](/basics/analyse-detailed-activity.md#intervalmetrics)
+* (new) Анализ показателей по любому выбранному отрезку в тренировке
+![](http://content.staminity.com/assets/images/ChartUserSelection.gif)
 * (new) Отображение плановых объемов в итогах недели в календаре
 ![](http://content.staminity.com/assets/images/WeekTotals.png)
 * (new) Отображение плановой интенсивности для тренировок в календаре
