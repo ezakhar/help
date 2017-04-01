@@ -10,13 +10,13 @@
   * [Метод Янсена \(Peter Janssen\), 6 зон от ЧССмакс](#janssenhr)
   * [Метод Карвонена \(Martti Karvonen\), 5 зон от резерва ЧСС](#karvonenhr)
 
-* **Зоны по темпу/скорости**
 
+* **Зоны по темпу/скорости**
   * [Метод Джо Фрила \(Joe Friel\), 7 зон по темпу/скорости от ПАНО](#frielspeed)
 
-* **Зоны по мощности**
 
-  * [Метод Коггана \(Andy Coggan\), 6 зон по мощности от ПАНО](#cogganpower)
+* **Зоны по мощности**
+  * [Метод Коггана \(Andy Coggan\), 7 зон по мощности от ПАНО](#cogganpower)
 
 ## Зоны по пульсу
 
@@ -75,7 +75,7 @@
 
 ## Зоны по мощности
 
-#### Метод Коггана \(Andy Coggan\), 6 зон по мощности от ПАНО {#cogganpower}
+#### Метод Коггана \(Andy Coggan\), 7 зон по мощности от ПАНО {#cogganpower}
 
 | Зоны | Границы зон мощности для велосипеда |
 | :--- | :--- |
@@ -84,9 +84,10 @@
 | Зона 3. Tempo | 75-89% от ПАНО |
 | Зона 4. Lactate threshold | 90-104% от ПАНО |
 | Зона 5. VO2 max | 105-120% от ПАНО |
-| Зона 6. Anaerobic capacity | Более 121% от ПАНО |
+| Зона 6. Anaerobic capacity | 121-150% от ПАНО |
+| Зона 7. Neuromuscular power | Более 150% от ПАНО |
 
-> Источник данных для таблицы: [http://www.trainingbible.com/joesblog/2009/11/quick-guide-to-setting-zones.html](http://www.trainingbible.com/joesblog/2009/11/quick-guide-to-setting-zones.html)
+> Источник данных для таблицы: http://m-ivanov.com/2016/08/kak-exat-bystree-sammari-na-knigu-trenirovki-po-moshhnosti-xanter-allen-i-endryu-koggan/
 
 
 
