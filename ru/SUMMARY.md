@@ -19,7 +19,8 @@
 * [Проанализировать выполненную тренировку](basics/analyse-detailed-activity.md)
 * [\(CКОРО\)Проанализировать выполненную структурированную тренировку](basics/analyse-detailed-structured-activity.md)
 * [Рассчитываемые показатели](basics/measures.md)
-* [Тренировочные зоны и ПАНО](basics/zones-and-thresholds.md)
+* [Порог анаэробного обмена (ПАНО)](basics/lactate-threshold.md)
+* [Определение тренировочных зон](basics/intensity-zones.md)
 
 
 ## Для спортсмена
