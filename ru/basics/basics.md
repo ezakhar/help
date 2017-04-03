@@ -6,7 +6,7 @@
  * [Проверить настройки приватности](/basics/getting-started.md#privacy)
  * [Настроить автоматическую загрузку фактических тренировок в Стаминити](/basics/getting-started.md#sync)
  * [Проверить настройки отображения](/basics/getting-started.md#show)
- * (СКОРО) Настроить значения зон и порогов
+ * [Настроить границы тренировочных зон](/basics/intensity-zones.md)
  
 
 * [**Тренировочный календарь**](/basics/calendar.md)
@@ -22,8 +22,8 @@
  * [Основные показатели по круговым отметкам](/basics/analyse-detailed-activity.md#laps);
  * [Расчетные показатели и пики в целом по тренировке](/basics/analyse-detailed-activity.md#metrics);
  * [Расчетные показатели и пики по кругам](/basics/analyse-detailed-activity.md#lapmetrics);
- * (СКОРО) [Расчетные показатели и пики по произвольному отрезку тренировки](/basics/analyse-detailed-activity.md#intervalmetrics);
- * (СКОРО) [Время в зонах](/basics/analyse-detailed-activity.md#timeinzone)
+ * [Расчетные показатели и пики по произвольному отрезку тренировки](/basics/analyse-detailed-activity.md#intervalmetrics);
+ * [Время в зонах](/basics/analyse-detailed-activity.md#timeinzone)
 
 
 
