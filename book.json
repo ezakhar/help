@@ -4,7 +4,8 @@
 "-fontsettings",
 "-sharing",
 "yametrika",
-"katex"],
+"katex",
+"ga"],
 
 "pluginsConfig": 
     {
