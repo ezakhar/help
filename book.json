@@ -13,7 +13,9 @@
             "number": 43090034,
             "settings": {
                 "webvisor": true,
-                "clickmap": true} 
+                "clickmap": true,
+                "trackLinks": true,
+                "accurateTrackBounce":true} 
         },
     "ga" : {"token": "UA-86484345-3"}
     }      
