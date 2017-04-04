@@ -11,12 +11,11 @@
     {
     "yametrika": 
         {
-            "number": 43090034,
-            "settings": {
-                "webvisor": true,
-                "clickmap": true,
-                "trackLinks": true,
-                "accurateTrackBounce":true} 
+            "id": 43090034,
+            "webvisor": true,
+            "clickmap": true,
+            "trackLinks": true,
+            "accurateTrackBounce":true
         },
     "analytics": {"google": "UA-86484345-3"}
     }      
