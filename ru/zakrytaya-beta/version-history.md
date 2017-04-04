@@ -5,9 +5,16 @@
 * [v0.0.1.beta#001, 13.03.2017](#beta001)
 
 ###v0.0.1.beta#015, 03.04.2017{#beta003}
-* (new) Тренировочные зоны и ПАНО. 
-Теперь 
-* 
+* **(new) Тренировочные зоны и ПАНО**. 
+    * Ведение [порога анаэробного обмена (ПАНО)](/basics/lactate-threshold.md) 
+ по показателям интенсивности и  видам спорта
+    * Расчет [границ тренировочных зон](/basics/intensity-zones.md) с использованием различных методов (Фрил, Янсен, Карвонен)
+    * Расчет в тренировке интенсивности в процентах от ПАНО по каждому кругу
+    ![](http://content.staminity.com/assets/images/settings/Staminity-intensity-by-FTP.png)
+    * Расчет времени в зонах в тренировке
+    ![](http://content.staminity.com/assets/images/settings/Staminity-time-in-zones-320.gif)
+
+
 
 ###v0.0.1.beta#014, 28.03.2017{#beta003}
 
