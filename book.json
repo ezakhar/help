@@ -5,19 +5,18 @@
 "-sharing",
 "yametrika",
 "katex",
-"ga"],
+"analytics"],
 
 "pluginsConfig": 
     {
     "yametrika": 
         {
             "id": 43090034,
-            "settings": {
-                "webvisor": true,
-                "clickmap": true,
-                "trackLinks": true,
-                "accurateTrackBounce":true} 
+            "webvisor": true,
+            "clickmap": true,
+            "trackLinks": true,
+            "accurateTrackBounce":true
         },
-    "ga": {"token": "UA-86484345-3"}
+    "analytics": {"google": "UA-86484345-3"}
     }      
 }
