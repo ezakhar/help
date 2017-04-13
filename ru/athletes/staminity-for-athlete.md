@@ -8,7 +8,7 @@
 * [Проверить настройки приватности](/basics/getting-started.md#privacy)
 * [Настроить автоматическую загрузку фактических тренировок в Стаминити](/basics/getting-started.md#sync)
 * [Проверить настройки отображения](/basics/getting-started.md#show)
-* [Настроить границы зон интенсивности](/basics/intensity-zones.md)
+* [Настроить границы зон интенсивности](/basics/getting-started.md#trainingzones)
 
 ### Подключиться к тренеру или клубу
 
