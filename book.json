@@ -3,11 +3,9 @@
 "theme-faq", 
 "-fontsettings",
 "-sharing",
-"katex",
-"analytics"],
+"katex"],
 
 "pluginsConfig": 
     {
-        "analytics": {"google": "UA-86484345-3"}
     }      
 }
