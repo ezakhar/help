@@ -21,7 +21,7 @@
 * [Рассчитываемые показатели](basics/measures.md)
 * [Порог анаэробного обмена (ПАНО)](basics/lactate-threshold.md)
 * [Определение тренировочных зон](basics/intensity-zones.md)
-
+* [Типы тренировок](basics/activity-categories.md)
 
 ## Для спортсмена
 
