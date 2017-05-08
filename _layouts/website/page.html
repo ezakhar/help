@@ -1,13 +1,34 @@
 {% extends template.self %}
 
-{% block faq_header_brand %}
-<img src="/assets/logo-horizontal-50px-height.png" height="30" />
-{% endblock %}
+{% block javascript %}
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter43090034 = new Ya.Metrika({
+                    id:43090034,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true,
+                    trackHash:true
+                });
+            } catch(e) { }
+        });
 
-{% extends template.self %}
-{% block faq_menu %}
-<ul class="nav navbar-nav navbar-right">
-<li><a href="http://help.staminity.com/ru">По-русски</a></li>
-<li><a href="http://help.staminity.com/en">English</a></li>
-</ul>
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/43090034" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
 {% endblock %}
