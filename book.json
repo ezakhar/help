@@ -3,20 +3,10 @@
 "theme-faq", 
 "-fontsettings",
 "-sharing",
-"yametrika",
-"katex",
-"analytics"],
+"katex"],
 
 "pluginsConfig": 
     {
-    "yametrika": 
-        {
-            "id": 43090034,
-            "webvisor": true,
-            "clickmap": true,
-            "trackLinks": true,
-            "accurateTrackBounce":true
-        },
-    "analytics": {"google": "UA-86484345-3"}
     }      
 }
+
