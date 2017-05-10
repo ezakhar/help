@@ -1,8 +1,8 @@
 # Summary
 
-## Закрытая бета
+## Бета
 
-* [Что такое закрытая бета](zakrytaya-beta/chto-takoe-zakrytaya-beta.md)
+* [Стадии бета-тестирования](zakrytaya-beta/chto-takoe-zakrytaya-beta.md)
 * [Что сделано, что в работе](zakrytaya-beta/status.md)
 * [История обновлений](zakrytaya-beta/version-history.md)
 * [Известные ошибки](zakrytaya-beta/known-bugs.md)
@@ -19,7 +19,7 @@
 * [Проанализировать выполненную тренировку](basics/analyse-detailed-activity.md)
 * [\(CКОРО\)Проанализировать выполненную структурированную тренировку](basics/analyse-detailed-structured-activity.md)
 * [Рассчитываемые показатели](basics/measures.md)
-* [Порог анаэробного обмена (ПАНО)](basics/lactate-threshold.md)
+* [Порог анаэробного обмена \(ПАНО\)](basics/lactate-threshold.md)
 * [Определение тренировочных зон](basics/intensity-zones.md)
 * [Типы тренировок](basics/activity-categories.md)
 
