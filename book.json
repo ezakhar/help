@@ -2,8 +2,7 @@
 "plugins": [
 "theme-faq", 
 "-fontsettings",
-"-sharing",
-"katex"],
+"-sharing"],
 
 "pluginsConfig": 
     {
