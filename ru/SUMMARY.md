@@ -22,6 +22,7 @@
 * [Порог анаэробного обмена \(ПАНО\)](basics/lactate-threshold.md)
 * [Определение тренировочных зон](basics/intensity-zones.md)
 * [Типы тренировок](basics/activity-categories.md)
+* [Работа с мобильных устройств](basics/staminity-for-mobile.md)
 
 ## Для спортсмена
 
@@ -46,4 +47,6 @@
 ## Тарифы и биллинг
 
 * [Тарифные планы Стаминити](billing/tariffs.md)
+
+
 
