@@ -7,17 +7,17 @@
 
 Пока мобильные приложения для IOS и Android в разработке, мы сделали версию приложения для работы через браузер мобильных устройств
 
-![](http://content.staminity.com/assets/images/mobile-pwa/Desktop-and-mobile2.png)
+![Стаминити для компьютера и смартфона](http://content.staminity.com/assets/images/mobile-pwa/Desktop-and-mobile2.png)
 
 В Стаминити можно просто зайти через браузер смартфона, но гораздо удобнее сохранить приложение на рабочий стол вашего устройства. Это позволит работать с ним практически как с обычным приложением для телефона.
 
 Для этого откройте сайт [https://staminity.com](https://staminity.com) через браузер вашего смартфона и сохраните приложение на рабочий стол
 
-<p style="text-align:center"><img src="http://content.staminity.com/assets/images/mobile-pwa/save-to-desktop.gif"/></p>
+<p style="text-align:center"><img src="http://content.staminity.com/assets/images/mobile-pwa/save-to-desktop.gif" alt="Сохранить приложение на рабочий стол смартфона"/></p>
 
 После этого при первом входе в приложение нужно ввести имя и пароль, либо войти через социальные сети:
 
-<p style="text-align:center"><img src="http://content.staminity.com/assets/images/mobile-pwa/signin-pwa.gif" align="middle"/></p>
+<p style="text-align:center"><img src="http://content.staminity.com/assets/images/mobile-pwa/signin-pwa.gif" alt="Вход в приложение"/></p>
 
 Приложение запомнит введенные данные и в дальнейшем можно входить в приложение без ввода имени и пароля. 
 В мобильном приложении доступны все основные функции Стаминити:
@@ -25,7 +25,7 @@
 * открыть и проанализировать выполненную тренировку,
 * написать отчет тренеру в чате.
 
-<p style="text-align:center"><img src="http://content.staminity.com/assets/images/mobile-pwa/signin-and-analyze.gif" align="middle"/></p>
+<p style="text-align:center"><img src="http://content.staminity.com/assets/images/mobile-pwa/signin-and-analyze.gif" alt="Работа в Стаминити со смартфона"/></p>
 
 
 
