@@ -13,7 +13,7 @@
 
 Для этого откройте сайт [https://staminity.com](https://staminity.com) через браузер вашего смартфона и сохраните приложение на рабочий стол
 
-<img src="http://content.staminity.com/assets/images/mobile-pwa/save-to-desktop.gif" align="center"/>
+<img src="http://content.staminity.com/assets/images/mobile-pwa/save-to-desktop.gif" align="middle"/>
 
 
 asdf
