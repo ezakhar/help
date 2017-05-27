@@ -15,5 +15,17 @@
 
 <img src="http://content.staminity.com/assets/images/mobile-pwa/save-to-desktop.gif" align="middle"/>
 
+После этого при первом входе в приложение нужно ввести имя и пароль, либо войти через социальные сети:
 
-asdf
+<img src="http://content.staminity.com/assets/images/mobile-pwa/signin-pwa.gif" align="middle"/>
+
+Приложение запомнит введенные данные и в дальнейшем можно входить в приложение без ввода имени и пароля. 
+В мобильном приложении доступны все основные функции Стаминити:
+* можно запланировать тренировку и просмотреть план, 
+* открыть и проанализировать выполненную тренировку,
+* написать отчет тренеру в чате.
+
+<img src="http://content.staminity.com/assets/images/mobile-pwa/signin-and-analyze.gif" align="middle"/>
+
+
+
