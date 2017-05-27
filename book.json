@@ -2,10 +2,13 @@
 "plugins": [
 "theme-faq", 
 "-fontsettings",
-"-sharing"],
+"-sharing",
+"image-captions"],
 
 "pluginsConfig": 
     {
+      "image-captions": {
+          "caption": "_CAPTION_"
     }      
 }
 
