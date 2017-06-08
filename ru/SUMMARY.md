@@ -20,10 +20,10 @@
 * [\(CКОРО\)Проанализировать выполненную структурированную тренировку](basics/analyse-detailed-structured-activity.md)
 * [Рассчитываемые показатели](basics/measures.md)
 
-## Важные настройки
+## Ответы на вопросы
 
 * [Работа с мобильных устройств](basics/staminity-for-mobile.md)
-* [Автоматическая загрузка тренировок](settings/activity-auto-sync.md)
+* [Автоматическая загрузка тренировок](questions/activity-auto-sync.md)
 * [Порог анаэробного обмена \(ПАНО\)](basics/lactate-threshold.md)
 * [Определение тренировочных зон](basics/intensity-zones.md)
 * [Типы тренировок](basics/activity-categories.md)
