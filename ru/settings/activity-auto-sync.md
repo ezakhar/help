@@ -4,7 +4,7 @@
 * [Garmin Connect](#garmin)
 * [Strava](#strava)
 * [Polar](#polar)
-* Suunto
+* [Suunto](#suunto)
 * TomTom
 * Epson Watch
 
@@ -44,3 +44,19 @@
 Сохраните настройки в Polar flow. Теперь все ваши тренировки, выполненные в часах Polar, будут попадать в Strava.
 
 4. Настройте [синхронизацию Strava и Стаминити](#strava), как описано выше.
+
+###Автоматическая загрузка тренировок из Suunto{#suunto}
+Прямая загрузка тренировок из Suunto в Стаминити в разработке, но возможно настроить автоматическую синхронизацию тренировок через Strava.
+
+**Как это сделать:**
+
+Если у вас уже есть аккаунт в Страва, перейдите к шагу 2.
+Если нет
+
+1. Зайдите в Strava (https://strava.com) и создайте новый аккаунт. Функции Premium не нужны, достаточно базового аккаунта.
+
+2. Зайдите в Suunto Movescount (https://movescount.com), и в разделе "Настройки" (Settings) - "Прочие спортивные службы" (Other sport settings) нажмите **Connect with Strava** 
+![](http://content.staminity.com/assets/images/settings/Movescount-Settings.png)
+Сохраните настройки. Теперь все ваши тренировки, выполненные в часах Suunto, будут попадать в Strava.
+
+3. Настройте [синхронизацию Strava и Стаминити](#strava), как описано выше.
