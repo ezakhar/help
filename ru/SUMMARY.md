@@ -13,20 +13,20 @@
 * [Introduction](README.md)
 * [Основы работы в Стаминити](basics/basics.md)
 * [Навигация в приложении](basics/navigation.md)
-* [Первые шаги](basics/getting-started.md)
 * [Тренировочный календарь](basics/calendar.md)
 * [Создать плановую тренировку](basics/create-plan-activity.md)
 * [Проанализировать выполненную тренировку](basics/analyse-detailed-activity.md)
 * [\(CКОРО\)Проанализировать выполненную структурированную тренировку](basics/analyse-detailed-structured-activity.md)
-* [Рассчитываемые показатели](basics/measures.md)
 
 ## Ответы на вопросы
 
-* [Работа с мобильных устройств](basics/staminity-for-mobile.md)
-* [Автоматическая загрузка тренировок](questions/activity-auto-sync.md)
-* [Порог анаэробного обмена \(ПАНО\)](basics/lactate-threshold.md)
-* [Определение тренировочных зон](basics/intensity-zones.md)
-* [Типы тренировок](basics/activity-categories.md)
+* [С чего начать работу в Стаминити](basics/getting-started.md)
+* [Как работать с мобильных устройств](basics/staminity-for-mobile.md)
+* [Как автоматически загружать тренировки](questions/activity-auto-sync.md)
+* [Что такое ПАНО \(Порог анаэробного обмена\)](basics/lactate-threshold.md)
+* [Как определить тренировочные зоны](basics/intensity-zones.md)
+* [Что такое Типы тренировок](basics/activity-categories.md)
+* [Какие показатели рассчитываются в Стаминити](basics/measures.md)
 
 ## Для спортсмена
 
