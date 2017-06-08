@@ -24,6 +24,10 @@
 * [Типы тренировок](basics/activity-categories.md)
 * [Работа с мобильных устройств](basics/staminity-for-mobile.md)
 
+## Важные настройки
+
+* [activity auto sync](settings/activity-auto-sync.md)
+
 ## Для спортсмена
 
 * [Стаминити для спортсмена](athletes/staminity-for-athlete.md)
@@ -47,6 +51,4 @@
 ## Тарифы и биллинг
 
 * [Тарифные планы Стаминити](billing/tariffs.md)
-
-
 
