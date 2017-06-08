@@ -19,14 +19,14 @@
 * [Проанализировать выполненную тренировку](basics/analyse-detailed-activity.md)
 * [\(CКОРО\)Проанализировать выполненную структурированную тренировку](basics/analyse-detailed-structured-activity.md)
 * [Рассчитываемые показатели](basics/measures.md)
-* [Порог анаэробного обмена \(ПАНО\)](basics/lactate-threshold.md)
-* [Определение тренировочных зон](basics/intensity-zones.md)
-* [Типы тренировок](basics/activity-categories.md)
-* [Работа с мобильных устройств](basics/staminity-for-mobile.md)
 
 ## Важные настройки
 
+* [Работа с мобильных устройств](basics/staminity-for-mobile.md)
 * [Автоматическая загрузка тренировок](settings/activity-auto-sync.md)
+* [Порог анаэробного обмена \(ПАНО\)](basics/lactate-threshold.md)
+* [Определение тренировочных зон](basics/intensity-zones.md)
+* [Типы тренировок](basics/activity-categories.md)
 
 ## Для спортсмена
 
