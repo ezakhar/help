@@ -26,7 +26,7 @@
 
 ## Важные настройки
 
-* [activity auto sync](settings/activity-auto-sync.md)
+* [Автоматическая загрузка тренировок](settings/activity-auto-sync.md)
 
 ## Для спортсмена
 
