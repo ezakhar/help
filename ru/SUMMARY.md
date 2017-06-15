@@ -27,6 +27,7 @@
 * [Как определить тренировочные зоны](basics/intensity-zones.md)
 * [Что такое Типы тренировок](basics/activity-categories.md)
 * [Какие показатели рассчитываются в Стаминити](basics/measures.md)
+* [Какая информация обо мне доступна другим](basics/privacy-settings.md)
 
 ## Для спортсмена
 
