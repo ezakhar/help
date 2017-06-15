@@ -67,7 +67,17 @@ staminity.com/user/[псевдоним]
 Подробнее см. статью в справке [“Как автоматически загружать тренировки”](/questions/activity-auto-sync.md)
 
 
-###Найти тренера и подключиться к нему{#findcoach}
+### Найти тренера и подключиться к нему {#startcoach}
+Для поиска тренера необходимо в левом меню выбрать пункт **"Поиск"** 
+![Staminity find coach](http://content.staminity.com/assets/images/settings/Find-coach.png)
+
+Запрос тренеру выполняется из его профиля.
+
+Необходимо перейти в профиль тренера из результатов поиска и нажать на "Начать тренироваться".
+
+![Staminity send request to coach](http://content.staminity.com/assets/images/StartCoaching_4.gif)
+
+Статус в профиле тренера "Заявка отправлена" покажет, что ваш запрос был адресован тренеру и ожидает его одобрения.
 
 
 
