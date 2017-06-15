@@ -1,13 +1,16 @@
 #Основы работы в Стаминити
 
 * [**Навигация в приложении**](/basics/navigation.md)
-* [**Первые шаги**](/basics/getting-started.md)
- * [Указать основную информацию о себе, которая будет отображаться в вашем профиле](/basics/getting-started.md#personalinfo)
- * [Проверить настройки приватности](/basics/getting-started.md#privacy)
- * [Настроить автоматическую загрузку фактических тренировок в Стаминити](/basics/getting-started.md#sync)
- * [Проверить настройки отображения](/basics/getting-started.md#show)
- * [Настроить границы тренировочных зон](/basics/intensity-zones.md)
+* [**С чего начать работу в сервисе**](/basics/getting-started.md)
+
+ * [Зарегистрироваться и войти в сервис](/basics/getting-started.md#signin)
+ * [Настроить профиль](/basics/getting-started.md#profile)
+ * [Настроить тренировочные зоны и пороги](/basics/getting-started.md#trainingzones)
+ * [Подключить автоматическую загрузку тренировок](/basics/getting-started.md#sync)
+ * [Найти и подключиться к тренеру](/basics/getting-started.md#startcoach)
  
+
+
 
 * [**Тренировочный календарь**](/basics/calendar.md)
  * [задания на тренировку](/basics/calendar.md#activities),
