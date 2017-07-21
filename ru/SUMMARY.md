@@ -48,7 +48,7 @@
 * [Управление членами клуба](clubs/club-management.md)
 * [Управление ролями в клубе](clubs/club-roles.md)
 * [Назначение тренеров для спортсменов клуба](clubs/coaches-and-athletes.md)
-* [Управление тарифными планами членов клуба](clubs/upravlenie-tarifnymi-planami-chlenov-kluba.md)
+* [Управление тарифными планами членов клуба](clubs/club-tariff-management.md)
 
 ## Тарифы и биллинг
 
