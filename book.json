@@ -4,10 +4,8 @@
 "-fontsettings",
 "-sharing",
 "algolia"],
-
 "pluginsConfig": 
-    {
-    "algolia": {
+    {"algolia": {
             "index": "help_gitbook_index",
             "applicationID": "9UOJN4UDUG",
             "publicKey": "1c6f214ea9ed39c498c9c532f00a440c",
