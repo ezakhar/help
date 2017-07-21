@@ -20,9 +20,9 @@
 * [Назначить спортсменов для выбранного тренера](/clubs/coaches-and-athletes.md#assignathletes)
 
 
-### [Управление тарифными планами членов клуба](/clubs/upravlenie-tarifnymi-planami-chlenov-kluba.md)
-* [Подключение тренерам клуба тарифа "Тренер" за счет клуба](#coachbyclub)
-* [Подключение спортсменам клуба тарифа "Премиум" за счет клуба](#premiumbyclub)
+### [Управление тарифными планами членов клуба](/clubs/club-tariff-management.md)
+* [Подключение тренерам клуба тарифа "Тренер" за счет клуба](/clubs/club-tariff-management.md#coachbyclub)
+* [Подключение спортсменам клуба тарифа "Премиум" за счет клуба](/clubs/club-tariff-management.md#premiumbyclub)
 
 
 
