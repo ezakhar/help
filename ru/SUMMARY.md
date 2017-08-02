@@ -53,4 +53,8 @@
 ## Тарифы и биллинг
 
 * [Тарифные планы Стаминити](tariffs/tariffs.md)
+* [Тариф "Базовый"](tariffs/basic.md)
+* [Тариф "Премиум"](tariffs/premium.md)
+* [Тариф "Тренер"](tariffs/coach.md)
+* [Тариф "Клуб"](tariffs/club.md)
 
