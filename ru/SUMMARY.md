@@ -7,6 +7,7 @@
 * [История обновлений](zakrytaya-beta/version-history.md)
 * [Известные ошибки](zakrytaya-beta/known-bugs.md)
 * [Возникла ошибка? Есть идея? ](zakrytaya-beta/support.md)
+* [Бета-версия для Андроид](zakrytaya-beta/beta-android.md)
 
 ## Основы работы в Стаминити
 
