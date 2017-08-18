@@ -55,7 +55,7 @@
 
 * [Тарифные планы Стаминити](tariffs/tariffs.md)
 * [Тариф "Базовый"](tariffs/basic.md)
-* [Тариф "Премиум"](tariffs/premium.md)
-* [Тариф "Тренер"](tariffs/coach.md)
-* [Тариф "Клуб"](tariffs/club.md)
+* [Тариф "Премиум"](tariffs/Premium.md)
+* [Тариф "Тренер"](tariffs/Coach.md)
+* [Тариф "Клуб"](tariffs/Club.md)
 
