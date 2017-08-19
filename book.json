@@ -2,7 +2,8 @@
 "plugins": [
 "theme-faq", 
 "-fontsettings",
-"-sharing"],
+"-sharing",
+"-lunr", "-search", "search-plus-mod"],
 "pluginsConfig": 
     {
     }      
