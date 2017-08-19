@@ -4,6 +4,7 @@
     "-fontsettings",
     "-sharing",
     "yametrika",
+    "ga",
     "analytics"
     ],
 "pluginsConfig": 
@@ -15,6 +16,9 @@
             "trackLinks": true,
             "accurateTrackBounce": true,
             "trackHash": true },
+    "ga": {
+            "token": "UA-86484345-3"
+        },
     "analytics": {
             "context": 
             [
