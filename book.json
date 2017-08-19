@@ -1,19 +1,30 @@
 {
-"plugins": [
-"theme-faq",
-"-fontsettings",
-"-sharing",
-"yametrika"
-],
+    "plugins": [
+    "theme-faq",
+    "-fontsettings",
+    "-sharing",
+    "yametrika",
+    "analytics"
+    ],
 "pluginsConfig": 
-    {
+        {
     "yametrika": {
             "id": 43090034,
             "webvisor": true,
             "clickmap": true,
             "trackLinks": true,
             "accurateTrackBounce": true,
-            "trackHash": true
-    }      
+            "trackHash": true },
+    "analytics": {
+            "context": 
+            [
+                    {
+                    "vendor": "google",
+                    "token": "UA-86484345-3",
+                    "base": ["https://help.staminity.com/ru", "https://help.staminity.com/en"]
+                    }
+            ]
+                }      
+        }
 }
 
