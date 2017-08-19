@@ -21,7 +21,7 @@
                     {
                     "vendor": "google",
                     "token": "UA-86484345-3",
-                    "base": ["https://help.staminity.com/ru", "https://help.staminity.com/en"]
+                    "base": "https://help.staminity.com"
                     }
             ]
                 }      
