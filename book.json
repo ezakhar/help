@@ -8,13 +8,12 @@
 "pluginsConfig": 
     {
     "yametrika": {
-            "id": 11111111,
+            "id": 43090034,
             "webvisor": true,
             "clickmap": true,
             "trackLinks": true,
             "accurateTrackBounce": true,
-            "trackHash": true,
-            "ut": "noindex"
+            "trackHash": true
     }      
 }
 
