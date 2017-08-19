@@ -1,7 +1,20 @@
 {
-"plugins": [],
+"plugins": [
+"theme-faq",
+"-fontsettings",
+"-sharing",
+"yametrika"
+],
 "pluginsConfig": 
     {
+    "yametrika": {
+            "id": 11111111,
+            "webvisor": true,
+            "clickmap": true,
+            "trackLinks": true,
+            "accurateTrackBounce": true,
+            "trackHash": true,
+            "ut": "noindex"
     }      
 }
 
