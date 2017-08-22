@@ -19,9 +19,10 @@
 * [Что такое ПАНО \(Порог анаэробного обмена\)](basics/lactate-threshold.md)
 * [Как определить тренировочные зоны](basics/intensity-zones.md)
 * [Что такое Типы тренировок](basics/activity-categories.md)
+* [Как управлять категориями тренировок](basics/categories.md)
 * [Какие показатели рассчитываются в Стаминити](basics/measures.md)
 * [Какая информация обо мне доступна другим](basics/privacy-settings.md)
-* [Возникла ошибка? Есть идея? ](zakrytaya-beta/support.md)
+* [Как управлять категориями тренировок](basics/categories.md)
 
 ## Для спортсмена
 
@@ -52,5 +53,6 @@
 * [Тариф "Клуб"](tariffs/Club.md)
 
 ## Бета-версии
+
 * [Бета-версия для Андроид](zakrytaya-beta/beta-android.md)
 
