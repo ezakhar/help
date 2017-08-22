@@ -1,5 +1,11 @@
 # Summary
 
+## Новости сервиса
+
+* [Бета-версия для Андроид](zakrytaya-beta/beta-android.md)
+* [История версий](zakrytaya-beta/version-history.md)
+* [Бета-версия для Андроид](zakrytaya-beta/beta-android.md)
+
 ## Основы работы в Стаминити
 
 * [Introduction](README.md)
@@ -51,8 +57,4 @@
 * [Тариф "Премиум"](tariffs/Premium.md)
 * [Тариф "Тренер"](tariffs/Coach.md)
 * [Тариф "Клуб"](tariffs/Club.md)
-
-## Бета-версии
-
-* [Бета-версия для Андроид](zakrytaya-beta/beta-android.md)
 
