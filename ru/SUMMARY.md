@@ -2,12 +2,12 @@
 
 ## Новости сервиса
 
+* [Introduction](README.md)
 * [История версий](zakrytaya-beta/version-history.md)
 * [Бета-версия для Андроид](zakrytaya-beta/beta-android.md)
 
 ## Основы работы в Стаминити
 
-* [Introduction](README.md)
 * [Основы работы в Стаминити](basics/basics.md)
 * [Навигация в приложении](basics/navigation.md)
 * [Тренировочный календарь](basics/calendar.md)
