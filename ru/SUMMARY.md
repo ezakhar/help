@@ -1,14 +1,5 @@
 # Summary
 
-## Бета
-
-* [Стадии бета-тестирования](zakrytaya-beta/chto-takoe-zakrytaya-beta.md)
-* [Что сделано, что в работе](zakrytaya-beta/status.md)
-* [История обновлений](zakrytaya-beta/version-history.md)
-* [Известные ошибки](zakrytaya-beta/known-bugs.md)
-* [Возникла ошибка? Есть идея? ](zakrytaya-beta/support.md)
-* [Бета-версия для Андроид](zakrytaya-beta/beta-android.md)
-
 ## Основы работы в Стаминити
 
 * [Introduction](README.md)
@@ -30,6 +21,7 @@
 * [Что такое Типы тренировок](basics/activity-categories.md)
 * [Какие показатели рассчитываются в Стаминити](basics/measures.md)
 * [Какая информация обо мне доступна другим](basics/privacy-settings.md)
+* [Возникла ошибка? Есть идея? ](zakrytaya-beta/support.md)
 
 ## Для спортсмена
 
@@ -58,4 +50,7 @@
 * [Тариф "Премиум"](tariffs/Premium.md)
 * [Тариф "Тренер"](tariffs/Coach.md)
 * [Тариф "Клуб"](tariffs/Club.md)
+
+## Бета-версии
+* [Бета-версия для Андроид](zakrytaya-beta/beta-android.md)
 
