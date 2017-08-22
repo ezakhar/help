@@ -2,7 +2,6 @@
 
 ## Новости сервиса
 
-* [Бета-версия для Андроид](zakrytaya-beta/beta-android.md)
 * [История версий](zakrytaya-beta/version-history.md)
 * [Бета-версия для Андроид](zakrytaya-beta/beta-android.md)
 
