@@ -23,7 +23,7 @@
 * [Как автоматически загружать тренировки](questions/activity-auto-sync.md)
 * [Что такое ПАНО \(Порог анаэробного обмена\)](basics/lactate-threshold.md)
 * [Как определить тренировочные зоны](basics/intensity-zones.md)
-* [Что такое Типы тренировок](basics/activity-categories.md)
+* [Какие категории тренировок есть в Стаминити](basics/activity-categories.md)
 * [Как управлять категориями тренировок](basics/categories.md)
 * [Какие показатели рассчитываются в Стаминити](basics/measures.md)
 * [Какая информация обо мне доступна другим](basics/privacy-settings.md)
