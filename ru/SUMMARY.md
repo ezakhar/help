@@ -48,7 +48,7 @@
 * [Назначение тренеров для спортсменов клуба](clubs/coaches-and-athletes.md)
 * [Управление тарифными планами членов клуба](clubs/club-tariff-management.md)
 
-## Тарифы и биллинг
+## Тарифные планы
 
 * [Тарифные планы Стаминити](tariffs/tariffs.md)
 * [Тариф "Базовый"](tariffs/basic.md)
