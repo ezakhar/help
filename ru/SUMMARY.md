@@ -55,4 +55,6 @@
 * [Тариф "Премиум"](tariffs/Premium.md)
 * [Тариф "Тренер"](tariffs/Coach.md)
 * [Тариф "Клуб"](tariffs/Club.md)
+* [Подключение тарифа](tariffs/purchase.md)
+* [bills](tariffs/bills.md)
 
