@@ -5,7 +5,7 @@
 * [Introduction](README.md)
 * [История версий](zakrytaya-beta/version-history.md)
 * [Бета-версия для Андроид](zakrytaya-beta/beta-android.md)
-* [new-tariffs-for-beta-users](new-tariffs-for-beta-users.md)
+* [Подключение тарифов для пользователей бета-версии](new-tariffs-for-beta-users.md)
 
 ## Основы работы в Стаминити
 
