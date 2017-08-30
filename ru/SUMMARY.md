@@ -5,6 +5,7 @@
 * [Introduction](README.md)
 * [История версий](zakrytaya-beta/version-history.md)
 * [Бета-версия для Андроид](zakrytaya-beta/beta-android.md)
+* [new-tariffs-for-beta-users](new-tariffs-for-beta-users.md)
 
 ## Основы работы в Стаминити
 
@@ -56,5 +57,5 @@
 * [Тариф "Тренер"](tariffs/Coach.md)
 * [Тариф "Клуб"](tariffs/Club.md)
 * [Подключение тарифа](tariffs/purchase.md)
-* [bills](tariffs/bills.md)
+* [Контроль начислений и оплата счетов](tariffs/bills.md)
 
