@@ -37,7 +37,7 @@
 3\) сохраните шаблон
 4) при необходимости проверьте, что шаблон появился в списке доступных шаблонов
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eUqBAQs1LKA?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="720" height="405" src="https://www.youtube.com/embed/eUqBAQs1LKA?rel=0" frameborder="0" allowfullscreen></iframe>
 
 Далее:
 
@@ -52,7 +52,7 @@
 3\) Нажать на кнопку "Создать шаблон",  
 4\) Заполнить параметры шаблона и сохранить его.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3MvF09Fepkg?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="720" height="405" src="https://www.youtube.com/embed/3MvF09Fepkg?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ### Запланировать тренировку по шаблону {#createsingleactivity}
 
@@ -68,7 +68,7 @@
 
 Тренировку по шаблону можно создать сразу для нескольких учеников. Это подойдет для случая, когда у вас занимается группа учеников по одному плану или вы проводите общие групповые тренировки.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CdPF1MPI-cc?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="720" height="405" src="https://www.youtube.com/embed/CdPF1MPI-cc?rel=0" frameborder="0" allowfullscreen></iframe>
 
 Для создания нескольких тренировок одновременно:
 1. Начните  создавать тренировку для одного спортсмена, как описано в разделе ["Запланировать тренировку по шаблону"](#createsingleactivity), в пунктах 1-3. **Не сохраняйте тренировку.**  
