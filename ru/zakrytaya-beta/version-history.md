@@ -1,5 +1,11 @@
 # История обновлений
 
+### v1.0.1\#164, 01.09.2017 {#release002}
+**(new) Добавили работу с шаблонами**
+Подробное описание:[Как использовать шаблоны тренировок](/basics/templates.md)
+
+<iframe width="720" height="405" src="https://www.youtube.com/embed/tnrZ6dzNQVk?rel=0" frameborder="0" allowfullscreen></iframe>
+
 
 ### v1.0.0\#007, 21.08.2017 {#release001}
 
