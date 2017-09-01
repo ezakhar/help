@@ -8,8 +8,6 @@
 
 Подробнее см. в специальном разделе: [Как использовать шаблоны тренировок](/basics/templates.md)
 
-
-
 <iframe width="720" height="405" src="https://www.youtube.com/embed/tnrZ6dzNQVk?rel=0" frameborder="0" allowfullscreen></iframe>
 
 
