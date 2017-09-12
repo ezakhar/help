@@ -6,6 +6,7 @@
 * [История версий](zakrytaya-beta/version-history.md)
 * [Бета-версия для Андроид](zakrytaya-beta/beta-android.md)
 * [Подключение тарифов для пользователей бета-версии](new-tariffs-for-beta-users.md)
+* [Акция! 20% скидка за отзыв](action-fall-2017.md)
 
 ## Основы работы в Стаминити
 
