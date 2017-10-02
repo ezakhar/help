@@ -45,7 +45,7 @@
 ## Для клуба
 
 * [Стаминити для клуба](clubs/staminity-for-clubs.md)
-* [Зачем нужен клуб](clubs/club.md)
+* [Зачем нужен клуб и как его создать в Стаминити](clubs/club.md)
 * [Управление членами клуба](clubs/club-management.md)
 * [Управление ролями в клубе](clubs/club-roles.md)
 * [Назначение тренеров для спортсменов клуба](clubs/coaches-and-athletes.md)
