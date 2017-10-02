@@ -3,7 +3,6 @@
 ### [Зачем нужен клуб](/clubs/club.md)
 * [Что такое клуб и зачем он нужен](/clubs/club.md#club)
 * [Как открыть клуб в Стаминити](/clubs/club.md#openclub)
-* [Профиль клуба ](/clubs/club.md#clubprofile)
 
 ### [Управление членами клуба](/clubs/club-management.md)
 * [Просмотр перечня членов клуба](/clubs/club-management.md#clubmembers)
