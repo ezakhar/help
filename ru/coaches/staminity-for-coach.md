@@ -6,6 +6,9 @@
 * [Стать тренером](/coaches/coaches-and-club-coaches.md#coach)
 * [Стать тренером в клубе](/coaches/coaches-and-club-coaches.md#clubcoach)
 
+### Профиль тренера
+* [Профиль тренера - его визитная карточка в Стаминити](/coaches/coach-profile.md)
+
 
 ### Управление спортсменами
 
