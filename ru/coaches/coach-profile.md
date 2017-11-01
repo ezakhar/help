@@ -9,10 +9,12 @@
 По информации в профиле пользователи сервиса смогут больше узнать о вас и о ваших услугах, отправить вам заявку на подключение.
 
 Заполненный профиль выделяет тренера визуально в поиске и помогает найти новых учеников:
-![](http://content.staminity.com/assets/images/coaching/find-coach.gif)
+![Найти тренера в Стаминити](http://content.staminity.com/assets/images/coaching/find-coach.gif)
 
 Сравните, как выглядят для пользователей сервиса заполненный и пустой профиль тренера:
-![](http://content.staminity.com/assets/images/coaching/compare-profiles.png)
+![Сравнение заполненного и пустого профиля тренера в Стаминити](http://content.staminity.com/assets/images/coaching/compare-profiles.png)
+
+Скоро тренеры с незаполненным профилем будут исключены из результатов поиска
 
 ###Как заполнить профиль{#how}
 
