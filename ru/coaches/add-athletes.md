@@ -11,11 +11,11 @@
 ###Отправить приглашение ученикам
 В реестре спортсменов необходимо выбрать функцию "Пригласить атлетов", заполнить Имя, Фамилию и адрес электронной почты учеников и отправить приглашение.
 
-![](https://content.staminity.com/assets/images/requests/invite_athletes.gif)
+![Пригласить учеников в Стаминити](https://content.staminity.com/assets/images/requests/invite_athletes.gif)
 
 Если ученики не зарегистрированы в Стаминити, им придет приглашение на указанный почтовый адрес. После регистрации ученики смогут принять запрос от вас:
  
-![](https://content.staminity.com/assets/images/requests/accept_inviteFromCoach.gif)
+![Принять запрос от тренера в Стаминити](https://content.staminity.com/assets/images/requests/accept_inviteFromCoach.gif)
 
 
 ###Принять запрос от учеников{#acceptrequest}
@@ -26,14 +26,14 @@
 Если в реестре входящих запросов есть неотвеченный запрос, их количество отображается на иконке реестра.
 
 Для принятия запроса необходимо открыть реестр запросов, выбрать запрос и нажать на кнопку "Принять". 
-![](http://content.staminity.com/assets/images/requests/accept_request.gif)
+![Принять запрос от ученика в Стаминити](http://content.staminity.com/assets/images/requests/accept_request.gif)
 
 После принятия запрос перемещается в раздел "История" реестра запросов с указанием статуса ![](http://content.staminity.com/assets/images/Accept_status.png) - принят.
 
 #####**Отклонить запрос от спортсмена**
 Поступивший от спортсмена запрос можно отклонить.
 Для отклонения запроса необходимо открыть реестр запросов, выбрать нужный запрос и нажать на кнопку "Отклонить".
-![](https://content.staminity.com/assets/images/requests/declineRequest.gif)
+![Отклонить запрос от ученика в Стаминити](https://content.staminity.com/assets/images/requests/declineRequest.gif)
 
 После отклонения запрос перемещается в раздел "История" реестра запросов с указанием статуса ![](http://content.staminity.com/assets/images/Decline_status.png) - отклонен.
 
