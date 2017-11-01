@@ -3,11 +3,14 @@
 ### Индивидуальные тренеры и тренеры в клубах
 
 * [Отличия индивидуальных тренеров и тренеров в клубах](/coaches/coaches-and-club-coaches.md#coachtypes)
-* [Стать тренером](/coaches/coaches-and-club-coaches.md#coach)
-* [Стать тренером в клубе](/coaches/coaches-and-club-coaches.md#clubcoach)
+* [Как стать тренером](/coaches/coaches-and-club-coaches.md#coach)
+* [Как стать тренером в клубе](/coaches/coaches-and-club-coaches.md#clubcoach)
 
 ### Профиль тренера
 * [Профиль тренера - его визитная карточка в Стаминити](/coaches/coach-profile.md)
+
+### Как подключить учеников в Стаминити
+
 
 
 ### Управление спортсменами
