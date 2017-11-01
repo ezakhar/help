@@ -31,6 +31,7 @@
 * [Какие показатели рассчитываются в Стаминити](basics/measures.md)
 * [Какая информация обо мне доступна другим](basics/privacy-settings.md)
 * [Как использовать шаблоны тренировок](basics/templates.md)
+* [Как управлять запросами](basics/kak-upravlyat-zaprosami.md)
 
 ## Для спортсмена
 
