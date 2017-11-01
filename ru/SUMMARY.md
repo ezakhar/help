@@ -42,6 +42,7 @@
 * [Стаминити для тренера](coaches/staminity-for-coach.md)
 * [Индивидуальные тренеры и тренеры в клубе](coaches/coaches-and-club-coaches.md)
 * [Профиль тренера - ваша визитная карточка в сервисе](coaches/coach-profile.md)
+* [Подключить спортсменов](coaches/add-athletes.md)
 * [Управление спортсменами](coaches/athlete-management.md)
 
 ## Для клуба
