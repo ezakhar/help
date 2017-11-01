@@ -6,7 +6,7 @@
 ### Первые шаги в сервисе
 * [Заполнить профиль](/basics/getting-started.md#personalinfo)
 * [Проверить настройки приватности](/basics/getting-started.md#privacy)
-* [Настроить автоматическую загрузку фактических тренировок в Стаминити](/basics/getting-started.md#sync)
+* [Настроить автоматическую загрузку фактических тренировок в Стаминити](/questions/activity-auto-sync.html)
 * [Проверить настройки отображения](/basics/getting-started.md#show)
 * [Настроить границы тренировочных зон и ПАНО](/basics/getting-started.md#trainingzones)
 
