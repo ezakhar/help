@@ -11,12 +11,9 @@
 * [Настроить границы тренировочных зон и ПАНО](/basics/getting-started.md#trainingzones)
 
 ### Подключиться к тренеру или клубу
-
-* [Индивидуальные тренеры и тренерские клубы](/athletes/coach-club-connection.md#coachtypes)
+* [Принять приглашение от тренера или клуба](/athletes/coach-club-connection.md#invite)
 * [Отправить запрос тренеру](/athletes/coach-club-connection.md#startcoach)
 * [Отправить запрос на вступление в клуб](/athletes/coach-club-connection.md#clubcoaching)
-* [Просмотреть статус запроса](/athletes/coach-club-connection.md#requeststatus)
-* [Отменить отправленный запрос](/athletes/coach-club-connection.md#cancelrequest)
 
 ### Просмотреть тренировочный календарь
 * [Просмотреть задания на тренировку](/basics/calendar.md#activities),
