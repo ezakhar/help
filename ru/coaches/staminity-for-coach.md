@@ -10,18 +10,20 @@
 * [Профиль тренера - его визитная карточка в Стаминити](/coaches/coach-profile.md)
 
 ### Как подключить учеников в Стаминити
+Возможны два способа подключиться к ученикам:
+* [Отправить приглашение ученикам](/coaches/add-athletes.md#inviteathletes)
+* [Принять запрос от учеников](/coaches/add-athletes.md#acceptrequest). 
+
 
 
 
 ### Управление спортсменами
 
 * **Для индивидуальных тренеров**
-  * [Принять запрос от спортсмена](/coaches/athlete-management.md#acceptrequest)
-  * [Отклонить запрос от спортсмена](/coaches/athlete-management.md#declinerequest)
-  * [Просмотреть перечень спортсменов](/coaches/athlete-management.md#athletelist)
-  * [Отключить спортсмена](/coaches/athlete-management.md#removeathlete)
-  * [Подключить спортсмену тариф Премиум](/coaches/athlete-management.md#addpremium)
-
+  * [Просмотреть перечень учеников](/coaches/athlete-management.md#athletelist)
+  * [Отключить ученика](/coaches/athlete-management.md#removeathlete)
+  * [Подключить ученику тариф "Премиум"](/coaches/athlete-management.md#addpremium)
+  * [Отключить ученику тариф "Премиум"](/coaches/athlete-management.md#removepremium)
   
 * **Для тренеров в клубе**
   * [Просмотреть перечень спортсменов](/coaches/athlete-management.md#athletelist)
