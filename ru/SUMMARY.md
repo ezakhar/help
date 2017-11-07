@@ -32,7 +32,7 @@
 * [Какая информация обо мне доступна другим](basics/privacy-settings.md)
 * [Как использовать шаблоны тренировок](basics/templates.md)
 * [Как управлять запросами](basics/kak-upravlyat-zaprosami.md)
-* [calendar-subscription-ical](basics/calendar-subscription-ical.md)
+* [Как настроить подписку на календарь \(iCal\)](basics/calendar-subscription-ical.md)
 
 ## Для спортсмена
 
