@@ -13,7 +13,7 @@
 ![Тренировка из Стаминити в Google Calendar](http://content.staminity.com/assets/images/calendar-ical/activity-compare-2.png)
 
 
-Для структурированных тренировок мы покажем вам задание от тренера текстом:
+Для структурированных тренировок план от тренера мы покажем текстом:
 ![Тренировка из Стаминити в Google Calendar](http://content.staminity.com/assets/images/calendar-ical/activity-compare-1.png)
 
 ###Как настроить подписку на ваш календарь плановых тренировок
