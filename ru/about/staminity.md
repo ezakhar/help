@@ -11,6 +11,7 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y_H-ffsqMT8" frameborder="0" allowfullscreen></iframe>
 
+{% youtube %}Y_H-ffsqMT8{% endyoutube %}
 
 #Основные возможности системы
 
