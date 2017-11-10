@@ -4,6 +4,7 @@
 
 * [Introduction](README.md)
 * [Что такое Стаминити](about/staminity.md)
+* [С чего начать. Для спортсмена](about/first-steps-athlete.md)
 
 ## Основы работы в Стаминити
 
@@ -17,7 +18,6 @@
 
 ## Ответы на вопросы
 
-* [С чего начать работу в Стаминити](basics/getting-started.md)
 * [Как работать с мобильных устройств](basics/staminity-for-mobile.md)
 * [Как автоматически загружать тренировки](questions/activity-auto-sync.md)
 * [Что такое ПАНО \(Порог анаэробного обмена\)](basics/lactate-threshold.md)
@@ -32,7 +32,6 @@
 
 ## Для спортсмена
 
-* [С чего начать. Для спортсмена](about/first-steps-athlete.md)
 * [Стаминити для спортсмена](athletes/staminity-for-athlete.md)
 * [Подключиться к тренеру или клубу](athletes/coach-club-connection.md)
 
