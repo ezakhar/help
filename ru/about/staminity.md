@@ -24,8 +24,9 @@
 
 * Свои шаблоны и категории тренировок:
 
-<iframe width="768" height="430" src="https://www.youtube.com/embed/tnrZ6dzNQVk" frameborder="0" allowfullscreen></iframe>
-
+<div style="width: 100%; max-width: 760px">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tnrZ6dzNQVk" frameborder="0" allowfullscreen></iframe>
+</div>
 
 * Сравнение план/факт и общение с тренером в каждой тренировке:
 ![](http://content.staminity.com/assets/images/about/activity-plan-and-fact.png)
