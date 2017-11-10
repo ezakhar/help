@@ -21,7 +21,7 @@
 
 * Свои шаблоны и категории тренировок:
 
-<iframe width="768" height="430" src="https://www.youtube.com/watch?v=tnrZ6dzNQVk" frameborder="0" allowfullscreen></iframe>
+<iframe width="768" height="430" src="https://www.youtube.com/embed/tnrZ6dzNQVk" frameborder="0" allowfullscreen></iframe>
 
 * Сравнение план/факт и общение с тренером в каждой тренировке:
 ![](http://content.staminity.com/assets/images/about/activity-plan-and-fact.png)
@@ -31,7 +31,7 @@
 
 * Аналитика тренировочного процесса для себя, для каждого ученика и сравненительный анализ учеников (для тренера):
 
-<iframe width="768" height="430" src="https://www.youtube.com/watch?v=AxLKeMMTn2Q" frameborder="0" allowfullscreen></iframe>
+<iframe width="768" height="430" src="https://www.youtube.com/embed/AxLKeMMTn2Q" frameborder="0" allowfullscreen></iframe>
 
 ###Специально для тренера
 
@@ -43,7 +43,7 @@
 
 * Быстрое создание тренировок по шаблонам для одного или нескольких учеников:
 
-<iframe width="768" height="430" src="https://www.youtube.com/watch?v=CdPF1MPI-cc" frameborder="0" allowfullscreen></iframe>
+<iframe width="768" height="430" src="https://www.youtube.com/embed/CdPF1MPI-cc" frameborder="0" allowfullscreen></iframe>
 
 * Управление учениками
 
