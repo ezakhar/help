@@ -15,7 +15,7 @@
 * [Создать плановую тренировку](basics/create-plan-activity.md)
 * [Выполнить тренировку](basics/complete-activity.md)
 * [Проанализировать выполненную тренировку](basics/analyse-detailed-activity.md)
-* [\(CКОРО\)Проанализировать выполненную структурированную тренировку](basics/analyse-detailed-structured-activity.md)
+* [Проанализировать выполненную структурированную тренировку](basics/analyse-detailed-structured-activity.md)
 
 ## Для спортсмена
 
