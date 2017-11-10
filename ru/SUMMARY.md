@@ -15,6 +15,21 @@
 * [Проанализировать выполненную тренировку](basics/analyse-detailed-activity.md)
 * [Проанализировать выполненную структурированную тренировку](basics/analyse-detailed-structured-activity.md)
 
+## Ответы на вопросы
+
+* [С чего начать работу в Стаминити](basics/getting-started.md)
+* [Как работать с мобильных устройств](basics/staminity-for-mobile.md)
+* [Как автоматически загружать тренировки](questions/activity-auto-sync.md)
+* [Что такое ПАНО \(Порог анаэробного обмена\)](basics/lactate-threshold.md)
+* [Как определить тренировочные зоны](basics/intensity-zones.md)
+* [Какие категории тренировок есть в Стаминити](basics/activity-categories.md)
+* [Как управлять категориями тренировок](basics/categories.md)
+* [Какие показатели рассчитываются в Стаминити](basics/measures.md)
+* [Какая информация обо мне доступна другим](basics/privacy-settings.md)
+* [Как использовать шаблоны тренировок](basics/templates.md)
+* [Как управлять запросами](basics/kak-upravlyat-zaprosami.md)
+* [Как настроить подписку на календарь \(iCal\)](basics/calendar-subscription-ical.md)
+
 ## Для спортсмена
 
 * [С чего начать. Для спортсмена](about/first-steps-athlete.md)
@@ -39,21 +54,6 @@
 * [Управление ролями в клубе](clubs/club-roles.md)
 * [Назначение тренеров для спортсменов клуба](clubs/coaches-and-athletes.md)
 * [Управление тарифными планами членов клуба](clubs/club-tariff-management.md)
-
-## Ответы на вопросы
-
-* [С чего начать работу в Стаминити](basics/getting-started.md)
-* [Как работать с мобильных устройств](basics/staminity-for-mobile.md)
-* [Как автоматически загружать тренировки](questions/activity-auto-sync.md)
-* [Что такое ПАНО \(Порог анаэробного обмена\)](basics/lactate-threshold.md)
-* [Как определить тренировочные зоны](basics/intensity-zones.md)
-* [Какие категории тренировок есть в Стаминити](basics/activity-categories.md)
-* [Как управлять категориями тренировок](basics/categories.md)
-* [Какие показатели рассчитываются в Стаминити](basics/measures.md)
-* [Какая информация обо мне доступна другим](basics/privacy-settings.md)
-* [Как использовать шаблоны тренировок](basics/templates.md)
-* [Как управлять запросами](basics/kak-upravlyat-zaprosami.md)
-* [Как настроить подписку на календарь \(iCal\)](basics/calendar-subscription-ical.md)
 
 ## Новости сервиса
 
