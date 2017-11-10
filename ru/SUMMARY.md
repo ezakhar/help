@@ -4,7 +4,10 @@
 
 * [Introduction](README.md)
 * [Что такое Стаминити](about/staminity.md)
+* [С чего начать работу в сервисе](basics/getting-started.md)
+
 * [С чего начать. Для спортсмена](about/first-steps-athlete.md)
+* [С чего начать. Для тренера](about/first-steps-coach.md)
 
 ## Основы работы в Стаминити
 
@@ -37,7 +40,6 @@
 
 ## Для тренера
 
-* [С чего начать. Для тренера](about/first-steps-coach.md)
 * [Стаминити для тренера](coaches/staminity-for-coach.md)
 * [Индивидуальные тренеры и тренеры в клубе](coaches/coaches-and-club-coaches.md)
 * [Профиль тренера - ваша визитная карточка в сервисе](coaches/coach-profile.md)
