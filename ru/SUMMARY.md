@@ -9,6 +9,13 @@
 * [Подключение тарифов для пользователей бета-версии](new-tariffs-for-beta-users.md)
 * [Акция! 20% скидка за отзыв](action-fall-2017.md)
 
+## О сервисе
+
+* [Что такое Стаминити](about/staminity.md)
+* С чего начать. Для спортсмена
+* [С чего начать. Для тренера](about/s-chego-nachat-dlya-kluba.md)
+* [С чего начать. Для клуба](about/staminity/first-steps-club.md)
+
 ## Основы работы в Стаминити
 
 * [Основы работы в Стаминити](basics/basics.md)
