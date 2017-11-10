@@ -26,6 +26,7 @@
 
 <iframe width="768" height="430" src="https://www.youtube.com/embed/tnrZ6dzNQVk" frameborder="0" allowfullscreen></iframe>
 
+
 * Сравнение план/факт и общение с тренером в каждой тренировке:
 ![](http://content.staminity.com/assets/images/about/activity-plan-and-fact.png)
 
