@@ -9,7 +9,7 @@
 * **Для клубов** – Помогаем управлять клубом
 
 
-<iframe max-width="100% !important" width="auto !important" height="auto !important" src="https://www.youtube.com/embed/Y_H-ffsqMT8" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y_H-ffsqMT8" frameborder="0" allowfullscreen></iframe>
 
 
 #Основные возможности системы
@@ -24,7 +24,7 @@
 
 * Свои шаблоны и категории тренировок:
 
-<div style="width: 100%; max-width: 760px">
+<div class="intrinsic-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tnrZ6dzNQVk" frameborder="0" allowfullscreen></iframe>
 </div>
 
