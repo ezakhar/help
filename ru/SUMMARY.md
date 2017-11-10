@@ -5,8 +5,9 @@
 * [Introduction](README.md)
 * [Что такое Стаминити](about/staminity.md)
 * [С чего начать работу в сервисе](basics/getting-started.md)
-* [С чего начать. Для спортсмена](about/first-steps-athlete.md)
-* [С чего начать. Для тренера](about/first-steps-coach.md)
+* [Стаминити для спортсмена](athletes/staminity-for-athlete.md)
+* [Стаминити для тренера](coaches/staminity-for-coach.md)
+* [Стаминити для клуба](clubs/staminity-for-clubs.md)
 
 ## Основы работы в Стаминити
 
@@ -34,12 +35,10 @@
 
 ## Для спортсмена
 
-* [Стаминити для спортсмена](athletes/staminity-for-athlete.md)
 * [Подключиться к тренеру или клубу](athletes/coach-club-connection.md)
 
 ## Для тренера
 
-* [Стаминити для тренера](coaches/staminity-for-coach.md)
 * [Индивидуальные тренеры и тренеры в клубе](coaches/coaches-and-club-coaches.md)
 * [Профиль тренера - ваша визитная карточка в сервисе](coaches/coach-profile.md)
 * [Подключить учеников](coaches/add-athletes.md)
@@ -47,8 +46,6 @@
 
 ## Для клуба
 
-* [С чего начать. Для клуба](about/first-steps-club.md)
-* [Стаминити для клуба](clubs/staminity-for-clubs.md)
 * [Зачем нужен клуб и как его создать в Стаминити](clubs/club.md)
 * [Управление членами клуба](clubs/club-management.md)
 * [Управление ролями в клубе](clubs/club-roles.md)
