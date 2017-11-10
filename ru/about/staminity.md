@@ -9,7 +9,7 @@
 * **Для клубов** – Помогаем управлять клубом
 
 
-<iframe width="700" height="400" src="https://www.youtube.com/embed/Y_H-ffsqMT8" frameborder="0" allowfullscreen></iframe>
+<iframe width="768" height="430" src="https://www.youtube.com/embed/Y_H-ffsqMT8" frameborder="0" allowfullscreen></iframe>
 
 #Основные возможности системы
 
@@ -20,7 +20,7 @@
 ![](http://content.staminity.com/assets/images/about/two-activity-type.png)
 
 * Свои шаблоны и категории тренировок:
-<iframe width="700" height="400" src="https://www.youtube.com/watch?v=tnrZ6dzNQVk" frameborder="0" allowfullscreen></iframe>
+<iframe width="768" height="430" src="https://www.youtube.com/watch?v=tnrZ6dzNQVk" frameborder="0" allowfullscreen></iframe>
 
 * Сравнение план/факт и общение с тренером в каждой тренировке:
 ![](http://content.staminity.com/assets/images/about/activity-plan-and-fact.png)
@@ -29,7 +29,7 @@
 ![](http://content.staminity.com/assets/images/about/activity-details.png)
 
 * Аналитика тренировочного процесса для себя, для каждого ученика и сравненительный анализ учеников (для тренера):
-<iframe width="700" height="400" src="https://www.youtube.com/watch?v=AxLKeMMTn2Q" frameborder="0" allowfullscreen></iframe>
+<iframe width="768" height="430" src="https://www.youtube.com/watch?v=AxLKeMMTn2Q" frameborder="0" allowfullscreen></iframe>
 
 ###Специально для тренера
 
@@ -40,7 +40,7 @@
 ![](http://content.staminity.com/assets/images/about/copy-paste.gif)
 
 * Быстрое создание тренировок по шаблонам для одного или нескольких учеников:
-<iframe width="700" height="400" src="https://www.youtube.com/watch?v=CdPF1MPI-cc" frameborder="0" allowfullscreen></iframe>
+<iframe width="768" height="430" src="https://www.youtube.com/watch?v=CdPF1MPI-cc" frameborder="0" allowfullscreen></iframe>
 
 * Управление учениками
 
