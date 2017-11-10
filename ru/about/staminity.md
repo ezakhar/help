@@ -11,10 +11,13 @@
 
 <iframe width="768" height="430" src="https://www.youtube.com/embed/Y_H-ffsqMT8" frameborder="0" allowfullscreen></iframe>
 
+
 #Основные возможности системы
 
 * Дневник выполненных тренировок и план от тренера в одном календаре:
 ![](http://content.staminity.com/assets/images/about/calendar-view.png)
+
+* [автоматическая загрузка](/questions/activity-auto-sync.md) выполненных тренировок и сопоставление с планом
 
 * Два вида плановых заданий, в целом на тренировку и по отдельным тренировочным сегментам:
 ![](http://content.staminity.com/assets/images/about/two-activity-type.png)
@@ -29,7 +32,13 @@
 * Детальный анализ каждой тренировки: 
 ![](http://content.staminity.com/assets/images/about/activity-details.png)
 
-* Аналитика тренировочного процесса для себя, для каждого ученика и сравненительный анализ учеников (для тренера):
+* Анализ выполнения задания по сегментам, в процентах от ПАНО: 
+![](http://content.staminity.com/assets/images/about/activity-structured.png)
+
+* Анализ плавания:
+![](http://content.staminity.com/assets/images/about/activity-swim.png)
+
+* Аналитика тренировочного процесса для себя, для каждого ученика и сравнительный анализ учеников (для тренера):
 
 <iframe width="768" height="430" src="https://www.youtube.com/embed/AxLKeMMTn2Q" frameborder="0" allowfullscreen></iframe>
 
@@ -45,6 +54,12 @@
 
 <iframe width="768" height="430" src="https://www.youtube.com/embed/CdPF1MPI-cc" frameborder="0" allowfullscreen></iframe>
 
+* [Скоро] Создание учебных материалов по тренировочному процессу:
+![](http://content.staminity.com/assets/images/about/record-foods.png)
+
+* [Скоро] Задания с фото и видео упражнений:
+![](http://content.staminity.com/assets/images/about/records-video.png)
+
 * Управление учениками
 
 ###Специально для клуба
@@ -59,5 +74,4 @@
 * поиск тренера или клуба:
 ![](http://content.staminity.com/assets/images/about/find-coach.png)
 
-* [автоматическая загрузка](/questions/activity-auto-sync.md) выполненных тренировок и сопоставление с планом
 * настройка [тренировочных зон и ПАНО](/basics/intensity-zones.md) для себя или для учеников по видам спорта и показателям интенсивности
