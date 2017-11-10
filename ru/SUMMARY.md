@@ -5,7 +5,6 @@
 * [Introduction](README.md)
 * [Что такое Стаминити](about/staminity.md)
 * [С чего начать работу в сервисе](basics/getting-started.md)
-
 * [С чего начать. Для спортсмена](about/first-steps-athlete.md)
 * [С чего начать. Для тренера](about/first-steps-coach.md)
 
