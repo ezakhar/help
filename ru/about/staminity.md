@@ -34,7 +34,7 @@
 ![](http://content.staminity.com/assets/images/about/activity-details.png)
 
 * Анализ выполнения задания по сегментам, в процентах от ПАНО: 
-![](http://content.staminity.com/assets/images/about/activity-structured.png)
+![](http://content.staminity.com/assets/images/about/activity-structured2.png)
 
 * Анализ плавания:
 ![](http://content.staminity.com/assets/images/about/activity-swim.png)
