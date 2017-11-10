@@ -23,9 +23,9 @@
 
 * Свои шаблоны и категории тренировок:
 
-<div class="intrinsic-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tnrZ6dzNQVk" frameborder="0" allowfullscreen></iframe>
-</div>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/tnrZ6dzNQVk' frameborder='0' allowfullscreen></iframe></div>
+
+
 
 * Сравнение план/факт и общение с тренером в каждой тренировке:
 ![](http://content.staminity.com/assets/images/about/activity-plan-and-fact.png)
@@ -41,7 +41,10 @@
 
 * Аналитика тренировочного процесса для себя, для каждого ученика и сравнительный анализ учеников (для тренера):
 
-<iframe width="768" height="430" src="https://www.youtube.com/embed/AxLKeMMTn2Q" frameborder="0" allowfullscreen></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/AxLKeMMTn2Q' frameborder='0' allowfullscreen></iframe></div>
+
+* поиск тренера или клуба:
+![](http://content.staminity.com/assets/images/about/find-coach.png)
 
 ###Специально для тренера
 
@@ -53,7 +56,9 @@
 
 * Быстрое создание тренировок по шаблонам для одного или нескольких учеников:
 
-<iframe width="768" height="430" src="https://www.youtube.com/embed/CdPF1MPI-cc" frameborder="0" allowfullscreen></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/CdPF1MPI-cc' frameborder='0' allowfullscreen></iframe></div>
+
+* настройка [тренировочных зон и ПАНО](/basics/intensity-zones.md) для себя или для учеников по видам спорта и показателям интенсивности
 
 * [Скоро] Создание учебных материалов по тренировочному процессу:
 ![](http://content.staminity.com/assets/images/about/record-foods.png)
@@ -71,8 +76,14 @@
 ![](http://content.staminity.com/assets/images/image.png)
 
 
-###А также:
-* поиск тренера или клуба:
-![](http://content.staminity.com/assets/images/about/find-coach.png)
+#Можно работать с компьютера и [смартфона](/basics/staminity-for-mobile.md)
 
-* настройка [тренировочных зон и ПАНО](/basics/intensity-zones.md) для себя или для учеников по видам спорта и показателям интенсивности
+![Стаминити для компьютера и смартфона](http://content.staminity.com/assets/images/mobile-pwa/Desktop-and-mobile2.png)
+
+#Есть вопросы? Нужна помощь?
+
+Обращайтесь к нам по любым вопросам, которые у вас возникают при работе в сервисе.  Мы на связи:
+* Написать в телеграм: [https://t.me/staminity_support](https://t.me/staminity_support)
+* Оставить обращение на портале поддержки: [support.staminity.com](http://support.staminity.com)
+* Написать по почте: [mail@staminity.com](mailto:mail@staminity.com)
+* Задать вопрос на странице в [Facebook](https://facebook.com/staminity) или [Вконтакте](https://vk.com/staminity)
