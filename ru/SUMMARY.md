@@ -2,10 +2,11 @@
 
 ## О сервисе
 
+* [Introduction](README.md)
 * [Что такое Стаминити](about/staminity.md)
-* С чего начать. Для спортсмена
-* [С чего начать. Для тренера](about/s-chego-nachat-dlya-kluba.md)
-* [С чего начать. Для клуба](about/staminity/first-steps-club.md)
+* [С чего начать. Для спортсмена](about/first-steps-athlete.md)
+* [С чего начать. Для тренера](about/first-steps-coach.md)
+* [С чего начать. Для клуба](about/first-steps-club.md)
 
 ## Основы работы в Стаминити
 
@@ -56,7 +57,6 @@
 
 ## Новости сервиса
 
-* [Introduction](README.md)
 * [История версий](zakrytaya-beta/version-history.md)
 * [Бета-версия для Андроид](zakrytaya-beta/beta-android.md)
 * [Бета-версия для iPhone](beta-ios.md)
