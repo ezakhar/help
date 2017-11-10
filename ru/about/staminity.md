@@ -9,7 +9,7 @@
 * **Для клубов** – Помогаем управлять клубом
 
 
-<iframe width="768" height="430" src="https://www.youtube.com/embed/Y_H-ffsqMT8" frameborder="0" allowfullscreen></iframe>
+<iframe max-width="100% !important" width="auto !important" height="auto !important" src="https://www.youtube.com/embed/Y_H-ffsqMT8" frameborder="0" allowfullscreen></iframe>
 
 
 #Основные возможности системы
