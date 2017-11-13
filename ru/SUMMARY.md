@@ -11,7 +11,6 @@
 
 ## Основы работы в Стаминити
 
-* [Основы работы в Стаминити](basics/basics.md)
 * [Навигация в приложении](basics/navigation.md)
 * [Тренировочный календарь](basics/calendar.md)
 * [Создать плановую тренировку](basics/create-plan-activity.md)
