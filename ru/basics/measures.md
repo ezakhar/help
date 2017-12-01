@@ -26,7 +26,6 @@
 
 > Если в настройках не указан пол, рост и вес, расчет производится для 30-летнего мужчины весом 70 кг.
 
-
 Источники:
 * Braydenwm.com: Calories and Power as a Function of Heart Rate (http://www.braydenwm.com/calburn.htm)
 - Journal of Sports Sciences: Prediction of Energy Expenditure (http://www.braydenwm.com/cal_vs_hr_ref_paper.pdf)
