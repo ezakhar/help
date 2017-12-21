@@ -1,5 +1,32 @@
 # История обновлений
 
+### v1.4, 15.11.2017 {#release006}
+* **(new) Добавлена работа с событиями**
+
+События - записи о фактически произошедшем или запланированном событии , важном для тренировочного процесса. Примеры событий: день отдыха, недомогание, перелёт, диета, витамины и добавки и т.п
+Можно планировать одиночные и повторяющиеся события, ежедневные, еженедельные, ежемесячные и т.п. Подробнее: 
+https://help.staminity.com/ru/basics/create-record.html#record
+
+### v1.3, 07.11.2017 {#release005}
+* **(new) Настройка уведомлений, уведомления по почте**
+Добавлена рассылка уведомлений по почте и настройка уведомлений. Теперь можно  выбрать, что вы хотите видеть в программе, о чем узнавать по почте, а что получать на свой мобильный телефон. 
+
+* **(new) Экспорт тренировок во внешние календари**
+Ваш календарь тренировок теперь доступен в Google calendar, Apple iCal, Microsoft Outlook и других приложениях, поддерживающих внешние календари в формате iCal. Подробнее: https://help.staminity.com/ru/basics/calendar-subscription-ical.html
+
+
+### v1.2, 18.10.2017 {#release004}
+* (**new) Добавлен блок "Отчетность и аналитика"**
+Интерактивные аналитические отчеты по тренировочному процессу теперь доступны всем пользователям:  
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/AxLKeMMTn2Q' frameborder='0' allowfullscreen></iframe></div>
+
+
+### v1.1, 13.09.2017 {#release003}
+* **(new) Добавлены структурированные тренировки**
+Теперь можно планировать тренировочные задания по отдельным сегментам:  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LGEj_hVFpHs" frameborder="0" allowfullscreen></iframe>
+
+
 ### v1.0.1\#167, 01.09.2017 {#release002}
 **(new) Добавлена работа с шаблонами**:
 * Создание шаблона из любой тренировки или ввод вручную
