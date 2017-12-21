@@ -18,6 +18,7 @@
 * [Проанализировать выполненную тренировку](basics/analyse-detailed-activity.md)
 * [Проанализировать выполненную структурированную тренировку](basics/analyse-detailed-structured-activity.md)
 * [Создать событие, измерение, соревнование](basics/create-record.md)
+* [season-plan](basics/season-plan.md)
 
 ## Ответы на вопросы
 
