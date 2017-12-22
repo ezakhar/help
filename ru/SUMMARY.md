@@ -22,19 +22,20 @@
 
 ## methodology
 
+* [about](basics/about.md)
+* [Что такое ПАНО \(Порог анаэробного обмена\)](basics/lactate-threshold.md)
+* [Как определить тренировочные зоны](basics/intensity-zones.md)
 * [periodisation-schemes](methodology/periodisation-schemes.md)
+* [Какие категории тренировок есть в Стаминити](basics/activity-categories.md)
+* [Как управлять категориями тренировок](basics/categories.md)
+* [Как использовать шаблоны тренировок](basics/templates.md)
+* [Какие показатели рассчитываются в Стаминити](basics/measures.md)
 
 ## Ответы на вопросы
 
 * [Как работать с мобильных устройств](basics/staminity-for-mobile.md)
 * [Как автоматически загружать тренировки](questions/activity-auto-sync.md)
-* [Что такое ПАНО \(Порог анаэробного обмена\)](basics/lactate-threshold.md)
-* [Как определить тренировочные зоны](basics/intensity-zones.md)
-* [Какие категории тренировок есть в Стаминити](basics/activity-categories.md)
-* [Как управлять категориями тренировок](basics/categories.md)
-* [Какие показатели рассчитываются в Стаминити](basics/measures.md)
 * [Какая информация обо мне доступна другим](basics/privacy-settings.md)
-* [Как использовать шаблоны тренировок](basics/templates.md)
 * [Как управлять запросами](basics/kak-upravlyat-zaprosami.md)
 * [Как настроить подписку на календарь \(iCal\)](basics/calendar-subscription-ical.md)
 
