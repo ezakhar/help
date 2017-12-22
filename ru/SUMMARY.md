@@ -20,6 +20,10 @@
 * [Создать событие, измерение, соревнование](basics/create-record.md)
 * [season-plan](basics/season-plan.md)
 
+## methodology
+
+* [periodisation-schemes](methodology/periodisation-schemes.md)
+
 ## Ответы на вопросы
 
 * [Как работать с мобильных устройств](basics/staminity-for-mobile.md)
