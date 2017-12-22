@@ -21,16 +21,20 @@
 * [Соревнования](basics/competition.md)
 * [План на сезон](basics/season-plan.md)
 
-## methodology
+## Методология
 
-* [about](basics/about.md)
-* [Что такое ПАНО \(Порог анаэробного обмена\)](basics/lactate-threshold.md)
-* [Как определить тренировочные зоны](basics/intensity-zones.md)
+* [Методология](basics/about.md)
 * [Схемы периодизации](methodology/periodisation-schemes.md)
 * [Категории тренировок](basics/categories.md)
 * [Описание системных категорий тренировок](basics/activity-categories.md)
-* [Как использовать шаблоны тренировок](basics/templates.md)
-* [Какие показатели рассчитываются в Стаминити](basics/measures.md)
+* [Шаблоны тренировок](basics/templates.md)
+* [Рассчитываемые показатели в Стаминити](basics/measures.md)
+
+## settings
+
+* [about](settings/about.md)
+* [Тренировочные зоны](basics/intensity-zones.md)
+* [Что такое ПАНО \(Порог анаэробного обмена\)](basics/lactate-threshold.md)
 
 ## Ответы на вопросы
 
