@@ -33,16 +33,16 @@
 ## settings
 
 * [about](settings/about.md)
+* [Как автоматически загружать тренировки](questions/activity-auto-sync.md)
 * [Тренировочные зоны](basics/intensity-zones.md)
 * [Что такое ПАНО \(Порог анаэробного обмена\)](basics/lactate-threshold.md)
+* [Как настроить подписку на календарь \(iCal\)](basics/calendar-subscription-ical.md)
 
 ## Ответы на вопросы
 
 * [Как работать с мобильных устройств](basics/staminity-for-mobile.md)
-* [Как автоматически загружать тренировки](questions/activity-auto-sync.md)
 * [Какая информация обо мне доступна другим](basics/privacy-settings.md)
 * [Как управлять запросами](basics/kak-upravlyat-zaprosami.md)
-* [Как настроить подписку на календарь \(iCal\)](basics/calendar-subscription-ical.md)
 
 ## Для спортсмена
 
