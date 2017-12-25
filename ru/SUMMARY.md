@@ -33,15 +33,16 @@
 ## Настройки
 
 * [Настройки приложения](settings/about.md)
+* [Настройки приватности](basics/privacy-settings.md)
 * [Автоматическая загрузка тренировок](questions/activity-auto-sync.md)
 * [Тренировочные зоны](basics/intensity-zones.md)
 * [Что такое ПАНО \(Порог анаэробного обмена\)](basics/lactate-threshold.md)
 * [Внешние календари \(iCal\)](basics/calendar-subscription-ical.md)
+* [Настройки уведомлений](settings/notifications.md)
 
 ## Ответы на вопросы
 
 * [Как работать с мобильных устройств](basics/staminity-for-mobile.md)
-* [Какая информация обо мне доступна другим](basics/privacy-settings.md)
 * [Как управлять запросами](basics/kak-upravlyat-zaprosami.md)
 
 ## Для спортсмена
