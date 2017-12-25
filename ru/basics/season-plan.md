@@ -45,7 +45,7 @@
 и плановую нагрузку:
 ![Планирование нагрузки по мезоциклам](https://content.staminity.com/assets/images/periodization/season-builder-plan.gif)
 
-Факт выполнения плана на сезон сформируется автоматически
+Факт выполнения плана на сезон будет формироваться автоматически на основании оперативного плана в календаре и выполненных тренировок.
 ![План на сезон в Staminity](https://content.staminity.com/assets/images/periodization/season-builder.png)
 
 
