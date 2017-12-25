@@ -30,13 +30,13 @@
 * [Шаблоны тренировок](basics/templates.md)
 * [Рассчитываемые показатели в Стаминити](basics/measures.md)
 
-## settings
+## Настройки
 
-* [about](settings/about.md)
-* [Как автоматически загружать тренировки](questions/activity-auto-sync.md)
+* [Настройки приложения](settings/about.md)
+* [Автоматическая загрузка тренировок](questions/activity-auto-sync.md)
 * [Тренировочные зоны](basics/intensity-zones.md)
 * [Что такое ПАНО \(Порог анаэробного обмена\)](basics/lactate-threshold.md)
-* [Как настроить подписку на календарь \(iCal\)](basics/calendar-subscription-ical.md)
+* [Внешние календари \(iCal\)](basics/calendar-subscription-ical.md)
 
 ## Ответы на вопросы
 
