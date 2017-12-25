@@ -11,7 +11,7 @@
 ![Визард добавления записей в календарь Staminity](https://content.staminity.com/assets/images/periodization/wizard-competition.png)
 
 При создании соревнования необходимо указать:
-![Добавить соревнование в Staminity](https://content.staminity.com/assets/images/periodization/competition-create.png)
+![Добавить соревнование в Staminity](https://content.staminity.com/assets/images/periodization/competition-create2.png)
 
 * **Название** - название соревнования, которое вы хотите видеть в календаре
 * **Вид спорта**
