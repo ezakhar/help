@@ -14,8 +14,7 @@
 #Основные возможности системы
 
 * Планирование сезона. Периодизация тренировочных нагрузок, план по мезоциклам, контроль выполнения плана на сезон:
-![Планирование сезона по мезоциклам](https://content.staminity.com/assets/images/periodization/season-builder.png)
-
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/watch?v=NQA05RJ7o-0' frameborder='0' allowfullscreen></iframe></div>
 
 * Дневник выполненных тренировок и план от тренера в одном календаре:
 ![Дневник тренировок Стаминити](https://content.staminity.com/assets/images/about/calendar-view.png)
