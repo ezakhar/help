@@ -75,7 +75,17 @@
 * Управление членами клуба, назначение ролей в клубе, назначение тренеров для спортсменов:
 ![Управление членами клуба в Стаминити](https://content.staminity.com/assets/images/about/club-management.png)
 
-* Клубный дэшборд
+* Клубный дэшборд - обзор выполнения тренировок учениками клуба и контроль работы тренеров:  
+![Обзор выполнения тренировок клуба Staminity](https://content.staminity.com/assets/images/about/club-dashboard.png)
+
+* Клубные шаблоны и категории тренировок
+![Клубные шаблоны и категории тренировок в Staminity](https://content.staminity.com/assets/images/about/club-methodology.png)
+
+
+
+
+
+
 
 
 #Можно работать с компьютера и [смартфона](/basics/staminity-for-mobile.md)
