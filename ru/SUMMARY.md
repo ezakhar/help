@@ -70,7 +70,6 @@
 * [Бета-версия для Андроид](zakrytaya-beta/beta-android.md)
 * [Бета-версия для iPhone](beta-ios.md)
 * [Подключение тарифов для пользователей бета-версии](new-tariffs-for-beta-users.md)
-* [Акция! 20% скидка за отзыв](action-fall-2017.md)
 
 ## Тарифы и оплата
 
