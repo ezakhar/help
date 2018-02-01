@@ -66,7 +66,7 @@
 * [Управление тарифными планами членов клуба](clubs/club-tariff-management.md)
 
 ## Новости сервиса
-
+* [История версий](version-history.md)
 * [Бета-версия для Андроид](zakrytaya-beta/beta-android.md)
 * [Бета-версия для iPhone](beta-ios.md)
 * [Подключение тарифов для пользователей бета-версии](new-tariffs-for-beta-users.md)
