@@ -8,6 +8,7 @@
 * [Стаминити для спортсмена](athletes/staminity-for-athlete.md)
 * [Стаминити для тренера](coaches/staminity-for-coach.md)
 * [Стаминити для клуба](clubs/staminity-for-clubs.md)
+* [История версий](istoriya-versii.md)
 
 ## Основы работы в Стаминити
 
