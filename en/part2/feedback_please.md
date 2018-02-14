@@ -1,6 +1,0 @@
-# General settings
-
-adfadf
-
-
-

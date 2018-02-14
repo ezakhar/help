@@ -1,4 +1,4 @@
-Staminity is the web-application to remotely interaction between athletes and coaches in cyclic kinds of sports.
+Стаминити - веб-приложение для удаленной работы тренеров со спортсменами в циклических видах спорта
 
-Here you can find frequently asked question about web application
+Здесь вы найдете ответы на часто задаваемые вопросы по использованию приложения
 

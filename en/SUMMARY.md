@@ -1,13 +1,83 @@
 # Summary
 
-## Basics
+## О сервисе
 
 * [Introduction](README.md)
-* [Sign in](part1/writing.md)
-* [Sign up](part1/gitbook.md)
+* [Что такое Стаминити](about/staminity.md)
+* [С чего начать работу в сервисе](basics/getting-started.md)
+* [Стаминити для спортсмена](athletes/staminity-for-athlete.md)
+* [Стаминити для тренера](coaches/staminity-for-coach.md)
+* [Стаминити для клуба](clubs/staminity-for-clubs.md)
+* [История версий](version-history.md)
 
-## Settings
+## Основы работы в Стаминити
 
-* [General settings](part2/feedback_please.md)
-* [Privacy settings](part2/better_tools.md)
+* [Навигация в приложении](basics/navigation.md)
+* [Тренировочный календарь](basics/calendar.md)
+* [Создать плановую тренировку](basics/create-plan-activity.md)
+* [Выполнить тренировку](basics/complete-activity.md)
+* [Проанализировать выполненную тренировку](basics/analyse-detailed-activity.md)
+* [Проанализировать выполненную структурированную тренировку](basics/analyse-detailed-structured-activity.md)
+* [Создать событие и измерение](basics/create-record.md)
+* [Соревнования](basics/competition.md)
+* [План на сезон](basics/season-plan.md)
+
+## Методология
+
+* [Методология](basics/about.md)
+* [Схемы периодизации](methodology/periodisation-schemes.md)
+* [Категории тренировок](basics/categories.md)
+* [Описание системных категорий тренировок](basics/activity-categories.md)
+* [Шаблоны тренировок](basics/templates.md)
+* [Рассчитываемые показатели в Стаминити](basics/measures.md)
+
+## Настройки
+
+* [Настройки приложения](settings/about.md)
+* [Настройки приватности](basics/privacy-settings.md)
+* [Автоматическая загрузка тренировок](questions/activity-auto-sync.md)
+* [Тренировочные зоны](basics/intensity-zones.md)
+* [Внешние календари \(iCal\)](basics/calendar-subscription-ical.md)
+* [Настройки уведомлений](settings/notifications.md)
+
+## Ответы на вопросы
+
+* [Как работать с мобильных устройств](basics/staminity-for-mobile.md)
+* [Как управлять запросами](basics/kak-upravlyat-zaprosami.md)
+* [Что такое ПАНО \(Порог анаэробного обмена\)](basics/lactate-threshold.md)
+
+## Для спортсмена
+
+* [Подключиться к тренеру или клубу](athletes/coach-club-connection.md)
+
+## Для тренера
+
+* [Индивидуальные тренеры и тренеры в клубе](coaches/coaches-and-club-coaches.md)
+* [Профиль тренера - ваша визитная карточка в сервисе](coaches/coach-profile.md)
+* [Подключить учеников](coaches/add-athletes.md)
+* [Управление спортсменами](coaches/athlete-management.md)
+
+## Для клуба
+
+* [Зачем нужен клуб и как его создать в Стаминити](clubs/club.md)
+* [Управление членами клуба](clubs/club-management.md)
+* [Управление ролями в клубе](clubs/club-roles.md)
+* [Назначение тренеров для спортсменов клуба](clubs/coaches-and-athletes.md)
+* [Управление тарифными планами членов клуба](clubs/club-tariff-management.md)
+
+## Новости сервиса
+* [История версий](version-history.md)
+* [Бета-версия для Андроид](zakrytaya-beta/beta-android.md)
+* [Бета-версия для iPhone](beta-ios.md)
+* [Подключение тарифов для пользователей бета-версии](new-tariffs-for-beta-users.md)
+
+## Тарифы и оплата
+
+* [Тарифные планы Стаминити](tariffs/tariffs.md)
+* [Тариф "Базовый"](tariffs/basic.md)
+* [Тариф "Премиум"](tariffs/Premium.md)
+* [Тариф "Тренер"](tariffs/Coach.md)
+* [Тариф "Клуб"](tariffs/Club.md)
+* [Подключение тарифа](tariffs/purchase.md)
+* [Контроль начислений и оплата счетов](tariffs/bills.md)
 

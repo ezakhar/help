@@ -1,6 +1,0 @@
-# Privacy settings
-
-adsfad
-
-
-
