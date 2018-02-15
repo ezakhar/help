@@ -30,6 +30,7 @@
 * [Описание системных категорий тренировок](basics/activity-categories.md)
 * [Шаблоны тренировок](basics/templates.md)
 * [Рассчитываемые показатели в Стаминити](basics/measures.md)
+* [Тренировочные планы](basics/training-plan.md)
 
 ## Настройки
 
@@ -66,6 +67,7 @@
 * [Управление тарифными планами членов клуба](clubs/club-tariff-management.md)
 
 ## Новости сервиса
+
 * [История версий](version-history.md)
 * [Бета-версия для Андроид](zakrytaya-beta/beta-android.md)
 * [Бета-версия для iPhone](beta-ios.md)
