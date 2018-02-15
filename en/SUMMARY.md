@@ -3,7 +3,7 @@
 ## О сервисе
 
 * [Introduction](README.md)
-* [Что такое Стаминити](about/staminity.md)
+* [What is Staminity](about/staminity.md)
 * [С чего начать работу в сервисе](basics/getting-started.md)
 * [Стаминити для спортсмена](athletes/staminity-for-athlete.md)
 * [Стаминити для тренера](coaches/staminity-for-coach.md)
@@ -66,6 +66,7 @@
 * [Управление тарифными планами членов клуба](clubs/club-tariff-management.md)
 
 ## Новости сервиса
+
 * [История версий](version-history.md)
 * [Бета-версия для Андроид](zakrytaya-beta/beta-android.md)
 * [Бета-версия для iPhone](beta-ios.md)
