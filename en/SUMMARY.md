@@ -1,6 +1,6 @@
 # Summary
 
-## О сервисе
+## About
 
 * [Introduction](README.md)
 * [What is Staminity](about/staminity.md)

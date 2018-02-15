@@ -1,4 +1,3 @@
-Стаминити - веб-приложение для удаленной работы тренеров со спортсменами в циклических видах спорта
+Staminity is the application supports online training and work with coach in triathlon, running, cycling, swimming and other cyclic kinds of sports
 
-Здесь вы найдете ответы на часто задаваемые вопросы по использованию приложения
-
+FAQ in English is in filling stage, please be patient
