@@ -10,6 +10,10 @@
 * [Стаминити для клуба](clubs/staminity-for-clubs.md)
 * [История версий](version-history.md)
 
+## Магазин тренировочных планов
+
+* [training-plans-for-coaches](training-plans/training-plans-for-coaches.md)
+
 ## Основы работы в Стаминити
 
 * [Навигация в приложении](basics/navigation.md)
