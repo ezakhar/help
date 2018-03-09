@@ -73,6 +73,9 @@
 * [Бета-версия для iPhone](beta-ios.md)
 * [Подключение тарифов для пользователей бета-версии](new-tariffs-for-beta-users.md)
 
+## Магазин тренировочных планов
+* [Продажа тренировочных планов](training-plans/training-plans-for-coaches.md)
+
 ## Тарифы и оплата
 
 * [Тарифные планы Стаминити](tariffs/tariffs.md)
@@ -82,4 +85,5 @@
 * [Тариф "Клуб"](tariffs/Club.md)
 * [Подключение тарифа](tariffs/purchase.md)
 * [Контроль начислений и оплата счетов](tariffs/bills.md)
+
 
