@@ -69,9 +69,6 @@
 ## Новости сервиса
 
 * [История версий](version-history.md)
-* [Бета-версия для Андроид](zakrytaya-beta/beta-android.md)
-* [Бета-версия для iPhone](beta-ios.md)
-* [Подключение тарифов для пользователей бета-версии](new-tariffs-for-beta-users.md)
 
 ## Магазин тренировочных планов
 * [Продажа тренировочных планов](training-plans/training-plans-for-coaches.md)
