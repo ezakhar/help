@@ -4,13 +4,16 @@ Staminity предлагает тренерам и клубам платформ
 
 Тренировочный план в Staminity - это набор тренировочных заданий и рекомендаций тренера по достижению определенной цели в спорте.
 
-![](https://lh6.googleusercontent.com/1fwu-lXS356k9zGPMvCgNByudWUDCp0QydPLENjfEzf4XHexlk7GH8V5NnGMcAp9QWhG6uljIHMuo03b4GD1UYGNJMOOjcQBweBi-vBUK161YgYeengC0jbbL69ui61HjyVRVs25)
-
 ### Зачем мне это?
 
-Во всем мире тренировочные планы позволяют тренерам а\) получить дополнительный доход б\) привлечь новых клиентов.
+![](/assets/скрудж.png)
 
-Тренировочный план и услуга дистанционного тренинга имеют пересечение аудиторий, но все таки ориентированы на разные группы клиентов: которые готовы/могут платить за тренера или не могут/ не хотят. 
+Во всем мире тренировочные планы позволяют тренерам:
+
+1. **получить дополнительный доход**
+2. **привлечь новых клиентов**
+
+Тренировочный план и услуга дистанционного тренинга имеют пересечение аудиторий, но все таки ориентированы на разные группы клиентов: которые готовы/могут платить за тренера или не могут/ не хотят.
 
 Спортсменов, кто использует для подготовки тренировочные планы больше, чем спортсменов занимающихся online с тренером. Большинство этих спортсменов готовиться к своим первым стартам по бегу и триатлону. И для тренера это является хорошей возможностью заработать, и предложить свои услуги.
 
@@ -85,7 +88,19 @@ Staminity - это профессиональная платформа для п
 
 Страница адаптирована для мобильных телефонов.
 
-![](https://lh6.googleusercontent.com/m6C4YicmKOWniUWZnGV17t5p-aR5Gubus83OsnZTWkeE0-JSmj_PFNqDhBwprjsetUQda6Towj7JOam706EFeM2YqUfk3NiPmOdRadWItgyLy0y8_40_vKckN5xbbyWeNfXX6Glm)![](https://lh4.googleusercontent.com/JVEK3IQoJeRbaXDpBwrbH7nTCMB7lg2wqZIujs-u7eN0GpHSV_J0mmlgA-tknlr1OXVPjDIMGcEBPX5x9Veb-MV1xB9LWDVtQdX4UzgS3yYVgn_TrQzJdhsXQW8-k2h_SvgjcCGv)![](https://lh4.googleusercontent.com/AoTtaoC_XtjlR1CPlFXy1tK3gjxgJR4YqrtGII9aHru9BC-N_Zni8Izk6kJA_nr69jwb8vB_y_EZrur2e8qehxyvOcTHMVTguq8pHf-j8z2z75P7Y_oL2qIC6P3VWGKScedIqJuj)![](https://lh6.googleusercontent.com/Yvkl3R1OpJManqZLEaKVkRA3kETy1A9FqEiE0fRivaDCgh8bO5bsFZoiZBevy8irk9qt3DMzYAt473qB2uo9MXP2n-_v80eCM4fLeFYx5zuP8oG1sXMN1pPVlxCslyUQ_1yAEpee)![](https://lh3.googleusercontent.com/HwyN0mbuotV_ITwEKH7Xeso9EbLUKrhBUp1RL_fnlkkk3YXvW9YUpHcNzU4wRlR3R9Oud4x2s5Gs4elH8MiP--1DGKqJIhMcBTSICDtv6qFRsx8A_1n6dE5a4wrwDmief3Cv26Ci)
+Автоматически рассчитывается график нагрузки по неделям плана.
+
+![](https://lh6.googleusercontent.com/m6C4YicmKOWniUWZnGV17t5p-aR5Gubus83OsnZTWkeE0-JSmj_PFNqDhBwprjsetUQda6Towj7JOam706EFeM2YqUfk3NiPmOdRadWItgyLy0y8_40_vKckN5xbbyWeNfXX6Glm)
+
+Примеры из тренировочного плана, по которым спортсмен сможет оценить подход автора к постановке тренировочного задания
+
+![](https://lh4.googleusercontent.com/AoTtaoC_XtjlR1CPlFXy1tK3gjxgJR4YqrtGII9aHru9BC-N_Zni8Izk6kJA_nr69jwb8vB_y_EZrur2e8qehxyvOcTHMVTguq8pHf-j8z2z75P7Y_oL2qIC6P3VWGKScedIqJuj)
+
+и примеров описания упражнений или иной методической информации
+
+![](https://lh6.googleusercontent.com/Yvkl3R1OpJManqZLEaKVkRA3kETy1A9FqEiE0fRivaDCgh8bO5bsFZoiZBevy8irk9qt3DMzYAt473qB2uo9MXP2n-_v80eCM4fLeFYx5zuP8oG1sXMN1pPVlxCslyUQ_1yAEpee)
+
+
 
 Для увеличения продаж и дифференциации от других планов, мы рекомендуем:
 
