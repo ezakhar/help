@@ -81,11 +81,11 @@ Staminity - это профессиональная платформа для п
 
 ![](https://lh4.googleusercontent.com/6zgim2rjhrRMyBOvw6wP1BfZVLycgnstP58Pzupr-M6-5RMhtB5nd2NS5bGoSR4k5g1bj1eR0jSF0nroviBZHMc5XoN3fCDR4L7v2FVhyAo-1kSv5q8FjCAR_JsNiYJEEdci1Wq4)
 
-Пример 1: [https://dev1.staminity.com/plan/?planId=683](https://dev1.staminity.com/plan/?planId=683)
+Пример 1: 
 
 ![](https://lh4.googleusercontent.com/SxAkm5DdGpWY7I235N7DhyjLH9AD7JNw11iEKl2QgxwkNLsOtdAslcxqTYJFEs4nAQIm3lBgbbVKXC4Z4aLu3TVEmxWLuF3OODLnYfHURPzU8KGsJrvYwuY0wFDREpmi5D_NrVtk)
 
-Пример 2: [https://dev1.staminity.com/plan/?planId=21](https://dev1.staminity.com/plan/?planId=21)
+Пример 2: 
 
 Страница адаптирована для мобильных телефонов.
 
