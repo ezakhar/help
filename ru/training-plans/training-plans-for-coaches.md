@@ -6,7 +6,7 @@ Staminity предлагает тренерам и клубам платформ
 
 ## Дополнительный доход для тренера
 
-![](/assets/training_plans_money.png)
+![Продажа тренировочных планов в Staminity](https://content.staminity.com/assets/images/training-plan/training_plans_money.png)
 
 Во всем мире тренировочные планы позволяют тренерам:
 
