@@ -85,7 +85,7 @@ It made for athletes, coaches and clubs.
 
 #Need help?
 If you have any questions about Staminity please do not hesitate to contact us: 
-* In Telegram: [https://t.me/staminitysupportbot](https://t.me/staminitysupportbot)
+* In Telegram: [@staminitysupportbot](https://t.me/staminitysupportbot) 
 * On support portal: [support.staminity.com](https://support.staminity.com)
 * Via email: [support@staminity.com](mailto:support@staminity.com)
 * On our [Facebook](https://facebook.com/staminity) or [VK](https://vk.com/staminity) pages
