@@ -95,7 +95,7 @@
 #Есть вопросы? Нужна помощь?
 
 Обращайтесь к нам по любым вопросам, которые у вас возникают при работе в сервисе.  Мы на связи:
-* Написать в телеграм: [https://t.me/staminity_support](https://t.me/staminitysupportbot)
+* Написать в телеграм: [@StaminitySupportBot](https://t.me/staminitysupportbot)
 * Оставить обращение на портале поддержки: [support.staminity.com](http://support.staminity.com)
 * Написать по почте: [support@staminity.com](mailto:support@staminity.com)
 * Задать вопрос на странице в [Facebook](https://facebook.com/staminity) или [Вконтакте](https://vk.com/staminity)
