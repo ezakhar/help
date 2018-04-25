@@ -3,34 +3,9 @@
     "theme-faq",
     "-fontsettings",
     "-sharing",
-    "yametrika",
-    "ga",
-    "analytics",
     "videoclips",
     "mermaid"
     ],
 "pluginsConfig": 
-        {
-    "yametrika": {
-            "id": 43090034,
-            "webvisor": true,
-            "clickmap": true,
-            "trackLinks": true,
-            "accurateTrackBounce": true,
-            "trackHash": true },
-    "ga": {
-            "token": "UA-86484345-3"
-        },
-    "analytics": {
-            "context": 
-            [
-                    {
-                    "vendor": "google",
-                    "token": "UA-86484345-3",
-                    "base": "https://help.staminity.com"
-                    }
-            ]
-                }      
-        }
-}
+        {}
 
