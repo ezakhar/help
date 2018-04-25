@@ -14,17 +14,19 @@
 <li><a href="https://blog.staminity.com">Blog</a></li>
 </ul>
 
-
 {% endblock %}
 
-{% block body %}
-    {{ super() }}
-    
-<!-- Start of Omnidesk Widget script -->
+{% block head %}
+{{ super() }}
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-86484345-4"></script>
 <script>
-!function(e,o){!window.omni?window.omni=[]:'';window.omni.push(o);o.g_config={widget_id:"2576-2fkmb74e"}; o.email_widget=o.email_widget||{};var w=o.email_widget;w.readyQueue=[];o.config=function(e){ this.g_config.user=e};w.ready=function(e){this.readyQueue.push(e)};var r=e.getElementsByTagName("script")[0];c=e.createElement("script");c.type="text/javascript",c.async=!0;c.src="https://omnidesk.ru/bundles/acmesite/js/cwidget0.2.min.js";r.parentNode.insertBefore(c,r)}(document,[]);
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-86484345-4');
 </script>
-<!-- End of Omnidesk Widget script -->
 
 <!-- Yandex.Metrika counter -->
 <script type="text/javascript" >
@@ -56,6 +58,19 @@
 </script>
 <noscript><div><img src="https://mc.yandex.ru/watch/44377207" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
+
+
+{% endblock %}
+
+
+{% block body %}
+    {{ super() }}
+    
+<!-- Start of Omnidesk Widget script -->
+<script>
+!function(e,o){!window.omni?window.omni=[]:'';window.omni.push(o);o.g_config={widget_id:"2576-2fkmb74e"}; o.email_widget=o.email_widget||{};var w=o.email_widget;w.readyQueue=[];o.config=function(e){ this.g_config.user=e};w.ready=function(e){this.readyQueue.push(e)};var r=e.getElementsByTagName("script")[0];c=e.createElement("script");c.type="text/javascript",c.async=!0;c.src="https://omnidesk.ru/bundles/acmesite/js/cwidget0.2.min.js";r.parentNode.insertBefore(c,r)}(document,[]);
+</script>
+<!-- End of Omnidesk Widget script -->
 
 {% endblock %}
 
