@@ -1,9 +1,9 @@
 ---
 related:
-  - /tariffs/basic.md
-  - /tariffs/Premium.md
-  - /tariffs/Coach.md
-  - /tariffs/Club.md
+* [Тариф Базовый](/tariffs/basic.md)
+* [Тариф Премиум](/tariffs/Premium.md)
+* [Тариф Тренер](/tariffs/Coach.md)
+* [Тариф Клуб](/tariffs/Club.md)
 ---
 
 # Тарифы и оплата
