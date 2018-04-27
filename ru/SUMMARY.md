@@ -71,16 +71,17 @@
 * [История версий](version-history.md)
 
 ## Магазин тренировочных планов
+
 * [Продажа тренировочных планов](training-plans/training-plans-for-coaches.md)
 
 ## Тарифы и оплата
 
 * [Тарифные планы Стаминити](tariffs/tariffs.md)
+  * [new article](tariffs/tariffs/new-article.md)
 * [Тариф "Базовый"](tariffs/basic.md)
 * [Тариф "Премиум"](tariffs/Premium.md)
 * [Тариф "Тренер"](tariffs/Coach.md)
 * [Тариф "Клуб"](tariffs/Club.md)
 * [Подключение тарифа](tariffs/purchase.md)
 * [Контроль начислений и оплата счетов](tariffs/bills.md)
-
 
