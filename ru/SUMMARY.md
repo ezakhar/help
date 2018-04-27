@@ -77,7 +77,6 @@
 ## Тарифы и оплата
 
 * [Тарифные планы Стаминити](tariffs/tariffs.md)
-  * [new article](tariffs/tariffs/new-article.md)
 * [Тариф "Базовый"](tariffs/basic.md)
 * [Тариф "Премиум"](tariffs/Premium.md)
 * [Тариф "Тренер"](tariffs/Coach.md)
