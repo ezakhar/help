@@ -76,11 +76,14 @@
 
 ## Тарифы и оплата
 
+### Тарифы
 * [Тарифные планы Стаминити](tariffs/tariffs.md)
 * [Тариф "Базовый"](tariffs/basic.md)
 * [Тариф "Премиум"](tariffs/Premium.md)
 * [Тариф "Тренер"](tariffs/Coach.md)
 * [Тариф "Клуб"](tariffs/Club.md)
+
+### Оплата
 * [Подключение тарифа](tariffs/purchase.md)
 * [Контроль начислений и оплата счетов](tariffs/bills.md)
 
