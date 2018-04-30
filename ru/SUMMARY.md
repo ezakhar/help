@@ -21,11 +21,10 @@
 * [Проанализировать выполненную структурированную тренировку](basics/analyse-detailed-structured-activity.md)
 * [Создать событие и измерение](basics/create-record.md)
 * [Соревнования](basics/competition.md)
+
+## Продвинутые возможности
+
 * [План на сезон](basics/season-plan.md)
-* [Навигация в приложении](basics/navigation.md)
-
-## Методология
-
 * [Методология](basics/about.md)
 * [Схемы периодизации](methodology/periodisation-schemes.md)
 * [Категории тренировок](basics/categories.md)
