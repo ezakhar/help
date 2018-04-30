@@ -12,6 +12,7 @@
 ## Основы работы в Стаминити
 
 * [С чего начать](basics/getting-started.md)
+* [Как загружать выполненные тренировки](questions/activity-auto-sync.md)
 * [Как работать с мобильных устройств](basics/staminity-for-mobile.md)
 * [Навигация в приложении](basics/navigation.md)
 * [Тренировочный календарь](basics/calendar.md)
@@ -37,7 +38,6 @@
 
 * [Настройки приложения](settings/about.md)
 * [Настройки приватности](basics/privacy-settings.md)
-* [Автоматическая загрузка тренировок](questions/activity-auto-sync.md)
 * [Тренировочные зоны](basics/intensity-zones.md)
 * [Внешние календари \(iCal\)](basics/calendar-subscription-ical.md)
 * [Настройки уведомлений](settings/notifications.md)
