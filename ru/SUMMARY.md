@@ -14,8 +14,7 @@
 * [С чего начать](basics/getting-started.md)
 * [Как загружать выполненные тренировки](questions/activity-auto-sync.md)
 * [Как работать с мобильных устройств](basics/staminity-for-mobile.md)
-* [Навигация в приложении](basics/navigation.md)
-* [Тренировочный календарь](basics/calendar.md)
+* [Календарь тренировок - основной экран для спортсмена](basics/calendar.md)
 * [Запланировать тренировку](basics/create-plan-activity.md)
 * [Выполнить тренировку](basics/complete-activity.md)
 * [Проанализировать выполненную тренировку](basics/analyse-detailed-activity.md)
@@ -23,6 +22,7 @@
 * [Создать событие и измерение](basics/create-record.md)
 * [Соревнования](basics/competition.md)
 * [План на сезон](basics/season-plan.md)
+* [Навигация в приложении](basics/navigation.md)
 
 ## Методология
 
