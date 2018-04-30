@@ -24,10 +24,9 @@
 
 ## Продвинутые возможности
 
-* [План на сезон](basics/season-plan.md)
-* [Методология](basics/about.md)
-* [Схемы периодизации](methodology/periodisation-schemes.md)
-* [Категории тренировок](basics/categories.md)
+* [Создать план на сезон](basics/season-plan.md)
+* [Создать схему периодизации](methodology/periodisation-schemes.md)
+* [Управление категориями тренировок](basics/categories.md)
 * [Описание системных категорий тренировок](basics/activity-categories.md)
 * [Шаблоны тренировок](basics/templates.md)
 * [Рассчитываемые показатели в Стаминити](basics/measures.md)
