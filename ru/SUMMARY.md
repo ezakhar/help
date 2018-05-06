@@ -18,7 +18,6 @@
 * [Запланировать тренировку](basics/create-plan-activity.md)
 * [Выполнить тренировку](basics/complete-activity.md)
 * [Проанализировать выполненную тренировку](basics/analyse-detailed-activity.md)
-* [Проанализировать выполненную структурированную тренировку](basics/analyse-detailed-structured-activity.md)
 * [Создать событие и измерение](basics/create-record.md)
 * [Соревнования](basics/competition.md)
 * [Рассчитываемые показатели в Стаминити](basics/measures.md)
