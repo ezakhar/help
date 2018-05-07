@@ -1,43 +1,47 @@
-# С чего начать работу в Стаминити
+# How to start using Staminity
 
-* [1. Определите, как будете работать](#role) - как спортсмен, тренер в клубе, индивидуальный тренер или руководитель клуба
-* [2. Зарегистрируйтесь и войдите в приложение](#signin)
-* [3-1. Настройте общий профиль](#profile)
-* [3-2. Для тренера - настройте профиль тренера](#сoachprofile) 
-* [4. Настройте тренировочные зоны и пороги](#trainingzones)
-* [5. Подключите автоматическую загрузку тренировок](#sync)
-* [6-1. Для спортсменов - найдите тренера или клуб и подключитесь к нему](#startcoach)
-* [6-2. Для тренеров в клубе - вступите в клуб](#clubconnect)
-* [7. Настройте доступ со смартфона](#mobile)
+* [1. Decide how you're going to work](#role) - as an athlete, club coach, personal coach, or a head of the club
+* [2. Register and sign in to the application ](#signin)
+* [3-1. Set up the profile](#profile)
+* [3-2. For the coach - set up the Coach profile](#сoachprofile) 
+* [4. Set up the training zones and thresholds ](#trainingzones)
+* [5. Download your activities automatically  ](#sync)
+* [6-1. For the athletes - find a coach or a club and join it  ](#startcoach)
+* [6-2.  For the club coaches - join a club](#clubconnect)
+* [7. Set up access from your smartphone](#mobile)
 
-### 1. Определите, как будете работать {#role}
+### 1. Decide how you’re going to work {#role}
 
-Выберите роль, которая больше всего подходит для вас. 
+Choose the most suitable role.
 
-* **СПОРТСМЕН** - получает план от тренера или планирует самостоятельно. Выполняет и анализирует тренировки.
-> Регистрируйтесь без признака "Я-тренер". 
-Будет подключен на 2 недели бесплатно пробный тариф "Премиум". 
+* **ATHLETE **- receives a plan from the coach or plans his activities on his own. Trains and analyzes his activities.
 
-* **ИНДИВИДУАЛЬНЫЙ ТРЕНЕР** - работает с учениками индивидуально, без клуба. Ученики подключаются к нему напрямую. Для работы нужен тариф "Тренер", приобретенный самостоятельно.
-> Регистрируйтесь с признаком "Я-тренер". 
-Тариф "Тренер" будет подключен бесплатно на 2 недели
+  > Register without the “I am a coach” attribute.   
+  > A trial "Premium" tariff will be connected for 2 weeks free of charge.
 
-* **ТРЕНЕР В КЛУБЕ** - работает с учениками через клуб. Ученики подключаются к нему руководством клуба. Тариф "Тренер" приобретается клубом, самостоятельно приобретать не нужно.
-> Регистрируйтесь без признака "Я-тренер" и подключайтесь к клубу. 
-Тариф "Тренер" будет назначен клубом.
+* **PERSONAL COACH **- works with the athletes individually, without the club. The athletes connect to him directly. In order to work as a personal coach, you should purchase the “Coach” tariff on your own..
 
-* **РУКОВОДИТЕЛЬ КЛУБА** - управляет клубом. Принимает в клуб учеников и тренеров, назначает тренера для учеников. Для работы нужен тариф "Клуб".
-> Регистрируйтесь без признака "Я-тренер", заходите в настройки и подключайте тариф "Клуб" (2 недели бесплатно)
+  > Register with the “I am a coach” attribute.   
+  > The “Coach” tariff will be connected for 2 weeks free of charge.
 
-Роль пользователя в Стаминити определяется комбинацией подключенных тарифных планов, поэтому и после регистрации в любой момент можно подключить нужный тариф.
- 
-### 2. Зарегистрируйтесь и войдите в приложение {#signin}
+* **CLUB COACH  **- works with the athletes through a club. The athletes are assigned to him by the management of the club. The “Coach” tariff is purchased by the club, you don’t need to purchase it on your own. 
 
-Чтобы начать работу, необходимо зарегистрироваться.
+  > Register without the “I am a coach” attribute and join a club.  
+  > The “Coach” tariff will be connected by the club.
 
-1. Заходите на сайт [https://staminity.com](https://staminity.com) и нажимайте кнопку "СТАРТ".
-2. При регистрации выберите значение признака "Я-тренер" с учетом вашей роли - см. выше
-3. Регистрация возможна через социальные сети или с использованием адреса электронной почты. При регистрации необходимо согласиться с условиями использования сервиса.
+* **HEAD OF THE CLUB **- manages a club. Accepts athletes and coaches to the club, assigns a coach for the athletes. It is required to connect the “Club” tariff to work as a Head of the club. 
+
+  > Register without the “I am a coach” attribute, go to settings and connect the “Club” tariff \(2 weeks are free of charge\)
+
+The user’s role in Staminiy is defined by the combination of the connected tariff plans. You can connect the required tariff any time upon registration.
+
+### 2. Register and sign in to the application {#signin}
+
+In order to start your work, you should register.
+
+1. Go to the website [https://staminity.com](https://staminity.com) and click on the “START” button.
+2. When registering, adjust the “I am a coach” attribute depending on your role -  see above
+3. You can register through the social networks or by using your email address. When registering you need to accept the Website use policy. 
 
 ![Staminity signup](https://content.staminity.com/assets/images/_new/settings/signup.png)
 
@@ -45,7 +49,7 @@
 
 ### 3-1. Настройте общий профиль {#profile}
 
-Переход к настройкам выполняется в правом меню, по нажатию на пункт "Настройки".  
+Переход к настройкам выполняется в правом меню, по нажатию на пункт "Настройки".
 
 * Установите **фотографию** и **фоновое изображение** профиля. Если вы тренер, фоновое изображение очень важно: оно выводится в карточке тренера при поиске и карточки с изображением выгодно отличаются от других.
 
@@ -54,11 +58,12 @@
 ![Staminity profile personal settings](https://content.staminity.com/assets/images/_new/settings/user-menu-profile.png)
 
 Заполните в профиле:
+
 * **Имя** и **Фамилия**
 * **Страну** и **город**
 * Короткий адрес / псевдоним для удобного доступа к профилю
-> Профиль пользователя доступен в Стаминити по адресу:  
-> staminity.com/user/\[псевдоним\]
+  > Профиль пользователя доступен в Стаминити по адресу:  
+  > staminity.com/user/\[псевдоним\]
 * Пол
 * Дату рождения
 * Информацию о себе
@@ -81,9 +86,9 @@
 * **Ученики** - поделитесь достижениями ваших учеников. Это поможет новым ученикам сделать выбор.
 * **Доступность для новых учеников** - принимаете ли вы новых учеников
 
-Дополнительно рекомендуем указать в разделе "Спортивная форма": 
-* **Виды спорта** - виды спорта, подготовку в которых вы осуществляете. 
+Дополнительно рекомендуем указать в разделе "Спортивная форма":
 
+* **Виды спорта** - виды спорта, подготовку в которых вы осуществляете. 
 
 ### 4. Настройте тренировочные зоны и ПАНО {#trainingzones}
 
@@ -93,10 +98,11 @@
 
 Для настройки:
 
-* перейдите в раздел "Тренировочные зоны":
-![Staminity training zones and FTP settings](https://content.staminity.com/assets/images/_new/settings/user-zones.png)
+* перейдите в раздел "Тренировочные зоны":  
+  ![Staminity training zones and FTP settings](https://content.staminity.com/assets/images/_new/settings/user-zones.png)
 
 * добавьте вид спорта по показателю интенсивности \(темп, пульс, мощность\);
+
 * в выпадающем списке для вида спорта выберите пункт меню "Изменить значения зон";
 * укажите значение [ПАНО](/basics/lactate-threshold.md), а для пульса - пульс покоя и максимальный пульс;
 * выберите один из доступных [методов](/basics/intensity-zones.md) расчета тренировочных зон или укажите метод "Вручную" для ввода значений вручную.
@@ -104,8 +110,8 @@
 
 ![](http://content.staminity.com/assets/images/settings/SetZones.gif)
 
-> Обратите внимание: 
-Тренер может настроить значения тренировочных зон и ПАНО для своих учеников. Для этого в разделе "Настройки" тренер должен выбрать нужного ученика в выпадающем списке, ввести и сохранить значения зон для него.
+> Обратите внимание:   
+> Тренер может настроить значения тренировочных зон и ПАНО для своих учеников. Для этого в разделе "Настройки" тренер должен выбрать нужного ученика в выпадающем списке, ввести и сохранить значения зон для него.
 
 ### 5. Настройте автоматическую загрузку фактических тренировок {#sync}
 
@@ -128,7 +134,7 @@
 Для поиска тренера в левом меню выберите пункт **"Поиск"**  
 ![Staminity find coach](http://content.staminity.com/assets/images/_new/search/find-coach.png)
 
-**Подключиться к индивидуальному тренеру**
+**Подключиться к индивидуальному тренеру**  
 Запрос индивидуальным тренерам выполняется из профиля тренера.  
 Необходимо перейти в профиль тренера из результатов поиска и нажать на "Начать тренироваться".
 
@@ -138,8 +144,8 @@
 
 ---
 
-**Подключиться к клубу**
-Чтобы начать работать с тренером в клубе, отправьте заявку на вступление в клуб. Запрос выполняется из профиля клуба.  
+**Подключиться к клубу**  
+Чтобы начать работать с тренером в клубе, отправьте заявку на вступление в клуб. Запрос выполняется из профиля клуба.
 
 Перейдите в профиль клуба из результатов поиска и нажмите на **"Вступить в клуб"**.
 
@@ -147,14 +153,15 @@
 
 ### 6-2. Для тренеров в клубе - вступите в клуб {#clubconnect}
 
-Если вы работаете как тренер в клубе, вступите в клуб. Запрос на вступление выполняется из профиля клуба.  
+Если вы работаете как тренер в клубе, вступите в клуб. Запрос на вступление выполняется из профиля клуба.
 
 Необходимо перейти в профиль клуба из результатов поиска и нажать на "Вступить в клуб".
 
-Когда ваша заявка будет одобрена клубом, клуб назначит для вас роль "Тренер" и подключит к вам учеников. 
+Когда ваша заявка будет одобрена клубом, клуб назначит для вас роль "Тренер" и подключит к вам учеников.
 
 ### 7. Настройте доступ со смартфона {#mobile}
 
-Со смартфона в Staminity можно работать через мобильные приложения для Android и IOS, а также через браузер телефона.  
+Со смартфона в Staminity можно работать через мобильные приложения для Android и IOS, а также через браузер телефона.
 
 Подробнее о работе в приложении со смартфона описано в [отдельной статье](/basics/staminity-for-mobile.md) в справочной системе.
+
