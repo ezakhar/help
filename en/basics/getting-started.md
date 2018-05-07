@@ -6,7 +6,7 @@
 * [3-2. For the coach - set up the Coach profile](#сoachprofile) 
 * [4. Set up the training zones and thresholds ](#trainingzones)
 * [5. Download your activities automatically  ](#sync)
-* [6-1. For the athletes - find a coach or a club and join it  ](#startcoach)
+* [6-1. For the athletes - find a coach or a club and join it](https://legacy.gitbook.com/book/staminity/help/edit#) 
 * [6-2.  For the club coaches - join a club](#clubconnect)
 * [7. Set up access from your smartphone](#mobile)
 
@@ -16,20 +16,20 @@ Choose the most suitable role.
 
 * **ATHLETE **- receives a plan from the coach or plans his activities on his own. Trains and analyzes his activities.
 
-  > Register without the “I am a coach” attribute.   
+  > Register without the “I am a coach” attribute.  
   > A trial "Premium" tariff will be connected for 2 weeks free of charge.
 
 * **PERSONAL COACH **- works with the athletes individually, without the club. The athletes connect to him directly. In order to work as a personal coach, you should purchase the “Coach” tariff on your own..
 
-  > Register with the “I am a coach” attribute.   
+  > Register with the “I am a coach” attribute.  
   > The “Coach” tariff will be connected for 2 weeks free of charge.
 
-* **CLUB COACH  **- works with the athletes through a club. The athletes are assigned to him by the management of the club. The “Coach” tariff is purchased by the club, you don’t need to purchase it on your own. 
+* **CLUB COACH  **- works with the athletes through a club. The athletes are assigned to him by the management of the club. The “Coach” tariff is purchased by the club, you don’t need to purchase it on your own.
 
   > Register without the “I am a coach” attribute and join a club.  
   > The “Coach” tariff will be connected by the club.
 
-* **HEAD OF THE CLUB **- manages a club. Accepts athletes and coaches to the club, assigns a coach for the athletes. It is required to connect the “Club” tariff to work as a Head of the club. 
+* **HEAD OF THE CLUB **- manages a club. Accepts athletes and coaches to the club, assigns a coach for the athletes. It is required to connect the “Club” tariff to work as a Head of the club.
 
   > Register without the “I am a coach” attribute, go to settings and connect the “Club” tariff \(2 weeks are free of charge\)
 
@@ -104,13 +104,14 @@ In order to start your work, you should register.
 * добавьте вид спорта по показателю интенсивности \(темп, пульс, мощность\);
 
 * в выпадающем списке для вида спорта выберите пункт меню "Изменить значения зон";
+
 * укажите значение [ПАНО](/basics/lactate-threshold.md), а для пульса - пульс покоя и максимальный пульс;
 * выберите один из доступных [методов](/basics/intensity-zones.md) расчета тренировочных зон или укажите метод "Вручную" для ввода значений вручную.
 * сохраните введенные или рассчитанные значения.
 
 ![](http://content.staminity.com/assets/images/settings/SetZones.gif)
 
-> Обратите внимание:   
+> Обратите внимание:  
 > Тренер может настроить значения тренировочных зон и ПАНО для своих учеников. Для этого в разделе "Настройки" тренер должен выбрать нужного ученика в выпадающем списке, ввести и сохранить значения зон для него.
 
 ### 5. Настройте автоматическую загрузку фактических тренировок {#sync}
