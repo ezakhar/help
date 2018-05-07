@@ -45,74 +45,75 @@ In order to start your work, you should register.
 
 ![Staminity signup](https://content.staminity.com/assets/images/_new/settings/signup.png)
 
-Если выбран способ регистрации через e-mail, необходимо подтвердить почтовый адрес, перейдя по ссылке в полученном письме. Если письмо долго не приходит, проверьте папку Спам.
+If you have chosen to register by email, you need to verify your email address by following the link in the received email. If you didn’t receive the email, please check your Spam.
 
-### 3-1. Настройте общий профиль {#profile}
+### 3-1. Set up the profile {#profile}
 
-Переход к настройкам выполняется в правом меню, по нажатию на пункт "Настройки".
+In order to go to the settings you need to click on the “Settings” item in the menu located to the right. 
 
-* Установите **фотографию** и **фоновое изображение** профиля. Если вы тренер, фоновое изображение очень важно: оно выводится в карточке тренера при поиске и карточки с изображением выгодно отличаются от других.
+* Set a **photo **and **background image **of the profile. In case you are a coach, your background image is very important as it is displayed in your coach card which is to be shown in search results and the cards with a background image look more beneficial and attractive. 
 
-* Для перехода в редактирование персонального профиля, нажмите на строчку под фото
+* To edit your profile click on the line below the photo.
 
 ![Staminity profile personal settings](https://content.staminity.com/assets/images/_new/settings/user-menu-profile.png)
 
-Заполните в профиле:
+Fill in the following information: 
 
-* **Имя** и **Фамилия**
-* **Страну** и **город**
-* Короткий адрес / псевдоним для удобного доступа к профилю
-  > Профиль пользователя доступен в Стаминити по адресу:  
-  > staminity.com/user/\[псевдоним\]
-* Пол
-* Дату рождения
-* Информацию о себе
+* **First name **and **Last name**
+* **Country **and **city**
+* Short URL / nickname for easy access to the profile
+  > In Staminity the user's profile is available at the following address:  
+  > staminity.com/user/\[nickname\]
+* Gender
+* Date of birth
+* About yourself
 
-Доступностью данной информации для других пользователей сервиса вы можете управлять в [настройках приватности](/basics/privacy-settings.md).
+You can manage availability of this information for the other users in the [Privacy settings](/basics/privacy-settings.md).
 
-### 3-2. Для тренера - настройте профиль тренера {#coachprofile}
+### 3-2. For the coach - set up the Coach profile {#coachprofile}
 
-Если вы тренер, настройте дополнительно профиль тренера. По информации в нем пользователи сервиса смогут больше узнать о вас и о ваших услугах, отправить вам заявку на подключение.
+In case you are a coach, you also need to set up the Coach profile. Based on the information indicated in this profile the users will learn about you and the services you provide, decide whether to send you a connection request.
 
-Тренеры с незаполненным профилем не отображаются в результатах поиска.
+Coaches with an empty profile do not appear in the search results
 
-Для заполнения профиля тренера перейдите в раздел "Профиль тренера" и заполните следующие поля:
+To fill in the coach profile go to the “Coach profile” section and enter the following information:
 
 ![Staminity coach profile settings](https://content.staminity.com/assets/images/_new/settings/coach-profile.png)
 
-* **О себе** - основная информация о вас. Отображается в карточке поиска тренеров.
-* **Условия занятий** - стоимость и условия занятий по различным программам  
-* **Контакты** - укажите контакты для связи с вами
-* **Ученики** - поделитесь достижениями ваших учеников. Это поможет новым ученикам сделать выбор.
-* **Доступность для новых учеников** - принимаете ли вы новых учеников
+* **About yourself **- the main information about you. It is displayed in the coach search card.
+* **Conditions **- the cost and terms of activities according to different programs.  
+* **Сontacts **- indicate your contact details.
+* **Athletes **- share the achievements of your athletes. It will help the new athletes to choose you.
+* **Availability for new athletes** - indicate whether you are accepting new athletes.
 
-Дополнительно рекомендуем указать в разделе "Спортивная форма":
+We also recommend you to indicate in the “Fitness” section
 
-* **Виды спорта** - виды спорта, подготовку в которых вы осуществляете. 
+* **Sports **- what kinds of sports you specialize in. 
 
-### 4. Настройте тренировочные зоны и ПАНО {#trainingzones}
+### 4. Set up the training zones and thresholds {#trainingzones}
 
-В сервисе можно настроить значение показателей интенсивности на уровне [ПАНО](/basics/lactate-threshold.md) по каждому виду спорта, а также границы [тренировочных зон](/basics/intensity-zones.md).
+The service allows to set the values of the intensity indicators on the [LT](/basics/lactate-threshold.md) level for each sport as well as the [training zones](/basics/intensity-zones.md) limits.
 
-Правильные настройки зон и ПАНО помогут корректно рассчитывать показатели нагрузки тренировок и анализировать подготовку.
+The correct zones and threshold settings will allow to properly calculate the indicators of the activities’ intensity and analyze the results.
 
-Для настройки:
+To set up:
 
-* перейдите в раздел "Тренировочные зоны":  
+* go to the “Training zones” section:   
   ![Staminity training zones and FTP settings](https://content.staminity.com/assets/images/_new/settings/user-zones.png)
 
-* добавьте вид спорта по показателю интенсивности \(темп, пульс, мощность\);
+* add sports for the intensity indicator \(pace, heart rate, power\);
 
-* в выпадающем списке для вида спорта выберите пункт меню "Изменить значения зон";
+* in the drop-down list for this sport, select the menu item "Change zones values";
 
-* укажите значение [ПАНО](/basics/lactate-threshold.md), а для пульса - пульс покоя и максимальный пульс;
-* выберите один из доступных [методов](/basics/intensity-zones.md) расчета тренировочных зон или укажите метод "Вручную" для ввода значений вручную.
-* сохраните введенные или рассчитанные значения.
+* indicate the [LT](/basics/lactate-threshold.md) value, and for the heart rate -  resting heart rate and maximum heart rate;
+
+* choose one of the available training zones calculation [methods](/basics/intensity-zones.md) or choose “Manually” method to enter the values manually.
+* save the entered or calculated values.
 
 ![](http://content.staminity.com/assets/images/settings/SetZones.gif)
 
-> Обратите внимание:  
-> Тренер может настроить значения тренировочных зон и ПАНО для своих учеников. Для этого в разделе "Настройки" тренер должен выбрать нужного ученика в выпадающем списке, ввести и сохранить значения зон для него.
+> Please note:  
+> he coach can set the training zones’ values and LT for his athletes. In order to do it, the coach has to choose the required athlete from the drop-down list in the “Settings” section and then enter and save the zones’ values for this athlete.
 
 ### 5. Настройте автоматическую загрузку фактических тренировок {#sync}
 
