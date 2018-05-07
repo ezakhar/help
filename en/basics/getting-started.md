@@ -49,15 +49,15 @@ If you have chosen to register by email, you need to verify your email address b
 
 ### 3-1. Set up the profile {#profile}
 
-In order to go to the settings you need to click on the “Settings” item in the menu located to the right. 
+In order to go to the settings you need to click on the “Settings” item in the menu located to the right.
 
-* Set a **photo **and **background image **of the profile. In case you are a coach, your background image is very important as it is displayed in your coach card which is to be shown in search results and the cards with a background image look more beneficial and attractive. 
+* Set a **photo **and **background image **of the profile. In case you are a coach, your background image is very important as it is displayed in your coach card which is to be shown in search results and the cards with a background image look more beneficial and attractive.
 
 * To edit your profile click on the line below the photo.
 
 ![Staminity profile personal settings](https://content.staminity.com/assets/images/_new/settings/user-menu-profile.png)
 
-Fill in the following information: 
+Fill in the following information:
 
 * **First name **and **Last name**
 * **Country **and **city**
@@ -98,7 +98,7 @@ The correct zones and threshold settings will allow to properly calculate the in
 
 To set up:
 
-* go to the “Training zones” section:   
+* go to the “Training zones” section:  
   ![Staminity training zones and FTP settings](https://content.staminity.com/assets/images/_new/settings/user-zones.png)
 
 * add sports for the intensity indicator \(pace, heart rate, power\);
@@ -108,6 +108,7 @@ To set up:
 * indicate the [LT](/basics/lactate-threshold.md) value, and for the heart rate -  resting heart rate and maximum heart rate;
 
 * choose one of the available training zones calculation [methods](/basics/intensity-zones.md) or choose “Manually” method to enter the values manually.
+
 * save the entered or calculated values.
 
 ![](http://content.staminity.com/assets/images/settings/SetZones.gif)
@@ -115,55 +116,55 @@ To set up:
 > Please note:  
 > he coach can set the training zones’ values and LT for his athletes. In order to do it, the coach has to choose the required athlete from the drop-down list in the “Settings” section and then enter and save the zones’ values for this athlete.
 
-### 5. Настройте автоматическую загрузку фактических тренировок {#sync}
+### 5. Download your activities automatically {#sync}
 
-В Стаминити реализована автоматическая загрузка тренировок из Garmin Connect и из Strava.  
+Staminity enables to download your activities from Garmin Connect and Strava automatically.  
 ![Staminity sync settings](http://content.staminity.com/assets/images/settings/Sync-settings.png)
 
-**Если у вас часы Garmin**, в настройках нужно ввести данные вашей учетной записи в Garmin Connect и тренировки с выбранной даты начальной синхронизации будут загружены в Стаминити. При выполнении каждой новой тренировки они будут автоматически загружаться в сервис.
+**If you have a Garmin watch,** in settings you should specify your Garmin Connect account information and all your activities starting from the selected date will be downloaded to Staminity. They will be automatically synced after every completed activity.
 
-**Если у вас есть аккаунт в Strava**, включайте синхронизацию в настройках и тренировки за три последних месяца будут загружены в Стаминити. Каждая новая тренировка также будет попадать в сервис.
+**If you have a Strava account,** you should turn on synchronization in settings section and then all your activities for the last three months will be downloaded to Staminity. Results of every new activity will be synced too.
 
-**Если у вас часы Polar, Suunto, Tomtom, Epson и т.п.**, то вам необходимо выполнить два действия:
+**If you have a Polar, Suunto, Tomtom, Epson, etc. watch**, you need to do two things:
 
-* Создать аккаунт в Strava и настроить синхронизацию тренировок между вашими часами и Strava
-* Настроить в Стаминити автоматическую загрузку тренировок из Strava.
+* Create an account at Strava and set up synchronization of your activities between your watch and Strava.
+* In Staminity you should set up the automatic downloading of your activities from Strava.
 
-Подробнее см. отдельную статью в справке [“Как загружать выполненные тренировки”](/questions/activity-auto-sync.md)
+More information in the article [“How to download the completed activities”](/questions/activity-auto-sync.md)
 
-### 6-1. Для спортсменов - найдите тренера или клуб и подключитесь к нему {#startcoach}
+### 6-1. For the athletes - find a coach or a club and join it {#startcoach}
 
-Для поиска тренера в левом меню выберите пункт **"Поиск"**  
+To search for a coach select the “**Search**” item in the menu to the left.   
 ![Staminity find coach](http://content.staminity.com/assets/images/_new/search/find-coach.png)
 
-**Подключиться к индивидуальному тренеру**  
-Запрос индивидуальным тренерам выполняется из профиля тренера.  
-Необходимо перейти в профиль тренера из результатов поиска и нажать на "Начать тренироваться".
+**Join a personal coach **
+
+A request to the personal coach is sent from the coach profile. In order to do it you need to go to the coach profile from the search results and click on “Join coach”.
 
 ![Staminity send request to coach](http://content.staminity.com/assets/images/StartCoaching_4.gif)
 
-Статус в профиле тренера "Заявка отправлена" покажет, что ваш запрос был адресован тренеру и ожидает его одобрения.
+A status in the coach profile "Your request has been sent" means that your request has been successfully sent and is waiting to be approved. 
 
 ---
 
-**Подключиться к клубу**  
-Чтобы начать работать с тренером в клубе, отправьте заявку на вступление в клуб. Запрос выполняется из профиля клуба.
+**Join a club**  
+In order to start working with a club coach, you need to send a request to join the club. The request is to be sent from the club profile.
 
-Перейдите в профиль клуба из результатов поиска и нажмите на **"Вступить в клуб"**.
+Go to the club profile from the search results and click on the** “Join club” **
 
-Когда ваша заявка будет одобрена клубом, клуб назначит для вас тренера из числа тренеров клуба.
+When your request is accepted by the club, the club will assign you one of its coaches. 
 
-### 6-2. Для тренеров в клубе - вступите в клуб {#clubconnect}
+### 6-2. For the club coaches - join a club {#clubconnect}
 
-Если вы работаете как тренер в клубе, вступите в клуб. Запрос на вступление выполняется из профиля клуба.
+If you work as a club coach, you should join a club. The request is to be sent from the club profile.
 
-Необходимо перейти в профиль клуба из результатов поиска и нажать на "Вступить в клуб".
+Go to the club profile from the search results and click on the “Join club”.
 
-Когда ваша заявка будет одобрена клубом, клуб назначит для вас роль "Тренер" и подключит к вам учеников.
+When your request is accepted by the club, the club will assign you the “Coach” role and connect some athletes to you. 
 
-### 7. Настройте доступ со смартфона {#mobile}
+### 7. Set up access from your smartphone {#mobile}
 
-Со смартфона в Staminity можно работать через мобильные приложения для Android и IOS, а также через браузер телефона.
+If you want to access Staminity from your smartphone, you can download mobile a mobile application for Android or iOS operating systems, or use it through the browser. 
 
-Подробнее о работе в приложении со смартфона описано в [отдельной статье](/basics/staminity-for-mobile.md) в справочной системе.
+More information about the mobile application you will find in [this article](/basics/staminity-for-mobile.md)
 
