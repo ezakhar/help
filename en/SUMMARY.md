@@ -3,7 +3,7 @@
 ## О сервисе
 
 * [Introduction](README.md)
-* [What is Staminity](about/staminity.md)
+* [Что такое Стаминити](about/staminity.md)
 * [Стаминити для спортсмена](athletes/staminity-for-athlete.md)
 * [Стаминити для тренера](coaches/staminity-for-coach.md)
 * [Стаминити для клуба](clubs/staminity-for-clubs.md)
