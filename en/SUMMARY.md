@@ -15,7 +15,7 @@
 * [Как загружать выполненные тренировки](questions/activity-auto-sync.md)
 * [Как работать с мобильных устройств](basics/staminity-for-mobile.md)
 * [Календарь тренировок - основной экран для спортсмена](basics/calendar.md)
-* [Дэшборд или Недельный обзор](basics/coach-dashboard.md)
+* [Дэшборд или Недельный обзор - для тренера и менеджера клуба](basics/coach-dashboard.md)
 * [Запланировать тренировку](basics/create-plan-activity.md)
 * [Выполнить тренировку](basics/complete-activity.md)
 * [Проанализировать выполненную тренировку](basics/analyse-detailed-activity.md)
