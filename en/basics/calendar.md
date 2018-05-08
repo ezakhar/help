@@ -1,65 +1,40 @@
-# Тренировочный календарь
+# Training calendar
 
-Тренировочный календарь - основное представление Стаминити.  
-Календарь содержит расписание тренировок на неделю, запланированных и выполненных. Он поможет оценить статус выполнения плана на неделю и сложность отдельных заданий.
+* [Calendar navigation](#navigation)
+* [Records in calendar](#calendaritems)
 
-![](http://content.staminity.com/assets/images/calendar/calendar-new.png)
+### Calendar navigation {#navigation}
 
-В календаре спортсмена отображаются:
-* [тренировочные задания](#activities), 
-* [события, измерения и соревнования](#items).
+Calendar - the main view in Staminity.  
+Calendar contains schedule of planned and completed activities for the week. It will help to estimate the progress of the plan’s execution and complexity of separate tasks.
 
-Тренер может открыть календарь любого [своего ученика](#athletecalendar).
+![Calendar in Staminity](https://content.staminity.com/assets/images/_new/calendar/calendar-navigation.png)
 
-### Тренировочные задания{#activities}
+**Content of the calendar: **
 
-В Стаминити существует два типа тренировочных заданий: задания в целом на тренировку и задания по отдельным тренировочным сегментам. Тренер и спортсмен смогут выбрать подходящий для них вариант.
+* 1 - Choose an athlete \(for coach\);
+* 2 - Switch weeks;
+* 3 - Buttons, allowing you to go to “Today” date or any chosen date;
+* 4 - Buttons “Copy”, “Paste”, and “Delete” used for mass actions with activities in the calendar;
+* 5 - Switch between “Full” and “Compact” views;
+* 6 - Notifications register and requests register;
+* 7 - Go to personal menu to access “Settings” and “Profile” sections, proceed to Help Center, apply to support service, sign out or change language.
+* 8 - Calendar week displaying planned and completed activities, competitions, events and measurements;
+* 9 - Summary. Planned and completed distance/duration by activity types, percent of completion for the week;
+* 10 - Current mesocycle. It is defined based on the season plan;
+* 11 - Templates panel. You can plan an activity by simply dragging the required template to the calendar.
 
-* **Задания в целом на тренировку.** План в них задается итоговыми показателями, а нюансы задания описываются текстом.
+### Records in calendar {#calendaritems}
 
-* **Структурированные тренировки, с планом по сегментам.** В таких заданиях тренировка разбивается на отдельные тренировочные сегменты и в каждом сегменте планируется его длительность и интенсивность.
+The following information is displayed in training week:
 
-Как выглядит одна и та же тренировка
- _"Разминка 8 км, далее работа 4 км по 3:45-3:50 мин/км через отдых 3 минуты, заминка 1 км"_, 
- созданная с планом по сегментам и без него:
-![](http://content.staminity.com/assets/images/about/two-activity-type.png)
+![](https://content.staminity.com/assets/images/_new/calendar/calendar-calendaritems.png)
 
-
-По структурированным тренировкам план выполнения рассчитывается автоматически по каждому сегменту, что позволяет тренеру быстрее оценить корректность выполнения задания.
-
-В календаре эти типы тренировочных заданий отображаются по-разному.
-![](http://content.staminity.com/assets/images/ActivityTypes.jpg)
-
-_Слева – запланированная тренировка с планом в целом по заданию, с текстовой установкой тренера. Справа – выполненная структурированная, с заданием по отдельным сегментам_
-
-Цвет тренировочных заданий в календаре отличается в зависимости от статуса выполнения плана.
-
-![](http://content.staminity.com/assets/images/ActivityStatuses.png)
-* Задание **запланировано** - введен план, дата задания больше или равна сегодняшней
-* Задание **выполнено полностью** - есть план и факт, отклонение от плана меньше 10%
-* Задание **выполнено с отклонениями** - есть план и факт, отклонение от плана 10-20%
-* Задание **выполнено с существенными отклонениями** - есть план и факт, отклонение от плана больше 20%
-* Задание **не выполнено** - введен план, факт отсутствует, дата задания раньше, чем сегодня.
-* Задание **выполнено без плана** - фактическая тренировка, выполненная без плана. 
-
-### События, измерения и соревнования{#items}
-
-Вместе с тренировочными заданиями и выполненными тренировками в календаре отображаются события, измерения и соревнования.
-
-* **Событие** - запись о фактически произошедшем или запланированном событии , важным для тренировочного процесса. Примеры событий: день отдыха, медицинское обследование, обслуживание велосипеда, перелет и пр.
-
-* **Измерение** - запись результатов измерений спортсмена. Примеры: рост, вес, часов сна, общее самочувствие.
-
-* **Соревнование** - запись календаря содержащая информацию о запланированном или завершенном соревновании.
-
-### Выбрать спортсмена для просмотра календаря {#athletecalendar}
-> Только для тренеров
-
-Чтобы просмотреть тренировочный календарь для спортсмена тренеру необходимо перейти в представление "Календарь" и выбрать нужного спортсмена в выпадающем списке.
-![](http://content.staminity.com/assets/images/calendar/athlete-selector.gif)
-
-
-
+1. Planned and completed [simple activities](/basics/create-plan-activity.md) with a plan for the whole activity;
+2. Planned and completed [structured activities](/basics/create-plan-activity.md). Here the plan is divided into several segments;
+3. [**Competitions**](/basics/competition.md) - a record with information about planned or completed competition.
+4. [**Measurements**](/basics/create-record.md#measurement) - a record with information about measurements. Examples: height, weight, sleep hours, overall feeling.
+5. [**Events**](/basics/create-record.md#event) - a record with information about an important for the training process event that has happened or is planned to happen. Examples of events: rest day, medical examination, bike servicing, travel etc.
 
 
 

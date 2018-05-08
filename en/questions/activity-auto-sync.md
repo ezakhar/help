@@ -1,6 +1,7 @@
-#Автоматическая загрузка тренировок
+# An automatic upload of the completed activities to Staminity
 
-В этом разделе описаны настройки, которые необходимо сделать для автоматической загрузки фактических тренировок из различных источников:
+This section describes how to set up an automatic upload of the completed activities from various sources to Staminity:
+
 * [Garmin Connect](#garmin)
 * [Strava](#strava)
 * [Polar](#polar)
@@ -8,58 +9,66 @@
 * TomTom
 * Epson Watch
 
-###Загрузка тренировок из Garmin connect {#garmin}
-Для загрузки тренировок из Garmin Connect необходимо перейти в Настройки, в разделе "Настройка интеграции" перевести  переключатель для Garmin Connect в положение "Вкл", в появившемся окне указать имя и пароль, а также дату начальной синхронизации. 
+### Uploading activities from Garmin Connect {#garmin}
+
+In order to upload your activities from Garmin Connect you need to go to the **Settings** and in the **“Synchronization settings”** section set the Garmin Connect switch in the “turn on” mode. In the appeared window you need to fill in your name and password for Garmin Connect and sync start date.
 
 ![](http://content.staminity.com/assets/images/settings/GarminConnectSync.png)
 
-Все тренировки, начиная с указанной даты, будут загружены в Стаминити.
-После завершения синхронизации вы получите уведомление.
+All the activities starting from the set date will be uploaded to Staminity.  
+Upon completion of synchronization, you will receive a corresponding notification.
 
-**Обратите внимание!** Для загрузки тренировок Стаминити требуется доступ к информации о ваших тренировках в Garmin Connect. Для этого при включении синхронизации в Garmin  доступ к информации о тренировках будет открыт для подключенных пользователей (Настройки учетной записи - Настройки конфиденциальности - Кто видит мои занятия - Подключенные пользователи).
+**Please note! **In order to upload your activities, Staminity will need access to information about your activities in Garmin Connect. For this purpose, when you set up synchronisation with Garmin, an access to the information about your activities will be provided to the connected users.
+>Settings in Garmin:
+Profile settings - Privacy settings - Who can see my activities - My connections.
 
-Если изменить данную настройку, тренировки не будут загружаться в Стаминити.
+If you change this option, your activities won’t be uploading to Staminity.
 
-###Загрузка тренировок из Strava{#strava}
-Для загрузки тренировок из Strava необходимо перейти в Настройки, в разделе "Настройка интеграции" включить синхронизацию и в открывшемся окне подтвердить подключение. 
+### Uploading activities from Strava {#strava}
+
+In order to upload your activities from Strava you need to go to the Settings and turn on synchronization in the “Synchronization settings” section. In the appeared window you need to confirm synchronization.
 
 ![](http://content.staminity.com/assets/images/settings/StravaConnectSync.png)
 
-После этого запустится начальная синхронизация. В связи с особенностью Strava, в Стаминити будут загружены тренировки за последние 3 месяца. После окончания начальной синхронизации вы получите уведомление.
+An initial synchronization will start after that. Due to the distinctive feature of Strava, only activities completed during the last three months will be uploaded to Staminity. Upon completion of the initial synchronization, you will receive a corresponding notification.
 
-При необходимости можно изменить дату начала синхронизации в настройках. Для этого щелкните по строчке с провайдером и укажите нужную дату начала синхронизации.
+If needed, you can change the synchronization start date in settings. In order to do it you need to click on the provider and set the required sync start date.
 
-###Автоматическая загрузка тренировок из Polar{#polar}
-Прямая загрузка тренировок из Polar в Стаминити в разработке, но возможно настроить автоматическую синхронизацию тренировок через Strava.
+### Uploading activities from Polar{#polar}
 
-**Как это сделать:**
+Direct upload of your activities from Polar to Staminity is under development, but it is possible to set up an automatic synchronization of your activities through Strava.
 
-Если у вас уже есть аккаунт в Страва, перейдите к шагу 2.
-Если нет
+**How to set up:**
 
-1. Зайдите в Strava (https://strava.com) и создайте новый аккаунт. Функции Premium не нужны, достаточно базового аккаунта.
+If you have an account at Strava, please proceed to the step 2.  
+If you don't:
 
-2. Зайдите настройки вашего аккаунта в Polar Flow (https://flow.polar.com), и в разделе "Учетная запись" нажмите **Подключиться** для приложения Strava
-![](http://content.staminity.com/assets/images/settings/Polar-Flow-Settings.png)
+1. Go to Strava \([https://strava.com](https://strava.com)\) and create a new account. You don’t need the Premium features, a basic account is enough.
 
-3. Там же, в разделе "Настройки" - "Конфиденциальность" укажите, что доступ к вашим тренировкам могут получить "Читатели":
-![](http://content.staminity.com/assets/images/settings/Polar-Flow-Settings-Privacy.png)
-Сохраните настройки в Polar flow. Теперь все ваши тренировки, выполненные в часах Polar, будут попадать в Strava.
+2. Go to settings in your Polar Flow \([https://flow.polar.com](https://flow.polar.com)\) account and click on **Connect **for the Strava application.  
+   ![](http://content.staminity.com/assets/images/settings/Polar-Flow-Settings.png)
 
-4. Настройте [синхронизацию Strava и Стаминити](#strava), как описано выше.
+3. In the same section “Settings” - “Privacy” you need to set the “Followers” to have an access to your activities:  
+   ![](http://content.staminity.com/assets/images/settings/Polar-Flow-Settings-Privacy.png)  
+   Save settings in Polar flow. Now all the activities completed in Polar watches will sync to Strava.
 
-###Автоматическая загрузка тренировок из Suunto{#suunto}
-Прямая загрузка тренировок из Suunto в Стаминити в разработке, но возможно настроить автоматическую синхронизацию тренировок через Strava.
+4. Set up an [automatic upload of activities from Strava to Staminity](#strava) as described above.
 
-**Как это сделать:**
+### Uploading activities from Suunto {#suunto}
 
-Если у вас уже есть аккаунт в Страва, перейдите к шагу 2.
-Если нет
+Direct upload of your activities from Suunto to Staminity is under development, but it is possible to set up an automatic synchronization of your activities through Strava.
 
-1. Зайдите в Strava (https://strava.com) и создайте новый аккаунт. Функции Premium не нужны, достаточно базового аккаунта.
+**How to set up:**
 
-2. Зайдите в Suunto Movescount (https://movescount.com), и в разделе "Настройки" (Settings) - "Прочие спортивные службы" (Other sport settings) нажмите **Connect with Strava** 
-![](http://content.staminity.com/assets/images/settings/Movescount-Settings.png)
-Сохраните настройки. Теперь все ваши тренировки, выполненные в часах Suunto, будут попадать в Strava.
+If you have an account at Strava, please proceed to the step 2.  
+If you don't:
 
-3. Настройте [синхронизацию Strava и Стаминити](#strava), как описано выше.
+1. Go to Strava \([https://strava.com](https://strava.com)\) and create a new account. You don’t need the Premium features, a basic account is enough.
+
+2. Go to Suunto Movescount \([https://movescount.com](https://movescount.com)\) and in the “Settings” section - “Other sport settings” click on **Connect with Strava. **  
+   ![](http://content.staminity.com/assets/images/settings/Movescount-Settings.png)  
+   Save settings. Now all the activities completed in Suunto watches will sync to Strava.
+
+3. Set up an [automatic upload of activities from Strava to Staminity](#strava) as described above.
+
+

@@ -1,60 +1,71 @@
-#Работа с мобильных устройств в Стаминити
+#How to use Staminity on your mobile device
+* [Through mobile applications for Android or iOS](#mobile)
+* [Through a browser on your phone or tablet](#pwa)
 
-* [Через браузер смартфона или планшета](#pwa)
-* [Через мобильные приложение на Android и iOS (бета)](#mobile)
+###Through mobile applications for Android or iOS{#mobile}
 
-###Через браузер смартфона или планшета{#pwa}
+You can download Staminity mobile app for Android or iOS operating systems. Mobile apps cannot completely substitute a full-fledged web version but they can help you to check your plan for today or change the planned activity. 
 
-Пока мобильные приложения для IOS и Android находятся в статусе бета-тестирования и отстают по набору функций от веб-приложения, мы сделали версию приложения для работы через браузер мобильных устройств.
+![Стаминити для компьютера и смартфона](https://content.staminity.com/assets/images/mobile/mobile-options-2.png)
+
+Download the mobile app in App Store and Google Play:
+
+<div class="td-guide__downloads">
+<a target="_blank" href="https://itunes.apple.com/app/true/id1257031952">
+<img src="https://d3ptyyxy2at9ui.cloudfront.net/2e92241a82d85ff0065c23fac1a645df.svg" alt="Скачать приложение для IOS"></a>
+
+<a target="_blank" href="https://play.google.com/store/apps/details?id=com.staminity.phoneapp">
+<img src="https://d3ptyyxy2at9ui.cloudfront.net/3371f0722d31099070bef0f710811816.svg" alt="Скачать приложение для Android"></a>
+</div>
+
+  <style>
+   .td-guide__downloads {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
+}     
+  </style>
+
+Features provided in mobile apps:
+
+* View your or your athlete’s (for coaches) calendar;
+* Plan activity, change a plan;
+* Analyze a completed activity;
+* Plan a competition;
+* Create an event (plan a rest day, diet or time your supplements);
+* Register a measurement (weight, resting HR, ….);
+* Write a report to your coach on the completed activity or answer the athlete’s question;
+* Receive a notification on the completed or planned activity, find out about a new comment.
+
+The main distinctive feature of the mobile apps are the **push notifications**. Now you won’t miss a new plan from the coach, activity downloaded by provider or new comments to activity.
+
+Comparing features of different Staminity versions:
+
+![Стаминити для компьютера и смартфона](https://content.staminity.com/assets/images/mobile/web-mobile-compare.png)
+
+Choose a version that suits your needs.
+
+###Through a browser on your phone or tablet{#pwa}
+You can access Staminity website through a browser on your phone or tablet.  A special adaptive version for mobile devices makes work in Staminity easy and convenient.
 
 ![Стаминити для компьютера и смартфона](https://content.staminity.com/assets/images/mobile-pwa/Desktop-and-mobile2.png)
 
-В Стаминити можно просто зайти через браузер смартфона, но гораздо удобнее сохранить приложение на рабочий стол вашего устройства. Это позволит работать с ним практически как с обычным приложением для телефона.
+If you often use the adaptive version of the website, we recommend you to save the app on your device’s desktop. Thus, you can use Staminity almost like a regular mobile app.
 
-Для этого откройте сайт [https://staminity.com](https://staminity.com) через браузер вашего смартфона и сохраните приложение на рабочий стол
+In order to do it, open the website [https://staminity.com](https://staminity.com) through a browser on your smartphone and set “Add to Homescreen” in the browser’s settings
 
 <p style="text-align:center"><img src="https://content.staminity.com/assets/images/mobile-pwa/save-to-desktop.gif" alt="Сохранить приложение на рабочий стол смартфона"/></p>
 
-После этого при первом входе в приложение нужно ввести имя и пароль, либо войти через социальные сети:
+After that, when you will sign in for the first time, you will need to enter your name and password or authorize through social networks:
 
 <p style="text-align:center"><img src="https://content.staminity.com/assets/images/mobile-pwa/signin-pwa.gif" alt="Вход в приложение"/></p>
 
-Приложение запомнит введенные данные и в дальнейшем можно входить в приложение без ввода имени и пароля. 
-В мобильном приложении доступны все основные функции Стаминити:
-* можно запланировать тренировку и просмотреть план, 
-* открыть и проанализировать выполненную тренировку,
-* написать отчет тренеру в чате.
-
-<p style="text-align:center"><img src="https://content.staminity.com/assets/images/mobile-pwa/signin-and-analyze.gif" alt="Работа в Стаминити со смартфона"/></p>
-
-Для тренера можно перейти в календарь ученика и запланировать новую тренировку, либо посмотреть одну из выполненных
-
-
-<p style="text-align:center"><img src="https://content.staminity.com/assets/images/mobile-pwa/select-coach.gif" alt="Выбрать спортсмена в Стаминити"/></p>
-
-
-###Через мобильные приложения для Android и iOS{#mobile}
-Началось бета-тестирование мобильных приложений для Android и iOS.
-
-Основное отличие от версии для браузера - пуш-уведомления. Теперь вы не пропустите новый план от тренера, загруженную тренировку от провайдера и новые комментарии в тренировке.
-
-Но пока функциональность мобильных версий проигрывает возможностям веб-версии. 
-Мобильные приложения позволяют:
-
-**Для спортсменов:**
-* Получать и просматривать плановые тренировки от тренера (за исключением структурированных)
-* Просматривать выполненные тренировки (за исключением структурированных)
-* Переписываться с тренером
-* Получать пуш-уведомления, переходить из уведомлений в тренировку
-* Просматривать реестр уведомлений, переходить из уведомлений в тренировку
-
-**Для тренеров:**
-* просматривать календари тренировок учеников 
-* просматривать запланированные и выполненные тренировки учеников (кроме структурированных)
-* переписываться с учениками
-* получать пуш-уведомления, переходить из уведомлений в тренировку
-* просматривать реестр уведомлений, переходить из уведомлений в тренировку
-
-**Как установить приложения:**
-* Чтобы подключиться к тестированию приложения для iPhone, [заполните анкету](https://goo.gl/forms/4Oe4mjNo9T8lyGWU2) (google forms).
-* Скачать бета-версию приложения для Android можно в [Google Play](https://play.google.com/store/apps/details?id=com.staminity.phoneapp)
+The application will save the entered data and from now on you won’t need to enter your name and password when signing in. 
