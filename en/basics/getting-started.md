@@ -5,7 +5,7 @@
 * [3-1. Set up the profile](#profile)
 * [3-2. For the coach - set up the Coach profile](#сoachprofile) 
 * [4. Set up the training zones and thresholds ](#trainingzones)
-* [5. Download your activities automatically  ](#sync)
+* [5. Set up an automatic upload of your completed activities to Staminity](#sync)
 * [6-1. For the athletes - find a coach or a club and join it](https://legacy.gitbook.com/book/staminity/help/edit#) 
 * [6-2.  For the club coaches - join a club](#clubconnect)
 * [7. Set up access from your smartphone](#mobile)
@@ -116,7 +116,7 @@ To set up:
 > Please note:  
 > The coach can set the training zones’ values and LT for his athletes. In order to do it, the coach has to choose the required athlete from the drop-down list in the “Settings” section and then enter and save the zones’ values for this athlete.
 
-### 5. Set up an automatic upload of your completed activities to Staminity  {#sync}
+### 5. Set up an automatic upload of your completed activities to Staminity {#sync}
 
 Staminity enables to upload your activities from Garmin Connect and Strava automatically.  
 ![Staminity sync settings](http://content.staminity.com/assets/images/settings/Sync-settings.png)
