@@ -3,13 +3,13 @@
 ## О сервисе
 
 * [Introduction](README.md)
-* [Что такое Стаминити](about/staminity.md)
-* [Стаминити для спортсмена](athletes/staminity-for-athlete.md)
-* [Стаминити для тренера](coaches/staminity-for-coach.md)
-* [Стаминити для клуба](clubs/staminity-for-clubs.md)
+* [Что такое Staminity](about/staminity.md)
+* [Staminity для спортсмена](athletes/staminity-for-athlete.md)
+* [Staminity для тренера](coaches/staminity-for-coach.md)
+* [Staminity для клуба](clubs/staminity-for-clubs.md)
 * [История версий](version-history.md)
 
-## Основы работы в Стаминити
+## Основы работы в Staminity
 
 * [С чего начать](basics/getting-started.md)
 * [Как загружать выполненные тренировки](questions/activity-auto-sync.md)
