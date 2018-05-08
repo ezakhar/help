@@ -11,7 +11,7 @@ This section describes how to set up an automatic upload of the completed activi
 
 ### Uploading activities from Garmin Connect {#garmin}
 
-In order to upload your activities from Garmin Connect you need to go to the Settings and in the “Synchronization settings” set the Garmin Connect switch in the “turn on” mode. In the appeared window you need to fill in the name, password, and sync start date.
+In order to upload your activities from Garmin Connect you need to go to the Settings and in the “Synchronization settings” section set the Garmin Connect switch in the “turn on” mode. In the appeared window you need to fill in your name, password, and sync start date.
 
 ![](http://content.staminity.com/assets/images/settings/GarminConnectSync.png)
 
@@ -32,13 +32,15 @@ An initial synchronization will start after that. Due to the distinctive feature
 
 If needed, you can change the synchronization start date in settings. In order to do it you need to click on the provider and set the required sync start date.
 
-### Uploading activities from Polar {#polar}
+### Uploading activities from Polar
+
+{\#polar}
 
 Direct upload of your activities from Polar to Staminity is under development, but it is possible to set up an automatic synchronization of your activities through Strava.
 
 **How to set up:**
 
-If you have an account at Strava, please proceed to the step 2.   
+If you have an account at Strava, please proceed to the step 2.  
 If you don't:
 
 1. Go to Strava \([https://strava.com](https://strava.com)\) and create a new account. You don’t need the Premium features, a basic account is enough.
@@ -67,7 +69,7 @@ If you don't:
    ![](http://content.staminity.com/assets/images/settings/Movescount-Settings.png)  
    Save settings. Now all the activities completed in Suunto watches will sync to Strava.
 
-3. Set up an [automatic upload of activities from Strava to Staminity](https://legacy.gitbook.com/book/staminity/help/edit#) as described above. 
+3. Set up an [automatic upload of activities from Strava to Staminity](https://legacy.gitbook.com/book/staminity/help/edit#) as described above.
 
 
 
