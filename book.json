@@ -2,9 +2,7 @@
     "plugins": [
     "theme-faq",
     "-fontsettings",
-    "-sharing",
-    "videoclips",
-    "mermaid"
+    "-sharing"
     ],
 "pluginsConfig": 
         {}}
