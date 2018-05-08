@@ -15,11 +15,12 @@
 * [Как загружать выполненные тренировки](questions/activity-auto-sync.md)
 * [Как работать с мобильных устройств](basics/staminity-for-mobile.md)
 * [Календарь тренировок - основной экран для спортсмена](basics/calendar.md)
+* [Дэшборд или Недельный обзор](basics/coach-dashboard.md)
 * [Запланировать тренировку](basics/create-plan-activity.md)
 * [Выполнить тренировку](basics/complete-activity.md)
 * [Проанализировать выполненную тренировку](basics/analyse-detailed-activity.md)
+* [Создать соревнование](basics/competition.md)
 * [Создать событие и измерение](basics/create-record.md)
-* [Запланировать соревнование](basics/competition.md)
 
 ## Продвинутые возможности
 
