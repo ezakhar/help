@@ -1,12 +1,12 @@
 #What is Staminity
 
-[Staminity](https://staminity.com) is a platform providing remote interaction between the coach and athletes, possibility to keep a training diary and analyze the training process. 
+[Staminity](https://staminity.com) is an application providing remote interaction between the coach and athletes, possibility to keep a training diary and analyze the training process. 
 
 It is created for athletes, coaches and clubs that specialize in triathlon, running, cycling, swimming and other cyclic sports. 
 
-* **For ahtletes** we help  to train online with a coach or independently in order to achieve the set goals;
+* **For ahtletes** we help  to train online with a coach or independently in order to achieve the set goals in cyclic sports;
 * **For coaches** we help to work with athletes and reduce routine in planning, communications and analyzis; 
-* **For clubs** we help to manage a club.
+* **For clubs** we help to organise collaborative work several coaches with athletes and manage a club.
 
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/Y_H-ffsqMT8' frameborder='0' allowfullscreen></iframe></div>
@@ -21,7 +21,7 @@ It is created for athletes, coaches and clubs that specialize in triathlon, runn
 
 * [Auto upload](/questions/activity-auto-sync.md) of completed activities and their comparison with the plan 
 
-* Two types of tasks: for whole activity and for every activity segment:
+* Two types of activities: for whole activity and for every activity segment:
 ![Two types of activity plan in Staminity](https://content.staminity.com/assets/images/about/two-activity-type.png)
 
 * Your own templates and categories of activities:
@@ -35,7 +35,7 @@ It is created for athletes, coaches and clubs that specialize in triathlon, runn
 * Detailed analysis of each activity 
 ![Activity analysis in Staminity](https://content.staminity.com/assets/images/about/activity-details.png)
 
-* Analysis of task completion by segments, in LT percents: 
+* Analysis of activity completion by segments, in LT percents: 
 ![Structured activity analysis in Staminity](https://content.staminity.com/assets/images/about/activity-structured2.png)
 
 * Swim analysis:
@@ -55,7 +55,7 @@ It is created for athletes, coaches and clubs that specialize in triathlon, runn
 * Mass actions in dashboard and calendar:
 ![copy paste activities in Staminity](https://content.staminity.com/assets/images/about/copy-paste.gif)
 
-* Fast creation of activities with the help of templates:
+* Fast creation of activities with templates:
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/CdPF1MPI-cc' frameborder='0' allowfullscreen></iframe></div>
 
@@ -64,7 +64,7 @@ It is created for athletes, coaches and clubs that specialize in triathlon, runn
 * Single and repeated events in training calendar important for training process (travel, diet, problem, supplements, rest day, sickness, etc):
 ![Events in training calendar in Staminity](https://content.staminity.com/assets/images/about/record-foods.png)
 
-* Activity plan with images, text and video:
+* Activity plan with images, rich text and video:
 ![Activity plan with video in Staminity](http://blog.staminity.com/content/images/2018/01/activity-formatted-view.gif)
 
 * Athletes management
