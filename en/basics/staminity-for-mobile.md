@@ -41,7 +41,7 @@ Features provided in mobile apps:
 * Analyze a completed activity;
 * Plan a competition;
 * Create an event (plan a rest day, diet or time your supplements);
-* Register an indicator’s value (weight, resting HR, ….);
+* Register a measurement (weight, resting HR, ….);
 * Write a report to your coach on the completed activity or answer the athlete’s question;
 * Receive a notification on the completed or planned activity, find out about a new comment.
 

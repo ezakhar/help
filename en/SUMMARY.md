@@ -12,9 +12,9 @@
 ## Basics
 
 * [Getting started](basics/getting-started.md)
-* [Как загружать выполненные тренировки](questions/activity-auto-sync.md)
-* [Как работать с мобильных устройств](basics/staminity-for-mobile.md)
-* [Календарь тренировок - основной экран для спортсмена](basics/calendar.md)
+* [How to upload completed activities to Staminity](questions/activity-auto-sync.md)
+* [How to use Staminity on your mobile device](basics/staminity-for-mobile.md)
+* [Training calendar - the main view for athletes](basics/calendar.md)
 * [Дэшборд или Недельный обзор - для тренера и менеджера клуба](basics/coach-dashboard.md)
 * [Запланировать тренировку](basics/create-plan-activity.md)
 * [Выполнить тренировку](basics/complete-activity.md)
