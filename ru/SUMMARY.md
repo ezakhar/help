@@ -3,25 +3,24 @@
 ## О сервисе
 
 * [Introduction](README.md)
-* [Что такое Стаминити](about/staminity.md)
-* [Стаминити для спортсмена](athletes/staminity-for-athlete.md)
-* [Стаминити для тренера](coaches/staminity-for-coach.md)
-* [Стаминити для клуба](clubs/staminity-for-clubs.md)
+* [Что такое Staminity](about/staminity.md)
+* [Staminity для спортсмена](athletes/staminity-for-athlete.md)
+* [Staminity для тренера](coaches/staminity-for-coach.md)
+* [Staminity для клуба](clubs/staminity-for-clubs.md)
 * [История версий](version-history.md)
 
-## Основы работы в Стаминити
+## Основы работы в Staminity
 
 * [С чего начать](basics/getting-started.md)
 * [Как загружать выполненные тренировки](questions/activity-auto-sync.md)
 * [Как работать с мобильных устройств](basics/staminity-for-mobile.md)
 * [Календарь тренировок - основной экран для спортсмена](basics/calendar.md)
+* [Дэшборд или Недельный обзор](basics/coach-dashboard.md)
 * [Запланировать тренировку](basics/create-plan-activity.md)
 * [Выполнить тренировку](basics/complete-activity.md)
 * [Проанализировать выполненную тренировку](basics/analyse-detailed-activity.md)
-* [Проанализировать выполненную структурированную тренировку](basics/analyse-detailed-structured-activity.md)
+* [Создать соревнование](basics/competition.md)
 * [Создать событие и измерение](basics/create-record.md)
-* [Соревнования](basics/competition.md)
-* [Рассчитываемые показатели в Стаминити](basics/measures.md)
 
 ## Продвинутые возможности
 
