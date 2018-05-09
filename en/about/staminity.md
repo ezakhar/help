@@ -70,23 +70,23 @@ It is created for athletes, coaches and clubs that specialize in triathlon, runn
 * Athletes management
 
 ###Special features for clubs
-* Club management: join and drop off club members, assign club roles (coach, athlete, manager), assign coach to athletes
+* Club management: add and delete club members, assign club roles (coach, athlete, manager), assign coach to athletes
 ![Club management in Staminity](https://content.staminity.com/assets/images/about/club-management.png)
 
-* Club dashboard for review training process for all club athletes:  
+* Club dashboard to review training process of all club athletes and control the coaches' work:  
 ![Обзор выполнения тренировок клуба Staminity](https://content.staminity.com/assets/images/about/club-dashboard.png)
 
-* Club methodology: activity templates and categories
+* Club templates and categories of activities
 ![Клубные шаблоны и категории тренировок в Staminity](https://content.staminity.com/assets/images/about/club-methodology.png)
 
 
-#Available from computer and [mobile devices](/basics/staminity-for-mobile.md)
+#Available from PC and [mobile devices](/basics/staminity-for-mobile.md)
 
 ![Staminity for mobile](https://content.staminity.com/assets/images/mobile-pwa/Desktop-and-mobile2.png)
 
 #Need help?
-If you have any questions about Staminity please do not hesitate to contact us: 
-* In Telegram: [@staminitysupportbot](https://t.me/staminitysupportbot) 
-* On support portal: [support.staminity.com](https://support.staminity.com)
+If you have any questions about Staminity do not hesitate to contact us: 
+* Via Telegram: [@staminitysupportbot](https://t.me/staminitysupportbot) 
+* Via support portal: [support.staminity.com](https://support.staminity.com)
 * Via email: [support@staminity.com](mailto:support@staminity.com)
-* On our [Facebook](https://facebook.com/staminity) or [VK](https://vk.com/staminity) pages
+* Via our [Facebook](https://facebook.com/staminity) or [VK](https://vk.com/staminity) pages
