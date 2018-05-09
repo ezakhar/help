@@ -5,7 +5,7 @@
 It is created for athletes, coaches and clubs that specialize in triathlon, running, cycling, swimming and other cyclic sports. 
 
 * **For ahtletes** we help  to train online with a coach or independently in order to achieve the set goals in cyclic sports;
-* **For coaches** we help to work with athletes and reduce routine in planning, communications and analyzis; 
+* **For coaches** we help to work with athletes and reduce routine in planning, communications and analysis; 
 * **For clubs** we help to organise collaborative work several coaches with athletes and manage a club.
 
 
