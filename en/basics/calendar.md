@@ -1,40 +1,40 @@
-# Тренировочный календарь
+# Calendar
 
-* [Навигация в календаре](#navigation)
-* [Записи в календаре](#calendaritems)
+* [Calendar navigation](#navigation)
+* [Records in calendar](#calendaritems)
 
-### Навигация в календаре {#navigation}
-Тренировочный календарь - основное представление Стаминити.  
-Календарь содержит расписание тренировок на неделю, запланированных и выполненных. Он поможет оценить статус выполнения плана на неделю и сложность отдельных заданий.
+### Calendar navigation {#navigation}
 
+Calendar - the main view in Staminity.   
+Calendar contains schedule of planned and completed activities for the week. It will help to estimate the progress of the plan’s execution and complexity of separate tasks.
 
 ![](https://content.staminity.com/assets/images/_new/calendar/calendar-navigation.png)
 
-**Содержимое окна календаря: **
-* 1 - Выбор спортсмена (для тренера);
-* 2 - Переключатель недель;
-* 3 - Кнопки перехода на "Сегодня" и на любую выбранную дату в календаре;
-* 4 - Кнопки "Копировать", "Вставить" и "Удалить" для массовых операций с тренировками в календаре;
-* 5 - Переключатель режима отображения "Полный" / "Компактный"
-* 6 - Реестр уведомлений и реестр запросов
-* 7 - Переход в персональное меню для доступа к разделам "Настройки", "Профиль", перехода к справочной системе, для обращения в поддержку, выхода из системы и для переключения языка.
-* 8 - Неделя календаря, в которой отображаются запланированные и выполненные тренировочные задания, соревнования, события и измерения.
-* 9 - Итоги недели. Запланированные и выполненные объемы по видам спорта, общий процент выполнения плана за неделю
-* 10 - Текущий мезоцикл. Определяется на основании плана на сезон
-* 11 - Панель шаблонов. Запланировать тренировку на основании шаблона можно простым перетаскиванием нужного шаблона в календарь.
+**Content of the calendar: **
 
-### Записи в календаре {#calendaritems}
+* 1 - Choose an athlete \(for coach\);
+* 2 - Switch weeks;
+* 3 - Buttons, allowing you to go to “Today” date or any chosen date;
+* 4 - Buttons “Copy”, “Paste”, and “Delete” used for mass actions with activities in the calendar;
+* 5 - Switch between “Full” and “Compact” views;
+* 6 - Notifications register and requests register;
+* 7 - Go to personal menu to access “Settings” and “Profile” sections, proceed to Help Center, apply to support service, sign out or change language.
+* 8 - Calendar week displaying planned and completed tasks, competitions, events and measurements;
+* 9 - Summary. Planned and completed distance/duration by activity types, percent of activities completion for the week;
+* 10 - Current mesocycle. It is defined based on the season plan;
+* 11 - Templates panel. You can plan an activity by simply dragging the required template to the calendar.
 
-В тренировочной неделе в календаре отображаются:
+### Records in calendar {#calendaritems}
+
+The following information is displayed in training week:
 
 ![](https://content.staminity.com/assets/images/_new/calendar/calendar-calendaritems.png)
 
-1. Запланированные и выполненные [тренировочные задания](/basics/create-plan-activity.md) с планом на всю тренировку;
-2. Запланированные и выполненные [структурированные тренировки](/basics/create-plan-activity.md), в которых план разбит по нескольким сегментам;
-3. **[Соревнования](/basics/competition.md)** - запись календаря, содержащая информацию о запланированном или завершенном соревновании.
-4. **[Измерения](/basics/create-record.md#measurement)** - запись результатов измерений спортсмена. Примеры: рост, вес, часов сна, общее самочувствие.
-5. **[События](/basics/create-record.md#event)** - запись о фактически произошедшем или запланированном событии , важным для тренировочного процесса. Примеры событий: день отдыха, медицинское обследование, обслуживание велосипеда, перелет и пр.
-
+1. Planned and completed [tasks ](/basics/create-plan-activity.md)with a plan for the whole activity;
+2. Planned and completed [structured activities](/basics/create-plan-activity.md). Here the plan is divided into several segments;
+3. [**Competitions**](/basics/competition.md) - a record with information about planned or completed competition.
+4. [**Measurements**](/basics/create-record.md#measurement) - a record with information about measures. Examples: height, weight, sleep hours, overall feeling.
+5. [**Events**](/basics/create-record.md#event) - a record with information about an important for the training process event that has happened or is planned to happen. Examples of events; rest day, medical examination, bike servicing, travel etc.
 
 
 
