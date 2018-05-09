@@ -5,7 +5,7 @@
 
 ### Calendar navigation {#navigation}
 
-Calendar - the main view in Staminity.   
+Calendar - the main view in Staminity.  
 Calendar contains schedule of planned and completed activities for the week. It will help to estimate the progress of the plan’s execution and complexity of separate tasks.
 
 ![](https://content.staminity.com/assets/images/_new/calendar/calendar-navigation.png)
