@@ -44,32 +44,32 @@ It is created for athletes, coaches and clubs that specialize in triathlon, runn
 * Reports and analytics for athletes and coaches:
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/AxLKeMMTn2Q' frameborder='0' allowfullscreen></iframe></div>
 
-* Coach search:
+* Coach or club search:
 ![Coach search](https://content.staminity.com/assets/images/about/find-coach.png)
 
-###Special for coaches
+###Special features for coaches
 
-* Coach dashboard with week review for all students:
+* Coach dashboard with week review for all athletes:
 ![Coach dashboard in Staminity](https://content.staminity.com/assets/images/about/coach-dashboard.png)
 
-* Copy/paste and drag&drop activities for one athlete and between athletes:
+* Mass actions in dashboard and calendar:
 ![copy paste activities in Staminity](https://content.staminity.com/assets/images/about/copy-paste.gif)
 
-* Fast planning with activity templates:
+* Fast creation of activities with the help of templates:
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/CdPF1MPI-cc' frameborder='0' allowfullscreen></iframe></div>
 
-* Set [training zones and FTP level](/basics/intensity-zones.md) for every activity type and intensity measure
+* Set [training zones and LT level](/basics/intensity-zones.md) for every activity type and intensity indicator
 
 * Single and repeated events in training calendar important for training process (travel, diet, problem, supplements, rest day, sickness, etc):
 ![Events in training calendar in Staminity](https://content.staminity.com/assets/images/about/record-foods.png)
 
-* Activity plan with images, rich text and video:
+* Activity plan with images, text and video:
 ![Activity plan with video in Staminity](http://blog.staminity.com/content/images/2018/01/activity-formatted-view.gif)
 
 * Athletes management
 
-###Special for clubs
+###Special features for clubs
 * Club management: join and drop off club members, assign club roles (coach, athlete, manager), assign coach to athletes
 ![Club management in Staminity](https://content.staminity.com/assets/images/about/club-management.png)
 
