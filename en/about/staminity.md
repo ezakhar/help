@@ -1,40 +1,41 @@
 #What is Staminity
 
-[Staminity](https://staminity.com) is the application for online training in triathlon, running, cycling, swimming and other cyclic kinds of sports. 
+[Staminity](https://staminity.com) is a platform providing remote interaction between the coach and athletes, possibility to keep a training diary and analyze the training process. 
 
-It made for athletes, coaches and clubs.
-* **For ahtletes** we help to train online with coach and achieve your goals;
+It is created for athletes, coaches and clubs that specialize in triathlon, running, cycling, swimming and other cyclic sports. 
+
+* **For ahtletes** we help  to train online with a coach or independently in order to achieve the set goals;
 * **For coaches** we help to work with athletes and reduce routine in planning, communications and analyzis; 
-* **For clubs** we help to manage club: join and drop off club members, assign club roles (coach, athlete, manager), assign coach to athletes, etc.
+* **For clubs** we help to manage a club.
 
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/Y_H-ffsqMT8' frameborder='0' allowfullscreen></iframe></div>
 
 #Main features
 
-* Season planning. Create your season plan with your own mesocycle set, compare it with week plan and completed workouts:
+* Season planning. Periodization of training loads, mesocycles plan, control over the season plan's execution: 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/NQA05RJ7o-0' frameborder='0' allowfullscreen></iframe></div>
 
-* Workout log and plan from your coach in one calendar: :
+* Completed activities diary and plan from your coach in one calendar: 
 ![Workout log in Staminity](https://content.staminity.com/assets/images/about/calendar-view.png)
 
-* [Auto upload](/questions/activity-auto-sync.md) of completed workouts and match them with plan 
+* [Auto upload](/questions/activity-auto-sync.md) of completed activities and their comparison with the plan 
 
-* Two types of activity plan: for whole activity and for every activity segment:
+* Two types of tasks: for whole activity and for every activity segment:
 ![Two types of activity plan in Staminity](https://content.staminity.com/assets/images/about/two-activity-type.png)
 
-* Activity templates and activity categories:
+* Your own templates and categories of activities:
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/tnrZ6dzNQVk' frameborder='0' allowfullscreen></iframe></div>
 
 
-* Compare planned and completed data and chat with coach in every activity: 
+* Compare planned and completed activity and chat with coach in every activity: 
 ![Chat with coach in Staminity](https://content.staminity.com/assets/images/about/activity-plan-and-fact.png)
 
-* Interactive chart, calculated measures and peaks for whole activity, every lap, segment and any arbitrary interval 
+* Detailed analysis of each activity 
 ![Activity analysis in Staminity](https://content.staminity.com/assets/images/about/activity-details.png)
 
-* Segment chart and segment completeness analysis for structured activity: 
+* Analysis of task completion by segments, in LT percents: 
 ![Structured activity analysis in Staminity](https://content.staminity.com/assets/images/about/activity-structured2.png)
 
 * Swim analysis:
