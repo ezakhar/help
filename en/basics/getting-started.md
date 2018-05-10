@@ -6,8 +6,7 @@
 * [3-2. For the coach - set up the Coach profile](#сoachprofile) 
 * [4. Set up the training zones and thresholds ](#trainingzones)
 * [5. Set up an automatic upload of your completed activities to Staminity](#sync)
-* [6-1. For the athletes - find a coach or a club and join it](https://legacy.gitbook.com/book/staminity/help/edit#) 
-* [6-2. For the club coaches - join a club](#clubconnect)
+* [6. Set up connection between Coach and Athletes](#startcoach)
 * [7. Set up access from your smartphone](#mobile)
 
 ### 1. Decide how you’re going to work {#role}
@@ -132,8 +131,15 @@ Staminity enables to upload your activities from Garmin Connect and Strava autom
 
 More information in the article [“How to download the completed activities”](/questions/activity-auto-sync.md)
 
-### 6-1. For the athletes - find a coach or a club and join it {#startcoach}
+### 6. Set up connection between Coach and Athletes {#startcoach}
 
+It is possible to set up the connection between Coach and Athlete by athlete initiative or by coach initiative. 
+* Athlete may send a request to coach;
+* Coach may send an invitation to athlete.
+
+Available options depends on coach's role in Staminity: **personal coach** or **club coach**.
+
+See details [in the article](/basics/work-with-coach.md).
 
 ### 7. Set up access from your smartphone {#mobile}
 
