@@ -5,13 +5,13 @@ Available options depends on coach's role in Staminity:
 
 * **PERSONAL COACH** - works with the athletes individually, without the club. The athletes connect to him directly. In order to work as a personal coach, he should purchase the “Coach” tariff.
 Personal coach manage his athletes by himself so it is possible to make a connection:
-  * [By athlete's request](#startcoach) - athlete sends a request to coach and coach accepts it;
-  * [By coach invitation](#invite) - a coach sends an invite to athlete and athlete accepts it.
+  * [By athlete's request](#startcoach) - an athlete sends a request to coach and coach accepts it;
+  * [By coach's invitation](#invite) - a coach sends an invite to athlete and athlete accepts it.
 
 * **CLUB COACH** - works with the athletes through a club. The “Coach” tariff is purchased by the club,
 Club coach is not able to manage his athletes:  they are assigned to him by the management of the club.
 
-So start work with club coach possible only through club [by sending a request to join club](#joinclubrequest) or by [accepting an invitation from club](#joinclubinvite).
+So start work with club coach could be possible only through club [by sending a request to join club](#joinclubrequest) or by [accepting an invitation from club](#joinclubinvite).
 
 ---
 ## Connect with personal coach
