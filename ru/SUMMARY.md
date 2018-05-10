@@ -20,7 +20,6 @@
 * [Выполнить тренировку](basics/complete-activity.md)
 * [Проанализировать выполненную тренировку](basics/analyse-detailed-activity.md)
 * [Создать соревнование](basics/competition.md)
-* work-with-coach
 
 ## Продвинутые возможности
 
