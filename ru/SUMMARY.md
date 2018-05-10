@@ -21,6 +21,8 @@
 * [Выполнить тренировку](basics/complete-activity.md)
 * [Проанализировать выполненную тренировку](basics/analyse-detailed-activity.md)
 * [Создать соревнование](basics/competition.md)
+* [Создать событие и измерение](basics/create-record.md)
+
 
 ## Продвинутые возможности
 
