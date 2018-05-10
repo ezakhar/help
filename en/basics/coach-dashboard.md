@@ -1,46 +1,51 @@
-#Дэшборд или Недельный обзор 
+# Dashboard or week overview
 
-**Дэшборд или недельный обзор** - основное представление Staminity для тренера и руководителя клуба.
-Дэшборд показывает одну тренировочную неделю по всем спортсменам тренера или по спортсменам клуба. С его помощью можно контролировать выполнение недельного плана учениками, а также составлять план на неделю.
+**Dashboard or week overview** - the main Staminity view for a coach or a club manager.  
+The dashboard displays one training week of all the coach’s athletes or of all the club’s athletes. With its help, you can provide control over the week plan’s execution by the athletes and also compose a plan for a week.
 
-* [Как открыть дэшборд](#dashboard);
-* [Навигация в дэшборде](#dashboardnavigation);
-* [Операции в дэшборде](#dashboardactions).
+* [How to open the dashboard](#dashboard);
+* [Dashboard navigation](#dashboardnavigation);
+* [Actions in the dashboard](#dashboardactions).
 
-###Как открыть дэшборд{#dashboard}
+### How to open the dashboard {#dashboard}
 
 ![Открыть дэшборд в Staminity](https://content.staminity.com/assets/images/_new/dashboard/dashboard-menu.png)
 
-* 1 - **Дэшборд тренера** доступен для пользователя Staminity с активным тарифом "Тренер". Ссылка для доступа находится в левом меню приложения, в разделе "Спортсмены".
-В дэшборде тренера отображаются все ученики тренера, как работающие с ним напрямую, так и подключенные к нему через один из клубов.
+* 1 - **Coach dashboard **is available for Staminity users with enabled “Coach” tariff.  These users can proceed to it by following the link on the left menu of the application in the “Athletes” section. The coach dashboard displays all the coach’s athletes, both the ones that are working with him directly and connected to him through the club.
 
-* 2 - **Дэшборд руководителя клуба** доступен для пользователя Staminity с тарифом "Клуб", а также для тренеров клуба с ролью "Администратор". Ссылка для доступа находится в левом меню для выбранного клуба. 
-В дэшборде клуба отображаются все члены клуба с ролью "Спортсмен".
+* 2 - **Club dashboard** is available for Staminity users with enabled “Club” tariff and for club coaches with an assigned “Administrator” role. A link to the dashboard is located on the left menu for the chosen club.   
+  The club dashboard displays all the club members with an assigned “Athlete” role.
 
-И тренер, и руководитель клуба в дэшборде могут просмотреть детали по каждой запланированной и выполненной тренировке, по событию или соревнованию.
+In their dashboard, both coach and club manager can review the details of each planned or completed activity, event or competition.
 
-###Навигация в дэшборде{#dashboardnavigation}
+### Dashboard navigation {#dashboardnavigation}
 
 ![Навигация в дэшборде в Staminity](https://content.staminity.com/assets/images/_new/dashboard/dashboard-navigation.png)
 
-* 1 - дата начала отображаемой недели;
-* 2 - переключение недель: вперед/назад;
-* 3 - фильтр спортсменов у тренера. По нажатию на фильтр можно отметить галочкой учеников для отображения на экране. Сделанные настройки запоминаются для конкретного компьютера.
-* 4 - изменение порядка учеников. Чтобы переместить строчку с учеником вверх или вниз в списке, выделите ее галочкой и нажимая на кнопки (4) переместите ее в нужное место.
-* 5 - выделение ученика. Записи в тренировочной неделе для выделенного ученика отображаются более подробно и для них доступны [операции в дэшборде](#dashboardactions).
+* 1 - start date of the displayed week;
+* 2 - switch between weeks: next/previous;
+* 3 - athletes’ filter for the coach. By clicking on the filter you can check the athletes to be displayed. The applied settings are saved for the specific computer. 
+* 4 - change the athletes’ order. To move a line with the required athlete up or down the list, you need to place a check mark on it and then move it to the needed place by clicking on the buttons \(4\).
+* 5 - mark an athlete. Entries in the training week for the marked athlete are displayed more detailed. Besides, there are [actions in the dashboard](https://legacy.gitbook.com/book/staminity/help/edit#) available for them.
 
-###Операции в дэшборде{#dashboardactions}
+### Actions in the dashboard {#dashboardactions}
 
-Через дэшборд тренер может:
-* запланировать тренировку или соревнование, создать событие;
-* перенести тренировку в нужный день;
-* скопировать / вставить одну или несколько тренировок;
-* удалить одну или несколько тренировок.
+With the help of dashboard the coach can:
 
-Чтобы выполнить нужные операции, отметьте галочкой одного или несколько учеников. После этого, при наведении мышкой на выбранный день календаря, становятся доступными кнопки действий:
+* plan an activity or competition, create an event;
+* change the activity’s date to the required;
+* copy/paste one or several activities;
+* delete one or several activities.
+
+To carry out the required actions, place a check mark on one or several athletes. Then, when you move the mouse cursor to the selected day, the following buttons become active:
 
 ![Кнопки действий для выбранного ученика](https://content.staminity.com/assets/images/_new/dashboard/dashboard-buttons-2.png)
 
-* 1 - добавить запись в выбраный день: тренировку, событие, соревнование
-* 2 - выделить день
-* 3 - контекстное меню дня. Доступ к операциям: Скопировать, Вставить скопированные записи, Удалить.
+* 1 - add an entry: activity, event, competition
+* 2 - mark a day
+* 3 - context menu of the day. Access to the following actions: Copy, Paste, Delete.  
+
+.
+
+
+
