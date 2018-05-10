@@ -22,6 +22,7 @@
 * [Проанализировать выполненную тренировку](basics/analyse-detailed-activity.md)
 * [Создать соревнование](basics/competition.md)
 * [Создать событие и измерение](basics/create-record.md)
+* [athlete-management](basics/athlete-management.md)
 
 ## Продвинутые возможности
 
@@ -39,7 +40,6 @@
 
 * [Как управлять запросами](basics/kak-upravlyat-zaprosami.md)
 * [Что такое ПАНО \(Порог анаэробного обмена\)](basics/lactate-threshold.md)
-
 
 ## Для тренера
 
