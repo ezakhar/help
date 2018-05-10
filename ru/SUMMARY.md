@@ -30,9 +30,9 @@
 * [Управление категориями тренировок](basics/categories.md)
 * [Управление шаблонами тренировок](basics/templates.md)
 * [Работа с группами спортсменов - Тренировочные планы](basics/training-plan.md)
-* [Настройки уведомлений](settings/notifications.md)
-* [Методы расчета границ тренировочных зон](basics/intensity-zones.md)
 * [Внешние календари \(iCal\)](basics/calendar-subscription-ical.md)
+* [Методы расчета границ тренировочных зон](basics/intensity-zones.md)
+* [Настройки уведомлений](settings/notifications.md)
 * [Настройки приватности](basics/privacy-settings.md)
 
 ## Ответы на вопросы
@@ -40,9 +40,6 @@
 * [Как управлять запросами](basics/kak-upravlyat-zaprosami.md)
 * [Что такое ПАНО \(Порог анаэробного обмена\)](basics/lactate-threshold.md)
 
-## Для спортсмена
-
-* [Подключиться к тренеру или клубу](athletes/coach-club-connection.md)
 
 ## Для тренера
 
