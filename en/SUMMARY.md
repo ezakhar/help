@@ -12,6 +12,7 @@
 ## Basics
 
 * [Getting started](basics/getting-started.md)
+* [How to connect with coach](basics/work-with-coach.md)
 * [How to upload completed activities to Staminity](questions/activity-auto-sync.md)
 * [How to use Staminity on your mobile device](basics/staminity-for-mobile.md)
 * [Training calendar - the main view for athletes](basics/calendar.md)
@@ -20,7 +21,7 @@
 * [Выполнить тренировку](basics/complete-activity.md)
 * [Проанализировать выполненную тренировку](basics/analyse-detailed-activity.md)
 * [Создать соревнование](basics/competition.md)
-* [Создать событие и измерение](basics/create-record.md)
+* work-with-coach
 
 ## Продвинутые возможности
 

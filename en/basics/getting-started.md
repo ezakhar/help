@@ -134,33 +134,6 @@ More information in the article [“How to download the completed activities”]
 
 ### 6-1. For the athletes - find a coach or a club and join it {#startcoach}
 
-To search for a coach select the “**Search**” item in the menu to the left.  
-![Staminity find coach](http://content.staminity.com/assets/images/_new/search/find-coach.png)
-
-**Join a personal coach **
-
-A request to the personal coach is sent from the coach profile. In order to do it you need to go to the coach profile from the search results and click on “Join coach”.
-
-![Staminity send request to coach](http://content.staminity.com/assets/images/StartCoaching_4.gif)
-
-A status in the coach profile "Your request has been sent" means that your request has been successfully sent and is waiting to be approved.
-
----
-
-**Join a club**  
-In order to start working with a club coach, you need to send a request to join the club. The request is to be sent from the club profile.
-
-Go to the club profile from the search results and click on the** “Join club” **
-
-When your request is accepted by the club, the club will assign you one of its coaches.
-
-### 6-2. For the club coaches - join a club {#clubconnect}
-
-If you work as a club coach, you should join a club. The request is to be sent from the club profile.
-
-Go to the club profile from the search results and click on the “Join club”.
-
-When your request is accepted by the club, the club will assign you the “Coach” role and connect some athletes to you.
 
 ### 7. Set up access from your smartphone {#mobile}
 
