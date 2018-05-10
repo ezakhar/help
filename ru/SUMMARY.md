@@ -25,7 +25,7 @@
 
 ## Продвинутые возможности
 
-* [Создать план на сезон](basics/season-plan.md)
+* [Планирование сезона и периодизация](basics/season-plan.md)
 * [Создать схему периодизации](methodology/periodisation-schemes.md)
 * [Управление категориями тренировок](basics/categories.md)
 * [Управление шаблонами тренировок](basics/templates.md)
