@@ -12,6 +12,7 @@
 ## Основы работы в Staminity
 
 * [С чего начать](basics/getting-started.md)
+* [Как работать с тренером](basics/work-with-coach.md)
 * [Как загружать выполненные тренировки](questions/activity-auto-sync.md)
 * [Как работать с мобильных устройств](basics/staminity-for-mobile.md)
 * [Календарь тренировок - основной экран для спортсмена](basics/calendar.md)
