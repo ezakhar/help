@@ -1,4 +1,4 @@
-#How to connect with coach
+#How to set up a connection between Coach and Athlete
 
 It is possible to start working with coach by athlete initiative or by coach initiative. 
 Available options depends on coach's role in Staminity:
