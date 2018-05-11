@@ -20,6 +20,8 @@
 * [Создать соревнование](basics/competition.md)
 * [Создать событие и измерение](basics/create-record.md)
 * [athlete-management](basics/athlete-management.md)
+* [club](basics/club.md)
+* Аналитика и отчетность
 
 ## Продвинутые возможности
 
