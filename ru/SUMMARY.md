@@ -40,18 +40,6 @@
 * [Как управлять запросами](basics/kak-upravlyat-zaprosami.md)
 * [Что такое ПАНО \(Порог анаэробного обмена\)](basics/lactate-threshold.md)
 
-## Для клуба
-
-* [Зачем нужен клуб и как его создать в Стаминити](clubs/club.md)
-* [Управление членами клуба](clubs/club-management.md)
-* [Управление ролями в клубе](clubs/club-roles.md)
-* [Назначение тренеров для спортсменов клуба](clubs/coaches-and-athletes.md)
-* [Управление тарифными планами членов клуба](clubs/club-tariff-management.md)
-
-## Новости сервиса
-
-* [История версий](version-history.md)
-
 ## Магазин тренировочных планов
 
 * [Продажа тренировочных планов](training-plans/training-plans-for-coaches.md)
