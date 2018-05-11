@@ -19,7 +19,7 @@
 * [Проанализировать выполненную тренировку](basics/analyse-detailed-activity.md)
 * [Создать соревнование](basics/competition.md)
 * [Создать событие и измерение](basics/create-record.md)
-* [analytics](basics/analytics.md)
+* [Аналитика и отчетность по тренировочному процессу](basics/analytics.md)
 * [Работа тренера в Staminity](basics/athlete-management.md)
 * [Работа клуба в Staminity](basics/club.md)
 
