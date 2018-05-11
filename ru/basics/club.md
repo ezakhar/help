@@ -1,3 +1,11 @@
+---
+related:
+- basics/getting-started.md
+- basics/work-with-coach.md
+- basics/athlete-management.md
+
+---
+
 # Работа клуба в Staminity
 
 Клуб в Staminity - это инструмент для совместной работы нескольких тренеров.

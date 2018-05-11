@@ -1,3 +1,14 @@
+---
+related:
+- basics/create-plan-activity.md
+- basics/complete-activity.md
+- basics/competition.md
+- basics/create-record.md
+- basics/calendar.md
+- basics/coach-dashboard.md
+
+---
+
 # Проанализировать выполненную тренировку
 
 ##Инструменты для анализа

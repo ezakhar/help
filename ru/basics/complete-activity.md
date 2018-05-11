@@ -1,3 +1,14 @@
+---
+related:
+- basics/create-plan-activity.md
+- basics/analyse-detailed-activity.md
+- basics/competition.md
+- basics/create-record.md
+- basics/calendar.md
+- basics/coach-dashboard.md
+
+---
+
 #Как выполнить тренировку
 
 Отметить в Staminity тренировку выполненной можно следующими способами:

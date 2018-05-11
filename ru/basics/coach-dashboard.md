@@ -1,3 +1,14 @@
+---
+related:
+- basics/calendar.md
+- basics/create-plan-activity.md
+- basics/complete-activity.md
+- basics/analyse-detailed-activity.md
+- basics/competition.md
+- basics/create-record.md
+
+---
+
 #Дэшборд или Недельный обзор 
 
 **Дэшборд или недельный обзор** - основное представление Staminity для тренера и руководителя клуба.

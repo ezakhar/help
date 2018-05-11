@@ -1,3 +1,15 @@
+---
+related:
+- basics/complete-activity.md
+- basics/analyse-detailed-activity.md
+- basics/competition.md
+- basics/create-record.md
+- basics/calendar.md
+- basics/coach-dashboard.md
+
+---
+
+
 # Запланировать тренировку
 
 В этом разделе о [двух типах тренировок в Staminity](#types) и о том, как:

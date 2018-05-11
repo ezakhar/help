@@ -1,3 +1,13 @@
+---
+related:
+- basics/create-plan-activity.md
+- basics/complete-activity.md
+- basics/analyse-detailed-activity.md
+- basics/create-record.md
+- basics/calendar.md
+- basics/coach-dashboard.md
+
+---
 # Создать соревнование
 
 **Соревнование** - запись календаря, содержащая информацию о запланированном или завершенном соревновании.

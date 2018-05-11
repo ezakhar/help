@@ -1,3 +1,14 @@
+---
+related:
+- basics/create-plan-activity.md
+- basics/complete-activity.md
+- basics/analyse-detailed-activity.md
+- basics/competition.md
+- basics/calendar.md
+- basics/coach-dashboard.md
+
+---
+
 #Создать событие и измерение
 
 Помимо запланированных и выполненных тренировок и [соревнований](/basics/competition.md), в календаре можно создать дополнительные записи:
