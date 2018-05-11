@@ -51,6 +51,7 @@
 * [Тариф "Премиум"](tariffs/Premium.md)
 * [Тариф "Тренер"](tariffs/Coach.md)
 * [Тариф "Клуб"](tariffs/Club.md)
-* [Подключение тарифа](tariffs/purchase.md)
+* [Подключение, продление сроков действия и отключение тарифов](tariffs/purchase.md)
+* [Оплата по тарифам. Автоматическая оплата](tariffs/payments.md)
 * [Контроль начислений и оплата счетов](tariffs/bills.md)
 
