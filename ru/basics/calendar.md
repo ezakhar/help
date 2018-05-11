@@ -1,3 +1,14 @@
+---
+related:
+- basics/coach-dashboard.md
+- basics/create-plan-activity.md
+- basics/complete-activity.md
+- basics/analyse-detailed-activity.md
+- basics/competition.md
+- basics/create-record.md
+
+---
+
 # Тренировочный календарь
 
 * [Навигация в календаре](#navigation)
@@ -8,7 +19,7 @@
 Календарь содержит расписание тренировок на неделю, запланированных и выполненных. Он поможет оценить статус выполнения плана на неделю и сложность отдельных заданий.
 
 
-![](https://content.staminity.com/assets/images/_new/calendar/calendar-navigation.png)
+![Навигация в календаре](https://content.staminity.com/assets/images/_new/calendar/calendar-navigation.png)
 
 **Содержимое окна календаря: **
 * 1 - Выбор спортсмена (для тренера);
@@ -27,7 +38,7 @@
 
 В тренировочной неделе в календаре отображаются:
 
-![](https://content.staminity.com/assets/images/_new/calendar/calendar-calendaritems.png)
+![Записи в календаре](https://content.staminity.com/assets/images/_new/calendar/calendar-calendaritems.png)
 
 1. Запланированные и выполненные [тренировочные задания](/basics/create-plan-activity.md) с планом на всю тренировку;
 2. Запланированные и выполненные [тренировочные задания](/basics/create-plan-activity.md), в которых план разбит по нескольким сегментам;

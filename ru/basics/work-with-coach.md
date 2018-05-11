@@ -1,3 +1,13 @@
+---
+related:
+- about/staminity.md
+- basics/getting-started.md
+- basics/athlete-management.md
+- basics/club.md
+
+---
+
+
 #Как подключиться к тренеру и клубу
 
 Начать работать с тренером в Staminity можно как по инициативе тренера, так и спортсмена. 

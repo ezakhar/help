@@ -1,3 +1,14 @@
+---
+related:
+- basics/work-with-coach.md
+- basics/activity-auto-sync.md
+- basics/staminity-for-mobile.md
+- basics/athlete-management.md
+- basics/club.md
+
+---
+
+
 # С чего начать работу в Стаминити
 
 * [1. Определите, как будете работать](#role) - как спортсмен, тренер в клубе, индивидуальный тренер или руководитель клуба
