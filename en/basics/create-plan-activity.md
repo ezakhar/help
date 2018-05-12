@@ -17,7 +17,7 @@ There are two types of activities in Staminity: simple activities and structured
 * **Structured activities.** The activity is divided into segments. Duration and intensity are planned for each segment.
 
 Here’s how the same activity  
-“Warm up 8 km, workout 4 km with 3:45-3:50 min/km and rest 3 minutes, cool down 1 km”,   
+“Warm up 8 km, workout 4 km with 3:45-3:50 min/km and rest 3 minutes, cool down 1 km”,  
   looks when created with segments and without them:
 
 ![2 вида тренировок в Staminity](https://content.staminity.com/assets/images/_new/about/2-activity-types.png)
@@ -35,8 +35,8 @@ For structured activities the plan is calculated automatically for each segment,
 
 3. In the appeared window input the following information about the activity:
 
-* [category of the activity](/basics/activity-categories.md); 
-* **duration **plan \(you can set total duration or total distance\) and if needed - **intensity **plan \(heart rate, pace or power\);   
+* [category of the activity](/basics/activity-categories.md);
+* **duration **plan \(you can set total duration or total distance\) and if needed - **intensity **plan \(heart rate, pace or power\);
 * task from the coach. When describing the task, you can format the text, insert links to videos or images.
 
 ![Запланировать тренировку в Staminity](https://content.staminity.com/assets/images/_new/calendar/calendar-new-activity.png)
@@ -46,26 +46,23 @@ Plan for the intensity indicator can be set as one value, an average value for t
 ![Планирование диапазона интенсивности Staminity](https://content.staminity.com/assets/images/_new/calendar/calendar-intensity-range2.png)
 
 **Through the dashboard \(for a coach\):**  
-1. Open coach dashboard in the left menu and check a required athlete.   
+1. Open coach dashboard in the left menu and check a required athlete.  
 ![Выбрать спортсмена в дэшборде](https://content.staminity.com/assets/images/_new/dashboard/dashboard-add-button.png)
 
 2-3. Create an activity according to steps 2-3 described above.
 
 ### How to plan an activity - structured activity {#structuredactivity}
 
-**Through the calendar:**  
-1. Open your calendar or the athlete’s calendar, in case if you plan an activity for an athlete. You can choose an athlete in the top panel of the calendar:  
-\[select athlete screenshot\]
+**Through the calendar:**
 
+1. Open your calendar or the athlete’s calendar, in case if you plan an activity for an athlete. You can choose an athlete in the top panel of the calendar: \[select athlete screenshot\]
 2. Click on the “Add” button on the required date and choose the basic sport for which you want to create an activity:
-
 3. In the activity input window set [category of the activity](/basics/activity-categories.md) and turn-on the “Structured” switch.
-
 4. Plan the activity segments, setting duration and intensity for each one.
 
 ![Добавить структурированную тренировку в Staminity](https://content.staminity.com/assets/images/_new/activity/activity-structured-plan.png)
 
-To add a segment click on the “Add” button.   
+To add a segment click on the “Add” button.  
 To add a block of segments, choose the required block from the list:
 
 * **Intervals **- a series that consists of the main workout interval and rest after it;
@@ -78,10 +75,10 @@ By selecting two adjacent segments, you can combine them into a group and set th
 
 ![объединить сегменты в группу в Staminity](https://content.staminity.com/assets/images/_new/activity/activity-structured-group.gif)
 
-5. Indicate a task from the coach \(if needed\). When describing the task, you can format the text, insert links to videos or images.
+1. Indicate a task from the coach \(if needed\). When describing the task, you can format the text, insert links to videos or images.
 
 **Through the dashboard \(for a coach\):**  
-1. Open coach dashboard in the left menu and check the required athlete.   
+1. Open coach dashboard in the left menu and check the required athlete.  
 ![Выбрать спортсмена в дэшборде](https://content.staminity.com/assets/images/_new/dashboard/dashboard-add-button.png)
 
 2-5. Create a structured activity according to the described above steps 2-5 of the procedure of the structured activity creation through the calendar.
@@ -102,7 +99,7 @@ Also you can choose a template when creating an activity, but at first you need 
 
 You can create a new activity by copying the one created previously.
 
-In order to do it, mark one or several activities in the calendar and click on “Copy” in the context menu of the day or in the top panel. 
+In order to do it, mark one or several activities in the calendar and click on “Copy” in the context menu of the day or in the top panel.
 
 Then choose the required day and click on “Paste”. New activities will be created based on the copied ones.
 
