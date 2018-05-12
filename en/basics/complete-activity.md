@@ -1,49 +1,49 @@
-# How to complete an activity 
+# How to complete an activity
 
 In Staminity an activity can be marked as completed in the following ways:
 
-* [Automatically after uploading the completed activity ](#autosync);
-* [By setting actual values manually](#manualinput);
-* [By merging actual and planned activity manually.](#splitmerge)
+* [Automatically after uploading the completed activity](#autosync);
+* [By setting actual values](#manualinput);
+* [By merging actual and planned activity.](#splitmerge)
 
 ### Automatic upload of completed activities {#autosync}
 
-It is a recommended mode. You can set up [automatic synchronization of activities](/questions/activity-auto-sync.md) and all the activities, recorded by your sports watches or by an application in your smartphone will be uploaded to Staminity and compared to the plan.
+It is a recommended mode. You can set up [automatic synchronization of activities](/questions/activity-auto-sync.md) and all the activities, recorded by your sports watches or by an application in your smartphone will be uploaded to Staminity and correlated with the plan.
 
-**The rules of activities’ comparison:**
+**The rules of activities’ correlation:**
 
-* each completed activity that is uploaded to Staminity compares itself to the plan for all activities of the day;
+* each completed activity that is uploaded to Staminity is correlated with the plan for all activities of the day;
 * if the given activity more accurately corresponds to a plan and this plan already has a merged completed activity, then the new completed activity ousts the previous one and merges with the plan.
 
-_For example, you had a half-marathon planned for today and at first you ran 2 km as a warm up and then you ran 21 km. The warm up will be the first one to be uploaded to Staminity and it will be compared to the plan. But the moment the completed half-marathon is downloaded, everything will fall into place: the planned half-marathon will be compared to the completed one, and the warm up will be displayed separately, without a plan. _
+_For example, you had a half-marathon planned for today and at first you ran 2 km as a warm up and then you ran 21 km. The warm up will be the first one to be uploaded to Staminity and it will be correlated with the plan. But the moment the completed half-marathon is downloaded, everything will fall into place: the planned half-marathon will be compared to the completed one, and the warm up will be displayed separately, without a plan. _
 
 ![](http://content.staminity.com/assets/images/calendar/activity-matching.png)
 
-### Ввод факта вручную {#manualinput}
+### Set actual values  {#manualinput}
 
-Для любой тренировки факт можно ввести вручную. Это потребуется, например, если вы выполнили силовую тренировку без записи трека, если забыли включить программу на смартфоре или заряд в часах закончился не вовремя.
+The actual values can be set manually for any activity. This option will be in handy if you have completed strength training without recording a track, if you have forgotten to activate the application in your smartphone or if your watches’ battery has run low.
 
-Для ввода факта вручную:
+In order to set actual values manually:
 
-* откройте тренировку;
-* нажмите "Изменить";
-* введите сводное фактическое время или расстояние, а по желанию и интенсивность тренировки;
-* оставьте комментарий для тренера \(опять же по желанию\);
-* не забудьте сохранить изменения.
+* open an activity;
+* click on “Change”;
+* fill in total actual duration or distance and intensity \(optional\);
+* leave a comment for the coach \(optional\);
+* don’t forget to save changes.
 
-Ваш тренер получит уведомление о выполненной тренировке.
+Your coach will receive a notification on the completed activity.
 
 ![](http://content.staminity.com/assets/images/calendar/manual-complete.gif)
 
-### Связать вручную выполненную тренировку с запланированной {#splitmerge}
+### Merge completed activity with planned one  {#splitmerge}
 
-Если тренировки сопоставились неправильно, первым делом нужно отделить факт от плана, а потом связать факт с нужным планом.
+If the activities have been correlated incorrectly, at first you need to split activity into planned and completed and then merge the completed activity with the corresponding planned one.
 
-* **Отвязать план от факта.** В тренировке выбираете "Открепить факт" либо в меню тренировки в календаре, либо в контекстном меню, и у вас в календаре появляются две тренировки:
+* **Split activity into planned and completed**. You need to choose “Split plan and actual data” in activity menu in calendar or in context menu. After that two activities appear in your calendar:
 
 ![Разделить плановую и фактическую тренировки](https://content.staminity.com/assets/images/_new/activity/split-activity.gif)
 
-* **Связать факт с планом.** Когда нужные плановая и фактическая тренировки стоят отдельно, их можно сопоставить. Для этого просто перетяните тренировки мышкой друг на друга:
+* **Merge planned and completed activity.** When the required planned and completed activities are standing separately, they can be correlated. In order to do it, just drag one activity on another:
 
 ![Связать вручную плановую и фактическую тренировки](https://content.staminity.com/assets/images/_new/activity/merge-activity.gif)
 
