@@ -27,13 +27,11 @@ For structured activities the plan is calculated automatically for each segment,
 ### How to plan an activity - simple activity {#planactivity}
 
 **Through the calendar:**  
-1. Open your calendar or the athlete’s calendar, in case if you plan an activity for an athlete. You can choose an athlete in the top panel of the calendar: \[Select athlete screenshot\]
+1.Open your calendar or the athlete’s calendar, in case if you plan an activity for an athlete. You can choose an athlete in the top panel of the calendar: \[Select athlete screenshot\]
 
-2. Click on the “Add” button on the required date and choose the basic sport for which you want to create an activity:
+2.Click on the “Add” button on the required date and choose the basic sport for which you want to create an activity:
 
-![Добавить новую запись в Staminity](https://content.staminity.com/assets/images/_new/calendar/calendar-wizard.png)
-
-3. In the appeared window input the following information about the activity:
+![Добавить новую запись в Staminity](https://content.staminity.com/assets/images/_new/calendar/calendar-wizard.png)3.In the appeared window input the following information about the activity:
 
 * [category of the activity](/basics/activity-categories.md);
 * **duration **plan \(you can set total duration or total distance\) and if needed - **intensity **plan \(heart rate, pace or power\);
