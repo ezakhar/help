@@ -1,125 +1,129 @@
-# Запланировать тренировку
+# How to plan an activity
 
-В этом разделе о [двух типах тренировок в Staminity](#types) и о том, как:
-* [Создать обычную тренировку вручную](#planactivity);
-* [Создать структурированную тренировку вручную](#structuredactivity);
-* [Создать тренировку по шаблону](#activityfromtemplate);
-* [Создать одну или несколько тренировок копированием](#copypasteactivity); 
-* [Создать тренировку для нескольких спортсменов сразу](#multipleactivity);
-* [Планировать расписание для групп спортсменов](#trainingplans).
+In this section you will find information about [two types of activities in Staminity ](#types)and about how to:
 
+* [Create a simple activity manually](#planactivity);
+* [Create a structured activity manually](#structuredactivity);
+* [Create an activity with a template](#activityfromtemplate);
+* [Create one or several activities by copying](#copypasteactivity); 
+* [Create an activity for several athletes at once](#multipleactivity);
+* [Plan a schedule for a group of athletes](#trainingplans).
 
-###Типы тренировок в Staminity{#types}
-В Staminity два типа тренировочных заданий: задания в целом на тренировку и задания с планом по отдельным тренировочным сегментам. Тренер и спортсмен для различных видов заданий могут выбрать подходящий вариант.
+### Types of activities in Staminity {#types}
 
-* **Задания в целом на тренировку.** План в них задается итоговыми показателями, а нюансы задания описываются текстом.
+There are two types of activities in Staminity: simple activities and structured activities. The coach and the athlete can choose a suitable option for different types of activities.
 
-* **Структурированные тренировки, с планом по сегментам.** В таких заданиях тренировка разбивается на отдельные тренировочные сегменты и в каждом сегменте планируется его длительность и интенсивность.
+* **Simple activities. **The plan is set according to the summary indicators, and the peculiarities are described in the text.
+* **Structured activities.** The activity is divided into segments. Duration and intensity are planned for each segment.
 
-Как выглядит одна и та же тренировка
- _"Разминка 8 км, далее работа 4 км по 3:45-3:50 мин/км через отдых 3 минуты, заминка 1 км"_, 
- созданная с планом по сегментам и без него:
- 
+Here’s how the same activity  
+“Warm up 8 km, workout 4 km with 3:45-3:50 min/km and rest 3 minutes, cool down 1 km”,   
+  looks when created with segments and without them:
+
 ![2 вида тренировок в Staminity](https://content.staminity.com/assets/images/_new/about/2-activity-types.png)
 
-По структурированным тренировкам план выполнения рассчитывается автоматически по каждому сегменту, что позволяет тренеру быстрее оценить корректность выполнения задания.
+For structured activities the plan is calculated automatically for each segment, thus allowing the coach to promptly estimate the correctness of the athlete’s performance.
 
-### Запланировать тренировку - обычная тренировка {#planactivity}
+### How to plan an activity - simple activity {#planactivity}
 
-**Через календарь:**
-1.Откройте свой календарь или календарь спортсмена, если планируете тренировку  не для себя. Выбор спортсмена доступен в верхней панели календаря:
-[скриншот выбора спортсмена]
+**Through the calendar:**  
+1. Open your calendar or the athlete’s calendar, in case if you plan an activity for an athlete. You can choose an athlete in the top panel of the calendar: \[Select athlete screenshot\]
 
-2.Нажмите на кнопку "Добавить" в нужном дне календаря и выберите базовый вид спорта, по которому необходимо создать тренировку:  
+2. Click on the “Add” button on the required date and choose the basic sport for which you want to create an activity:
 
 ![Добавить новую запись в Staminity](https://content.staminity.com/assets/images/_new/calendar/calendar-wizard.png)
 
-3.В окне ввода тренировки укажите:
-* [категорию тренировки](/basics/activity-categories.md); 
-* план по **длительности** (можно указать или общее время или общее расстояние), а при необходимости - план по **интенсивности **(пульс, темп или мощность);   
-* задание тренера. При вводе задания можно форматировать текст, вставлять ссылки на видеоролики или изображения.
+3. In the appeared window input the following information about the activity:
+
+* [category of the activity](/basics/activity-categories.md); 
+* **duration **plan \(you can set total duration or total distance\) and if needed - **intensity **plan \(heart rate, pace or power\);   
+* task from the coach. When describing the task, you can format the text, insert links to videos or images.
 
 ![Запланировать тренировку в Staminity](https://content.staminity.com/assets/images/_new/calendar/calendar-new-activity.png)
 
-План по показателю интенсивности можно указать как одним значением, средним за тренировку, так и диапазоном значений.  
+Plan for the intensity indicator can be set as one value, an average value for the activity, or as the range of values.
 
 ![Планирование диапазона интенсивности Staminity](https://content.staminity.com/assets/images/_new/calendar/calendar-intensity-range2.png)
 
-**Через дэшборд (для тренера):**
-1. Откройте дэшборд тренера в левом меню и отметьте галочкой спортсмена, для которого вы хотите запланировать тренировку. 
+**Through the dashboard \(for a coach\):**  
+1. Open coach dashboard in the left menu and check a required athlete.   
 ![Выбрать спортсмена в дэшборде](https://content.staminity.com/assets/images/_new/dashboard/dashboard-add-button.png)
 
-2-3.Создайте тренировку, выполнив пункты 2-3 аналогично описанному выше.
+2-3. Create an activity according to steps 2-3 described above.
 
-### Запланировать тренировку - структурированная тренировка {#structuredactivity}
+### How to plan an activity - structured activity {#structuredactivity}
 
-**Через календарь:**
-1.Откройте свой календарь или календарь спортсмена, если планируете тренировку  не для себя. Выбор спортсмена доступен в верхней панели календаря:
-[скриншот выбора спортсмена]
+**Through the calendar:**  
+1. Open your calendar or the athlete’s calendar, in case if you plan an activity for an athlete. You can choose an athlete in the top panel of the calendar:  
+\[select athlete screenshot\]
 
-2.Нажмите на кнопку "Добавить" в нужном дне календаря и выберите базовый вид спорта, по которому необходимо создать тренировку:  
+2. Click on the “Add” button on the required date and choose the basic sport for which you want to create an activity:
 
-3.В окне ввода тренировки укажите [категорию тренировки](/basics/activity-categories.md) и включите переключатель "План по сегментам".
+3. In the activity input window set [category of the activity](/basics/activity-categories.md) and turn-on the “Structured” switch.
 
-4.Запланируйте сегменты тренировки, указав для каждого длительность и интенсивность.
+4. Plan the activity segments, setting duration and intensity for each one.
 
 ![Добавить структурированную тренировку в Staminity](https://content.staminity.com/assets/images/_new/activity/activity-structured-plan.png)
 
-Чтобы добавить одиночный сегмент, нажмите на кнопку "Добавить".
-Чтобы добавить блок сегментов, выберите из списка нужный блок:
-* **Серия интервалов** - серия из основного рабочего интервала и отдыха после него;
-* **Разминка + Работа + Заминка** - тренировка, состоящая из разминки, основной части и заминки;
-* **Разминка + Серия интервалов + Заминка** - блок сегментов, состоящий из разминки, основной интервальной тренировки и заминки. 
+To add a segment click on the “Add” button.   
+To add a block of segments, choose the required block from the list:
+
+* **Intervals **- a series that consists of the main workout interval and rest after it;
+* **Warm up + Workout + Cool down** - an activity consisting of warm up, the main part and cool down;  
+* **Warm up + Intervals + Cool down **- block of segments, consisting of warm up, the main interval activity and cool down. 
 
 ![Добавить cегмент в тренировку Staminity](https://content.staminity.com/assets/images/_new/activity/activity-structured-block-ezgif.gif)
 
-Выделив два соседних сегмента, можно объединить их в группу и указать количество повторов. Это подойдет для интервальных тренировок:
+By selecting two adjacent segments, you can combine them into a group and set the number of repeats. It will be appropriate for interval activities:
 
 ![объединить сегменты в группу в Staminity](https://content.staminity.com/assets/images/_new/activity/activity-structured-group.gif)
 
-5.Укажите задание тренера (при необходимости). При вводе задания можно форматировать текст, вставлять ссылки на видео и прикреплять изображения.
+5. Indicate a task from the coach \(if needed\). When describing the task, you can format the text, insert links to videos or images.
 
-**Через дэшборд (для тренера):**
-1. Откройте дэшборд тренера в левом меню и отметьте галочкой спортсмена, для которого вы хотите запланировать тренировку. 
+**Through the dashboard \(for a coach\):**  
+1. Open coach dashboard in the left menu and check the required athlete.   
 ![Выбрать спортсмена в дэшборде](https://content.staminity.com/assets/images/_new/dashboard/dashboard-add-button.png)
 
-2-5.Создайте структурированную тренировку аналогично тому, как описано выше в пунктах 2-5 с вводом структурированной тренировки через календарь. 
+2-5. Create a structured activity according to the described above steps 2-5 of the procedure of the structured activity creation through the calendar.
 
-### Запланировать тренировку по шаблону {#activityfromtemplate}
-Шаблоны помогают создать тренировки гораздо быстрее. Если вы часто выполняете однотипные тренировки, сохраните их в шаблон и экономьте время при последующем планировании. О том, как создать шаблон, см. в [отдельном разделе](/basics/templates.md) справки.
+### Plan an activity with a template {#activityfromtemplate}
 
-Самый удобный способ - перетянуть в нужный день календаря тренировку с левой панели шаблонов:
+With templates, you can create activities much faster. If you often complete similar activities, save them as a template in order not to waste your time when planning. Information about how to create a template you can find [here](/basics/templates.md).
+
+The most convenient way is to drag and drop an activity from the left panel of templates to the required date:
 
 ![Cоздание тренировки по шаблону из панели шаблонов](https://content.staminity.com/assets/images/_new/activity/activity-create-from-template-ezgif.gif)
 
-
-Также шаблон можно выбрать при создании тренировки, предварительно указав вид спорта и категорию.
+Also you can choose a template when creating an activity, but at first you need to set the required sport and category.
 
 ![Cоздание тренировки по шаблону](https://content.staminity.com/assets/images/_new/activity/activity-create-from-template-2-ezgif.gif)
 
+### Create one or several activities by copying {#copypasteactivity}
 
-### Создать одну или несколько тренировок копированием {#copypasteactivity}
-Создать новую тренировку можно скопировав любую из ранее созданных.
+You can create a new activity by copying the one created previously.
 
-Для этого выделите одну или несколько тренировок в календаре и нажмите "Скопировать" в контекстном меню дня или в верхней панели.
+In order to do it, mark one or several activities in the calendar and click on “Copy” in the context menu of the day or in the top panel. 
 
-Затем выберите нужный день и нажмите "Вставить". Новые тренировки будут созданы на основании скопированных.
+Then choose the required day and click on “Paste”. New activities will be created based on the copied ones.
 
 ![Cоздание тренировки по шаблону из панели шаблонов](https://content.staminity.com/assets/images/_new/activity/activity-copy-paste-ezgif.gif)
 
-Обратите внимание:
-* можно копировать только тренировки с планом;
-* можно копировать только тренировки, копирование событий, измерений и соревнований невозможно.
-* при копировании тренировок между спортсменами интенсивность тренировок может быть пересчитана на основании значений ПАНО спортсменов.
+Please note:
 
-### Создание тренировок для нескольких спортсменов сразу {#multipleactivity}
-Тренер может создать тренировку сразу для нескольких спортсменов. 
-Для этого после ввода основных параметров тренировки необходимо:
-* в контекстном меню тренировки выбрать пункт "Добавить атлета";
-* отметить нужных учеников галочкой;
-* включить признак "Пересчитать от ПАНО", если вы хотите, чтобы интенсивность тренировки для добавленных спортсменов была пересчитана с учетом их уровня ПАНО;
-* вернуться в тренировку.
+* you can copy only activities with a plan;
+* you can copy only activities. You cannot copy events, measurements or competitions.
+* when copying activities between the athletes, intensity of the activities can be recalculated based on the LT values of the athletes.
 
-### Планирование для групп спортсменов {#trainingplans}
-Если тренер работает с группами спортсменов, удобнее всего использовать "тренировочные планы".
-Подробно о возможностях тренировочных планов и о работе с ними см. отдельный раздел справки: [Тренировочные планы - Работа с группами спортсменов](/basics/training-plan.md)
+### How to create an activity for several athletes at once {#multipleactivity}
+
+A coach can create an activity for several athletes at once. In order to do it, after setting the main parameters of the activity you need to:
+
+* select item “Add athletes” in the context menu of the activity;
+* place check marks on the required athletes;
+* turn on "Recalculate based on LT" attribute, if you want the activity intensity to be recalculated for the added athletes based on their LT level;
+* go back to activity.
+
+### Planning for a group of athletes {#trainingplans}
+
+If the coach works with groups of athletes it will be very convenient for him to use “training plans”. Detailed information about features of the training plans and about their usage you can find in the following section: [Training plans - working with groups of athletes](/basics/training-plan.md)
+
