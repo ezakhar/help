@@ -1,46 +1,49 @@
-#Как выполнить тренировку
+# How to complete an activity 
 
-Отметить в Staminity тренировку выполненной можно следующими способами:
-* [Автоматически после загрузки факта](#autosync);
-* [Ввести факт вручную](#manualinput);
-* [Связать вручную фактически выполненную тренировку с плановой](#splitmerge)
+In Staminity an activity can be marked as completed in the following ways:
 
+* [Automatically after uploading the completed activity ](#autosync);
+* [By setting actual values manually](#manualinput);
+* [By merging actual and planned activity manually.](#splitmerge)
 
-###Автоматическая загрузка факта{#autosync}
+### Automatic upload of completed activities {#autosync}
 
-Это рекомендуемый режим использования приложения. Вы настраиваете [автоматическую синхронизацию тренировок](/questions/activity-auto-sync.md) и все тренировки, записанные вашими спортивными часами или в программе на смартфоне, попадают в Staminity и сопоставляются с планом. 
+It is a recommended mode. You can set up [automatic synchronization of activities](/questions/activity-auto-sync.md) and all the activities, recorded by your sports watches or by an application in your smartphone will be uploaded to Staminity and compared to the plan.
 
-**Правила сопоставления тренировок**: 
-* каждая фактическая тренировка, которая загружается в Staminity, сравнивает себя с планом во всех тренировках этого дня;
-* если данная тренировка подходит более точно к какому-то плану, а с этим планом связана другая фактическая тренировка, то новый факт вытесняет предыдущий и связывается с этим планом.
+**The rules of activities’ comparison:**
 
-_Например, по плану у вас был полумарафон и вы вначале пробежали разминку на 2 километра, а потом уже 21км. Первой в Staminity загрузится разминка на 2 км, которая сопоставится с планом. Но как только загрузится основной трек с полумарафона, то все встанет на свои места: план на полумарафон сопоставится с фактом, а разминка будет показана отдельно, без плана._
+* each completed activity that is uploaded to Staminity compares itself to the plan for all activities of the day;
+* if the given activity more accurately corresponds to a plan and this plan already has a merged completed activity, then the new completed activity ousts the previous one and merges with the plan.
+
+_For example, you had a half-marathon planned for today and at first you ran 2 km as a warm up and then you ran 21 km. The warm up will be the first one to be uploaded to Staminity and it will be compared to the plan. But the moment the completed half-marathon is downloaded, everything will fall into place: the planned half-marathon will be compared to the completed one, and the warm up will be displayed separately, without a plan. _
 
 ![](http://content.staminity.com/assets/images/calendar/activity-matching.png)
 
+### Ввод факта вручную {#manualinput}
 
-###Ввод факта вручную{#manualinput}
 Для любой тренировки факт можно ввести вручную. Это потребуется, например, если вы выполнили силовую тренировку без записи трека, если забыли включить программу на смартфоре или заряд в часах закончился не вовремя.
 
 Для ввода факта вручную:
+
 * откройте тренировку;
 * нажмите "Изменить";
 * введите сводное фактическое время или расстояние, а по желанию и интенсивность тренировки;
-* оставьте комментарий для тренера (опять же по желанию);
+* оставьте комментарий для тренера \(опять же по желанию\);
 * не забудьте сохранить изменения.
 
 Ваш тренер получит уведомление о выполненной тренировке.
 
 ![](http://content.staminity.com/assets/images/calendar/manual-complete.gif)
 
-###Связать вручную выполненную тренировку с запланированной {#splitmerge}
+### Связать вручную выполненную тренировку с запланированной {#splitmerge}
+
 Если тренировки сопоставились неправильно, первым делом нужно отделить факт от плана, а потом связать факт с нужным планом.
 
 * **Отвязать план от факта.** В тренировке выбираете "Открепить факт" либо в меню тренировки в календаре, либо в контекстном меню, и у вас в календаре появляются две тренировки:
 
 ![Разделить плановую и фактическую тренировки](https://content.staminity.com/assets/images/_new/activity/split-activity.gif)
 
-
 * **Связать факт с планом.** Когда нужные плановая и фактическая тренировки стоят отдельно, их можно сопоставить. Для этого просто перетяните тренировки мышкой друг на друга:
 
 ![Связать вручную плановую и фактическую тренировки](https://content.staminity.com/assets/images/_new/activity/merge-activity.gif)
+
