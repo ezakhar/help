@@ -73,7 +73,7 @@ By selecting two adjacent segments, you can combine them into a group and set th
 
 ![объединить сегменты в группу в Staminity](https://content.staminity.com/assets/images/_new/activity/activity-structured-group.gif)
 
-1. Indicate a task from the coach \(if needed\). When describing the task, you can format the text, insert links to videos or images.
+5.Indicate a task from the coach \(if needed\). When describing the task, you can format the text, insert links to videos or images.
 
 **Through the dashboard \(for a coach\):**  
 1. Open coach dashboard in the left menu and check the required athlete.  
