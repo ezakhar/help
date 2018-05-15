@@ -174,7 +174,8 @@ When you select any segment in the table, then on the “Details” tab located 
 
 Staminity calculates a set of indicators as for the whole activity, as for a lap, segment or any part of the activity selected on the chart, based on the initial data registered by sports watch or by a program on the smartphone.
 
-The information is displayed **on the “Details” tab** in activity and includes the following indicators:
+The information is displayed **on the “Details” tab** in activity and includes the following indicators  
+:
 
 * [Distance](#distance)
 * [Duration](#duration)
@@ -195,58 +196,57 @@ The information is displayed **on the “Details” tab** in activity and includ
   * [Decoupling \(pace\) ](#speeddecoupling)
   * [Decoupling \(power\)](#powerdecoupling)
 
-### Расстояние {#distance}
+### Distance {#distance}
 
-Длина тренировки, круга, сегмента или произвольного отрезка:
+Length of an activity, lap, segment or any interval:
 
-* в километрах или милях для бега, велоспорта, лыжного спорта;
-* в метрах или ярдах - для плавания.
+* in kilometers or miles for running, cycling, skiing;
+* in meters or yards - for swimmin  g.
 
-### Продолжительность {#duration}
+### Duration {#duration}
 
-Staminity рассчитывает три показателя продолжительности тренировки:
+Staminity calculates three indicators of activity duration:
 
-* **Прошедшее время** или **elapsed duration** равно продолжительности с момента начала тренировки до окончания тренировки. Например, если вы начали тренировку в 9 утра, потом приостановили запись, нажав на паузу, на 10 минут с 10:00 до 10:10 и закончили тренировку в 10:30, то "прошедшее время" будет равно 90 минутам.
+* **Elapsed duration** - time spent on activity from the moment it started till the end. For example, if you started your activity at 9 a.m., then paused recording, by clicking on “Pause” for 10 minutes from 10 a.m. till 10:10 and finished activity at 10:30 then the “Elapsed time” will be 90 minutes.
+* **Duration **- time spent on activity minus pauses. For the above-mentioned example it will be 80 minutes. 
+* **Moving duration** - the number of seconds when the athlete moved during the activity. For the above-mentioned example, if during these 80 minutes an athlete twice stopped at the traffic light for 1 minute, without pausing his watch, then the moving duration will be 78 minutes.
 
-* **Общее время** или **duration** - это продолжительность тренировки без учета пауз. Для примера выше duration будет равна 80 минутам.
+### Cadence {#cadence}
 
-* **Время в движении** или **moving duration** - это количество секунд, в течение которых спортсмен двигался в течение тренировки. Для примера выше, если в течение 80 минут спортсмен два раза остановился на светофоре по 1 минуте, не выключая запись в часах, то elapsed duration будет равна 78 минутам.
+Cadence - step frequency in running, pedaling speed in cycling, stroke frequency in swimming, etc. Is measured by the number of steps/turns/strokes per minute.
 
-### Каденс {#cadence}
+### Elevation gain {#elevation}
 
-Каденс - это частота шагов в беге, частота вращения педалей в велоспорте, частота гребков в плавании и т.п. Измеряется в количестве шагов/оборотов/гребков в минуту.
+An altitude above sea level is registered for each activity, recorded by a device, with the help of a built-in barometer \(more accurately\) or data received from GPS/Glonass satellites \(less accurately\). Based on this information, the following indicators are calculated in Staminity:
 
-### Набор высоты {#elevation}
+* **Elevation **- sum of the elevation gain and loss;
+* **Elevation gain** - sum of positive elevation differences of adjacent points;
+* **Elevation loss** - sum of negative elevation differences of adjacent points
 
-В каждой точке тренировки, записанной устройством, фиксируется высота над уровнем моря с использованием встроенного барометра \(точнее\) или по данным  со спутников GPS/Glonass \(менее точно\). На основании этого в Staminity рассчитываются показатели:
+We are constantly upgrading the calculation algorithm in order to avoid incorrect registration of altitude by the device at separate points.
 
-* **Общий набор \(elevation\)** - сумма набора и потери высоты;
-* **Набор высоты \(elevation gain\)** -  сумма положительных разниц высот между соседними точками;
-* **Потеря высоты \(elevation loss\)** - сумма отрицательных разниц высот между соседними точками.
+### Grade {#grade}
 
-Мы постоянно работаем над уточнением алгоритма расчета показателей набора, чтобы исключить ошибочные определения высоты устройством в отдельных точках.
+Slope grade of the selected part of activity. It is calculated in the following way:
 
-### Градиент {#grade}
+> Grade = elevation / duration.
 
-Крутизна склона выделенного отрезка тренировки. Раcсчитывается как
+### Calories {#calories}
 
-> Градиент = elevation / duration.
+When calculating the amount of energy spent during activity, the duration and intensity of the activity, as well as gender, age, weight of an athlete stated in the application settings, are taken into account.
 
-### Калории {#calories}
-
-Расчет энергии, потраченной в ходе тренировки, производится с учетом продолжительности и интенсивности тренировки, а также пола, возраста и веса спортсмена, указанных в настройках приложения.
-
-> Для мужчин: ККал = \[Duration\] x \[\(-55.0969 + 0.6309 x HR + 0.1988 x weight + 0.2017 x age\) / 4.184\]  
-> Для женщин: ККал = \[Duration\] x \[\(-20.4022 + 0.4472 x HR - 0.1263 x weight + 0.074 x age\) / 4.184\], где:
+> For men: kcal= \[Duration\] x \[\(-55.0969 + 0.6309 x HR + 0.1988 x weight + 0.2017 x age\) / 4.184\]  
+> For women: kcal= \[Duration\] x \[\(-20.4022 + 0.4472 x HR - 0.1263 x weight + 0.074 x age\) / 4.184\], where:
 >
-> * Duration - продолжительность занятия в минутах,
-> * HR - средний пульс,
-> * weight - вес в килограммах,
-> * age - возраст.
+> * Duration - activity duration in minutes,
+> * HR - average heart rate,
+> * weight - weight in kilograms,
+> * age - athlete’s age.
 >
-> Если в настройках не указан пол, рост и вес, расчет производится для 30-летнего мужчины весом 70 кг.
+>
+> If an athlete hasn’t set gender, height, and weight in settings, then the calculation is performed for a 30 years old man who weighs 70 kg.
 
-Источники:
+Sources:
 
 * Braydenwm.com: Calories and Power as a Function of Heart Rate \([http://www.braydenwm.com/calburn.htm](http://www.braydenwm.com/calburn.htm)\)
 * Journal of Sports Sciences: Prediction of Energy Expenditure \([http://www.braydenwm.com/cal\_vs\_hr\_ref\_paper.pdf](http://www.braydenwm.com/cal_vs_hr_ref_paper.pdf)\)
