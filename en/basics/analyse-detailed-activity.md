@@ -87,22 +87,25 @@ Elements of the chart management:
 
 Staminity calculates a set of indicators as for the whole activity, as for a lap, segment or any part of the activity.
 
-The calculated indicators are described below in the section ["Calculated indicators"](#measures)
+The calculated indicators are described below in the section  
+ ["Calculated indicators"](#measures)
 
-The indicators are located on the “Details” tab which is available for users with “Premium” and “Coach” tariffs enabled. 
+The indicators are located on the “Details” tab which is available for users with “Premium” and “Coach” tariffs enabled.
 
-The indicators are available:
+The indicators are available  
+:
 
 * for a whole activity;
 * for a selected lap or several laps from the list of laps; 
 * for a selected segment or several segments from the list of segments; 
-* for any part of the activity, selected on the chart  .
+* for any part of the activity, selected on the chart
+  .
 
 ![Показатели в тренировке](http://content.staminity.com/assets/images/_new/activity/activity-details-measures.png)
 
 ### Peaks by distance and by time - “Details” tab {#peaks}
 
-**Peak **- the maximum value of the moving average values for the selected interval by time or by distance. 
+**Peak **- the maximum value of the moving average values for the selected interval by time or by distance.
 
 _For example, a 10-seconds heart rate peak of the activity is the maximum moving average value of heart rate among all 10-seconds parts of the activity._
 
@@ -135,34 +138,34 @@ The "Zones" tab displays the activity duration in each zone, for each intensity 
 
 You can set up the training zones limits in the section ["Settings” - “Zones”](/basics/getting-started.md#trainingzones)
 
-### Анализ выполнения структурированной тренировки, по сегментам {#segmentpanel}
+### Analysis of a structured activity completion, by segments {#segmentpanel}
 
-Для структурированной тренировки, запланированной по сегментам, доступны дополнительные возможности для анализа:
+For a structured activity, planned by segments, there are the following additional analysis options available:
 
 ![Анализ структурированной тренировки](https://content.staminity.com/assets/images/_new/activity/activity-structured-analysis.png)
 
-* **1 - панель сводных данных по сегментам**. 
+* **1 - panel of the total values by segments**. 
 
-Позволяет выбрать режим отображения "План" / "Факт" / "Группы":
+It allows to choose a display mode “Planned” / “Completed” / “Groups”:
 
-* План - запланированные показатели по сегментам;
-* Факт - фактические показатели по сегментам.
-* Группы - позволяет управлять режимом вывода данных: по каждому сегменту или по группе сегментов.
+* Planned - planned values by segments;
+* Completed - actual values by segments.
+* Groups - allows to manage the mode of data display: per each segment or per group of segments  .
 
 ![Анализ структурированной тренировки](https://content.staminity.com/assets/images/_new/activity/activity-segment-panel.gif)
 
-* **2 - график план/факт выполнения по сегментам**. 
+* **2 - chart of planned/actual values by segments**. 
 
-По оси Х откладывается общее время или расстояние тренировки, а по Y - % ПАНО по заданному в плане показателю интенсивности \(пульс, скорость/темп, мощность\).  
-Цвет линии показывает процент выполнения по сегменту:
+The x-axis is the total duration/distance of the activity, the y-axis - % LT for the intensity indicator set in plan \(heart rate, pace, power\).   
+The color of the line shows the percent of completion of the segment:
 
-* зеленый - отклонение от плана не больше 10%;
-* желтый - отклонение от плана от 10 до 20%;
-* красный - отклонение от плана больше 20%.
+* green - deviation from the plan does not exceed 10%;
+  yellow - deviation from the plan from 10 to 20%;
+  red - deviation from the plan is more than 20%.
 
-3 - **таблица план/факт по сегментам. **
+3 - **table of planned/actual values by segments. **
 
-Если выделить любой сегмент в таблице, то слева на вкладке "Детали" отобразятся показатели и пики по данному сегменту.
+When you select any segment in the table, then on the “Details” tab located to the left you will find indicators and peaks of the given segment.
 
 ---
 
