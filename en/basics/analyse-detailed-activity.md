@@ -150,13 +150,14 @@ It allows to choose a display mode “Planned” / “Completed” / “Groups�
 
 * Planned - planned values by segments;
 * Completed - actual values by segments.
-* Groups - allows to manage the mode of data display: per each segment or per group of segments  .
+* Groups - allows to manage the mode of data display: per each segment or per group of segments
+  .
 
 ![Анализ структурированной тренировки](https://content.staminity.com/assets/images/_new/activity/activity-segment-panel.gif)
 
 * **2 - chart of planned/actual values by segments**. 
 
-The x-axis is the total duration/distance of the activity, the y-axis - % LT for the intensity indicator set in plan \(heart rate, pace, power\).   
+The x-axis is the total duration/distance of the activity, the y-axis - % LT for the intensity indicator set in plan \(heart rate, pace, power\).  
 The color of the line shows the percent of completion of the segment:
 
 * green - deviation from the plan does not exceed 10%;
@@ -165,34 +166,34 @@ The color of the line shows the percent of completion of the segment:
 
 3 - **table of planned/actual values by segments. **
 
-When you select any segment in the table, then on the “Details” tab located to the left you will find indicators and peaks of the given segment.
+When you select any segment in the table, then on the “Details” tab located to the left you will find indicators and peaks for the given segment.
 
 ---
 
-# Показатели в выполненной тренировке Staminity {#measures}
+# Indicators in the completed activity calculated by Staminity {#measures}
 
-По каждой выполненной тренировке, по любому кругу, сегменту или произвольно выделенному на графике отрезку тренировки Staminity на основании исходных данных, записанных спортивными часами или программой на смартфоне, рассчитывает набор показателей.
+Staminity calculates a set of indicators as for the whole activity, as for a lap, segment or any part of the activity selected on the chart, based on the initial data registered by sports watch or by a program on the smartphone.
 
-Информация отображается **на вкладке "Детали"** в тренировке и содержит следующие показатели:
+The information is displayed **on the “Details” tab** in activity and includes the following indicators:
 
-* [Расстояние](#distance)
-* [Продолжительность](#duration) 
-* [Каденс](#cadence)
-* [Набор высоты](#elevation)
-* [Градиент](#grade)
-* [Средний пульс](#heartrate)
-* [Калории](#calories)
-* [Уровень интенсивности](#intensitylevel)
-* [Балл нагрузки - Training load](#trainingload)
-* [VAM или Вертикальная скорость](#vam)
-* [Relative power или Относительная мощность подъема](#relativepower)
-* [Средняя мощность и Скорректированная мощность](#adjustedpower)
-* [Средний темп и Скорректированный темп](#adjustedpace)
-* [Индекс изменений](#variabilityindex)
-* [Кардиокомпенсация и фактор эффективности](#decoupling)
-  * [Фактор эффективности \(ФЭ\)](#efficiencyfactor)
-  * [Кардиокомпенсация по темпу \(Темп:ЧСС\)](#speeddecoupling)
-  * [Кардиокомпенсация по мощности \(Мощность:ЧСС\)](#powerdecoupling)
+* [Distance](#distance)
+* [Duration](#duration)
+* [Cadence](#cadence)
+* [Elevation gain](#elevation)
+* [Grade](#grade)
+* [Average HR](#heartrate)
+* [Calories](#calories)
+* [Intensity level](#intensitylevel)
+* [Training load](#trainingload)
+* [VAM ](#vam)
+* [Relative power ](#relativepower)
+* [Adjusted power](#adjustedpower)
+* [Adjusted pace ](#adjustedpace)
+* [Variability index](#variabilityindex)
+* [Decoupling and efficiency factor ](#decoupling)
+  * [Efficiency factor \(EF\)](#efficiencyfactor)
+  * [Decoupling \(pace\) ](#speeddecoupling)
+  * [Decoupling \(power\)](#powerdecoupling)
 
 ### Расстояние {#distance}
 
