@@ -15,7 +15,7 @@
 * [How to upload completed activities to Staminity](questions/activity-auto-sync.md)
 * [How to use Staminity on your mobile device](basics/staminity-for-mobile.md)
 * [Training calendar - the main view for athletes](basics/calendar.md)
-* [Дэшборд или Недельный обзор - для тренера и менеджера клуба](basics/coach-dashboard.md)
+* [Dashboard for Coach and Club manager](basics/coach-dashboard.md)
 * [Запланировать тренировку](basics/create-plan-activity.md)
 * [Выполнить тренировку](basics/complete-activity.md)
 * [Проанализировать выполненную тренировку](basics/analyse-detailed-activity.md)
