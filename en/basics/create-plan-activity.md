@@ -1,4 +1,4 @@
-# How to plan an activity
+# Create a planned activity
 
 In this section you will find information about [two types of activities in Staminity ](#types)and about how to:
 
