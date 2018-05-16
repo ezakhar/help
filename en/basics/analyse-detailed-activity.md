@@ -188,8 +188,8 @@ The information is displayed **on the “Details” tab** in activity and includ
 * [Training load](#trainingload)
 * [VAM ](#vam)
 * [Relative power ](#relativepower)
-* [Adjusted power](#adjustedpower)
-* [Adjusted pace ](#adjustedpace)
+* [Average power and adjusted power](#adjustedpower)
+* [Average pace and adjusted pace](#adjustedpace)
 * [Variability index](#variabilityindex)
 * [Decoupling and efficiency factor ](#decoupling)
   * [Efficiency factor \(EF\)](#efficiencyfactor)
@@ -201,7 +201,8 @@ The information is displayed **on the “Details” tab** in activity and includ
 Length of an activity, lap, segment or any interval:
 
 * in kilometers or miles for running, cycling, skiing;
-* in meters or yards - for swimmin  g.
+* in meters or yards - for swimmin
+  g.
 
 ### Duration {#duration}
 
@@ -243,7 +244,6 @@ When calculating the amount of energy spent during activity, the duration and in
 > * weight - weight in kilograms,
 > * age - athlete’s age.
 >
->
 > If an athlete hasn’t set gender, height, and weight in settings, then the calculation is performed for a 30 years old man who weighs 70 kg.
 
 Sources:
@@ -251,61 +251,61 @@ Sources:
 * Braydenwm.com: Calories and Power as a Function of Heart Rate \([http://www.braydenwm.com/calburn.htm](http://www.braydenwm.com/calburn.htm)\)
 * Journal of Sports Sciences: Prediction of Energy Expenditure \([http://www.braydenwm.com/cal\_vs\_hr\_ref\_paper.pdf](http://www.braydenwm.com/cal_vs_hr_ref_paper.pdf)\)
 
-### Уровень интенсивности {#intensitylevel}
+### Intensity level {#intensitylevel}
 
-Уровень интенсивности тренировки измеряется в процентах от значений ПАНО спортсмена по мощности, темпу или пульсу.
+Intensity level of an activity is measured in % of the athlete’s  LT level by power, pace or heart rate.
 
-Если тренировка выполнена с измерителем мощности \(мощемером\), то
+If the activity has been completed with the use of a power meter, then
 
-> Уровень интенсивности = Скорректированная мощность / [ПАНО](/basics/lactate-threshold.md) по мощности.
+> Intensity level = Adjusted power /  [LT](/basics/lactate-threshold.md) by power.
 
-Если в тренировке мощность не фиксировалась, то расчет производится по темпу:
+If power hasn't been registered during the activity, then calculation is made based on the pace value:
 
-> Уровень интенсивности = Скорректированный темп / [ПАНО](/basics/lactate-threshold.md) по темпу
+> Intensity level = Adjusted pace / [LT](/basics/lactate-threshold.md) by pace
 
-Если в тренировке отсутствует мощность и скорость \(например, при занятиях на тренажерах\), то расчет производится по пульсу:
+If there are no power and speed values registered \(for example, during strength training in gym\), then calculation is made based on the heart rate value: 
 
-> Уровень интенсивности = Средний пульс / [ПАНО](/basics/lactate-threshold.md) по пульсу.
+> Intensity level = Average HR / [LT](/basics/lactate-threshold.md) by heart rate.
 
-### TL - Training load или Балл нагрузки {#trainingload}
+### TL - Training load {#trainingload}
 
-Балл нагрузки рассчитывается с учетом интенсивности тренировки и ее продолжительности.  Нагрузка 100 баллов соответствует тренировке продолжительностью 1 час, выполняемой на уровне ПАНО по мощности \(для вела\), по темпу \(для бега и плавания\) или по пульсу \(для всех видов спорта\).
+Training load is calculated based on the intensity level of the activity and its duration. The load of 100 points corresponds to an activity that lasted 1 hour and was completed at the LT level by power \(for cycling\), by pace \(for swimming and running\) or by heart rate \(for all sports\).
 
-> Балл нагрузки = Уровень интенсивности \* Продолжительность тренировки в часах \* 100
+> Training load = Intensity level \* Duration in hours \* 100
 
-### VAM или Вертикальная скорость {#vam}
+### VAM  {#vam}
 
-VAM - это аббревиатура с итальянского **velocità ascensionale media**, что переводится как "средняя скорость подъема". Термин предложен итальянским физиологом и тренером по велоспорту Микеле Феррари \(Michele Ferrari\).  Показатель рассчитывается для любого выделенного отрезка дистанции и показывает скорость в метрах в час.
+VAM - is an abbreviation for the Italian **velocità ascensionale media**, which translates into English as "average ascent speed". This term has been proposed by the Italian physiologist and cycling coach Michele Ferrari. The indicator is calculated for any selected part of the dictance and shows the speed in meters per hour. 
 
-VAM широко используется в велоспорте для сравнения подготовленности спортсменов между собой и расчета [относительной мощности](#relativepower).
+VAM is widely used in cycling when it is needed to compare the athletes' fitness and to calculate the [relative power](#relativepower).
 
-> VAM или Вертикальная скорость = Набор высоты / Продолжительность в часах.
+> VAM = Elevation gain / Duration in hours.
 
-Источник: [https://en.wikipedia.org/wiki/VAM\_\(bicycling\)](https://en.wikipedia.org/wiki/VAM_%28bicycling%29)
+Source: [https://en.wikipedia.org/wiki/VAM\_\(bicycling\)](https://en.wikipedia.org/wiki/VAM_%28bicycling%29)
 
-### Relative power или Относительная мощность {#relativepower}
+### Relative power {#relativepower}
 
-Относительная мощность - расчетная величина, показывающая мощность в ваттах на килограмм. Это один из самых важных показателей для велосипедистов.
+Relative power - a calculated indicator showing power in watts per kilogram. This is one of the most important indicators for cyclists.
 
-Относительная мощность рассчитывается на основании [VAM \(Вертикальной скорости\)](#vam) по формуле:
+Relative power is calculated based on the [VAM](#vam) according to the following formula: по формуле:
 
-**Относительная мощность \(Вт/кг\) = VAM \(м/час\) / \(Фактор градиента x 100\)**,  
-где Фактор градиента = 2 + \(Градиент в процентах / 10\).
+**Relative power \(W/kg\) = VAM \(m/hour\) / \(Grade factor x 100\)**,  
+where Grade factor = 2 + \(Grade in percents / 10\).
 
-Например, для градиента 6% фактор градиента = 2,6, а для градиента 11% Фактор градиента = 3,1.
+For example, for grade of 6%, grade factor = 2,6, and for grade of 11% - 3,1.
 
-Источник: [https://en.wikipedia.org/wiki/VAM\_\(bicycling\)](https://en.wikipedia.org/wiki/VAM_%28bicycling%29)
+Source: [https://en.wikipedia.org/wiki/VAM\_\(bicycling\)](https://en.wikipedia.org/wiki/VAM_%28bicycling%29)
 
-### Средняя мощность и Скорректированная мощность {#adjustedpower}
+### Average power and adjusted power {#adjustedpower}
 
-По тренировке, выполненной с измерителем мощности \(мощемером\), рассчитывается средняя мощность и скорректированная мощность.
+For an activity completed with the use of a power meter an average power and adjusted power can be calculated. 
 
-**Средняя мощность** - среднее арифметическое от значений мощности, зарегистрированных в каждой точке тренировки или отрезка.
+**Average power **- an arithmetic mean of the power values registered at each point of the activity or of its interval .
 
-**Скорректированная мощность** определяет эквивалент средней мощности для тренировки/отрезка такой же продолжительности, при условии равномерного приложения усилий спортсменом.
+**Adjusted power** indicates an equivalent of the average power for an activity/interval of the same duration, provided that the athlete made efforts evenly. 
 
-> Зачем нужна скорректированная мощность.  
-> Две тренировки с одинаковой продолжительностью и одной и той же средней мощностью могут потребовать разных усилий от спортсмена: тренировка на развитие аэробной выносливости на одном уровне интенсивности потребует меньше усилий, чем тренировка на развитие скорости, с несколькими быстрыми ускорениями через восстановительные отрезки.
+> The use of the adjusted power.  
+> Two activities of the same duration and of the same average power values can require different efforts from the athlete:  an activity intended to develop aerobic endurance completed on the same intensity level will require less efforts then an activity intended to develop speed, consisting of several accelerations with recovery intervals.
 
 В расчете скорректированной мощности используется сглаживание зарегистрированных мощемером показателей мощности в каждой точке тренировки.
 
