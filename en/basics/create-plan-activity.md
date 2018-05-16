@@ -116,7 +116,7 @@ Then choose the target day and click on “Paste”. New activities will be crea
 Please note:
 
 * You can copy only activities with a plan;
-* You can copy only activities. You cannot copy events, measurements or competitions.
+* You can copy only activities. It is not possible to copy events, measurements or competitions at this time;
 * When copying activities between the athletes, intensity of the activities can be recalculated based on the [LT level](/basics/lactate-threshold.md) of the athletes.
 
 ### How to create an activity for several athletes at once {#multipleactivity}
