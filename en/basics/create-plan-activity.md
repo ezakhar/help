@@ -13,12 +13,15 @@ In this section you will find information about [two types of activities in Stam
 
 There are two types of activities in Staminity: simple activities and structured activities. The coach and the athlete can choose a suitable option for different types of activities.
 
-* **Simple activities.** The plan is set for whole activity with summary indicators, and the peculiarities are described in the text.
-* **Structured activities.** The activity is divided into segments. Duration/distance and intensity are planned for each segment.
+* **Simple activities.** The plan for it is set for whole activity with summary indicators, and the details is described by the text.
+* **Structured activities.** This activity plan is divided into segments. Duration/distance and intensity are planned for each segment.
 
 Here’s how the same activity  
-“Warm up 8 km, 4 repeats of 1 km with 3:45-3:50 min/km plus 3 minutes rest, cool down 1 km”,  
-  looks when created with segments and without them:
+>* _8 km warm up,_ 
+* _4 repeats of 1 km with pace 3:45-3:50 min/km plus 3 minutes rest,_ 
+* _1 km cool down”,_  
+
+looks when created with segments and without them:
 
 ![2 вида тренировок в Staminity](https://content.staminity.com/assets/images/_new/about/2-activity-types.png)
 
