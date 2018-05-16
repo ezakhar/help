@@ -253,7 +253,7 @@ Sources:
 
 ### Intensity level {#intensitylevel}
 
-Intensity level of an activity is measured in % of the athlete’s  LT level by power, pace or heart rate.
+The intensity level of an activity is measured in % of the athlete’s  LT level by power, pace or heart rate.
 
 If the activity has been completed with the use of a power meter, then
 
@@ -263,7 +263,7 @@ If power hasn't been registered during the activity, then calculation is made ba
 
 > Intensity level = Adjusted pace / [LT](/basics/lactate-threshold.md) by pace
 
-If there are no power and speed values registered \(for example, during strength training in gym\), then calculation is made based on the heart rate value: 
+If there are no power and speed values registered \(for example, during strength training in gym\), then calculation is made based on the heart rate value:
 
 > Intensity level = Average HR / [LT](/basics/lactate-threshold.md) by heart rate.
 
@@ -273,9 +273,9 @@ Training load is calculated based on the intensity level of the activity and its
 
 > Training load = Intensity level \* Duration in hours \* 100
 
-### VAM  {#vam}
+### VAM {#vam}
 
-VAM - is an abbreviation for the Italian **velocità ascensionale media**, which translates into English as "average ascent speed". This term has been proposed by the Italian physiologist and cycling coach Michele Ferrari. The indicator is calculated for any selected part of the dictance and shows the speed in meters per hour. 
+VAM - is an abbreviation for the Italian **velocità ascensionale media**, which translates into English as "average ascent speed". This term has been proposed by the Italian physiologist and cycling coach Michele Ferrari. The indicator is calculated for any selected part of the distance and shows the speed in meters per hour.
 
 VAM is widely used in cycling when it is needed to compare the athletes' fitness and to calculate the [relative power](#relativepower).
 
@@ -287,7 +287,7 @@ Source: [https://en.wikipedia.org/wiki/VAM\_\(bicycling\)](https://en.wikipedia.
 
 Relative power - a calculated indicator showing power in watts per kilogram. This is one of the most important indicators for cyclists.
 
-Relative power is calculated based on the [VAM](#vam) according to the following formula: по формуле:
+Relative power is calculated based on the [VAM](#vam) according to the following formula:
 
 **Relative power \(W/kg\) = VAM \(m/hour\) / \(Grade factor x 100\)**,  
 where Grade factor = 2 + \(Grade in percents / 10\).
@@ -298,14 +298,14 @@ Source: [https://en.wikipedia.org/wiki/VAM\_\(bicycling\)](https://en.wikipedia.
 
 ### Average power and adjusted power {#adjustedpower}
 
-For an activity completed with the use of a power meter an average power and adjusted power can be calculated. 
+For an activity completed with the use of a power meter an average power and adjusted power can be calculated.
 
-**Average power **- an arithmetic mean of the power values registered at each point of the activity or of its interval .
+**Average power **- an arithmetic mean of the power values registered at each point of the activity or of its interval.
 
-**Adjusted power** indicates an equivalent of the average power for an activity/interval of the same duration, provided that the athlete made efforts evenly. 
+**Adjusted power** indicates an equivalent of the average power for an activity/interval of the same duration, provided that the athlete made efforts evenly.
 
 > The use of the adjusted power.  
-> Two activities of the same duration and of the same average power values can require different efforts from the athlete:  an activity intended to develop aerobic endurance completed on the same intensity level will require less efforts then an activity intended to develop speed, consisting of several accelerations with recovery intervals.
+> Two activities of the same duration and of the same average power values can require different efforts from the athlete:  an activity intended to develop aerobic endurance completed on the same intensity level will require less efforts than an activity intended to develop speed, consisting of several accelerations with recovery intervals.
 
 В расчете скорректированной мощности используется сглаживание зарегистрированных мощемером показателей мощности в каждой точке тренировки.
 
