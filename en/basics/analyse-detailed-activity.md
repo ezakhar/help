@@ -14,7 +14,7 @@ The following information is available in a completed activity, uploaded from sp
 
 ## Calculated indicators
 
-Staminity **calculates a set of indicators** for each completed activity, each round, segment or part of activity randomly selected on a chart. The calculations are made based on the initial data recorded by sports watches or be an application on the smartphone.
+Staminity **calculates a set of indicators** for each completed activity, each round, segment or part of activity randomly selected on a chart. The calculations are made based on the initial data recorded by sports watch or be an application on the smartphone.
 
 The information is displayed **on the “Details” tab** in activity which is available for users with “Premium” and “Coach” tariffs enabled and includes the following indicators:
 
@@ -35,7 +35,7 @@ The information is displayed **on the “Details” tab** in activity which is a
 * [Decoupling and efficiency factor](#decoupling)
   * [Efficiency factor \(EF\)](#efficiencyfactor)
   * [Decoupling \(pace\)](#speeddecoupling)
-  * [Decoupling \(power](#powerdecoupling)
+  * [Decoupling \(power\)](#powerdecoupling)
 
 ---
 
@@ -50,8 +50,7 @@ Total planned and actual values are compared on the “Overview” tab.
 
 Percent of the planned activities’ completion is calculated based on the results of the planned and actual values of duration/distance and intensity indicators comparison.
 
-If duration/distance and intensity values are set in the planned activity, than calculation is performed according to the following formula  
-:
+If duration/distance and intensity values are set in the planned activity, then calculation is performed according to the following formula:
 
 > % of completion = \(% of completion by duration/distance\) \* \(% of completion by intensity\)
 
@@ -69,7 +68,7 @@ The chart is composed by time or by distance and displays the following indicato
 
 * heart rate;
 * power;
-* pace/speed;
+* pace;
 * elevation;
 * cadence.
 
@@ -79,21 +78,19 @@ Elements of the chart management:
 * 1 - Choose a chart: **indicators chart/segments chart**. Is available for structured activities. The indicators chart is always displayed in all the remaining activities.
 * 2 - Turn on/turn off the **auto scaling** attribute. If the attribute is turned on, then when you select a part of the chart, it changes its scale and the selected part is displayed at full width of the screen. 
 * 3 -  **Set up **chart **smoothing**. By changing the position of the cursor you can set the degree of the indicators’ smoothing on the chart.
-* 4 - Buttons allowing to **manage scale **of the chart. They appear if the auto scaling mode is turned off \(2\) 
+* 4 - Buttons allowing to **manage the scale **of the chart. They appear if the auto scaling mode is turned off \(2\) 
 * 5 - Choose **layout **of the chart: by duration or by distance; 
 * 6 - Manage **set of indicators** to be displayed;
 
 ### Calculated indicators - “Details” tab {#metrics}
 
-Staminity calculates a set of indicators as for the whole activity, as for a lap, segment or any part of the activity.
+Staminity calculates a set of indicators as for a whole activity, as for a lap, segment or any part of the activity.
 
-The calculated indicators are described below in the section  
- ["Calculated indicators"](#measures)
+The calculated indicators are described below in the section ["Calculated indicators"](#measures)
 
 The indicators are located on the “Details” tab which is available for users with “Premium” and “Coach” tariffs enabled.
 
-The indicators are available  
-:
+There are indicators available:
 
 * for a whole activity;
 * for a selected lap or several laps from the list of laps; 
@@ -117,7 +114,7 @@ Peaks are calculated by time and by distance for the following indicators:
 
 ![Пики](http://content.staminity.com/assets/images/_new/activity/activity-details-peaks.png)
 
-As well as indicators, peaks are available:
+As well as indicators, there are peaks available:
 
 * for a whole activity;
 * for a selected lap or several laps from the list of laps; 
@@ -126,7 +123,7 @@ As well as indicators, peaks are available:
 
 ### Laps panel {#laps}
 
-In the laps table you will find information about the main duration/distance and intensity indicators for each lap.  
+In the laps table, you will find information about the main duration/distance and intensity indicators for each lap.  
 ![Управление графиком показателей в тренировке](https://content.staminity.com/assets/images/_new/activity/activity-laps.png)
 
 The selected lap is displayed on the chart and on the map, and information about its calculated indicators and peaks is provided on the “Details” tab.
@@ -157,12 +154,12 @@ It allows to choose a display mode “Planned” / “Completed” / “Groups�
 
 * **2 - chart of planned/actual values by segments**. 
 
-The x-axis is the total duration/distance of the activity, the y-axis - % LT for the intensity indicator set in plan \(heart rate, pace, power\).  
-The color of the line shows the percent of completion of the segment:
+The x-axis is the total duration/distance of the activity, the y-axis - % LT for the intensity indicator set in the planned activity \(heart rate, pace, power\).  
+The color of the line reflects the segment's percent of completion:
 
 * green - deviation from the plan does not exceed 10%;
-  yellow - deviation from the plan from 10 to 20%;
-  red - deviation from the plan is more than 20%.
+* yellow - deviation from the plan is from 10% to 20%;
+* red - deviation from the plan is more than 20%.
 
 3 - **table of planned/actual values by segments. **
 
@@ -172,10 +169,9 @@ When you select any segment in the table, then on the “Details” tab located 
 
 # Indicators in the completed activity that are calculated by Staminity {#measures}
 
-Staminity calculates a set of indicators as for the whole activity, as for a lap, segment or any part of the activity selected on the chart, based on the initial data registered by sports watch or by a program on the smartphone.
+Staminity calculates a set of indicators as for the whole activity, as for a lap, segment or any part of the activity selected on the chart, based on the initial data registered by sports watch or by an application on the smartphone.
 
-The information is displayed **on the “Details” tab** in activity and includes the following indicators  
-:
+The information is displayed **on the “Details” tab** in activity and includes the following indicators:
 
 * [Distance](#distance)
 * [Duration](#duration)
@@ -207,8 +203,8 @@ Length of an activity, lap, segment or any interval:
 
 Staminity calculates three indicators of activity duration:
 
-* **Elapsed duration** - time spent on activity from the moment it started till the end. For example, if you started your activity at 9 a.m., then paused recording, by clicking on “Pause” for 10 minutes from 10 a.m. till 10:10 and finished activity at 10:30 then the “Elapsed time” will be 90 minutes.
-* **Duration **- time spent on activity minus pauses. For the above-mentioned example it will be 80 minutes. 
+* **Elapsed duration** - time spent on activity from the beginning till the end. For example, if you started your activity at 9 a.m., then paused recording, by clicking on “Pause” for 10 minutes from 10 a.m. till 10:10 and finished activity at 10:30 then the “Elapsed time” will be 90 minutes.
+* **Duration **- time spent on activity minus pauses. For the above-mentioned example, it will be 80 minutes. 
 * **Moving duration** - the number of seconds when the athlete moved during the activity. For the above-mentioned example, if during these 80 minutes an athlete twice stopped at the traffic light for 1 minute, without pausing his watch, then the moving duration will be 78 minutes.
 
 ### Cadence {#cadence}
@@ -258,11 +254,11 @@ If the activity has been completed with the use of a power meter, then
 
 > Intensity level = Adjusted power /  [LT](/basics/lactate-threshold.md) by power.
 
-If power hasn't been registered during the activity, then calculation is made based on the pace value:
+If power hasn't been registered during the activity, then the calculation is made based on the pace value:
 
 > Intensity level = Adjusted pace / [LT](/basics/lactate-threshold.md) by pace
 
-If there are no power and speed values registered \(for example, during strength training in gym\), then calculation is made based on the heart rate value:
+If there are no power and speed values registered \(for example, during strength training in a gym\), then the calculation is made based on the heart rate value:
 
 > Intensity level = Average HR / [LT](/basics/lactate-threshold.md) by heart rate.
 
@@ -304,39 +300,39 @@ For an activity completed with the use of a power meter an average power and adj
 **Adjusted power** indicates an equivalent of the average power for an activity/interval of the same duration, provided that the athlete made efforts evenly.
 
 > The use of the adjusted power.  
-> Two activities of the same duration and of the same average power values can require different efforts from the athlete:  an activity intended to develop aerobic endurance completed on the same intensity level will require less efforts than an activity intended to develop speed, consisting of several accelerations with recovery intervals.
+> Two activities of the same duration and of the same average power values can require different efforts from the athlete:  an activity intended to develop aerobic endurance completed on the same intensity level will require fewer efforts than an activity intended to develop speed, consisting of several accelerations with recovery intervals.
 
-When calculating the adjusted power, smoothing of the power values registered by the power meter at each point of the activity is being applied. 
+When calculating the adjusted power, smoothing of the power values registered by the power meter at each point of the activity is being applied.
 
-When developing an algorythm of the adjucted power calculation in Staminity, the following sources have been used:  Training and Racing with a Power Meter by Hunter Allen, Andrew Coggan and F.Skiba's works on quantitative assessment of the intensity of the cyclists', runners' and triathletes' trainings. 
+When developing an algorithm of the adjusted power calculation in Staminity, the following sources have been used:  Training and Racing with a Power Meter by Hunter Allen, Andrew Coggan and F.Skiba's works on quantitative assessment of the intensity of the cyclists', runners' and triathletes' trainings.
 
-### Average pace and adjusted pace  {#adjustedpace}
+### Average pace and adjusted pace {#adjustedpace}
 
-**Average pace** is calculated for an activity or any selected interval of the activity as the distance of the interval divided by its duration. 
+**Average pace** is calculated for an activity or any selected interval of the activity as the distance of the interval divided by its duration.
 
-However, the pace of the activity depends greatly on the type of the route: an activity completed on a track cannor be compared with an activity completed on a hilly terrain.   
-The indicator of adjusted pace has been introduced in order to enable comparison of the activities completed on the routes with different terrain. 
+However, the pace of the activity depends greatly on the type of the route: an activity completed on a track cannot be compared with an activity completed on a hilly terrain.  
+The indicator of adjusted pace has been introduced in order to enable comparison of the activities completed on the routes with different terrain.
 
-**Adjucted pace** - a calculated pace with which an athlete would run an activity of similar duration on a track, making the same effort as in the initial activity/interval.
+**Adjusted pace** - a calculated pace with which an athlete would run an activity of similar duration on a track, making the same effort as in the initial activity/interval.
 
 When developing an algorythm of the adjucted pace calculation in Staminity, the following sources have been used: works of C.T.M Davies \(1973 year\), works of Alberto Minetti \(2003 years\), article by R.Lovett for Runnersworld \(2007 year\). При разработке алгоритма расчета скорректированного темпа в Стаминити были использованы работы C.T.M Davies \(1973 год\), работы Alberto Minetti \(2003 год\), статья R.Lovett в Runnersworld \(2007 год\).
 
-We are constantly working on the upgrade of the adjusted pace calculation algorythm. 
+We are constantly working on the upgrade of the adjusted pace calculation algorithm.
 
 ### Variability index {#variabilityindex}
 
-Variability index is calculated for the activities with power indicators and shows how evenly an athlete applied efforts during the entire activity. 
+Variability index is calculated for the activities with power indicators and shows how evenly an athlete applied efforts during the entire activity.
 
 > Variability index = Adjucted power / Average power
 
-### Decoupling and efficiency factor  {#decoupling}
+### Decoupling and efficiency factor {#decoupling}
 
-Decoupling is an ability of the heart rate to increase during the activity even if the power and pace remain at the same level. An aerobically trained athlete will have the minimum increase. 
+Decoupling is an ability of the heart rate to increase during the activity even if the power and pace remain at the same level. An aerobically trained athlete will have the minimum increase.
 
-The decoupling value is reflected by the change in the value of the indicator "Pace:HR" or "Power:HR" for 1 and 2 half of the activity in percents. The indicator"Pace:HR" and "Power:HR" is called **efficiency factor**. 
+The decoupling value is reflected by the change in the value of the indicator "Pace:HR" or "Power:HR" for 1 and 2 half of the activity in percents. The indicator"Pace:HR" and "Power:HR" is called **efficiency factor**.
 
-Joe Friel in the The Triathlete's Training Bible gives the following assessment criterion of the decoupling value:   
-_"If the change of the value of the indicator "pace by HR" \(or "power by HR"\) is less than 5%, then the exersice is considered as "correlated". In this case physical training with a view to the aerobic threshold for a race of a given duration ... can be considered to be fully completed"._
+Joe Friel in the The Triathlete's Training Bible gives the following assessment criterion of the decoupling value:  
+_"If the change of the value of the indicator "pace by HR" \(or "power by HR"\) is less than 5%, then the exercise is considered as "correlated". In this case physical training with a view to the aerobic threshold for a race of a given duration ... can be considered to be fully completed"._
 
 In Staminity calculation of the efficiency factor, as well as of the decoupling, can be performed both for a whole activity, and for the selected interval.
 
@@ -350,15 +346,15 @@ and for the activities with the power meter:
 
 ##### Pace:HR - decoupling \(pace\) {#speeddecoupling}
 
-Decoupling \(pace\) shows the change in the efficiency factor's value, calculated based on pace for the first and the second half of the activity: 
+Decoupling \(pace\) shows the change in the efficiency factor's value, calculated based on pace for the first and the second half of the activity:
 
-> **EF1** = Average pace / average HR for the 1 half of the activity   
+> **EF1** = Average pace / average HR for the 1 half of the activity  
 > **EF2** = Average pace / average HR for the 2 half of the activity  
 > **Pace:HR **= \(EF1 - EF2\) / EF1
 
 ##### Power:HR - decoupling \(power\) {#powerdecoupling}
 
-Decoupling \(power\) shows the change in the efficiency factor's value, calculated based on power for the first and the second half of the activity: 
+Decoupling \(power\) shows the change in the efficiency factor's value, calculated based on power for the first and the second half of the activity:
 
 > **EF1** = Average power/ average HR for the 1 half of the activity  
 > **EF2** = Average power/ average HR for the 2 half of the activity  
