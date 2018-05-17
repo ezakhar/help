@@ -29,8 +29,8 @@ The information is displayed **on the “Details” tab** in activity which is a
 * [Training load](#trainingload)
 * [VAM ](#vam)
 * [Relative power ](#relativepower)
-* [Adjusted power](#adjustedpower)
-* [Adjusted pace](#adjustedpace)
+* [Average power and adjusted power](#adjustedpower)
+* [Average pace and adjusted pace](#adjustedpace)
 * [Variability index](#variabilityindex)
 * [Decoupling and efficiency factor](#decoupling)
   * [Efficiency factor \(EF\)](#efficiencyfactor)
@@ -170,7 +170,7 @@ When you select any segment in the table, then on the “Details” tab located 
 
 ---
 
-# Indicators in the completed activity calculated by Staminity {#measures}
+# Indicators in the completed activity that are calculated by Staminity {#measures}
 
 Staminity calculates a set of indicators as for the whole activity, as for a lap, segment or any part of the activity selected on the chart, based on the initial data registered by sports watch or by a program on the smartphone.
 
@@ -201,8 +201,7 @@ The information is displayed **on the “Details” tab** in activity and includ
 Length of an activity, lap, segment or any interval:
 
 * in kilometers or miles for running, cycling, skiing;
-* in meters or yards - for swimmin
-  g.
+* in meters or yards - for swimming.
 
 ### Duration {#duration}
 
@@ -289,10 +288,10 @@ Relative power - a calculated indicator showing power in watts per kilogram. Thi
 
 Relative power is calculated based on the [VAM](#vam) according to the following formula:
 
-**Relative power \(W/kg\) = VAM \(m/hour\) / \(Grade factor x 100\)**,  
-where Grade factor = 2 + \(Grade in percents / 10\).
+**Relative power \(W/kg\) = VAM \(m/hour\) / \(Gradient factor x 100\)**,  
+where Gradient factor = 2 + \(Grade in percents / 10\).
 
-For example, for grade of 6%, grade factor = 2,6, and for grade of 11% - 3,1.
+For example, for grade of 6%, gradient factor = 2,6, and for grade of 11% - 3,1.
 
 Source: [https://en.wikipedia.org/wiki/VAM\_\(bicycling\)](https://en.wikipedia.org/wiki/VAM_%28bicycling%29)
 
@@ -307,63 +306,63 @@ For an activity completed with the use of a power meter an average power and adj
 > The use of the adjusted power.  
 > Two activities of the same duration and of the same average power values can require different efforts from the athlete:  an activity intended to develop aerobic endurance completed on the same intensity level will require less efforts than an activity intended to develop speed, consisting of several accelerations with recovery intervals.
 
-В расчете скорректированной мощности используется сглаживание зарегистрированных мощемером показателей мощности в каждой точке тренировки.
+When calculating the adjusted power, smoothing of the power values registered by the power meter at each point of the activity is being applied. 
 
-При разработке алгоритма расчета скорректированной мощности в Стаминити были использованы книга Аллена и Коггана "Training and racing with a power meter" и работы Ф.Скибы по количественной оценке интенсивности тренировок велосипедистов, бегунов и триатлетов.
+When developing an algorythm of the adjucted power calculation in Staminity, the following sources have been used:  Training and Racing with a Power Meter by Hunter Allen, Andrew Coggan and F.Skiba's works on quantitative assessment of the intensity of the cyclists', runners' and triathletes' trainings. 
 
-### Средний темп и скорректированный темп {#adjustedpace}
+### Average pace and adjusted pace  {#adjustedpace}
 
-**Средний темп** рассчитывается для тренировки и любого выбранного отрезка как расстояние отрезка, деленное на его продолжительность.
+**Average pace** is calculated for an activity or any selected interval of the activity as the distance of the interval divided by its duration. 
 
-Однако на темп тренировки сильно влияет профиль трассы: занятие, выполненное на треке, невозможно сравнить с тренировкой, выполненной на холмистой местности.  
-Для того, чтобы можно было сравнить тренировки, выполненные на трассах с разным рельефом, был введен показатель скорректированного темпа.
+However, the pace of the activity depends greatly on the type of the route: an activity completed on a track cannor be compared with an activity completed on a hilly terrain.   
+The indicator of adjusted pace has been introduced in order to enable comparison of the activities completed on the routes with different terrain. 
 
-**Скорректированный темп** - это расчетный темп с которым бы пробежал спортсмен тренировку аналогичной продолжительности по ровной трассе, затратив те же усилия, как в исходной тренировке/отрезке.
+**Adjucted pace** - a calculated pace with which an athlete would run an activity of similar duration on a track, making the same effort as in the initial activity/interval.
 
-При разработке алгоритма расчета скорректированного темпа в Стаминити были использованы работы C.T.M Davies \(1973 год\), работы Alberto Minetti \(2003 год\), статья R.Lovett в Runnersworld \(2007 год\).
+When developing an algorythm of the adjucted pace calculation in Staminity, the following sources have been used: works of C.T.M Davies \(1973 year\), works of Alberto Minetti \(2003 years\), article by R.Lovett for Runnersworld \(2007 year\). При разработке алгоритма расчета скорректированного темпа в Стаминити были использованы работы C.T.M Davies \(1973 год\), работы Alberto Minetti \(2003 год\), статья R.Lovett в Runnersworld \(2007 год\).
 
-Мы постоянно работаем над уточнением алгоритма расчета скорректированного темпа.
+We are constantly working on the upgrade of the adjusted pace calculation algorythm. 
 
-### Индекс изменений {#variabilityindex}
+### Variability index {#variabilityindex}
 
-Индекс изменений рассчитывается для тренировок с мощностью и показывает, насколько равномерно вы прилагали усилие на протяжении всего заезда.
+Variability index is calculated for the activities with power indicators and shows how evenly an athlete applied efforts during the entire activity. 
 
-> Индекс изменений = Скорректированная мощность / Средняя мощность
+> Variability index = Adjucted power / Average power
 
-### Кардиокомпенсация и фактор эффективности {#decoupling}
+### Decoupling and efficiency factor  {#decoupling}
 
-Кардиокомпенсация представляет собой способность ЧСС повышаться со временем тренировки даже при стабильных уровнях мощности или темпа. У подготовленного с аэробной точки зрения спортсмена этот рост будет минимальным.
+Decoupling is an ability of the heart rate to increase during the activity even if the power and pace remain at the same level. An aerobically trained athlete will have the minimum increase. 
 
-Величину кардиокомпенсации показывает изменение величины показателя «скорость к ЧСС» или "мощность к ЧСС" для 1 и 2 половины тренировки, в процентах. При этом сам показатель "Скорость к ЧСС" или "Мощность к ЧСС" называется **Фактором эффективности**.
+The decoupling value is reflected by the change in the value of the indicator "Pace:HR" or "Power:HR" for 1 and 2 half of the activity in percents. The indicator"Pace:HR" and "Power:HR" is called **efficiency factor**. 
 
-Джо Фрил в "Библии триатлета" приводит следующий критерий оценки величины кардиокомпенсации:  
-_"Если изменение величины показателя «скорость к ЧСС» \(или "мощность к ЧСС"\) составляет менее 5%, то упражнение считается «коррелированным». В этом случае физическую подготовку с точки зрения аэробного порога для гонки данной продолжительности ... можно считать полностью завершенной"_
+Joe Friel in the The Triathlete's Training Bible gives the following assessment criterion of the decoupling value:   
+_"If the change of the value of the indicator "pace by HR" \(or "power by HR"\) is less than 5%, then the exersice is considered as "correlated". In this case physical training with a view to the aerobic threshold for a race of a given duration ... can be considered to be fully completed"._
 
-В Стаминити расчет фактора эффективности, а также кардиокомпенсации производится как по всей тренировке, так и по выделенному отрезку.
+In Staminity calculation of the efficiency factor, as well as of the decoupling, can be performed both for a whole activity, and for the selected interval.
 
-##### Фактор эффективности {#efficiencyfactor}
+##### Efficiency factor {#efficiencyfactor}
 
-> Фактор эффективности \(ФЭ\) = Средняя скорость / Средняя ЧСС,
+> Efficiency factor \(EF\) = Average pace / Average HR,
 
-а для тренировок с мощемером:
+and for the activities with the power meter:
 
-> Фактор эффективности \(ФЭ\) = Средняя мощность / Средняя ЧСС.
+> Efficiency factor \(EF\)  = Average power / Average HR.
 
-##### Темп:ЧСС  - кардиокомпенсация по темпу {#speeddecoupling}
+##### Pace:HR - decoupling \(pace\) {#speeddecoupling}
 
-Кардиокомпенсация по темпу показывает изменение величины Фактора эффективности, рассчитанного по скорости для первой и второй половины тренировки:
+Decoupling \(pace\) shows the change in the efficiency factor's value, calculated based on pace for the first and the second half of the activity: 
 
-> **ФЭ1** = Средняя скорость / средняя ЧСС для 1 половины тренировки  
-> **ФЭ2** = Средняя скорость / средняя ЧСС для 2 половины тренировки  
-> **Темп:ЧСС** = \(ФЭ1 - ФЭ2\) / ФЭ1
+> **EF1** = Average pace / average HR for the 1 half of the activity   
+> **EF2** = Average pace / average HR for the 2 half of the activity  
+> **Pace:HR **= \(EF1 - EF2\) / EF1
 
-##### Мощность:ЧСС  - кардиокомпенсация по мощности {#powerdecoupling}
+##### Power:HR - decoupling \(power\) {#powerdecoupling}
 
-Кардиокомпенсация по мощности показывает изменение Фактора эффективности, рассчитанного по мощности, для первой и второй половины тренировки:
+Decoupling \(power\) shows the change in the efficiency factor's value, calculated based on power for the first and the second half of the activity: 
 
-> **ФЭ1** = Средняя мощность / средняя ЧСС для 1 половины тренировки  
-> **ФЭ2** = Средняя мощность / средняя ЧСС для 2 половины тренировки  
-> **Мощность:ЧСС** = \(ФЭ1 - ФЭ2\) / ФЭ1
+> **EF1** = Average power/ average HR for the 1 half of the activity  
+> **EF2** = Average power/ average HR for the 2 half of the activity  
+> **Power:HR **= \(EF1 - EF2\) / EF1
 
 
 
