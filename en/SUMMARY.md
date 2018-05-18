@@ -18,7 +18,7 @@
 * [Dashboard for Coach and Club manager](basics/coach-dashboard.md)
 * [How to create a planned activity](basics/create-plan-activity.md)
 * [How to complete an activity](basics/complete-activity.md)
-* [Проанализировать выполненную тренировку](basics/analyse-detailed-activity.md)
+* [How to analyze a completed activity](basics/analyse-detailed-activity.md)
 * [Создать соревнование](basics/competition.md)
 * [Создать событие и измерение](basics/create-record.md)
 

@@ -14,14 +14,15 @@ The following information is available in a completed activity, uploaded from sp
 
 ## Calculated indicators
 
-Staminity **calculates a set of indicators** for each completed activity, each round, segment or part of activity randomly selected on a chart. The calculations are made based on the initial data recorded by sports watch or be an application on the smartphone.
+Staminity **calculates a set of indicators** for each completed activity, each lap, segment or part of activity randomly selected on a chart. The calculations are made based on the data recorded by sports watch or by an application on the smartphone.
 
-The information is displayed **on the “Details” tab** in activity which is available for users with “Premium” and “Coach” tariffs enabled and includes the following indicators:
+The information is displayed **on the “Details” tab** in activity which is available for users with “Premium” and “Coach” tariffs enabled.
+It includes the following indicators:
 
 * [Distance](#distance)
 * [Duration](#duration)
 * [Cadence](#cadence)
-* [Elevation gain](#elevation)
+* [Elevation gain and loss](#elevation)
 * [Grade](#grade)
 * [Average HR](#heartrate)
 * [Calories](#calories)
@@ -68,17 +69,17 @@ The chart is composed by time or by distance and displays the following indicato
 
 * heart rate;
 * power;
-* pace;
-* elevation;
+* pace/speed;
+* altitude;
 * cadence.
 
 Elements of the chart management:  
 ![Managing the indicators chart](https://content.staminity.com/assets/images/_new/activity/measures-chart.png)
 
-* 1 - Choose a chart: **indicators chart/segments chart**. Is available for structured activities. The indicators chart is always displayed in all the remaining activities.
-* 2 - Turn on/turn off the **auto scaling** attribute. If the attribute is turned on, then when you select a part of the chart, it changes its scale and the selected part is displayed at full width of the screen. 
+* 1 - Сhart selector: **indicators chart/segments chart**. It is available only for structured activities and allow to switch between **indicators chart** and [segments chart](#segmentpanel). 
+* 2 - Turn on/turn off the **auto zoom** attribute. If the auto zoom is turned on, then when you select a part of the chart, it changes its scale and the selected part is displayed at full width of the screen. 
 * 3 -  **Set up **chart **smoothing**. By changing the position of the cursor you can set the degree of the indicators’ smoothing on the chart.
-* 4 - Buttons allowing to **manage the scale **of the chart. They appear if the auto scaling mode is turned off \(2\) 
+* 4 - **"Zoom in" and "Zoom out" buttons** allowing to manage the zoom level of the chart. They appear if the auto zoom is turned off \(2\) 
 * 5 - Choose **layout **of the chart: by duration or by distance; 
 * 6 - Manage **set of indicators** to be displayed;
 
@@ -95,8 +96,7 @@ There are indicators available:
 * for a whole activity;
 * for a selected lap or several laps from the list of laps; 
 * for a selected segment or several segments from the list of segments; 
-* for any part of the activity, selected on the chart
-  .
+* for any part of the activity, selected on the chart.
 
 ![Indicators in activity](http://content.staminity.com/assets/images/_new/activity/activity-details-measures.png)
 
@@ -119,7 +119,7 @@ As well as indicators, there are peaks available:
 * for a whole activity;
 * for a selected lap or several laps from the list of laps; 
 * for a selected segment or several segments from the list of segments; 
-* for any part of the activity, selected on the chart
+* for any part of the activity, selected on the chart.
 
 ### Laps panel {#laps}
 
@@ -151,7 +151,7 @@ It allows to choose a display mode “Planned” / “Completed” / “Groups�
 
 ![Analysis of a structured activity](https://content.staminity.com/assets/images/_new/activity/activity-segment-panel.gif)
 
-* **2 - chart of planned/actual values by segments**. 
+* **2 - chart of planned/actual values by segments** 
 
 The x-axis is the total duration/distance of the activity, the y-axis - % LT for the intensity indicator set in the planned activity \(heart rate, pace, power\).  
 The color of the line reflects the segment's percent of completion:
@@ -175,7 +175,7 @@ The information is displayed **on the “Details” tab** in activity and includ
 * [Distance](#distance)
 * [Duration](#duration)
 * [Cadence](#cadence)
-* [Elevation gain](#elevation)
+* [Elevation gain and loss](#elevation)
 * [Grade](#grade)
 * [Average HR](#heartrate)
 * [Calories](#calories)
@@ -210,7 +210,7 @@ Staminity calculates three indicators of activity duration:
 
 Cadence - step frequency in running, pedaling speed in cycling, stroke frequency in swimming, etc. Is measured by the number of steps/turns/strokes per minute.
 
-### Elevation gain {#elevation}
+### Elevation gain and loss {#elevation}
 
 An altitude above sea level is registered for each activity that was recorded by a device. It is done with the help of a built-in barometer \(more accurately\) or data received from GPS/Glonass satellites \(less accurately\). Based on this information, the following indicators are calculated in Staminity:
 
@@ -224,7 +224,7 @@ We are constantly upgrading the calculation algorithm in order to avoid incorrec
 
 Slope grade of the selected part of an activity. It is calculated in the following way:
 
-> Grade = elevation / duration.
+> Grade = elevation / distance.
 
 ### Calories {#calories}
 
