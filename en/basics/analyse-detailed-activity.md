@@ -213,7 +213,7 @@ Cadence - step frequency in running, pedaling speed in cycling, stroke frequency
 
 ### Elevation gain {#elevation}
 
-An altitude above sea level is registered for each activity, recorded by a device, with the help of a built-in barometer \(more accurately\) or data received from GPS/Glonass satellites \(less accurately\). Based on this information, the following indicators are calculated in Staminity:
+An altitude above sea level is registered for each activity that was recorded by a device. It is done with the help of a built-in barometer \(more accurately\) or data received from GPS/Glonass satellites \(less accurately\). Based on this information, the following indicators are calculated in Staminity:
 
 * **Elevation **- sum of the elevation gain and loss;
 * **Elevation gain** - sum of positive elevation differences of adjacent points;
@@ -223,7 +223,7 @@ We are constantly upgrading the calculation algorithm in order to avoid incorrec
 
 ### Grade {#grade}
 
-Slope grade of the selected part of activity. It is calculated in the following way:
+Slope grade of the selected part of an activity. It is calculated in the following way:
 
 > Grade = elevation / duration.
 
@@ -236,8 +236,8 @@ When calculating the amount of energy spent during activity, the duration and in
 >
 > * Duration - activity duration in minutes,
 > * HR - average heart rate,
-> * weight - weight in kilograms,
-> * age - athlete’s age.
+> * Weight - weight in kilograms,
+> * Age - athlete’s age.
 >
 > If an athlete hasn’t set gender, height, and weight in settings, then the calculation is performed for a 30 years old man who weighs 70 kg.
 
@@ -258,7 +258,7 @@ If power hasn't been registered during the activity, then the calculation is mad
 
 > Intensity level = Adjusted pace / [LT](/basics/lactate-threshold.md) by pace
 
-If there are no power and speed values registered \(for example, during strength training in a gym\), then the calculation is made based on the heart rate value:
+If there are no power and pace values registered \(for example, during strength training in a gym\), then the calculation is made based on the heart rate value:
 
 > Intensity level = Average HR / [LT](/basics/lactate-threshold.md) by heart rate.
 
@@ -287,7 +287,7 @@ Relative power is calculated based on the [VAM](#vam) according to the following
 **Relative power \(W/kg\) = VAM \(m/hour\) / \(Gradient factor x 100\)**,  
 where Gradient factor = 2 + \(Grade in percents / 10\).
 
-For example, for grade of 6%, gradient factor = 2,6, and for grade of 11% - 3,1.
+For example, for grade of 6%, gradient factor will be 2,6 and for grade of 11% - 3,1.
 
 Source: [https://en.wikipedia.org/wiki/VAM\_\(bicycling\)](https://en.wikipedia.org/wiki/VAM_%28bicycling%29)
 
@@ -297,25 +297,25 @@ For an activity completed with the use of a power meter an average power and adj
 
 **Average power **- an arithmetic mean of the power values registered at each point of the activity or of its interval.
 
-**Adjusted power** indicates an equivalent of the average power for an activity/interval of the same duration, provided that the athlete made efforts evenly.
+**Adjusted power** indicates an equivalent of the average power for an activity/interval of the same duration, provided that the athlete applied efforts evenly.
 
 > The use of the adjusted power.  
 > Two activities of the same duration and of the same average power values can require different efforts from the athlete:  an activity intended to develop aerobic endurance completed on the same intensity level will require fewer efforts than an activity intended to develop speed, consisting of several accelerations with recovery intervals.
 
 When calculating the adjusted power, smoothing of the power values registered by the power meter at each point of the activity is being applied.
 
-When developing an algorithm of the adjusted power calculation in Staminity, the following sources have been used:  Training and Racing with a Power Meter by Hunter Allen, Andrew Coggan and F.Skiba's works on quantitative assessment of the intensity of the cyclists', runners' and triathletes' trainings.
+When developing an algorithm of the adjusted power calculation in Staminity, the following sources have been used:  Training and Racing with a Power Meter by Hunter Allen, Andrew Coggan; F.Skiba's works on quantitative assessment of the intensity of the cyclists', runners' and triathletes' trainings.
 
 ### Average pace and adjusted pace {#adjustedpace}
 
 **Average pace** is calculated for an activity or any selected interval of the activity as the distance of the interval divided by its duration.
 
 However, the pace of the activity depends greatly on the type of the route: an activity completed on a track cannot be compared with an activity completed on a hilly terrain.  
-The indicator of adjusted pace has been introduced in order to enable comparison of the activities completed on the routes with different terrain.
+The adjusted pace indicator has been introduced in order to enable comparison of the activities completed on the routes with different terrain.
 
-**Adjusted pace** - a calculated pace with which an athlete would run an activity of similar duration on a track, making the same effort as in the initial activity/interval.
+**Adjusted pace** - a calculated pace with which an athlete would run an activity of a similar duration on a track, with the same efforts as in the initial activity/interval.
 
-When developing an algorythm of the adjucted pace calculation in Staminity, the following sources have been used: works of C.T.M Davies \(1973 year\), works of Alberto Minetti \(2003 years\), article by R.Lovett for Runnersworld \(2007 year\). При разработке алгоритма расчета скорректированного темпа в Стаминити были использованы работы C.T.M Davies \(1973 год\), работы Alberto Minetti \(2003 год\), статья R.Lovett в Runnersworld \(2007 год\).
+When developing an algorythm of the adjucted pace calculation in Staminity, the following sources have been used: works of C.T.M Davies \(1973 year\), works of Alberto Minetti \(2003 years\), article by R.Lovett for Runnersworld \(2007 year\). 
 
 We are constantly working on the upgrade of the adjusted pace calculation algorithm.
 
@@ -327,12 +327,12 @@ Variability index is calculated for the activities with power indicators and sho
 
 ### Decoupling and efficiency factor {#decoupling}
 
-Decoupling is an ability of the heart rate to increase during the activity even if the power and pace remain at the same level. An aerobically trained athlete will have the minimum increase.
+Decoupling is an ability of the heart rate to increase during the activity even if the power and pace remain at the same level. An aerobically trained athlete will have the minimum increase of the heart rate.
 
-The decoupling value is reflected by the change in the value of the indicator "Pace:HR" or "Power:HR" for 1 and 2 half of the activity in percents. The indicator"Pace:HR" and "Power:HR" is called **efficiency factor**.
+The decoupling value is reflected by the change in the value of the indicator "Pace:HR" or "Power:HR" for 1 and 2 half of the activity in percents. The indicator "Pace:HR" and "Power:HR" is called **efficiency factor**.
 
 Joe Friel in the The Triathlete's Training Bible gives the following assessment criterion of the decoupling value:  
-_"If the change of the value of the indicator "pace by HR" \(or "power by HR"\) is less than 5%, then the exercise is considered as "correlated". In this case physical training with a view to the aerobic threshold for a race of a given duration ... can be considered to be fully completed"._
+_"If change of the value of the indicator "pace by HR" \(or "power by HR"\) is less than 5%, then the exercise is considered as "correlated". In this case physical training with a view to the aerobic threshold for a race of a given duration ... can be considered to be fully completed"._
 
 In Staminity calculation of the efficiency factor, as well as of the decoupling, can be performed both for a whole activity, and for the selected interval.
 
