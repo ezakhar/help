@@ -1,32 +1,33 @@
-# Соревнование
+# Competition
 
-**Соревнование** - запись календаря, содержащая информацию о запланированном или завершенном соревновании.
+Competition - an item in the calendar which contains information about planned or completed competition.
 
-В этом разделе:
-* [Запланировать соревнование](#create);
-* [Отразить факт выполнения соревнования вручную или автоматически](#complete);
-* [Прикрепить нужную фактическую тренировку к соревнованию](#splitmerge).
+In this section:
 
-### Запланировать соревнование{#create}
+* [Create a competition](#create);
+* [Reflect the competition's completion manually or automatically](#complete);
+* [Merge the required completed activity with the competition](#splitmerge).
 
-В Стаминити можно создать соревнования по триатлону, бегу, плаванию,  велоспорту и лыжным гонкам.
+### Create a competition {#create}
 
-Для создания соревнования нажмите "Добавить" в выбранном дне календаря и выберите вид спорта для соревнования:
+In Staminity you can create a thriathlon, running, swimming, cycling and skiing competition.  
+
+In order to create a competition click on the "Add" button on the required date and select the sport for the competition: 
 
 ![Визард добавления записей в календарь Staminity](https://content.staminity.com/assets/images/periodization/wizard-competition.png)
 
-При создании соревнования необходимо указать:
+When creating a competition you need to set:  
 ![Добавить соревнование в Staminity](https://content.staminity.com/assets/images/periodization/competition-create2.png)
 
-* **Название** - название соревнования, которое вы хотите видеть в календаре
-* **Вид спорта**
-* **Тип соревнования** для выбранного вида спорта. Для бега - марафон, полумарафон, 10 км, 5 км. Для триатлона - полная дистанция, 1/2 полной дистанции и т.п.
-* **Приоритет**: А - ключевой старт сезона, B - один из промежуточных стартов, С - не приоритетный старт.
-* **Установка тренера**
+* **Name **-  name of the competition, which will be displayed in the calendar 
+* **Activity type**
+* **Competition type** for the selected sport. For running - marathon, half marathon, 10 km, 5 km, etc. 
+* **Priority**: А - key start of the season, B - one of the intermediate starts, С - low-priority start. 
+* **Coach prescription**
 
 ![Добавить соревнование в Staminity](https://content.staminity.com/assets/images/periodization/competition-create.gif)
 
-Для соревнований также можно указать **целевое время или расстояние**. Для стандартных дистанций указывается плановое время, для соревнований на время - целевое расстояние. 
+Для соревнований также можно указать **целевое время или расстояние**. Для стандартных дистанций указывается плановое время, для соревнований на время - целевое расстояние.
 
 Планируется каждый этап соревнования отдельно. Например, в триатлоне плановое время задается для плавания, велоэтапа и бега, а также отдельно планируется время прохождения транзитных зон.
 
@@ -34,7 +35,7 @@
 
 ![План на гонку в Staminity](https://content.staminity.com/assets/images/periodization/competition-edit.gif)
 
-### Выполнить соревнование - вручную или автоматически{#complete}
+### Выполнить соревнование - вручную или автоматически {#complete}
 
 Также, как для отдельного задания, факт выполнения соревнования можно указать вручную,  либо факт будет рассчитан автоматически после загрузки выполненных занятий с часов или со смартфона.
 
@@ -42,10 +43,9 @@
 
 ![Просмотр выполненного соревнования в Staminity](https://content.staminity.com/assets/images/periodization/competition-completed.png)
 
-Если к этапу соревнования будет привязана фактическая тренировка, из карточки соревнования можно будет перейти и проанализировать этап детально, как [обычную тренировку](/basics/analyse-detailed-activity.md).
+Если к этапу соревнования будет привязана фактическая тренировка, из карточки соревнования можно будет перейти и проанализировать этап детально, как [activity](/basics/analyse-detailed-activity.md).
 
-
-### Выполнить соревнование - связать фактическую тренировку с этапом соревнования{#splitmerge}
+### Выполнить соревнование - связать фактическую тренировку с этапом соревнования {#splitmerge}
 
 Если выполненная тренировка не была автоматически связана с этапом соревнования, это можно сделать вручную.
 
@@ -53,6 +53,7 @@
 
 ![Вручную связать факт с соревнованием](https://content.staminity.com/assets/images/_new/activity/merge-competition.gif)
 
-Если факт был связан с этапом соревнования по ошибке, можно открепить фактическую тренировку от планового этапа. Для этого откройте этап соревнования на просмотр и в контекстном меню тренировки выберите пункт "Открепить фактические данные". 
+Если факт был связан с этапом соревнования по ошибке, можно открепить фактическую тренировку от планового этапа. Для этого откройте этап соревнования на просмотр и в контекстном меню тренировки выберите пункт "Открепить фактические данные".
 
 ![Открепить факт от соревнования](https://content.staminity.com/assets/images/_new/activity/split-competition.gif)
+

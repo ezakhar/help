@@ -314,7 +314,7 @@ The adjusted pace indicator has been introduced in order to enable comparison of
 
 **Adjusted pace** - a calculated pace with which an athlete would run an activity of a similar duration on a track, with the same efforts as in the initial activity/interval.
 
-When developing an algorythm of the adjucted pace calculation in Staminity, the following sources have been used: works of C.T.M Davies \(1973 year\), works of Alberto Minetti \(2003 years\), article by R.Lovett for Runnersworld \(2007 year\). 
+When developing an algorythm of the adjucted pace calculation in Staminity, the following sources have been used: works of C.T.M Davies \(1973 year\), works of Alberto Minetti \(2003 years\), article by R.Lovett for Runnersworld \(2007 year\).
 
 We are constantly working on the upgrade of the adjusted pace calculation algorithm.
 
