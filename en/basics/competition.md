@@ -14,10 +14,10 @@ In Staminity you can create a triathlon, running, swimming, cycling and skiing c
 
 In order to create a competition click on the "Add" button on the required date and select the sport for the competition:
 
-![Визард добавления записей в календарь Staminity](https://content.staminity.com/assets/images/periodization/wizard-competition.png)
+![Wizard for adding items to the Staminity calendar](https://content.staminity.com/assets/images/periodization/wizard-competition.png)
 
 When creating a competition you need to set:  
-![Добавить соревнование в Staminity](https://content.staminity.com/assets/images/periodization/competition-create2.png)
+![Create a competition in Staminity](https://content.staminity.com/assets/images/periodization/competition-create2.png)
 
 * **Name **-  name of the competition, which will be displayed in the calendar 
 * **Activity type**
@@ -25,7 +25,7 @@ When creating a competition you need to set:
 * **Priority**: А - the key start of the season, B - one of the intermediate starts, С - low-priority start. 
 * **Coach prescription**
 
-![Добавить соревнование в Staminity](https://content.staminity.com/assets/images/periodization/competition-create.gif)
+![Create a competition in Staminity](https://content.staminity.com/assets/images/periodization/competition-create.gif)
 
 For competitions, you can also set **planned duration and distance.**  
 
@@ -33,7 +33,7 @@ Each stage of the competition is planned separately. For example, in triatlon th
 
 It is not obligatory to set the planned duration but in case if it is indicated, Staminity will use it to compare planned and actual values. 
 
-![План на гонку в Staminity](https://content.staminity.com/assets/images/periodization/competition-edit.gif)
+![Competition plan Staminity](https://content.staminity.com/assets/images/periodization/competition-edit.gif)
 
 ### Complete a competition - manually or automatically  {#complete}
 
@@ -41,7 +41,7 @@ As well as for an activity, the actual values of the competition can be entered 
 
 In contrast to the activity, one competition can contain several activities, as the planned activities are set for each stage of the competition. When uploading a completed activity, it can be compared to the previously created planned one according to the standard rules. 
 
-![Просмотр выполненного соревнования в Staminity](https://content.staminity.com/assets/images/periodization/competition-completed.png)
+![Overview of the completed competition in Staminity](https://content.staminity.com/assets/images/periodization/competition-completed.png)
 
 If a completed activity is merged to a competition stage, then from the competition card you can proceed to the stage and analyze it as an [activity](/basics/analyse-detailed-activity.md).
 
@@ -51,9 +51,9 @@ In case if a completed activity hasn't been merged with a competition stage auto
 
 In order to do it just drag and drop it to the required stage:
 
-![Вручную связать факт с соревнованием](https://content.staminity.com/assets/images/_new/activity/merge-competition.gif)
+![Merge completed activity with competition manually](https://content.staminity.com/assets/images/_new/activity/merge-competition.gif)
 
 In case if a completed activity has been merged with a competition stage by mistake, you can split the completed activity and the planned stage. In order to do it, you need to open the competition stage and in the context menu of the activity select the item "Split Plan and Actual data".
 
-![Открепить факт от соревнования](https://content.staminity.com/assets/images/_new/activity/split-competition.gif)
+![Split completed activity and competition](https://content.staminity.com/assets/images/_new/activity/split-competition.gif)
 
