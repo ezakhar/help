@@ -62,7 +62,7 @@ Percent of completion for structured activities is calculated based on the perce
 
 There is an indicators chart for each completed activity.
 
-![Управление графиком показателей в тренировке](https://content.staminity.com/assets/images/_new/activity/measures-chart-actions.gif)
+![Managing the indicators chart](https://content.staminity.com/assets/images/_new/activity/measures-chart-actions.gif)
 
 The chart is composed by time or by distance and displays the following indicators \(the set depends on the list of indicators recorded by the device\):
 
@@ -73,7 +73,7 @@ The chart is composed by time or by distance and displays the following indicato
 * cadence.
 
 Elements of the chart management:  
-![Управление графиком показателей в тренировке](https://content.staminity.com/assets/images/_new/activity/measures-chart.png)
+![Managing the indicators chart](https://content.staminity.com/assets/images/_new/activity/measures-chart.png)
 
 * 1 - Choose a chart: **indicators chart/segments chart**. Is available for structured activities. The indicators chart is always displayed in all the remaining activities.
 * 2 - Turn on/turn off the **auto scaling** attribute. If the attribute is turned on, then when you select a part of the chart, it changes its scale and the selected part is displayed at full width of the screen. 
@@ -98,7 +98,7 @@ There are indicators available:
 * for any part of the activity, selected on the chart
   .
 
-![Показатели в тренировке](http://content.staminity.com/assets/images/_new/activity/activity-details-measures.png)
+![Indicators in activity](http://content.staminity.com/assets/images/_new/activity/activity-details-measures.png)
 
 ### Peaks by distance and by time - “Details” tab {#peaks}
 
@@ -112,7 +112,7 @@ Peaks are calculated by time and by distance for the following indicators:
 * pace
 * power
 
-![Пики](http://content.staminity.com/assets/images/_new/activity/activity-details-peaks.png)
+![Peaks](http://content.staminity.com/assets/images/_new/activity/activity-details-peaks.png)
 
 As well as indicators, there are peaks available:
 
@@ -124,14 +124,14 @@ As well as indicators, there are peaks available:
 ### Laps panel {#laps}
 
 In the laps table, you will find information about the main duration/distance and intensity indicators for each lap.  
-![Управление графиком показателей в тренировке](https://content.staminity.com/assets/images/_new/activity/activity-laps.png)
+![Managing indicators chart](https://content.staminity.com/assets/images/_new/activity/activity-laps.png)
 
 The selected lap is displayed on the chart and on the map, and information about its calculated indicators and peaks is provided on the “Details” tab.
 
 ### Time in zones {#timeinzone}
 
 The "Zones" tab displays the activity duration in each zone, for each intensity indicator.  
-![Время в зонах](http://content.staminity.com/assets/images/settings/Staminity-time-in-zones-480.gif)
+![ВTime in zones](http://content.staminity.com/assets/images/settings/Staminity-time-in-zones-480.gif)
 
 You can set up the training zones limits in the section ["Settings” - “Zones”](/basics/getting-started.md#trainingzones)
 
@@ -139,7 +139,7 @@ You can set up the training zones limits in the section ["Settings” - “Zones
 
 For a structured activity, planned by segments, there are the following additional analysis options available:
 
-![Анализ структурированной тренировки](https://content.staminity.com/assets/images/_new/activity/activity-structured-analysis.png)
+![Analysis of a structured activity](https://content.staminity.com/assets/images/_new/activity/activity-structured-analysis.png)
 
 * **1 - panel of the total values by segments**. 
 
@@ -147,10 +147,9 @@ It allows to choose a display mode “Planned” / “Completed” / “Groups�
 
 * Planned - planned values by segments;
 * Completed - actual values by segments.
-* Groups - allows to manage the mode of data display: per each segment or per group of segments
-  .
+* Groups - allows to manage the mode of data display: per each segment or per group of segments.
 
-![Анализ структурированной тренировки](https://content.staminity.com/assets/images/_new/activity/activity-segment-panel.gif)
+![Analysis of a structured activity](https://content.staminity.com/assets/images/_new/activity/activity-segment-panel.gif)
 
 * **2 - chart of planned/actual values by segments**. 
 
