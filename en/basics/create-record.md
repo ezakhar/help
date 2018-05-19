@@ -2,7 +2,7 @@
 
 In addition to planned and completed activities and [competitions](/basics/competition.md), you can create the following calendar items:
 
-* [**Event**](#event) -  an item with information about an event that is going to happen or has already happened and which is important for the training process. Examples: rest day, sickness, travel, diet, supplements, etc. 
+* [**Event**](#event) -  an item with information about an event that is going to happen or has already happened and which is important for the training process. Examples: rest day, sickness, travel, diet, supplements, etc.
 
 * [**Measurement**](#measurement) - an item with information about an athlete's measurements. Examples: height, weight, sleep hours, resting HR, overall feeling.
 
@@ -25,7 +25,7 @@ Event types in Staminity:
 * **Menstrual cycle **- indicate this information and the coach will know when to reduce the training load,
 * **Disruption **- you hang out with friends 
 * **Video **- a link to the video, 
-* Note - note.
+* **Note **- a note.
 
 If needed, you can set **frequency **of the event and add a **description**.
 
@@ -33,8 +33,8 @@ If needed, you can set **frequency **of the event and add a **description**.
 
 ![](http://content.staminity.com/assets/images/calendarItem/record.png)
 
-A single event is created on the date specified in the heading.   
-For repeated events you need to set frequency: 
+A single event is created on the date specified in the heading.  
+For repeated events you need to set frequency:
 
 **Period:**
 
@@ -44,8 +44,8 @@ For repeated events you need to set frequency:
 * Yearly
 
 **Repeats:**  
-In the "Every" field you can set how often the event must be repeated.   
-For example, for daily repeats: 
+In the "Every" field you can set how often the event must be repeated.  
+For example, for daily repeats:
 
 * Every 1 day - an event will be repeated every day,
 * Every 2 days - it will be repeated on alternate days,
@@ -55,14 +55,14 @@ For example, for daily repeats:
 In case if you have chosen weekly repeats, you can set days of week when the event will be repeated.
 
 **Stop repeating:**  
-Select when the repeats will stop: 
+Select when the repeats will stop:
 
 * On date  - the event will repeat until the set date \(end date\),
 * After - after a number of repeats. It means that the event will repeat the set number of times. 
 
 #### Description:
 
-Describe an event, give advice or recommendations to an athlete.   
+Describe an event, give advice or recommendations to an athlete.  
 Format text, highlight important things with color, insert images, links to files and videos.
 
 ![](http://content.staminity.com/assets/images/calendarItem/record-advanced-formatting.png)
@@ -71,7 +71,7 @@ Format text, highlight important things with color, insert images, links to file
 
 In order to set a measurement, you need to hover your mouse cursor over the required date in the calendar, click on the "Add" button and select "Measurement".
 
-Fill in the required fields in the card and click on "Save". 
+Fill in the required fields in the card and click on "Save".
 
 ![](http://content.staminity.com/assets/images/calendarItem/measurement2.png)
 
