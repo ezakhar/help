@@ -1,6 +1,6 @@
 # Competition
 
-Competition - a calendar item which contains information about planned or completed competition.
+Competition - a calendar item which contains information about a planned or completed competition.
 
 In this section:
 
@@ -12,15 +12,15 @@ In this section:
 
 In Staminity you can create a triathlon, running, swimming, cycling and skiing competition.
 
-In order to create a competition click on the "Add" button on the required date and select the sport for the competition:
+In order to create a competition click on the "Add" button on the required date and select a sport:
 
 ![Wizard for adding items to the Staminity calendar](https://content.staminity.com/assets/images/periodization/wizard-competition.png)
 
 When creating a competition you need to set:  
 ![Create a competition in Staminity](https://content.staminity.com/assets/images/periodization/competition-create2.png)
 
-* **Name **-  name of the competition, which will be displayed in the calendar 
-* **Activity type**
+* **Name **-  name of the competition which will be displayed in the calendar. 
+* **Activity type**.
 * **Competition type** for the selected sport. For running - marathon, half marathon, 10 km, 5 km, etc. 
 * **Priority**: А - the key start of the season, B - one of the intermediate starts, С - low-priority start. 
 * **Coach prescription**
