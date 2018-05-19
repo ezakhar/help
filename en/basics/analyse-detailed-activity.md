@@ -1,336 +1,363 @@
-# Проанализировать выполненную тренировку
+# How to analyze a completed activity
 
-##Инструменты для анализа
-В выполненной тренировке, загруженной с часов или со смартфона, доступна следующая информация:
+## Analysis tools
 
-* [Сводный план и факт - вкладка "Обзор"](#planfact);
-* [График показателей](#measurementchart);
-* [Расчетные показатели - вкладка "Детали"](#metrics);
-* [Пики по расстоянию и времени - вкладка "Детали"](#peaks);
-* [Панель кругов](#laps);
-* [Время в зонах](#timeinzone);
-* [План и факт по сегментам, график сегментов, панель сегментов - для структурированных тренировок](#segmentpanel).
+The following information is available in a completed activity, uploaded from sports watch or from smartphone:
 
+* [Comparing planned and actual values - “Overview” tab"](#planfact);
+* [Indicators chart](#measurementchart);
+* [Calculated indicators - “Details” tab](#metrics);
+* [Peaks by distance and by time - “Details” tab](#peaks);
+* [Laps panel](#laps);
+* [Time in zones](#timeinzone);
+* [Planned and completed values by segments, segments chart, segments panel - for structured activities](#segmentpanel).
 
-##Рассчитываемые показатели
+## Calculated indicators
 
-По каждой выполненной тренировке, по любому кругу, сегменту или произвольно выделенному на графике отрезку тренировки Staminity **рассчитывает набор показателей**. Основанием для расчета служат исходные данные, записанные спортивными часами или программой на смартфоне.  
+Staminity **calculates a set of indicators** for each completed activity, each lap, segment or part of activity randomly selected on a chart. The calculations are made based on the data recorded by sports watch or by an application on the smartphone.
 
-Информация отображается **на вкладке "Детали"** в тренировке, доступной на тарифах "Премиум" и "Тренер", и включает следующие показатели:
+The information is displayed **on the “Details” tab** in activity which is available for users with “Premium” and “Coach” tariffs enabled.
+It includes the following indicators:
 
-* [Расстояние](#distance)
-* [Продолжительность](#duration)
-* [Каденс](#cadence)
-* [Набор высоты](#elevation)
-* [Градиент](#grade)
-* [Средний пульс](#heartrate)
-* [Калории](#calories)
-* [Уровень интенсивности](#intensitylevel)
-* [Балл нагрузки - Training load](#trainingload)
-* [VAM или Вертикальная скорость](#vam)
-* [Relative power или Относительная мощность подъема](#relativepower)
-* [Средняя мощность и Скорректированная мощность](#adjustedpower)
-* [Средний темп и Скорректированный темп](#adjustedpace)
-* [Индекс изменений](#variabilityindex)
-* [Кардиокомпенсация и фактор эффективности](#decoupling)
-  * [Фактор эффективности \(ФЭ\)](#efficiencyfactor)
-  * [Кардиокомпенсация по темпу \(Темп:ЧСС\)](#speeddecoupling)
-  * [Кардиокомпенсация по мощности \(Мощность:ЧСС\)](#powerdecoupling)
+* [Distance](#distance)
+* [Duration](#duration)
+* [Cadence](#cadence)
+* [Elevation gain and loss](#elevation)
+* [Grade](#grade)
+* [Average HR](#heartrate)
+* [Calories](#calories)
+* [Intensity level](#intensitylevel)
+* [Training load](#trainingload)
+* [VAM ](#vam)
+* [Relative power ](#relativepower)
+* [Average power and adjusted power](#adjustedpower)
+* [Average pace and adjusted pace](#adjustedpace)
+* [Variability index](#variabilityindex)
+* [Decoupling and efficiency factor](#decoupling)
+  * [Efficiency factor \(EF\)](#efficiencyfactor)
+  * [Decoupling \(pace\)](#speeddecoupling)
+  * [Decoupling \(power\)](#powerdecoupling)
 
 ---
 
-## Инструменты анализа выполненной тренировки
-В выполненной тренировке, загруженной с часов или со смартфона, доступна следующая информация.
+## Tools for analysis of completed activity
 
-### Сводный план и факт - вкладка "Обзор"{#planfact}
+The following information is available in a completed activity, uploaded from sports watch or from smartphone.
 
-Сравнение итоговых плановых и фактических показателей производится на вкладке "Обзор".  
+### Comparing planned and actual values - “Overview” tab {#planfact}
+
+Total planned and actual values are compared on the “Overview” tab.  
 ![](http://content.staminity.com/assets/images/ActivityPlanFact.png)
 
-По результатам сравнения плана и факта выполняется расчет процента выполнения плана.  
+Percent of the planned activities’ completion is calculated based on the results of the planned and actual values of duration/distance and intensity indicators comparison.
 
-Если в плане указана длительность и интенсивность, то расчет выполняется по следующей формуле:
+If duration/distance and intensity values are set in the planned activity, then calculation is performed according to the following formula:
 
-> % выполнения = (% выполнения по длительности) * (% выполнения по интенсивности)
+> % of completion = \(% of completion by duration/distance\) \* \(% of completion by intensity\)
 
-Если план задан только по длительности, то при расчете % выполнения принимается во внимание только фактическая длительность по заданному показателю.
+If only duration/distance is set in the planned activity, then only the actual duration/distance for the given indicator is taken into account when calculating % of completion.
 
-Для структурированной тренировки процент выполнения рассчитывается на основании процента выполнения по каждому сегменту в тренировке.
+Percent of completion for structured activities is calculated based on the percent of completion for each segment of the activity.
 
-### График показателей {#measurementchart}
+### Indicators chart {#measurementchart}
 
-В каждой выполненной тренировке доступен график показателей.
+There is an indicators chart for each completed activity.
 
-![Управление графиком показателей в тренировке](https://content.staminity.com/assets/images/_new/activity/measures-chart-actions.gif)
+![Managing the indicators chart](https://content.staminity.com/assets/images/_new/activity/measures-chart-actions.gif)
 
-График откладывается по времени или по расстоянию, на нем отображаются следующие показатели (набор зависит от перечня показателей, записанных устройством): 
+The chart is composed by time or by distance and displays the following indicators \(the set depends on the list of indicators recorded by the device\):
 
-* пульс;
-* мощность;
-* темп/скорость;
-* высота;
-* каденс.
+* heart rate;
+* power;
+* pace/speed;
+* altitude;
+* cadence.
 
-Элементы управления графиком:
-![Управление графиком показателей в тренировке](https://content.staminity.com/assets/images/_new/activity/measures-chart.png)
+Elements of the chart management:  
+![Managing the indicators chart](https://content.staminity.com/assets/images/_new/activity/measures-chart.png)
 
-* 1 - **Выбор графика: график показателей / график сегментов**. Доступен для структурированных тренировок. В остальных тренировках всегда отображается график показателей.
-* 2 - Включение/отключение признака **автомасштабирования**. Если признак включен, то при выделении произвольного отрезка на графике, график меняет масштаб и выделенная часть отображается на всю ширину экрана.
-* 3 - **Управление сглаживанием** графика. Изменение положения ползунка влияет на степень сглаживания показателей на графике.
-* 4 - Кнопки **управления масштабом** графика, которые появляются, если отключен режим автоматического масштабирования (2).
-* 5 - Выбор **режима отображения** графика: по времени или по расстоянию;
-* 6 - Управление **набором показателей** для отображения;
+* 1 - Сhart selector: **indicators chart/segments chart**. It is available only for structured activities and allow to switch between **indicators chart** and [segments chart](#segmentpanel). 
+* 2 - Turn on/turn off the **auto zoom** attribute. If the auto zoom is turned on, then when you select a part of the chart, it changes its scale and the selected part is displayed at full width of the screen. 
+* 3 -  **Set up **chart **smoothing**. By changing the position of the cursor you can set the degree of the indicators’ smoothing on the chart.
+* 4 - **"Zoom in" and "Zoom out" buttons** allowing to manage the zoom level of the chart. They appear if the auto zoom is turned off \(2\) 
+* 5 - Choose **layout **of the chart: by duration or by distance; 
+* 6 - Manage **set of indicators** to be displayed;
 
-### Расчетные показатели - вкладка "Детали"{#metrics}
+### Calculated indicators - “Details” tab {#metrics}
 
-Staminity выполняет расчет набора показателей в целом по тренировке, а также по любому кругу, сегменту и произвольному отрезку тренировки.
+Staminity calculates a set of indicators as for a whole activity, as for a lap, segment or any part of the activity.
 
-Описание рассчитываемых показателей приведено ниже в разделе ["Рассчитываемые показатели"](#measures)
+The calculated indicators are described below in the section ["Calculated indicators"](#measures)
 
-Показатели расположены на вкладке "Детали" в тренировке, доступной обладателям тарифов "Премиум" и "Тренер". 
+The indicators are located on the “Details” tab which is available for users with “Premium” and “Coach” tariffs enabled.
 
-Показатели доступны:
-* для всей тренировки;
-* по выделенному кругу или нескольким кругам в списке кругов;
-* по выделенному сегменту или нескольким сегментам в списке сегментов;
-* по любому произвольному отрезку тренировки, выделенному на графике.
+There are indicators available:
 
-![Показатели в тренировке](http://content.staminity.com/assets/images/_new/activity/activity-details-measures.png)
+* for a whole activity;
+* for a selected lap or several laps from the list of laps; 
+* for a selected segment or several segments from the list of segments; 
+* for any part of the activity, selected on the chart.
 
+![Indicators in activity](http://content.staminity.com/assets/images/_new/activity/activity-details-measures.png)
 
-###Пики по расстоянию и времени - вкладка "Детали"{#peaks}
-**Пиковые значения или Пики** - это максимальное из скользящих средних значений за выбранный интервал по времени или расстоянию.
-_Например 10 секундный пик по пульсу за тренировку - это максимальное среднее значение пульса среди всех 10-секундных отрезков за тренировку._
+### Peaks by distance and by time - “Details” tab {#peaks}
 
-Пики рассчитываются по времени и по расстоянию по показателям:
-* пульс
-* темп
-* мощность
+**Peak **- the maximum value of the moving average values for the selected interval by time or by distance.
 
-![Пики](http://content.staminity.com/assets/images/_new/activity/activity-details-peaks.png)
+_For example, a 10-seconds heart rate peak of the activity is the maximum moving average value of heart rate among all 10-seconds parts of the activity._
 
-Также, как и показатели, пики доступны:
-* для всей тренировки;
-* по выделенному кругу или нескольким кругам в списке кругов;
-* по выделенному сегменту или нескольким сегментам в списке сегментов;
-* по любому произвольному отрезку тренировки, выделенному на графике.
+Peaks are calculated by time and by distance for the following indicators:
 
-### Панель кругов{#laps}
+* heart rate
+* pace
+* power
 
-В таблице кругов приведены основные показатели длительности и интенсивности по каждому кругу.
-![Управление графиком показателей в тренировке](https://content.staminity.com/assets/images/_new/activity/activity-laps.png)
+![Peaks](http://content.staminity.com/assets/images/_new/activity/activity-details-peaks.png)
 
-Отмеченный в таблице круг отображается на графике и на карте, а на вкладке "Детали" приводится расчетная информация по показателям и пикам по данному кругу.
+As well as indicators, there are peaks available:
 
-### Время в зонах{#timeinzone}
+* for a whole activity;
+* for a selected lap or several laps from the list of laps; 
+* for a selected segment or several segments from the list of segments; 
+* for any part of the activity, selected on the chart.
 
-На вкладке "Зоны" отображается время тренировки в каждой зоне, по каждому из показателей интенсивности.
-![Время в зонах](http://content.staminity.com/assets/images/settings/Staminity-time-in-zones-480.gif)
+### Laps panel {#laps}
 
-Установить границы тренировочных зон можно в разделе ["Настройки" - "Зоны"](/basics/getting-started.md#trainingzones)
+In the laps table, you will find information about the main duration/distance and intensity indicators for each lap.  
+![Managing indicators chart](https://content.staminity.com/assets/images/_new/activity/activity-laps.png)
 
-### Анализ выполнения структурированной тренировки, по сегментам {#segmentpanel}
+The selected lap is displayed on the chart and on the map, and information about its calculated indicators and peaks is provided on the “Details” tab.
 
-Для структурированной тренировки, запланированной по сегментам, доступны дополнительные возможности для анализа:
+### Time in zones {#timeinzone}
 
-![Анализ структурированной тренировки](https://content.staminity.com/assets/images/_new/activity/activity-structured-analysis.png)
+The "Zones" tab displays the activity duration in each zone, for each intensity indicator.  
+![ВTime in zones](http://content.staminity.com/assets/images/settings/Staminity-time-in-zones-480.gif)
 
-* **1 - панель сводных данных по сегментам**. 
+You can set up the training zones limits in the section ["Settings” - “Zones”](/basics/getting-started.md#trainingzones)
 
-Позволяет выбрать режим отображения "План" / "Факт" / "Группы":
-  * План - запланированные показатели по сегментам;
-  * Факт - фактические показатели по сегментам.
-  * Группы - позволяет управлять режимом вывода данных: по каждому сегменту или по группе сегментов.
+### Analysis of a structured activity completion, by segments {#segmentpanel}
 
-![Анализ структурированной тренировки](https://content.staminity.com/assets/images/_new/activity/activity-segment-panel.gif)
+For a structured activity, planned by segments, there are the following additional analysis options available:
 
+![Analysis of a structured activity](https://content.staminity.com/assets/images/_new/activity/activity-structured-analysis.png)
 
-* **2 - график план/факт выполнения по сегментам**. 
+* **1 - panel of the total values by segments**. 
 
-По оси Х откладывается общее время или расстояние тренировки, а по Y - % ПАНО по заданному в плане показателю интенсивности (пульс, скорость/темп, мощность). 
-Цвет линии показывает процент выполнения по сегменту:
-* зеленый - отклонение от плана не больше 10%;
-* желтый - отклонение от плана от 10 до 20%;
-* красный - отклонение от плана больше 20%.
+It allows to choose a display mode “Planned” / “Completed” / “Groups”:
 
-3 - **таблица план/факт по сегментам. **
+* Planned - planned values by segments;
+* Completed - actual values by segments.
+* Groups - allows to manage the mode of data display: per each segment or per group of segments.
 
-Если выделить любой сегмент в таблице, то слева на вкладке "Детали" отобразятся показатели и пики по данному сегменту.
+![Analysis of a structured activity](https://content.staminity.com/assets/images/_new/activity/activity-segment-panel.gif)
 
+* **2 - chart of planned/actual values by segments** 
+
+The x-axis is the total duration/distance of the activity, the y-axis - % LT for the intensity indicator set in the planned activity \(heart rate, pace, power\).  
+The color of the line reflects the segment's percent of completion:
+
+* green - deviation from the plan does not exceed 10%;
+* yellow - deviation from the plan is from 10% to 20%;
+* red - deviation from the plan is more than 20%.
+
+3 - **table of planned/actual values by segments. **
+
+When you select any segment in the table, then on the “Details” tab located to the left you will find indicators and peaks for the given segment.
 
 ---
 
-# Показатели в выполненной тренировке Staminity{#measures}
+# Indicators in the completed activity that are calculated by Staminity {#measures}
 
-По каждой выполненной тренировке, по любому кругу, сегменту или произвольно выделенному на графике отрезку тренировки Staminity на основании исходных данных, записанных спортивными часами или программой на смартфоне, рассчитывает набор показателей. 
+Staminity calculates a set of indicators as for the whole activity, as for a lap, segment or any part of the activity selected on the chart, based on the initial data registered by sports watch or by an application on the smartphone.
 
-Информация отображается **на вкладке "Детали"** в тренировке и содержит следующие показатели:
+The information is displayed **on the “Details” tab** in activity and includes the following indicators:
 
-* [Расстояние](#distance)
-* [Продолжительность](#duration) 
-* [Каденс](#cadence)
-* [Набор высоты](#elevation)
-* [Градиент](#grade)
-* [Средний пульс](#heartrate)
-* [Калории](#calories)
-* [Уровень интенсивности](#intensitylevel)
-* [Балл нагрузки - Training load](#trainingload)
-* [VAM или Вертикальная скорость](#vam)
-* [Relative power или Относительная мощность подъема](#relativepower)
-* [Средняя мощность и Скорректированная мощность](#adjustedpower)
-* [Средний темп и Скорректированный темп](#adjustedpace)
-* [Индекс изменений](#variabilityindex)
-* [Кардиокомпенсация и фактор эффективности](#decoupling)
-  * [Фактор эффективности \(ФЭ\)](#efficiencyfactor)
-  * [Кардиокомпенсация по темпу \(Темп:ЧСС\)](#speeddecoupling)
-  * [Кардиокомпенсация по мощности \(Мощность:ЧСС\)](#powerdecoupling)
+* [Distance](#distance)
+* [Duration](#duration)
+* [Cadence](#cadence)
+* [Elevation gain and loss](#elevation)
+* [Grade](#grade)
+* [Average HR](#heartrate)
+* [Calories](#calories)
+* [Intensity level](#intensitylevel)
+* [Training load](#trainingload)
+* [VAM ](#vam)
+* [Relative power ](#relativepower)
+* [Average power and adjusted power](#adjustedpower)
+* [Average pace and adjusted pace](#adjustedpace)
+* [Variability index](#variabilityindex)
+* [Decoupling and efficiency factor ](#decoupling)
+  * [Efficiency factor \(EF\)](#efficiencyfactor)
+  * [Decoupling \(pace\) ](#speeddecoupling)
+  * [Decoupling \(power\)](#powerdecoupling)
 
-### Расстояние{#distance}
-Длина тренировки, круга, сегмента или произвольного отрезка:
-* в километрах или милях для бега, велоспорта, лыжного спорта;
-* в метрах или ярдах - для плавания.
+### Distance {#distance}
 
-### Продолжительность{#duration}
-Staminity рассчитывает три показателя продолжительности тренировки: 
-* **Прошедшее время** или **elapsed duration** равно продолжительности с момента начала тренировки до окончания тренировки. Например, если вы начали тренировку в 9 утра, потом приостановили запись, нажав на паузу, на 10 минут с 10:00 до 10:10 и закончили тренировку в 10:30, то "прошедшее время" будет равно 90 минутам.
+Length of an activity, lap, segment or any interval:
 
-* **Общее время** или **duration** - это продолжительность тренировки без учета пауз. Для примера выше duration будет равна 80 минутам.
+* in kilometers or miles for running, cycling, skiing;
+* in meters or yards - for swimming.
 
-* **Время в движении** или **moving duration** - это количество секунд, в течение которых спортсмен двигался в течение тренировки. Для примера выше, если в течение 80 минут спортсмен два раза остановился на светофоре по 1 минуте, не выключая запись в часах, то elapsed duration будет равна 78 минутам.
+### Duration {#duration}
 
-### Каденс{#cadence}
-Каденс - это частота шагов в беге, частота вращения педалей в велоспорте, частота гребков в плавании и т.п. Измеряется в количестве шагов/оборотов/гребков в минуту.
+Staminity calculates three indicators of activity duration:
 
-### Набор высоты{#elevation} 
-В каждой точке тренировки, записанной устройством, фиксируется высота над уровнем моря с использованием встроенного барометра (точнее) или по данным  со спутников GPS/Glonass (менее точно). На основании этого в Staminity рассчитываются показатели:
-* **Общий набор (elevation)** - сумма набора и потери высоты;
-* **Набор высоты (elevation gain)** -  сумма положительных разниц высот между соседними точками;
-* **Потеря высоты (elevation loss)** - сумма отрицательных разниц высот между соседними точками.
+* **Elapsed duration** - time spent on activity from the beginning till the end. For example, if you started your activity at 9 a.m., then paused recording, by clicking on “Pause” for 10 minutes from 10 a.m. till 10:10 and finished activity at 10:30 then the “Elapsed time” will be 90 minutes.
+* **Duration **- time spent on activity minus pauses. For the above-mentioned example, it will be 80 minutes. 
+* **Moving duration** - the number of seconds when the athlete moved during the activity. For the above-mentioned example, if during these 80 minutes an athlete twice stopped at the traffic light for 1 minute, without pausing his watch, then the moving duration will be 78 minutes.
 
-Мы постоянно работаем над уточнением алгоритма расчета показателей набора, чтобы исключить ошибочные определения высоты устройством в отдельных точках.
+### Cadence {#cadence}
 
-### Градиент{#grade}
-Крутизна склона выделенного отрезка тренировки. Раcсчитывается как 
-> Градиент = elevation / duration.
+Cadence - step frequency in running, pedaling speed in cycling, stroke frequency in swimming, etc. Is measured by the number of steps/turns/strokes per minute.
 
-### Калории {#calories}
+### Elevation gain and loss {#elevation}
 
-Расчет энергии, потраченной в ходе тренировки, производится с учетом продолжительности и интенсивности тренировки, а также пола, возраста и веса спортсмена, указанных в настройках приложения.
+An altitude above sea level is registered for each activity that was recorded by a device. It is done with the help of a built-in barometer \(more accurately\) or data received from GPS/Glonass satellites \(less accurately\). Based on this information, the following indicators are calculated in Staminity:
 
-> Для мужчин: ККал = [Duration] x [(-55.0969 + 0.6309 x HR + 0.1988 x weight + 0.2017 x age) / 4.184]
-Для женщин: ККал = [Duration] x [(-20.4022 + 0.4472 x HR - 0.1263 x weight + 0.074 x age) / 4.184], где:
-* Duration - продолжительность занятия в минутах,
-* HR - средний пульс,
-* weight - вес в килограммах,
-* age - возраст.
+* **Elevation **- sum of the elevation gain and loss;
+* **Elevation gain** - sum of positive elevation differences of adjacent points;
+* **Elevation loss** - sum of negative elevation differences of adjacent points
 
-> Если в настройках не указан пол, рост и вес, расчет производится для 30-летнего мужчины весом 70 кг.
+We are constantly upgrading the calculation algorithm in order to avoid incorrect registration of altitude by the device at separate points.
 
-Источники:
-* Braydenwm.com: Calories and Power as a Function of Heart Rate (http://www.braydenwm.com/calburn.htm)
-- Journal of Sports Sciences: Prediction of Energy Expenditure (http://www.braydenwm.com/cal_vs_hr_ref_paper.pdf)
+### Grade {#grade}
 
-### Уровень интенсивности {#intensitylevel}
+Slope grade of the selected part of an activity. It is calculated in the following way:
 
-Уровень интенсивности тренировки измеряется в процентах от значений ПАНО спортсмена по мощности, темпу или пульсу.
+> Grade = elevation / distance.
 
-Если тренировка выполнена с измерителем мощности \(мощемером\), то   
->Уровень интенсивности = Скорректированная мощность / [ПАНО](/basics/lactate-threshold.md) по мощности.
+### Calories {#calories}
 
-Если в тренировке мощность не фиксировалась, то расчет производится по темпу:  
->Уровень интенсивности = Скорректированный темп / [ПАНО](/basics/lactate-threshold.md) по темпу
+When calculating the amount of energy spent during activity, the duration and intensity of the activity, as well as gender, age, weight of an athlete stated in the application settings, are taken into account.
 
-Если в тренировке отсутствует мощность и скорость \(например, при занятиях на тренажерах\), то расчет производится по пульсу:  
->Уровень интенсивности = Средний пульс / [ПАНО](/basics/lactate-threshold.md) по пульсу.
+> For men: kcal= \[Duration\] x \[\(-55.0969 + 0.6309 x HR + 0.1988 x weight + 0.2017 x age\) / 4.184\]  
+> For women: kcal= \[Duration\] x \[\(-20.4022 + 0.4472 x HR - 0.1263 x weight + 0.074 x age\) / 4.184\], where:
+>
+> * Duration - activity duration in minutes,
+> * HR - average heart rate,
+> * Weight - weight in kilograms,
+> * Age - athlete’s age.
+>
+> If an athlete hasn’t set gender, height, and weight in settings, then the calculation is performed for a 30 years old man who weighs 70 kg.
 
-### TL - Training load или Балл нагрузки {#trainingload}
+Sources:
 
-Балл нагрузки рассчитывается с учетом интенсивности тренировки и ее продолжительности.  Нагрузка 100 баллов соответствует тренировке продолжительностью 1 час, выполняемой на уровне ПАНО по мощности \(для вела\), по темпу \(для бега и плавания\) или по пульсу \(для всех видов спорта\).
+* Braydenwm.com: Calories and Power as a Function of Heart Rate \([http://www.braydenwm.com/calburn.htm](http://www.braydenwm.com/calburn.htm)\)
+* Journal of Sports Sciences: Prediction of Energy Expenditure \([http://www.braydenwm.com/cal\_vs\_hr\_ref\_paper.pdf](http://www.braydenwm.com/cal_vs_hr_ref_paper.pdf)\)
 
->Балл нагрузки = Уровень интенсивности \* Продолжительность тренировки в часах \* 100
+### Intensity level {#intensitylevel}
 
-### VAM или Вертикальная скорость{#vam}
-VAM - это аббревиатура с итальянского **velocità ascensionale media**, что переводится как "средняя скорость подъема". Термин предложен итальянским физиологом и тренером по велоспорту Микеле Феррари (Michele Ferrari).  Показатель рассчитывается для любого выделенного отрезка дистанции и показывает скорость в метрах в час.
+The intensity level of an activity is measured in % of the athlete’s  LT level by power, pace or heart rate.
 
-VAM широко используется в велоспорте для сравнения подготовленности спортсменов между собой и расчета [относительной мощности](#relativepower).
+If the activity has been completed with the use of a power meter, then
 
->VAM или Вертикальная скорость = Набор высоты / Продолжительность в часах.
+> Intensity level = Adjusted power /  [LT](/basics/lactate-threshold.md) by power.
 
-Источник: https://en.wikipedia.org/wiki/VAM_%28bicycling%29
+If power hasn't been registered during the activity, then the calculation is made based on the pace value:
 
-### Relative power или Относительная мощность {#relativepower}
-Относительная мощность - расчетная величина, показывающая мощность в ваттах на килограмм. Это один из самых важных показателей для велосипедистов.
+> Intensity level = Adjusted pace / [LT](/basics/lactate-threshold.md) by pace
 
-Относительная мощность рассчитывается на основании [VAM (Вертикальной скорости)](#vam) по формуле:
+If there are no power and pace values registered \(for example, during strength training in a gym\), then the calculation is made based on the heart rate value:
 
-**Относительная мощность (Вт/кг) = VAM (м/час) / (Фактор градиента x 100)**,
-где Фактор градиента = 2 + (Градиент в процентах / 10).
+> Intensity level = Average HR / [LT](/basics/lactate-threshold.md) by heart rate.
 
-Например, для градиента 6% фактор градиента = 2,6, а для градиента 11% Фактор градиента = 3,1.
+### TL - Training load {#trainingload}
 
-Источник: https://en.wikipedia.org/wiki/VAM_%28bicycling%29
+Training load is calculated based on the intensity level of the activity and its duration. The load of 100 points corresponds to an activity that lasted 1 hour and was completed at the LT level by power \(for cycling\), by pace \(for swimming and running\) or by heart rate \(for all sports\).
 
-### Средняя мощность и Скорректированная мощность {#adjustedpower}
-По тренировке, выполненной с измерителем мощности (мощемером), рассчитывается средняя мощность и скорректированная мощность.
+> Training load = Intensity level \* Duration in hours \* 100
 
-**Средняя мощность** - среднее арифметическое от значений мощности, зарегистрированных в каждой точке тренировки или отрезка.
+### VAM {#vam}
 
-**Скорректированная мощность** определяет эквивалент средней мощности для тренировки/отрезка такой же продолжительности, при условии равномерного приложения усилий спортсменом. 
+VAM - is an abbreviation for the Italian **velocità ascensionale media**, which translates into English as "average ascent speed". This term has been proposed by the Italian physiologist and cycling coach Michele Ferrari. The indicator is calculated for any selected part of the distance and shows the speed in meters per hour.
 
-> Зачем нужна скорректированная мощность. 
-Две тренировки с одинаковой продолжительностью и одной и той же средней мощностью могут потребовать разных усилий от спортсмена: тренировка на развитие аэробной выносливости на одном уровне интенсивности потребует меньше усилий, чем тренировка на развитие скорости, с несколькими быстрыми ускорениями через восстановительные отрезки.
+VAM is widely used in cycling when it is needed to compare the athletes' fitness and to calculate the [relative power](#relativepower).
 
-В расчете скорректированной мощности используется сглаживание зарегистрированных мощемером показателей мощности в каждой точке тренировки.
+> VAM = Elevation gain / Duration in hours.
 
-При разработке алгоритма расчета скорректированной мощности в Стаминити были использованы книга Аллена и Коггана "Training and racing with a power meter" и работы Ф.Скибы по количественной оценке интенсивности тренировок велосипедистов, бегунов и триатлетов.
+Source: [https://en.wikipedia.org/wiki/VAM\_\(bicycling\)](https://en.wikipedia.org/wiki/VAM_%28bicycling%29)
 
-### Средний темп и скорректированный темп {#adjustedpace}
-**Средний темп** рассчитывается для тренировки и любого выбранного отрезка как расстояние отрезка, деленное на его продолжительность. 
+### Relative power {#relativepower}
 
-Однако на темп тренировки сильно влияет профиль трассы: занятие, выполненное на треке, невозможно сравнить с тренировкой, выполненной на холмистой местности.  
-Для того, чтобы можно было сравнить тренировки, выполненные на трассах с разным рельефом, был введен показатель скорректированного темпа.
+Relative power - a calculated indicator showing power in watts per kilogram. This is one of the most important indicators for cyclists.
 
-**Скорректированный темп** - это расчетный темп с которым бы пробежал спортсмен тренировку аналогичной продолжительности по ровной трассе, затратив те же усилия, как в исходной тренировке/отрезке.
+Relative power is calculated based on the [VAM](#vam) according to the following formula:
 
-При разработке алгоритма расчета скорректированного темпа в Стаминити были использованы работы C.T.M Davies (1973 год), работы Alberto Minetti (2003 год), статья R.Lovett в Runnersworld (2007 год).
+**Relative power \(W/kg\) = VAM \(m/hour\) / \(Gradient factor x 100\)**,  
+where Gradient factor = 2 + \(Grade in percents / 10\).
 
-Мы постоянно работаем над уточнением алгоритма расчета скорректированного темпа.
+For example, for grade of 6%, gradient factor will be 2,6 and for grade of 11% - 3,1.
 
-### Индекс изменений {#variabilityindex}
-Индекс изменений рассчитывается для тренировок с мощностью и показывает, насколько равномерно вы прилагали усилие на протяжении всего заезда. 
->Индекс изменений = Скорректированная мощность / Средняя мощность
+Source: [https://en.wikipedia.org/wiki/VAM\_\(bicycling\)](https://en.wikipedia.org/wiki/VAM_%28bicycling%29)
 
-### Кардиокомпенсация и фактор эффективности {#decoupling}
+### Average power and adjusted power {#adjustedpower}
 
-Кардиокомпенсация представляет собой способность ЧСС повышаться со временем тренировки даже при стабильных уровнях мощности или темпа. У подготовленного с аэробной точки зрения спортсмена этот рост будет минимальным.
+For an activity completed with the use of a power meter an average power and adjusted power can be calculated.
 
-Величину кардиокомпенсации показывает изменение величины показателя «скорость к ЧСС» или "мощность к ЧСС" для 1 и 2 половины тренировки, в процентах. При этом сам показатель "Скорость к ЧСС" или "Мощность к ЧСС" называется **Фактором эффективности**.
+**Average power **- an arithmetic mean of the power values registered at each point of the activity or of its interval.
 
-Джо Фрил в "Библии триатлета" приводит следующий критерий оценки величины кардиокомпенсации:  
-_"Если изменение величины показателя «скорость к ЧСС» \(или "мощность к ЧСС"\) составляет менее 5%, то упражнение считается «коррелированным». В этом случае физическую подготовку с точки зрения аэробного порога для гонки данной продолжительности ... можно считать полностью завершенной"_
+**Adjusted power** indicates an equivalent of the average power for an activity/interval of the same duration, provided that the athlete applied efforts evenly.
 
-В Стаминити расчет фактора эффективности, а также кардиокомпенсации производится как по всей тренировке, так и по выделенному отрезку.
+> The use of the adjusted power.  
+> Two activities of the same duration and of the same average power values can require different efforts from the athlete:  an activity intended to develop aerobic endurance completed on the same intensity level will require fewer efforts than an activity intended to develop speed, consisting of several accelerations with recovery intervals.
 
-##### Фактор эффективности {#efficiencyfactor}
+When calculating the adjusted power, smoothing of the power values registered by the power meter at each point of the activity is being applied.
 
-> Фактор эффективности \(ФЭ\) = Средняя скорость / Средняя ЧСС,
+When developing an algorithm of the adjusted power calculation in Staminity, the following sources have been used:  Training and Racing with a Power Meter by Hunter Allen, Andrew Coggan; F.Skiba's works on quantitative assessment of the intensity of the cyclists', runners' and triathletes' trainings.
 
-а для тренировок с мощемером:
+### Average pace and adjusted pace {#adjustedpace}
 
-> Фактор эффективности \(ФЭ\) = Средняя мощность / Средняя ЧСС.
+**Average pace** is calculated for an activity or any selected interval of the activity as the distance of the interval divided by its duration.
 
-##### Темп:ЧСС  - кардиокомпенсация по темпу {#speeddecoupling}
+However, the pace of the activity depends greatly on the type of the route: an activity completed on a track cannot be compared with an activity completed on a hilly terrain.  
+The adjusted pace indicator has been introduced in order to enable comparison of the activities completed on the routes with different terrain.
 
-Кардиокомпенсация по темпу показывает изменение величины Фактора эффективности, рассчитанного по скорости для первой и второй половины тренировки:
+**Adjusted pace** - a calculated pace with which an athlete would run an activity of a similar duration on a track, with the same efforts as in the initial activity/interval.
 
-  > **ФЭ1** = Средняя скорость / средняя ЧСС для 1 половины тренировки  
-  > **ФЭ2** = Средняя скорость / средняя ЧСС для 2 половины тренировки  
-  > **Темп:ЧСС** = \(ФЭ1 - ФЭ2\) / ФЭ1
+When developing an algorythm of the adjucted pace calculation in Staminity, the following sources have been used: works of C.T.M Davies \(1973 year\), works of Alberto Minetti \(2003 years\), article by R.Lovett for Runnersworld \(2007 year\).
 
-##### Мощность:ЧСС  - кардиокомпенсация по мощности {#powerdecoupling}
+We are constantly working on the upgrade of the adjusted pace calculation algorithm.
 
-Кардиокомпенсация по мощности показывает изменение Фактора эффективности, рассчитанного по мощности, для первой и второй половины тренировки:
+### Variability index {#variabilityindex}
 
-  > **ФЭ1** = Средняя мощность / средняя ЧСС для 1 половины тренировки  
-  > **ФЭ2** = Средняя мощность / средняя ЧСС для 2 половины тренировки  
-  > **Мощность:ЧСС** = \(ФЭ1 - ФЭ2\) / ФЭ1
+Variability index is calculated for the activities with power indicators and shows how evenly an athlete applied efforts during the entire activity.
+
+> Variability index = Adjucted power / Average power
+
+### Decoupling and efficiency factor {#decoupling}
+
+Decoupling is an ability of the heart rate to increase during the activity even if the power and pace remain at the same level. An aerobically trained athlete will have the minimum increase of the heart rate.
+
+The decoupling value is reflected by the change in the value of the indicator "Pace:HR" or "Power:HR" for 1 and 2 half of the activity in percents. The indicator "Pace:HR" and "Power:HR" is called **efficiency factor**.
+
+Joe Friel in the The Triathlete's Training Bible gives the following assessment criterion of the decoupling value:  
+_"If change of the value of the indicator "pace by HR" \(or "power by HR"\) is less than 5%, then the exercise is considered as "correlated". In this case physical training with a view to the aerobic threshold for a race of a given duration ... can be considered to be fully completed"._
+
+In Staminity calculation of the efficiency factor, as well as of the decoupling, can be performed both for a whole activity, and for the selected interval.
+
+##### Efficiency factor {#efficiencyfactor}
+
+> Efficiency factor \(EF\) = Average pace / Average HR,
+
+and for the activities with the power meter:
+
+> Efficiency factor \(EF\)  = Average power / Average HR.
+
+##### Pace:HR - decoupling \(pace\) {#speeddecoupling}
+
+Decoupling \(pace\) shows the change in the efficiency factor's value, calculated based on pace for the first and the second half of the activity:
+
+> **EF1** = Average pace / average HR for the 1 half of the activity  
+> **EF2** = Average pace / average HR for the 2 half of the activity  
+> **Pace:HR **= \(EF1 - EF2\) / EF1
+
+##### Power:HR - decoupling \(power\) {#powerdecoupling}
+
+Decoupling \(power\) shows the change in the efficiency factor's value, calculated based on power for the first and the second half of the activity:
+
+> **EF1** = Average power/ average HR for the 1 half of the activity  
+> **EF2** = Average power/ average HR for the 2 half of the activity  
+> **Power:HR **= \(EF1 - EF2\) / EF1
+
+
+
