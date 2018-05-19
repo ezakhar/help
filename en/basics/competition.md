@@ -1,6 +1,6 @@
 # Competition
 
-Competition - an item in the calendar which contains information about planned or completed competition.
+Competition - a calendar item which contains information about planned or completed competition.
 
 In this section:
 
@@ -27,19 +27,19 @@ When creating a competition you need to set:
 
 ![Create a competition in Staminity](https://content.staminity.com/assets/images/periodization/competition-create.gif)
 
-For competitions, you can also set **planned duration and distance.**  
+For competitions, you can also set **planned duration and distance.**
 
 Each stage of the competition is planned separately. For example, in triatlon the planned duration is set for swimming, cycling and running and the transit zones' duration is planned separately.
 
-It is not obligatory to set the planned duration but in case if it is indicated, Staminity will use it to compare planned and actual values. 
+It is not obligatory to set the planned duration but in case if it is indicated, Staminity will use it to compare planned and actual values.
 
 ![Competition plan Staminity](https://content.staminity.com/assets/images/periodization/competition-edit.gif)
 
-### Complete a competition - manually or automatically  {#complete}
+### Complete a competition - manually or automatically {#complete}
 
-As well as for an activity, the actual values of the competition can be entered either manually or they can be calculated automatically upon the upload of the actual data from the sports watch or from the smartphone. 
+As well as for an activity, the actual values of the competition can be entered either manually or they can be calculated automatically upon the upload of the actual data from the sports watch or from the smartphone.
 
-In contrast to the activity, one competition can contain several activities, as the planned activities are set for each stage of the competition. When uploading a completed activity, it can be compared to the previously created planned one according to the standard rules. 
+In contrast to the activity, one competition can contain several activities, as the planned activities are set for each stage of the competition. When uploading a completed activity, it can be compared to the previously created planned one according to the standard rules.
 
 ![Overview of the completed competition in Staminity](https://content.staminity.com/assets/images/periodization/competition-completed.png)
 
@@ -47,7 +47,7 @@ If a completed activity is merged to a competition stage, then from the competit
 
 ### Complete a competition - merge a completed activity with a competition stage {#splitmerge}
 
-In case if a completed activity hasn't been merged with a competition stage automatically, it can be done manually. 
+In case if a completed activity hasn't been merged with a competition stage automatically, it can be done manually.
 
 In order to do it just drag and drop it to the required stage:
 

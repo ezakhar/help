@@ -1,81 +1,90 @@
-#Создать событие и измерение
+# How to create an event and measurement
 
-Помимо запланированных и выполненных тренировок и [соревнований](/basics/competition.md), в календаре можно создать дополнительные записи:
+In addition to planned and completed activities and [competitions](/basics/competition.md), you can create the following calendar items:
 
-* **[Событие](#event)** - запись о фактически произошедшем или запланированном событии , важном для тренировочного процесса. Примеры событий: день отдыха, недомогание, перелёт, диета, витамины и добавки и т.п
+* [**Event**](#event) -  an item with information about an event that is going to happen or has already happened and which is important for the training process. Examples: rest day, sickness, travel, diet, supplements, etc. 
 
-* **[Измерение](#measurement)** - запись результатов измерений спортсмена. Примеры: рост, вес, продолжительность сна, пульс покоя, общее самочувствие.
+* [**Measurement**](#measurement) - an item with information about an athlete's measurements. Examples: height, weight, sleep hours, resting HR, overall feeling.
 
-###Событие{#event}
-Созданы, чтобы планировать одиночные и повторяющиеся события, а также фиксировать прошедшие события, важные для тренировочного процесса. Создавать события может каждый пользователь для себя, а также тренер для своих учеников. 
+### Event {#event}
 
-Для создания события наведите мышкой на выбранный день календаря, нажмите на кнопку "Добавить" и выберите тип события:
+This calendar item is created in order to plan single and repeated events, and to record past events important for the training process. Any user can create an event for himself or a coach can create an event for his athletes.
 
-![Выбор типа события](https://content.staminity.com/assets/images/_new/calendar/calendar-wizard-event.png)
+In order to create an event, hover your mouse cursor over the required date in the calendar, click on the "Add" button and select the event type:
 
-Типы событий в Staminity: 
+![Select event type](https://content.staminity.com/assets/images/_new/calendar/calendar-wizard-event.png)
 
-* **День отдыха** - день отдыха, занятия не запланированы, 
-* **Болезнь** - недомогание, слабость,
-* **Переезд** - укажите дни, когда будете в дороге (отпуск, командировка, путешествия),
-* **Питание** - план питания для ученика или отчет по питанию для тренера,
-* **Витамины** - витамины и добавки, спортивное питание,
-* **Проблема** - важная информация для тренера, 
-* **Женский цикл** - поможет обратить внимание тренера, что необходимо снизить нагрузку в дни менструации,
-* **Нарушение режима** - расслабились с друзьями
-* **Видео** - запись с ссылкой на видеоролик. 
-* **Заметка** - заметка
+Event types in Staminity:
 
-При необходимости задайте **параметры повтора** события и добавьте **описание**. 
+* **Rest day** - a day when an athlete is resting, no planned activities, 
+* **Sickness **- disease, weakness,
+* **Travel **- set days when you will be traveling \(vocation, business trip\),
+* **Diet **- diet plan for an athlete or diet report for a coach,
+* **Supplements **- vitamins and supplements, sports nutrition,
+* **Problem **- an important information addressed to the coach, 
+* **Menstrual cycle **- indicate this information and the coach will know when to reduce the training load,
+* **Disruption **- you hang out with friends 
+* **Video **- a link to the video, 
+* Note - note.
 
-####Параметры повтора:
+If needed, you can set **frequency **of the event and add a **description**.
+
+#### Frequency:
 
 ![](http://content.staminity.com/assets/images/calendarItem/record.png)
 
-Событие без повторов создается в дату, указанную в заголовке.
-Для повторяющегося события укажите параметры повторов:
+A single event is created on the date specified in the heading.   
+For repeated events you need to set frequency: 
 
-**Периодичность:**
-* Ежедневно
-* Еженедельно
-* Ежемесячно
-* Ежегодно
- 
-**Частота:**
-В поле "Каждый/каждые" укажите, как часто повторять события. 
-Например, для ежедневных повторов:
- * Каждый 1 день - события повторяются каждый день,
- * каждый 2 день - повторения через день,
- * Каждый 3 день - повторения через 2 дня и т.п.
- 
-**Дни недели:**
-Если выбраны еженедельные повторения, то можно указать дни недели, по которым повторять события
+**Period:**
 
-**Способ завершения**
-Выберите способ завершения повторений:
-* До определенной даты - событие повторяется до определенной даты (даты завершения),
-* После нескольких повторений - событие повторяется указанное количество раз.
+* Daily
+* Weekly
+* Monthly
+* Yearly
 
-####Описание:
-Опишите событие, дайте совет и рекомендацию ученику.
-Форматируйте текст, выделяйте важное цветом, вставляйте картинки, ссылки на файлы и видеоролики.
+**Repeats:**  
+In the "Every" field you can set how often the event must be repeated.   
+For example, for daily repeats: 
+
+* Every 1 day - an event will be repeated every day,
+* Every 2 days - it will be repeated on alternate days,
+* Every 3 days - it will be repeated every two days.
+
+**Days of week:**  
+In case if you have chosen weekly repeats, you can set days of week when the event will be repeated.
+
+**Stop repeating:**  
+Select when the repeats will stop: 
+
+* On date  - the event will repeat until the set date \(end date\),
+* After - after a number of repeats. It means that the event will repeat the set number of times. 
+
+#### Description:
+
+Describe an event, give advice or recommendations to an athlete.   
+Format text, highlight important things with color, insert images, links to files and videos.
 
 ![](http://content.staminity.com/assets/images/calendarItem/record-advanced-formatting.png)
 
+### Measurement {#measurement}
 
-###Измерение{#measurement}
-Для ввода измерения наведите мышкой на выбранный день в календаре, нажмите на кнопку "Добавить" и выберите "Создать измерение". 
+In order to set a measurement, you need to hover your mouse cursor over the required date in the calendar, click on the "Add" button and select "Measurement".
 
-Заполните нужные поля в карточке измерения и нажмите "Сохранить".
+Fill in the required fields in the card and click on "Save". 
 
 ![](http://content.staminity.com/assets/images/calendarItem/measurement2.png)
 
-Фиксируйте в измерениях:
-* Вес;
-* %воды и %жира;
-* мышечную массу;
-* пульс покоя;
-* Качество и продолжительность сна;
-* Ортостатическую пробу; 
-* Пульсовую стоимость;
-* Общее состояние.
+Set:
+
+* Weight;
+* Water% and fat%;
+* Muscle mass;
+* Resting HR;
+* Sleep quality and sleep hours;
+* Orthostatic probe; 
+* Beats per km;
+* Overall feeling.
+
+
+
