@@ -18,7 +18,7 @@ Event types in Staminity:
 
 * **Rest day** - a day when an athlete is resting, no planned activities, 
 * **Sickness **- disease, weakness,
-* **Travel **- set days when you will be traveling \(vocation, business trip\),
+* **Travel **- set days when you will be traveling \(vacation, business trip\),
 * **Diet **- diet plan for an athlete or diet report for a coach,
 * **Supplements **- vitamins and supplements, sports nutrition,
 * **Problem **- an important information addressed to the coach, 
@@ -31,12 +31,12 @@ If needed, you can set **frequency **of the event and add a **description**.
 
 #### Frequency:
 
-![](http://content.staminity.com/assets/images/calendarItem/record.png)
+![Set event frequency](http://content.staminity.com/assets/images/calendarItem/record.png)
 
 A single event is created on the date specified in the heading.  
-For repeated events you need to set frequency:
+For repeated events you may set:
 
-**Period:**
+**Frequency:**
 
 * Daily
 * Weekly
@@ -49,7 +49,7 @@ For example, for daily repeats:
 
 * Every 1 day - an event will be repeated every day,
 * Every 2 days - it will be repeated on alternate days,
-* Every 3 days - it will be repeated every two days.
+* Every 3 days - it will be repeated every three days.
 
 **Days of week:**  
 In case if you have chosen weekly repeats, you can set days of week when the event will be repeated.
@@ -65,17 +65,17 @@ Select when the repeats will stop:
 Describe an event, give advice or recommendations to an athlete.  
 Format text, highlight important things with color, insert images, links to files and videos.
 
-![](http://content.staminity.com/assets/images/calendarItem/record-advanced-formatting.png)
+![Event description](http://content.staminity.com/assets/images/calendarItem/record-advanced-formatting.png)
 
 ### Measurement {#measurement}
 
-In order to set a measurement, you need to hover your mouse cursor over the required date in the calendar, click on the "Add" button and select "Measurement".
+In order to create a measurement, you need to hover your mouse cursor over the required date in the calendar, click on the "Add" button and select "Measurement".
 
 Fill in the required fields in the card and click on "Save".
 
-![](http://content.staminity.com/assets/images/calendarItem/measurement2.png)
+![create measurement](http://content.staminity.com/assets/images/calendarItem/measurement2.png)
 
-Set:
+You may set:
 
 * Weight;
 * Water% and fat%;
