@@ -27,32 +27,32 @@ In this article:
 
 ---
 
-## Как стать тренером {#coach}
+## How to become a coach {#coach}
 
-Тренером может стать любой пользователь Staminity.
+Any Staminity user can become a coach.
 
-Для этого необходимо подключить ["Coach" tariff](/tariffs/Coach.md) на пробный период за свой счет или за счет клуба. В статье ["Getting started"](/basics/getting-started.md) описаны варианты регистрации в сервисе в зависимости от выбранной роли.
+In order to do it, you need to enable the ["Coach" tariff](/tariffs/Coach.md) for a trial period at your own expense or at the expense of the club. Different options for registration depending on the chosen role are described in the ["Getting started"](/basics/getting-started.md) article.
 
-**Если у вас нет учеников**, то покупать тариф "Тренер" после окончания пробного периода нет необходимости. Ваш профиль тренера будет отображаться в поиске тренеров для пользователей сервиса и вы сможете приобрести тариф тогда, когда вам понадобятся функции тренера для работы с учениками.
+If you don't have athletes, then you don't need to purchase the "Coach" tariff after the end of the trial period. Your coach profile will be displayed to the service's users in the coach search results and you will be able to purchase the tariff when you'll need the coach functions in order to work with athletes.
 
-Если вы хотите работать с учениками, то вам потребуется тариф "Тренер". Его можно приобрести за свой счет, если вы индивидуальный тренер, или за счет клуба, если вы тренер в клубе.
+If you want to work with athletes, you need to enable the "Coach" tariff. If you are a personal coach, you can purchase it at your own expense and if you are a club coach - at the expense of the club.
 
 ---
 
-## Как управлять учениками {#athletemanagement}
+## How to manage your athletes {#athletemanagement}
 
-Управление учениками для тренера в Staminity доступно при выборе пункта "Управление спортсменами" в левом меню.
+In Staminity a coach can manage his athletes if he selects the "Athletes management" item of the menu to the left.
 
-Структура окна и доступные возможности:  
+Structure of the window and the available features:  
 ![Athletes management](http://content.staminity.com/assets/images/_new/coach/athlete-management.png)
 
-* **1 - поиск** по имени и фамилии спортсменов;
-* **2 - пригласить спортсменов**. Нажмите на кнопку, введите Фамилию, Имя и адрес электронной почты нового ученика и ему придет приглашение от вас на указанный почтовый адрес;
-* **3 - подключить/отключить тариф**. Тренер может подключить своим ученикам тариф "Премиум" за свой счет. Стоимость "Премиум" тарифа, при подключении его тренером для учеников [lower](/tariffs/Coach.md), чем при самостоятельном подключении учениками. Тренер может предлагать 
-* **4 - Удалить ученика**. Нажмите на кнопку "Удалить", если хотите прекратить заниматься с учеником. После отключения ученика вы потеряете доступ к его тренировочному календарю.
-* **5 - Селектор выбора спортсменов**. 
-* **6 - Фамилия, Имя** ученика
-* **7 - Тарифные планы ученика**. Если рядом с названием тарифа есть обозначение "Т" \(или "Coach"\), то этот тариф подключен за ваш счет. 
+* **1 - Search **by the first name and the last names of athletes;** **
+* **2 - Invite athletes. **Click on the button, fill in last name, first name, email address of the new athlete and he will receive an invitation from you at the stated email address; 
+* **3 - Enable/disable tariff**. A coach can subscribe his athletes to the "Premium" tariff at his own expense. The cost of the "Premium" tariff is [lower](/tariffs/Coach.md) when it is enabled by the coach for his athletes, than when it is enabled by the athletes on their own. A coach can offer 
+* **4 - Drop off an athlete**. Click on the "Drop off" button if you want to stop training an athlete. After that, you won't be able to access the athlete's training calendar. 
+* **5 - Select athletes**. 
+* **6 - Last name, First name **of the athlete 
+* **7 - Athlete's tariff plans**. If there is a "Coach" sign next to the tariff name, then this tariff has been enabled at your expense. 
 
 Индивидуальный тренер может не только просматривать своих учеников, но и отключать их от себя, а также подключать и отключать им тариф "Премиум" за свой счет.
 
