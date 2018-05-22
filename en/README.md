@@ -1,3 +1,5 @@
-Staminity is the application supports online training and work with coach in triathlon, running, cycling, swimming and other cyclic kinds of sports
+[Staminity](https://staminity.com) is a web and mobile application providing remote interaction between the coach and athletes, possibility to keep a training diary and analyse the training process. 
 
-FAQ in English is in filling stage
+It is created for athletes, coaches and clubs that specialize in triathlon, running, cycling, swimming and other cyclic sports.
+
+FAQ in English is constantly updated 
