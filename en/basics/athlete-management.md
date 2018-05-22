@@ -41,44 +41,44 @@ If you want to work with athletes, you need to enable the "Coach" tariff. If you
 
 ## How to manage your athletes {#athletemanagement}
 
-In Staminity a coach can manage his athletes if he selects the "Athletes management" item of the menu to the left.
+In order to manage his athletes, a coach should select the "Athletes management" item of the menu to the left.
 
 Structure of the window and the available features:  
 ![Athletes management](http://content.staminity.com/assets/images/_new/coach/athlete-management.png)
 
 * **1 - Search **by the first name and the last names of athletes;** **
 * **2 - Invite athletes. **Click on the button, fill in last name, first name, email address of the new athlete and he will receive an invitation from you at the stated email address; 
-* **3 - Enable/disable tariff**. A coach can subscribe his athletes to the "Premium" tariff at his own expense. The cost of the "Premium" tariff is [lower](/tariffs/Coach.md) when it is enabled by the coach for his athletes, than when it is enabled by the athletes on their own. A coach can offer 
+* **3 - Enable/disable tariff**. A coach can subscribe his athletes to the "Premium" tariff at his own expense. The cost of the "Premium" tariff is [lower](/tariffs/Coach.md) when enabled by the coach for his athletes, than when it is enabled by the athletes on their own. A coach can offer 
 * **4 - Drop off an athlete**. Click on the "Drop off" button if you want to stop training an athlete. After that, you won't be able to access the athlete's training calendar. 
 * **5 - Select athletes**. 
 * **6 - Last name, First name **of the athlete 
 * **7 - Athlete's tariff plans**. If there is a "Coach" sign next to the tariff name, then this tariff has been enabled at your expense. 
 
-Индивидуальный тренер может не только просматривать своих учеников, но и отключать их от себя, а также подключать и отключать им тариф "Премиум" за свой счет.
+A personal coach is entitled not only to review his athletes but also to drop them off, as well as to enable and disable the "Premium" tariff for them at his own expense.
 
-Для выполнения этих действий:
+In order to do it:
 
-* выделите ученика \[5\],
-* нажмите нужную кнопку \[3\] или \[4\],
-* подтвердите выполнение действия.
+* select an athlete \[5\],
+* click on the required button \[3\] or \[4\],
+* confirm the action.
 
 ---
 
-## Как работать со спортсменами {#coachwork}
+## How to work with athletes {#coachwork}
 
-Пользователь с активным тарифом "Тренер" может выполнять следующие действия с подключенными к нему учениками:
+A user with enabled "Coach" tariff can perform the following actions with the connected athletes:
 
-* Планировать [activities](/basics/create-plan-activity.md);
-* Планировать [competitions](/basics/competition.md);
-* Создавать [events](/basics/create-record.md); 
-* Контролировать выполнение плана через [coach dashboard](/basics/coach-dashboard.md);
-* Анализировать каждую [completed activity](/basics/analyse-detailed-activity.md);
-* Планировать [training season](/basics/season-plan.md);
-* Работать с группами спортсменов через [training plans](/basics/training-plan.md);
-* Формировать [отчетность по тренировочному процессу](/basics/analytics.md);
-* Настраивать [training zones and LT](/basics/getting-started.md#trainingzones) для спортсменов;
-* Создавать свои [categories of activities](/basics/categories.md);
-* Создавать свои [activities templates](/basics/templates.md).
+* Plan [activities](/basics/create-plan-activity.md);
+* Plan [competitions](/basics/competition.md);
+* Create [events](/basics/create-record.md); 
+* Control the plan execution through the [coach dashboard](/basics/coach-dashboard.md);
+* Analyze each [completed activity](/basics/analyse-detailed-activity.md);
+* Plan a [training season](/basics/season-plan.md);
+* Work with groups of athletes through the [training plans](/basics/training-plan.md);
+* Review [reports on the training process](/basics/analytics.md);
+* Set [training zones and LT](/basics/getting-started.md#trainingzones) for athletes;
+* Create his own [categories of activities](/basics/categories.md);
+* Create his own [activities templates](/basics/templates.md).
 
 
 
