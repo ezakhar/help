@@ -1,60 +1,66 @@
 ---
 related:
-- tariffs/basic.md
-- tariffs/Premium.md
-- tariffs/Club.md
-
+  - tariffs/basic.md
+  - tariffs/Premium.md
+  - tariffs/Club.md
 ---
 
-#Тарифный план "Тренер"
+# "Coach" tariff plan
 
-###Для кого
-Для тренера. Тариф включает все функции для дистанционной работы одного тренера с учениками. 
+### For whom
 
-###Что входит в тарифный план
+For a coach. The tariff includes all functions needed for remote work of one coach with athletes.
 
-* **Дневник тренировок** учеников;
-* **Сводный дэшборд** (недельный обзор по ученикам);
-* **Планирование** тренировок, соревнований и событий;
-* **Общение** с учениками;
-* **Детальный анализ** выполненных тренировок;
-* Управление **шаблонами** и **категориями** тренировок;
-* **Отчетность и анализ** по процессу тренировок учеников
-* **Планирование сезона** для учеников;
-* **Тренировочные планы** для работы с группами спортсменов.
+### What is included in the tariff plan
 
-###Стоимость
-Стоимость тарифа складывается:
-* из **абонентской платы**, которая составляет **300 RUB** / месяц при оплате помесячно или **3000 RUB** при оплате сразу за год. В абонентскую плату входит право тренировок 1 ученика.
-* и **оплаты за дополнительных учеников** – **210 RUB**/месяц (7 RUB/день). Оплачивается только первые 10 учеников, остальные не учитываются и с ними можно работать бесплатно.
+* Athetes' **training diary**;
+* Coach **Dashboard;**
+* **Planning **activities, competitions, and events;
+* **Communication **with athletes;
+* **Detailed analysis** of the completed activities;
+* Managing **templates **and activity **categories**;
+* **Reports and analysis** of the athletes' training process;
+* **Season plans **for athletes;
+* **Training plans** for working with groups of athletes.
 
-Таким образом, общая стоимость для тренера в месяц составит от **300 RUB** / месяц (1 ученик) до **2200 RUB** / месяц* (10 и более учеников). 
+### Cost
 
-В дополнение к этому тренер может подключить ученикам тариф ["Премиум"](/tariffs/premium.md) за свой счет. Для тренера действуют специальные условия подключения - **210 RUB**/месяц (7 RUB/день).
+The cost of the tariff is composed of:
 
-###Условия подключения
-* 1.При подключении тарифа "Тренер" необходимо выбрать период расчетов абонентской платы (месяц или год) и оплатить абонентскую плату за выбранный период. При этом срок действия тарифа "Тренер" устанавливается:
-    * 1.1.При подключении тарифа **до 15 числа месяца** - 1 месяц с даты подключения,
-    * 1.2.При подключении тарифа **после 15 числа месяца** - до последнего числа месяца, следующего за месяцем подключения.
+* **subscription fee **as per tariff in the amount of **300 RUB**/month if paid monthly or **3000 RUB**/year if paid annually. The subscription fee includes the right to train 1 athlete.
+* and **payment for additional athletes** - **210 RUB**/month \(7 RUB/day\). Only the first 10 athletes are taken into account, with the rest the coach can work free of charge.
 
-        
-* 2.Расчет лицензионного вознаграждения по тарифу "Тренер" выполняется ежедневно и отражается в формирующемся счете. Контролировать размер начислений можно в Личном кабинете, в разделе "Настройки" - "Тарифы и счета", в счете со статусом "Формируется".
+Thus, the total cost for a coach per month will be from **300 RUB**/month \(1 athlete\) to **2200 RUB**/month\* \(10 and more athletes\).
 
-* 3.В конце срока действия тарифа "Тренер" выставляется счет за прошедший период. Для продления срока действия тарифа, **выставленный счет необходимо оплатить в течение 7 дней**.
-    * 3.1 Если сумма счета равна нулю, т.е. дополнительных начислений за прошедший период не было, тариф автоматически продлевается до конца текущего месяца.
-    * 3.2 Если сумма счета не равна нулю, т.е. по тарифу были выполнены дополнительные начисления за прошедший период, для продления срока действия тарифа необходимо оплатить выставленный счет.
-    
+Additionally, the coach can subscribe the athletes to the ["Premium"](/tariffs/premium.md) at his own expense. In case if the "Premium" tariff is enabled by a coach special subscription terms apply - **210 RUB** / month \(7 RUB / day\).
 
-* 4.Если выставленный в соответствии с п.3 счет не будет оплачен в течение 7 дней:
-    * Тариф "Тренер" отключается у Лицензиата. Все подключенные ученикам за счет тренера тарифы "Премиум" отключаются. Связь тренера со спортсменами сохраняется еще в течение 30 дней.
-    * За 7 дней, прошедшие с момента выставления счета, выставляется новый счет.
-    
-    
-* **5.При повторном подключении тарифа "Тренер", отключенного за неуплату в соответствии с пунктом 4, необходимо оплатить задолженность по ранее выставленным счетам, а также заново подключить тариф "Тренер", оплатив абонентскую плату за выбранный период (1 месяц или 1 год).**
+### Terms of subscription
 
-* 6.Начиная со второго месяца, независимо от даты подключения тарифа, устанавливаются следующие правила расчетов:
-    * Расчетный период - календарный месяц, с 1 по последнее число месяца;
-    * Дата выставления счета - 1 число месяца.
-    
-    
-* 7.При одновременном подключении тарифа "Тренер" с другими тарифами, все начисления по всем подключенным тарифам включаются в общий счет.
+* 1.In order to use the “Coach” tariff, the user needs to select the subscription fee calculation period \(month or year\) and pay the subscription fee for the selected period. Therewith, the period of validity of the “Coach” tariff is:
+
+  * 1.1.In case of subscription to the tariff **before the 15th day of the month** - 1 month from the date of the subscription,
+  * 1.2.In case of subscription to the tariff** after the 15th day of the month** - until the last day of the month following the month of the subscription.
+
+* 2.The calculation of the license fee according to the "Coach" tariff is performed on a daily basis and is reflected in the forming invoice. The user can control the amount of charges in his Account, in the “Settings” section - "Tariffs and invoices” - "Forming" invoice.
+
+* 3.The user receives an invoice at the end of the period of validity of the “Coach” tariff. In order to extend the validity period of the tariff, **the invoice must be paid within 7 days**.
+
+  * 3.1 If the invoiced amount is zero, i.е. there are no additional charges for the previous period, the tariff is automatically prolonged until the end of the current month.
+  * 3.2 If the invoiced amount is not zero, i.e. there are additional charges for the previous period, then it is needed to pay the invoice in order to prolong the tariff’s period of validity.
+
+* 4.If the invoice issued in accordance with clause 3 is not paid within 7 days:
+
+  * The “Coach” tariff is to be disabled for the user. All “Premium” tariffs purchased by the user for the athletes are to be disabled too. The coach's connection with the athletes remains enabled for another 30 days.
+  * A new invoice is to be issued for those 7 days that have passed since the day of the invoice issue.
+
+* **5.In case of re-subscription to the “Coach” tariff which was disabled for non-payment in accordance with clause 4, it is necessary to pay the debts on the previously issued invoices and subscribe again to the "Coach" tariff by paying the subscription fee for the selected period \(1 month or 1 year\).**
+
+* 6.Starting from the second month, regardless of the date of the subscription to the tariff, the following settlement rules are applied:
+
+  * Settlement period - a calendar month, from the 1st till the last day of the month;
+  * Invoice date - the 1st day of the month.
+
+* 7.When the “Coach” tariff is used together with other tariffs, then all charges on all tariffs are included in the total invoice.
+
+
+

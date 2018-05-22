@@ -1,49 +1,49 @@
-# Планирование сезона и периодизация
+# Season planning and periodization
 
-### Периодизация тренировочных нагрузок
+### Training periodization
 
-**Периодизация** представляет собой тренировочную концепцию, при которой год делится на периоды; в течение каждого из них спортсмен концентрируется на определенных аспектах физической формы, при этом стремясь сохранить достижения предыдущих периодов.
+**Periodization** represents a training concept according to which a year is divided into periods; during each period the athlete concentrates on certain aspects of his physical fitness, while trying to keep the achievements of the previous periods.
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/NQA05RJ7o-0' frameborder='0' allowfullscreen></iframe></div>
 
-В концепции периодизации используются следующие термины:
+The following terms are used in the periodization concept:
 
-* **Макроцикл** — отрезок тренировочного процесса, характеризующийся комплексностью и завершенностью системы тренировки. Макроцикл включает в себя несколько мезоциклов, обычно занимает целый сезон. Выполнение макроцикла позволяет достигнуть основных целей, поставленных на данный период времени. **В Стаминити Макроцикл – это “План на сезон”**.
+* **Macrocycle** — a segment of the training process which is characterized by complexity and completeness of the training system. Macrocycle includes several mesocycles and usually lasts a whole season. Completing a macrocycle allows to achieve the main goals set for the specific period. **In Staminity macrocycle is called “Season plan”**.
 
-* **Мезоцикл** — период внутри макроцикла, решающий задачу развития определенных качеств, характеризующийся однородностью целей и подготавливающий спортсмена к выполнению задач последующего мезоцикла. Среднесрочный план, обычно занимает несколько недель.
+* **Mesocycle** — a period within the macrocycle, which is intended for development of certain skills, has uniform goals and prepares an athlete for completing activities of the following mesocycle. It is a mid-term plan and it usually takes a few weeks to complete.
 
-* **Схема периодизации** определяет набор мезоциклов, используемый при планировании сезона.
+* **Periodization scheme **defines a set of mesocycles used in season planning.
 
-* **Микроцикл** — короткий период внутри мезоцикла, имеющий определенную структуру и решающий краткосрочные задачи. Повторяющиеся микроциклы складываются в мезоциклы, мезоциклы — в макроцикл. **Микроцикл в Стаминити - тренировочная неделя.**
+* **Microcycle** — a short period within the mesocycle which has certain structure and solves short-term tasks. Repeating microcycles form mesocycles, and mesocycles - macrocycle. **In Staminity microcycle is a training week.** 
 
-### Подготовка к планированию сезона
+### Preparation for season planning
  
-1. **Выбрать схему периодизации**. Определить набор мезоциклов, который вы будете использовать при планировании сезона. Исходя из этого выбрать системную схему из "Библии триатлета" Джо Фрила или создать свою схему. Описание работы со схемами периодизации приведено в [отдельном разделе](/methodology/periodisation-schemes.md).
-2. Запланировать **ключевые старты** в сезоне. Подробнее о создании соревнований см. в [отдельной статье.](/basics/competition.md)
-3. Создать **план на сезон**.
+1. **Select periodization scheme**. Choose a set of mesocycles which you will use when season planning. Based on this, select the system scheme from The Triathlete's Training Bible by Joe Friel or create your own scheme. Information about how to work with periodization schemes you will find in a [separate article](/methodology/periodisation-schemes.md).
+2. Plan the **key competitions **of the season. How to create competitions see in this  [separate article.](/basics/competition.md)
+3. Create a **season plan. **
 
-### Создать план на сезон
-Чтобы создать план на сезон:
-* выберите в левом меню пункт "План на сезон"
-* для тренера - выберите ученика
-![Выбрать ученика в плане на сезон Staminity](https://content.staminity.com/assets/images/periodization/season-new-plan.gif)
+### Create a season plan
+In order to create a season plan:
+* click on the “Season plan” item in the menu to the left
+* for a coach - select an athlete
+![Select athlete in a season plan Staminity](https://content.staminity.com/assets/images/periodization/season-new-plan.gif)
 
-Если нет ранее созданных планов на сезон, создайте новый план. Укажите:
-* Название плана
-* Дату начала и окончания
-* [Схему периодизации](/methodology/periodisation-schemes.md), которую будете использовать при планировании
-* Показатель планирования. Можно выбрать время, расстояние или нагрузку ([training load](/basics/measures.md#trainingload))
-* Описание плана
+If there are no previously created season plans, create a new plan. You will need to set:
+* Plan name
+* Start date and end date
+* [Periodization scheme](/methodology/periodisation-schemes.md) which you will use when planning
+* Plan measure. You can select duration, distance or [training load](/basics/measures.md#trainingload)
+* Description
 
-> Будьте внимательны! После создания плана на сезон нельзя изменить ничего, кроме названия и описания:
+> Please note! After the season plan creation, you won’t be able to edit anything except its name and description:
 
-![План на сезон в Стаминити](https://content.staminity.com/assets/images/periodization/season-create.png)
+![Season plan in Staminity](https://content.staminity.com/assets/images/periodization/season-create.png)
 
-В созданном плане укажите для каждого микроцикла (недели) мезоцикл
-![Планирование сезона по мезоциклам](https://content.staminity.com/assets/images/periodization/season-builder-create.gif)
+In the created plan, you need to set a mesocycle for each microcycle (week)
+![Season planning by mesocycles](https://content.staminity.com/assets/images/periodization/season-builder-create.gif)
 
-и плановую нагрузку:
-![Планирование нагрузки по мезоциклам](https://content.staminity.com/assets/images/periodization/season-builder-plan.gif)
+and planned training load:
+![Load planning by mesocycles](https://content.staminity.com/assets/images/periodization/season-builder-plan.gif)
 
-Факт выполнения плана на сезон будет формироваться автоматически на основании оперативного плана в календаре и выполненных тренировок.
-![План на сезон в Staminity](https://content.staminity.com/assets/images/periodization/season-builder.png)
+The fact of the season plan completion will be formed automatically based on the current plan in the calendar and completed activities.
+![Season plan in Staminity](https://content.staminity.com/assets/images/periodization/season-builder.png)
