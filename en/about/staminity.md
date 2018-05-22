@@ -59,7 +59,7 @@ It is created for athletes, coaches and clubs that specialize in triathlon, runn
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/CdPF1MPI-cc' frameborder='0' allowfullscreen></iframe></div>
 
-* Set [training zones and LT level](/basics/intensity-zones.md) for every activity type and intensity indicator
+* Set [training zones and LT level](/basics/intensity-zones.md) for every sport and intensity indicator
 
 * Single and repeated events in training calendar important for training process (travel, diet, problem, supplements, rest day, sickness, etc):
 ![Events in training calendar in Staminity](https://content.staminity.com/assets/images/about/record-foods.png)

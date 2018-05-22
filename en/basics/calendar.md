@@ -20,7 +20,7 @@ Calendar contains schedule of planned and completed activities for the week. It 
 * 6 - Notifications register and requests register;
 * 7 - Go to personal menu to access “Settings” and “Profile” sections, proceed to Help Center, apply to support service, sign out or change language.
 * 8 - Calendar week displaying planned and completed activities, competitions, events and measurements;
-* 9 - Summary. Planned and completed distance/duration by activity types, percent of completion for the week;
+* 9 - Summary. Planned and completed distance/duration by sports, percent of completion for the week;
 * 10 - Current mesocycle. It is defined based on the season plan;
 * 11 - Templates panel. You can plan an activity by simply dragging the required template to the calendar.
 
