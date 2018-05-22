@@ -1,61 +1,63 @@
 ---
 related:
-- basics/getting-started.md
-- basics/work-with-coach.md
-- basics/athlete-management.md
+  - basics/getting-started.md
+  - basics/work-with-coach.md
+  - basics/athlete-management.md
+---
+
+# Clubs in Staminity
+
+Club in Staminity - a tool which enables several coaches to work jointly.
+
+In contrast to the personal coaches who manage their athletes independently, by sending them invitations or accepting their requests, in a club the athletes' requests are processed by a club administrator. It is also him who assigns athletes to coaches.
+
+If there are several coaches in your running school or training center for triathlon athletes you should try to open a club Staminity.
+
+In this article:
+
+* [How to open a club in Staminity](#openclub)
+* [How to manage club's members](#clubmanagement)
+* [Getting started as a club in Staminity](#clubstart)
 
 ---
 
-# Работа клуба в Staminity
+## How to open a club in Staminity {#openclub}
 
-Клуб в Staminity - это инструмент для совместной работы нескольких тренеров.
+In order to open a club:
 
-В отличие от индивидуальных тренеров, которые самостоятельно управляют своими спортсменам, отправляя приглашения ученикам или принимая запросы от них, в клубе запросы от учеников обрабатывает менеджер или администратор клуба. Он же распределяет учеников между тренерами.
+* Sign up in  Staminity. You should better do it without the "I am a coach" attribute as functions of a coach will be provided to you as a club manager, it is included in the subscription fee for the "Club" tariff;
+* Enable the "Coach" tariff,
+* Fill in information in the club profile,
+* Connect athletes and coaches to the club.
 
-Если в вашей беговой школе или центре подготовки спортсменов по триатлону несколько тренеров, попробуйте Клубы в Staminity.
+### Enable the "Club" tariff plan:
 
-В этой статье:
+Go to "Settings" and in the "Account - Tariff plans" subsection enable the ["Club" tariff plan](/tariffs/Club.md):
 
-* [Как открыть клуб в Staminity](#openclub)
-* [Как управлять членами клуба](#clubmanagement)
-* [С чего начать работу клуба в Staminity](#clubstart)
+![Enable the &quot;Club&quot; tariff plan](http://content.staminity.com/assets/images/club/club-add-tariff.gif)
 
----
+### Fill in information in the club profile:
 
-## Как открыть клуб в Стаминити {#openclub}
+Only club managers and club administrators can edit club profile:
 
-Для открытия клуба:
+* **Name **- название вашего клуба, школы
+* **Удобная ссылка на профиль** - by default, when creating a club it is assigned an identifier of the type Club\_ZZZZ and for all other users your club will be available at the following address [https://staminity.com/club/Club\_ZZZZ](https://staminity.com/club/Club_ZZZZ). Instead, you can specify ..... Вместо этого вы можете указать удобную ссылку.
 
-* Зарегистрируйтесь в Staminity. Лучше это сделать без признака "Я-тренер", т.к. функции тренера будут добавлены Вам как менеджеру клуба, это входит в абонентскую плату по тарифу "Клуб";
-* Подключите тарифный план "Клуб",
-* Заполните информацию в профиле клуба,
-* Подключите к клубу тренеров и учеников.
+* If you indicate your **country **and **city **it will help athletes to find clubs located nearby.
 
-### Подключите тарифный план "Клуб":
+* **About yourself**  - main information about your club;
 
-Перейдите в раздел "Настройки" и в подразделе "Учетная запись – Тарифные планы" подключите [тарифный план "Клуб"](/tariffs/Club.md):
+* **Conditions **- the cost and terms of activities according to different programms; 
 
-![Подключить тариф клуб](http://content.staminity.com/assets/images/club/club-add-tariff.gif)
+* **Contact details **- specify them for the users to be able to contact the club;
 
-### Заполните информацию в профиле клуба:
-
-Редактирование профиля доступно для менеджера и администраторов клуба:
-
-* **Название** - название вашего клуба, школы
-* **Удобная ссылка на профиль** - по-умолчанию при создании клуба ему присваивается идентификатор вида Club\_ZZZZ и ваш клуб для остальных пользователей будет доступен по адресу [https://staminity.com/club/Club\_ZZZZ](https://staminity.com/club/Club_ZZZZ). Вместо этого вы можете указать удобную ссылку.
-
-* Заполненная **страна** и **город** помогут ученикам найти клубы рядом с ними.
-
-* **О себе** - основная информация о вашем клубе;
-* **Условия занятий** - стоимость и условия занятий по различным программам;  
-* **Контакты** - укажите контакты для связи с клубом;
-* **Ученики** - поделитесь достижениями ваших учеников. Это поможет сделать выбор в пользу вашего клуба для новых учеников.
-* **Доступность для новых учеников** - принимаете ли вы новых учеников;
-* **Виды спорта** - виды спорта, подготовку в которых вы осуществляете.
+* **Athletes **- share the achievements of your athletes. It will help the new athletes to choose your club. 
+* **Availability for new athletes** - indicate whether you are accepting new athletes;
+* **Sports **- what kinds of sports you specialize in.
 
 ![](http://content.staminity.com/assets/images/club/club-fill-profile.gif)
 
-Кроме того, не забудьте загрузить **аватар \(эмблему, логотип\) клуба и фоновое изображение**. Они визуально выделят профиль вашего клуба среди других в поиске.   
+Кроме того, не забудьте загрузить **аватар \(эмблему, логотип\) клуба и фоновое изображение**. Они визуально выделят профиль вашего клуба среди других в поиске.  
 Проверьте, как профиль вашего клуба видят все пользователи сервиса.
 
 ![](http://content.staminity.com/assets/images/club/club-upload-images.gif)
@@ -67,13 +69,13 @@ related:
 Управление членами клуба доступно руководству клуба: менеджеру клуба и его администраторам.
 
 Откройте пункт меню "Члены клуба" в левом клубном меню:  
-![Управление клубом](http://content.staminity.com/assets/images/_new/club/club-management-navigation.png)
+![Club management](http://content.staminity.com/assets/images/_new/club/club-management-navigation.png)
 
 Доступные возможности:
 
 * 1 - фильтр членов клуба. По нажатию на него можно выбрать для отображения отдельно спортсменов, тренеров или руководство клуба, можно выбрать спортсменов без назначенного тренера, а также всех спортсменов по выбранному тренеру.
 * 2 - поиск членов клуба. Работает поиск по имени
-* 3 - пригласить новых членов клуба. Подробнее о приглашении в клуб описано в разделе ["Как подключиться к тренеру"](/basics/work-with-coach.md#joinclubinvite)
+* 3 - пригласить новых членов клуба. Подробнее о приглашении в клуб описано в разделе ["How to connect to a coach"](/basics/work-with-coach.md#joinclubinvite)
 * **4 - Тренеры.** Позволяет назначить тренера для выбранного члена клуба. Кнопка доступна только при выборе члена клуба с ролью "Спортсмен";
 * **5 - Спортсмены**. Позволяет прикрепить одного или нескольких спортсменов для тренера клуба. Доступна только для члена клуба с ролью "Тренер";
 * **6 - Тарифы**. Позволяет подключить и отключить для членов клуба тарифы "Премиум" или "Тренер" за счет клуба.
@@ -97,7 +99,7 @@ related:
 * в меню действий выбрать пункт "Удалить" \[8\],
 * подтвердить исключение из клуба.
 
-### Управление ролями в клубе{#clubroles}
+### Управление ролями в клубе {#clubroles}
 
 В клубе возможны следующие роли:
 
@@ -124,14 +126,14 @@ related:
 * Установить или удалить для выбранных пользователей одну или несколько ролей,
 * Принять изменения.
 
-### Назначение тренеров для спортсменов{#addcoach}
+### Назначение тренеров для спортсменов {#addcoach}
 
 * Выбрать одного или нескольких членов клуба с ролью "Спортсмен" \[9\],
 * Нажать на кнопку "Тренеры" \[4\],
 * Выбрать из списка доступных тренеров клуба нужного тренера или удалить существующего;
 * Применить изменения.
 
-### Подключить спортсменов к тренеру клуба{#addathletes}
+### Подключить спортсменов к тренеру клуба {#addathletes}
 
 Также можно выполнить обратную операцию: подключить спортсменов для выбранного тренера клуба. Для этого нужно:
 
@@ -150,7 +152,7 @@ related:
 | Тариф | Описание |
 | :--- | :--- |
 | Тариф "Тренер" за счет клуба | Тариф "Тренер" обязательно должен быть у пользователя, чтобы иметь роль "Тренер" в клубе. Если у члена клуба нет тарифа "Тренер", купленного за свой счет, то тариф будет подключен ему за счет клуба при назначении роли "Тренер".   В основном тариф "Тренер" будет подключаться автоматически при назначении членам клуба роли "Тренер", без дополнительных действий со стороны руководства клуба. Но иногда необходимо вручную подключить тариф "Тренер" за счет клуба, например, в случае, когда у одного из тренеров закончился срок действия тарифа "Тренер", купленного за свой счет. |
-| Тариф "Премиум" за счет клуба | Подключение спортсменам клуба тарифа "Премиум" не обязательно. Это дополнительная возможность предоставить некоторым членам клуба премиум-функции в сервисе. Стоимость тарифа "Премиум" за счет клуба ниже, чем при приобретении тарифа спортсменом за свой счет.  |
+| Тариф "Премиум" за счет клуба | Подключение спортсменам клуба тарифа "Премиум" не обязательно. Это дополнительная возможность предоставить некоторым членам клуба премиум-функции в сервисе. Стоимость тарифа "Премиум" за счет клуба ниже, чем при приобретении тарифа спортсменом за свой счет. |
 
 **Будьте внимательны! Начисления по тарифам, подключенным за счет клуба, будут включены в счет клуба с даты подключения. Минимальный срок начисления - один день. **
 
@@ -165,8 +167,11 @@ related:
 
 ## С чего начать работу клуба в Staminity {#clubstart}
 
-1. Зарегистрируйтесь в Staminity как руководитель клуба (без галочки "Я-тренер");
-2. [Откройте клуб](#openclub): подключите тариф "Клуб" и заполните профиль клуба;
-3. Подключите новых членов клуба. Для этого либо отправьте им приглашения от имени клуба, либо примите их запросы на вступление в клуб. Подробнее: ["Как подключиться к тренеру и клубу"](/basics/work-with-coach.md#joinclubinvite)
-4. [Назначьте роли](#clubroles) новым членам клуба: Спортсмен или Тренер;
-5. [Назначьте тренеров](#addcoach) для спортсменов.
+1. Зарегистрируйтесь в Staminity как руководитель клуба \(без галочки "Я-тренер"\);
+2. [Open a club](#openclub): подключите тариф "Клуб" и заполните профиль клуба;
+3. Подключите новых членов клуба. Для этого либо отправьте им приглашения от имени клуба, либо примите их запросы на вступление в клуб. Подробнее: ["How to connect to a coach and join a club"](/basics/work-with-coach.md#joinclubinvite)
+4. [Assign roles](#clubroles) новым членам клуба: Спортсмен или Тренер;
+5. [Assign coaches](#addcoach) для спортсменов.
+
+
+
