@@ -16,8 +16,8 @@ If there are several coaches in your running school or training center for triat
 In this article:
 
 * [How to open a club in Staminity](#openclub)
-* [How to manage club's members](#clubmanagement)
-* [Getting started as a club in Staminity](#clubstart)
+* [How to manage club members](#clubmanagement)
+* [Getting started with your club in Staminity](#clubstart)
 
 ---
 
@@ -40,91 +40,93 @@ Go to "Settings" and in the "Account - Tariff plans" subsection enable the ["Clu
 
 Only club managers and club administrators can edit club profile:
 
-* **Name **- название вашего клуба, школы
-* **Удобная ссылка на профиль** - by default, when creating a club it is assigned an identifier of the type Club\_ZZZZ and for all other users your club will be available at the following address [https://staminity.com/club/Club\_ZZZZ](https://staminity.com/club/Club_ZZZZ). Instead, you can specify ..... Вместо этого вы можете указать удобную ссылку.
+* **Name **- name of your club or school
+* **Short URL of the profile **- by default, when creating a club it is assigned an identifier of the type Club\_ZZZZ and for all other users your club will be available at the following address [https://staminity.com/club/Club\_ZZZZ](https://staminity.com/club/Club_ZZZZ). Instead, you can specify a short URL.
 
 * If you indicate your **country **and **city **it will help athletes to find clubs located nearby.
 
 * **About yourself**  - main information about your club;
 
-* **Conditions **- the cost and terms of activities according to different programms; 
+* **Conditions **- the cost and terms of activities according to different programms;
 
 * **Contact details **- specify them for the users to be able to contact the club;
 
-* **Athletes **- share the achievements of your athletes. It will help the new athletes to choose your club. 
+* **Athletes **- share the achievements of your athletes. It will help the new athletes to choose your club.
+
 * **Availability for new athletes** - indicate whether you are accepting new athletes;
+
 * **Sports **- what kinds of sports you specialize in.
 
 ![](http://content.staminity.com/assets/images/club/club-fill-profile.gif)
 
-Кроме того, не забудьте загрузить **аватар \(эмблему, логотип\) клуба и фоновое изображение**. Они визуально выделят профиль вашего клуба среди других в поиске.  
-Проверьте, как профиль вашего клуба видят все пользователи сервиса.
+Besides, don't forget to download the **club image \(emblem, logo\) and background photo. **They will beneficially distinct your club profile from otherprofiles displayed in the search results.  
+Check, what your club profile looks like for the service users.
 
 ![](http://content.staminity.com/assets/images/club/club-upload-images.gif)
 
 ---
 
-## Управление членами клуба {#clubmanagement}
+## How to manage club members {#clubmanagement}
 
-Управление членами клуба доступно руководству клуба: менеджеру клуба и его администраторам.
+Only the club manager and club administrator can manage club members.
 
-Откройте пункт меню "Члены клуба" в левом клубном меню:  
+In order to do it, you need to click on the "Club members" item in the club menu to the left.  
 ![Club management](http://content.staminity.com/assets/images/_new/club/club-management-navigation.png)
 
-Доступные возможности:
+Available features:
 
-* 1 - фильтр членов клуба. По нажатию на него можно выбрать для отображения отдельно спортсменов, тренеров или руководство клуба, можно выбрать спортсменов без назначенного тренера, а также всех спортсменов по выбранному тренеру.
-* 2 - поиск членов клуба. Работает поиск по имени
-* 3 - пригласить новых членов клуба. Подробнее о приглашении в клуб описано в разделе ["How to connect to a coach"](/basics/work-with-coach.md#joinclubinvite)
-* **4 - Тренеры.** Позволяет назначить тренера для выбранного члена клуба. Кнопка доступна только при выборе члена клуба с ролью "Спортсмен";
-* **5 - Спортсмены**. Позволяет прикрепить одного или нескольких спортсменов для тренера клуба. Доступна только для члена клуба с ролью "Тренер";
-* **6 - Тарифы**. Позволяет подключить и отключить для членов клуба тарифы "Премиум" или "Тренер" за счет клуба.
-* **7 - Роли.** Позволяет присвоить выбранным членам клуба роли "Спортсмен", "Тренер" или "Администратор".
-* **8 - Удалить**. Кнопка для исключения члена клуба из клуба.
-* 9 - Выбранный член клуба. Для члена клуба, отмеченного галочкой, выполняются функции \[4\], \[5\], \[6\], \[7\] и \[8\].
-* 10 - Фамилия и имя члена клуба;
-* 11 - Назначенный тренер для члена клуба. Если тренеров больше одного, в списке отображается фамилия первого тренера и количество дополнительных тренеров;
-* 12 - Подключенные тарифы для членов клуба. Если рядом с названием тарифа указано обозначение "К" или "Cl", данный тариф подключен за счет клуба.
-* 13 - Количество подключенных спортсменов для тренеров клуба;
-* 14 - Город;
-* 15 - Возрастная группа.
+* 1 - club members filter. By clicking on it you can set to display only athletes, coaches or club management, you can select athletes without assigned coach and all athletes of the selected coach;
+* 2 - club members search. The search is carried out by name;
+* 3 - invite new club members. More information about invitations to join the club you van find in the ["How to connect to a coach"](/basics/work-with-coach.md#joinclubinvite) article. 
+* **4 - Coaches.** Allows to assign a coach to the selected club member. This button is available only when you select a club member with the "Athlete" role;
+* **5 - Athletes**. Allows to connect one or several athletes to the club coach. This button is available only for a club member with the "Coach" role;
+* **6 - Tariffs**. Allows to enable or disable the "Premium" and "Coach" tariffs for the club members at the club's expense;
+* **7 - Roles.** Allows to assign the selected club members the "Athlete", "Coach" or "Administrator" roles;
+* **8 - Remove**. This button is used when you need to exclude a club member. 
+* 9 - The selected club member. For the selected club member you can use the above-mentioned functions \[4\], \[5\], \[6\], \[7\] and \[8\]; 
+* 10 - Last name and first name of the club member;
+* 11 - A coach assigned to the club member. In case if there are more than one coach, the surname of the first one and the number of additional coaches are displayed in the list; 
+* 12 - Tariffs enabled for the club members. If there is a "Cl" sign next to the tariff name, then this tariff has been enabled at club's expense;
+* 13 - Number of athletes connected to the club coach;
+* 14 - City;
+* 15 - Age group.
 
-Рассмотрим подробнее некоторые типовые операции:
+Let's consider some typical operations more detailed:
 
-### Исключение из клуба {#exclude}
+### Exclude from the club  {#exclude}
 
-Для исключения из клуба выбранного члена клуба необходимо:
+In order to exclude the club member from the club you need to: 
 
-* выбрать члена клуба \[9\],
-* в меню действий выбрать пункт "Удалить" \[8\],
-* подтвердить исключение из клуба.
+* select the club member \[9\],
+* in the actions menu select the "Remove" item \[8\],
+* Confirm the action.
 
-### Управление ролями в клубе {#clubroles}
+### Manage roles in the club {#clubroles}
 
-В клубе возможны следующие роли:
+The following roles are available in the club:
 
-* **Менеджер клуба** - пользователь Staminity, который подключил себе тарифный план "Клуб". Менеджер клуба:
+* **Club manager** - Staminity user, who has enabled the "Club" tariff plan for himself. Club manager:
 
-  * Управляет составом клуба, принимая/отклоняя запросы на вступление в клуб от спортсменов и тренеров, а также исключая тренеров и спортсменов из клуба;
-  * Управляет назначением тренеров для спортсменов;
-  * Управляет ролями клуба, назначая и снимая для членов клуба роли “Спортсмен”, “Тренер”, “Администратор”. 
-  * Может закрыть клуб.
+  * Manages club members by accepting/declining requests to join the club sent by athletes or coaches and by excluding athletes and coaches from the club;
+  * Manages the assignment of coaches to the athletes;
+  * Manages club roles, assigning the "Athlete", "Coach" and Administrator" roles to the club members or removing them; 
+  * He can close the club.
 
-    Роль менеджер подключается и отключается только при подключении и отключении тарифа "Клуб"
+    The manager role is assigned and removed only when the "Club" tariff is enabled or disabled.  
 
-* **Администратор клуба** - тренер клуба, обладающий теми же полномочиями, что и менеджер клуба, с учетом следующих исключений: администратор не может закрыть клуб.  
-  Назначить роль “Администратор” возможно только для членов клуба, имеющих роль “Тренер”. Назначение роли производится менеджером клуба или другими администраторами клуба.
+* **Club administrator** - a club coach, with the same authorities as a club manager, except that the administrator cannot close the club.   
+  The "Administrator" role can be assigned only to a club member with the enabled "Coach" role. The role can be assigned by the club manager or by other club administrators. 
 
-* **Тренер клуба** - член клуба, который имеет право тренировать подключенных к нему спортсменов клуба. Роль "Тренер клуба" может быть назначена только для пользователей, у которых подключен тарифный план "Тренер". При подключении роли "Тренер" членам клуба, не имеющим приобретенного за свой счет тарифного плана "Тренер", данный тарифный план будет подключен пользователям за счет клуба. Начисления за тарифный план "Тренер", подключенный членам клуба за счет клуба, будут включены в счет клуба.
+* **Club coach **- club member who has the right to train the club athletes connected to him. The "Club coach" role can be assigned only to users who have the "Coach" tariff plan enabled. When assigning the "Coach" role to the club member who hasn't purchased the "Coach" tariff plan at his own expense, this tariff plan will be enabled for him at the club's expense. The "Coach" tariff rate, in case if the tariff has been enabled at the expense of the club,  will be added to the club bill. In case if the "Coach" tariff has been enabled for the the club member at the expense of the club, the tariff rate will be added to the club bill.
 
-* **Спортсмен клуба** - член клуба, для которого можно назначить тренера из числа тренеров клуба. Количество спортсменов клуба влияет на стоимость использования Staminity для клуба.
+*  **Club athlete** - club member who can be assigned a club coach. The cost of Staminity usage for a club depends on the number of club athletes. 
 
-Для подключения или отключения ролей выбранным членам клуба необходимо:
+In order to enable or disable roles for the selected club members you need to: 
 
-* Выбрать одного или нескольких членов клуба \[9\],
-* Нажать на кнопку "Роли" \[7\],
-* Установить или удалить для выбранных пользователей одну или несколько ролей,
-* Принять изменения.
+* Select one or several club members \[9\],
+* Click on the "Roles" button \[7\],
+* Set or remove one or several roles for the selected users, 
+* Confirm changes.
 
 ### Назначение тренеров для спортсменов {#addcoach}
 
