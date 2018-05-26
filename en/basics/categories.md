@@ -29,41 +29,41 @@
 
 ### Why do we need categories {#begin}
 
-Категории помогают классифицировать тренировки по типам, выбирать и сравнивать однотипные тренировки, анализировать динамику их выполнения и строить отчеты.
+Categories help to classify activities by types, select and compare activities of the same type, analyze dynamics of their completion and build reports.
 
-Категория - это обязательный признак тренировки. Пользователи с базовым тарифом при создании тренировки могут выбрать категорию из списка [системных категорий](#systemcategories), а обладателям тарифных планов "Премиум" и "Тренер" доступно управление списком своих категорий.
+Category - an obligatory attribute of the activity. When creating an activity, users subscribed to the basic tariff can select category from the list of [system categories](#systemcategories), and those who have the "Premium" or "Coach" tariff plans enabled, can manage their own list of categories.
 
-### Просмотр категорий {#viewCategories}
+### View categories {#viewCategories}
 
-Для управления категориями тренировок перейдите в раздел "Методология" в левом меню и выберите вкладку "Категории тренировок":
+In order to manage the activity categories, you should proceed to the "Methodology" section in the menu to the left and select the "Activity categories" tab:
 
 ![View categories in Staminity](http://content.staminity.com/assets/images/_new/methodology/methodology-menu.png)
 
-Перечень категорий ведется в разрезе **базовых видов спорта**:
+The list of categories is provided in the context of **basic sports**:
 
-* Бег;
-* Плавание;
-* Велосипед;
-* Лыжные гонки;
-* Силовые тренировки;
-* Прочее.
+* Running;
+* Swimming;
+* Bike;
+* Ski;
+* Strenght;
+* Other.
 
-Категории, заданные для базовых видов спорта, используются для классификации тренировок по производным видам спорта.
+Categories set for the basic sports are used to classify activities by derived sports.
 
-В окне просмотра и управления категориями доступна следующая информация:  
+The following information is available on the page of categories overview and management:  
 ![View categories in Staminity](http://content.staminity.com/assets/images/_new/methodology/methodology-categories-navigation.png)
 
-* 1 - Вкладки для переключения между отдельными разделами в представлении "Методология": Тренировочные планы - Схемы периодизации - Категории - Шаблоны.
-* 2 - Перечень базовых видов спорта. Категории отображаются для выбранного базового вида спорта;
-* 3-4 - Группировка категорий по типам. Доступны следующие типы:
-  * **Мои категории** - категории пользователя;
-  * **Категориии тренера** - категории, которые использовал ваш тренер при планировании тренировок для вас;
-  * **Категории клуба** - категории, созданные руководством клуба для использования тренерами при планировании тренировок для учеников;
-  * **Системные категории** - категории тренировок, используемые по-умолчанию для всех пользователей. Описание данных категорий см. [ниже](#systemcategories).
-* 5 - Переключатель видимости категории;
-* 6 - Кнопка добавления новой категории.
+* 1 - Tabs to switch between different sections of the "Methodology" view: Training plans - Periodization schemes - Activity categories - Activity templates;
+* 2 - The list of basic sports. When you select a basic sport, the relevant categories will be displayed;
+* 3-4 - Grouping categories by types. The following types are available:
+  * **My categories **- user's categories;
+  * **Coach categories** - categories which have been used by the coach when planning your activities; 
+  * **Club categories** - categories which have been created by the club management to be used by the coaches when planning activities for the athletes;
+  * **System categories** - activity categories, used by default for all users. [Further](#systemcategories), in the article, you will find a detailed description of these categories.
+* 5 - Here you can switch category visibility;
+* 6 - A button to add a new category.
 
-### Создание своей категории {#createCategory}
+### Create categorie {#createCategory}
 
 Для создания своей категории нажмите на кнопку "Добавить" и введите название и описание категории. Категория будет добавлена для выбранного вида спорта.
 
