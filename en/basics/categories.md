@@ -10,7 +10,7 @@
 * [Change order of categories](#changeOrder)
 * [Manage visibility of categories](#changeVisibility)
 
-**DESCRIPTION OF THE SYSTEM ACTIVITY CATEGORIES IN STAMINITY **
+**DESCRIPTION OF THE SYSTEM CATEGORIES IN STAMINITY **
 
 * [Recovery](#recovery)
 * [Aerobic endurance](#aerobicendurance)
@@ -45,7 +45,7 @@ The list of categories is provided in the context of **basic sports**:
 * Swimming;
 * Bike;
 * Ski;
-* Strenght;
+* Strength;
 * Other.
 
 Categories set for the basic sports are used to classify activities by derived sports.
@@ -65,7 +65,7 @@ The following information is available on the page of categories overview and ma
 
 ### Create category {#createCategory}
 
-In order to create your own category, click on the "Add new" button and fill in the category name and description. After that, the category will be added to the category list for the selected sport.  
+In order to create your own category, click on the "Add new" button and fill in the category name and description. After that, the category will be added to the category list for the selected sport.
 
 ![Add category](http://content.staminity.com/assets/images/_new/methodology/categories-add.png)
 
@@ -75,32 +75,32 @@ In case if you want to create category for several sports, select them in this w
 
 You can change the categories created by you. You cannot change coach categories, club categories and system categories.
 
-To change a category you need to click on it and make changes in the appeared window. 
+To change a category you need to click on it and make changes in the appeared window.
 
 ### Delete category {#deleteCategory}
 
-You can delete categories created by you until they are used in activities.   
-You cannot delete coach categories, club categories and system categories, but you can hide them. 
+You can delete categories created by you until they are used in activities.  
+You cannot delete coach categories, club categories and system categories, but you can hide them.
 
 To delete a category you need to open its edit window and click on the "Delete" button.
 
-### Изменение порядка категорий {#changeOrder}
+### Change order of categories {#changeOrder}
 
-Категории можно отсортировать в удобном для вас порядке. Порядок категорий изменяется перетаскиванием.
+Categories can be sorted in a convenient order. To change the categories order you just need to drag and drop the required category. 
 
 ![Change order of categories](http://content.staminity.com/assets/images/_new/methodology/categories-drag.gif)
 
-### Управление видимостью категорий {#changeVisibility}
+### Manage visibility of categories {#changeVisibility}
 
-Для каждой категории можно установить признак актуальности. Категории, отмеченные как "не актуальные", не будут отображаться при создании тренировок.
+For each category, you can set the attribute of its relevance. Categories marked as "irrelevant" won't be displayed when creating activities.
 
-Например, скрыть можно одну или несколько системных категорий, если вы их не используете.
+For example, you can hide one or several system categories you don't use. 
 
 ---
 
-## Описание системных категорий тренировок {#systemcategories}
+## Description of the system categories {#systemcategories}
 
-В Staminity используются следующие системные категории тренировок.
+The following system categories are used in Staminity.
 
 * [Recovery](#recovery)
 * [Aerobic endurance](#aerobicendurance)
@@ -113,33 +113,33 @@ To delete a category you need to open its edit window and click on the "Delete" 
 * [Preparation for the race](#racepreparation)
 * [Race](#race)
 
-За основу при определении данного перечня была взята классификация тренировок, предложенная** Джо Фрилом в "Библии триатлета"**, по развитию базовых и "особенных" способностей.
+This list has been created based on the activities classification offered by **Joe Friel in The Triathlete's Training Bible **for the development of basic and "special" skills.
 
-Развитие базовых способностей:
+Development of basic skills:
 
-* **Выносливость** – это способность противостоять влиянию усталости и снижать связанные с ней отрицательные эффекты.
-* **Сила** — это способность преодолевать сопротивление.
-* **Скорость** – это способность эффективно двигаться при плавании, езде на велосипеде или беге. Это комбинация техники и производительности, определяющая, насколько эффективно работают руки и ноги при быстром движении.
+* **Endurance **– an ability to resist the influence of fatigue and reduce the associated negative effects.
+* **Muscular force **—  an ability to overcome the resistance. 
+* **Speed **– an ability to move effectively when swimming, cycling or running. It's a combination of technique and performance, defining how effectively do legs and arms work when moving fast.
 
-Развите "особенных способностей", которые являются комбинацией базовых:
+Development of "special skills" which are a combination of basic skills: 
 
-* **Мышечная выносливость** = сила + выносливость
-* **Анаэробная выносливость** = выносливость + скорость
-* **Мощность** = сила + скорость
+* **Muscular endurance **= muscular force + endurance
+* **Anaerobic endurance** = endurance + speed
+* **Power **= muscular force + speed
 
-### Восстановление {#recovery}
+### Recovery {#recovery}
 
-Тренировки, выполняемые в [first training zone](/basics/intensity-zones.md)  после интенсивных тренировок и после соревнований. Цель таких тренировок - восстановление после нагрузки.
+Activities, performed in the [first training zone](/basics/intensity-zones.md) after intensive activities and after competitions. The goal of such activities is to recover after the training load.
 
-### Аэробная выносливость {#aerobicendurance}
+### Aerobic endurance {#aerobicendurance}
 
-Включает упражнения, направленные на аэробное поддержание и укрепление выносливости.
+Includes exercises, focused on aerobic maintenance and strengthening of endurance.
 
-Тренировки выносливости развивают сердечно-сосудистую систему, медленно сокращающиеся мышечные волокна, улучшают способность организма к консервации гликогена и глюкозы, одновременно приучая мышцы использовать в качестве топлива жиры.
+Endurance activities develop cardiovascular system, slowly contracting muscle fibers and improve an ability of the body to conserve glycogen and glucose, simultaneously training muscles to use fats as fuel.
 
-В зависимости от целей, такие тренировки выполняются в 1-2 и 3 [тtraining zones](/basics/intensity-zones.md).
+Depending on the goals, such activities are completed in 1-2 and 3 [training zones](/basics/intensity-zones.md).
 
-### Развитие силы {#muscularforce}
+### Muscular force {#muscularforce}
 
 Тренировки на развитие силы включают тренировки с высокой интенсивностью
 
