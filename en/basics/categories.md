@@ -31,7 +31,7 @@
 
 Categories help to classify activities by types, select and compare activities of the same type, analyze dynamics of their completion and build reports.
 
-Category - an obligatory attribute of the activity. When creating an activity, users subscribed to the basic tariff can select category from the list of [system categories](#systemcategories), and those who have the "Premium" or "Coach" tariff plans enabled, can manage their own list of categories.
+Category - an obligatory attribute of the activity. When creating an activity, users subscribed to the basic tariff can select a category from the list of [system categories](#systemcategories), and those who have the "Premium" or "Coach" tariff plans enabled, can manage their own list of categories.
 
 ### View categories {#viewCategories}
 
@@ -69,18 +69,18 @@ In order to create your own category, click on the "Add new" button and fill in 
 
 ![Add category](http://content.staminity.com/assets/images/_new/methodology/categories-add.png)
 
-In case if you want to create category for several sports, select them in this window when creating a new category.
+In case if you want to create a category for several sports, select them in this window when creating a new category.
 
 ### Change category {#changeCategory}
 
-You can change the categories created by you. You cannot change coach categories, club categories and system categories.
+You can change the categories created by you. You cannot change coach categories, club categories, and system categories.
 
 To change a category you need to click on it and make changes in the appeared window.
 
 ### Delete category {#deleteCategory}
 
 You can delete categories created by you until they are used in activities.  
-You cannot delete coach categories, club categories and system categories, but you can hide them.
+You cannot delete coach categories, club categories, and system categories, but you can hide them.
 
 To delete a category you need to open its edit window and click on the "Delete" button.
 
@@ -168,7 +168,7 @@ Examples of activities: various interval workouts, interval workouts in the hill
 
 ### Sprint power {#sprintpower}
 
-Sprint power activities - activities focused on simultaneous development of muscular force and speed.  
+Sprint power activities - activities focused on the simultaneous development of muscular force and speed.  
 Examples of activities: sprint accelerations with efforts level close to maximum.
 
 ### Functional test {#functionaltest}
