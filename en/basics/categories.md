@@ -63,26 +63,26 @@ The following information is available on the page of categories overview and ma
 * 5 - Here you can switch category visibility;
 * 6 - A button to add a new category.
 
-### Create categorie {#createCategory}
+### Create category {#createCategory}
 
-Для создания своей категории нажмите на кнопку "Добавить" и введите название и описание категории. Категория будет добавлена для выбранного вида спорта.
+In order to create your own category, click on the "Add new" button and fill in the category name and description. After that, the category will be added to the category list for the selected sport.  
 
 ![Add category](http://content.staminity.com/assets/images/_new/methodology/categories-add.png)
 
-Если вы хотите добавить категорию для нескольких видов спорта, выберите их в данном окне при создании новой категории.
+In case if you want to create category for several sports, select them in this window when creating a new category.
 
-### Изменение категории {#changeCategory}
+### Change category {#changeCategory}
 
-Созданные вами категории можно изменить. Не допускается изменение категорий тренера, клуба и системных категорий.
+You can change the categories created by you. You cannot change coach categories, club categories and system categories.
 
-Для изменения категории щелкните по ней мышкой и внесите изменения в открывшемся окне.
+To change a category you need to click on it and make changes in the appeared window. 
 
-### Удаление категории {#deleteCategory}
+### Delete category {#deleteCategory}
 
-Созданные вами категории можно удалить, пока они не использованы в тренировках.  
-Не допускается удаление категорий тренера, клуба и системных категорий, их можно только скрыть.
+You can delete categories created by you until they are used in activities.   
+You cannot delete coach categories, club categories and system categories, but you can hide them. 
 
-Для удаления категории откройте окно ее редактирования и нажмите кнопку "Удалить".
+To delete a category you need to open its edit window and click on the "Delete" button.
 
 ### Изменение порядка категорий {#changeOrder}
 
