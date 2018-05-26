@@ -1,8 +1,8 @@
-# Планирование сезона и периодизация
+# Season plans and periodization
 
-### Периодизация тренировочных нагрузок
+### Training loads periodization
 
-**Периодизация** представляет собой тренировочную концепцию, при которой год делится на периоды; в течение каждого из них спортсмен концентрируется на определенных аспектах физической формы, при этом стремясь сохранить достижения предыдущих периодов.
+**Periodization** represents a training concept according to which a year is divided into periods; during each period the athlete concentrates on certain aspects of his physical fitness, while trying to keep the achievements of the previous periods.
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/NQA05RJ7o-0' frameborder='0' allowfullscreen></iframe></div>
 
@@ -18,32 +18,32 @@
 
 ### Подготовка к планированию сезона
  
-1. **Выбрать схему периодизации**. Определить набор мезоциклов, который вы будете использовать при планировании сезона. Исходя из этого выбрать системную схему из "Библии триатлета" Джо Фрила или создать свою схему. Описание работы со схемами периодизации приведено в [отдельном разделе](/methodology/periodisation-schemes.md).
-2. Запланировать **ключевые старты** в сезоне. Подробнее о создании соревнований см. в [отдельной статье.](/basics/competition.md)
+1. **Выбрать схему периодизации**. Определить набор мезоциклов, который вы будете использовать при планировании сезона. Исходя из этого выбрать системную схему из "Библии триатлета" Джо Фрила или создать свою схему. Описание работы со схемами периодизации приведено в [separate section](/methodology/periodisation-schemes.md).
+2. Запланировать **ключевые старты** в сезоне. Подробнее о создании соревнований см. в [separate article.](/basics/competition.md)
 3. Создать **план на сезон**.
 
 ### Создать план на сезон
 Чтобы создать план на сезон:
 * выберите в левом меню пункт "План на сезон"
 * для тренера - выберите ученика
-![Выбрать ученика в плане на сезон Staminity](https://content.staminity.com/assets/images/periodization/season-new-plan.gif)
+![Select athlete in a season plan Staminity](https://content.staminity.com/assets/images/periodization/season-new-plan.gif)
 
 Если нет ранее созданных планов на сезон, создайте новый план. Укажите:
 * Название плана
 * Дату начала и окончания
-* [Схему периодизации](/methodology/periodisation-schemes.md), которую будете использовать при планировании
+* [Periodization scheme](/methodology/periodisation-schemes.md), которую будете использовать при планировании
 * Показатель планирования. Можно выбрать время, расстояние или нагрузку ([training load](/basics/measures.md#trainingload))
 * Описание плана
 
 > Будьте внимательны! После создания плана на сезон нельзя изменить ничего, кроме названия и описания:
 
-![План на сезон в Стаминити](https://content.staminity.com/assets/images/periodization/season-create.png)
+![Season plan in Staminity](https://content.staminity.com/assets/images/periodization/season-create.png)
 
 В созданном плане укажите для каждого микроцикла (недели) мезоцикл
-![Планирование сезона по мезоциклам](https://content.staminity.com/assets/images/periodization/season-builder-create.gif)
+![Season planning by mesocycles](https://content.staminity.com/assets/images/periodization/season-builder-create.gif)
 
 и плановую нагрузку:
-![Планирование нагрузки по мезоциклам](https://content.staminity.com/assets/images/periodization/season-builder-plan.gif)
+![Load planning by mesocycles](https://content.staminity.com/assets/images/periodization/season-builder-plan.gif)
 
 Факт выполнения плана на сезон будет формироваться автоматически на основании оперативного плана в календаре и выполненных тренировок.
-![План на сезон в Staminity](https://content.staminity.com/assets/images/periodization/season-builder.png)
+![Season plan in Staminity](https://content.staminity.com/assets/images/periodization/season-builder.png)
