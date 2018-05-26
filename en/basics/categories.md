@@ -39,7 +39,7 @@ In order to manage the activity categories, you should proceed to the "Methodolo
 
 ![View categories in Staminity](http://content.staminity.com/assets/images/_new/methodology/methodology-menu.png)
 
-The list of categories is provided in the context of **basic sports**:
+The list of categories is provided for **basic sports**:
 
 * Running;
 * Swimming;
@@ -48,9 +48,9 @@ The list of categories is provided in the context of **basic sports**:
 * Strength;
 * Other.
 
-Categories set for the basic sports are used to classify activities by derived sports.
+Categories that are set for the basic sports are used to classify activities of derived sports.
 
-The following information is available on the page of categories overview and management:  
+The following information is available in the categories overview and management window:  
 ![View categories in Staminity](http://content.staminity.com/assets/images/_new/methodology/methodology-categories-navigation.png)
 
 * 1 - Tabs to switch between different sections of the "Methodology" view: Training plans - Periodization schemes - Activity categories - Activity templates;
@@ -60,7 +60,7 @@ The following information is available on the page of categories overview and ma
   * **Coach categories** - categories which have been used by the coach when planning your activities; 
   * **Club categories** - categories which have been created by the club management to be used by the coaches when planning activities for the athletes;
   * **System categories** - activity categories, used by default for all users. [Further](#systemcategories), in the article, you will find a detailed description of these categories.
-* 5 - Here you can switch category visibility;
+* 5 - Here you can set category visibility;
 * 6 - A button to add a new category.
 
 ### Create category {#createCategory}
@@ -121,7 +121,7 @@ Development of basic skills:
 * **Muscular force **—  an ability to overcome the resistance. 
 * **Speed **– an ability to move effectively when swimming, cycling or running. It's a combination of technique and performance, defining how effectively do legs and arms work when moving fast.
 
-Development of "special skills" which are a combination of basic skills:
+Development of "special skills" which represent a combination of basic skills:
 
 * **Muscular endurance **= muscular force + endurance
 * **Anaerobic endurance** = endurance + speed
@@ -152,9 +152,9 @@ Activities focused on the speed skills development are completed on the efforts 
 
 ### Muscular endurance {#muscularendurance}
 
-Muscular endurance activities are focused on the simultaneous development of muscular force and speed. 
+Muscular endurance activities are focused on the simultaneous development of muscular force and speed.
 
-Examples of activities: 
+Examples of activities:
 
 * continuous movement in the third zone,
 * short and long cruise intervals with intensity close to the LT, 
@@ -162,20 +162,20 @@ Examples of activities:
 
 ### Anaerobic endurance {#anaerobicendurance}
 
-Anaerobic endurance activities are focused on the simultaneous development of endurance and speed. 
+Anaerobic endurance activities are focused on the simultaneous development of endurance and speed.
 
-Examples of activities: various interval workouts, interval workouts in the hilly terrain, repeats, fartlek. Such activities are united by the fact that, during workout intervals, the intensity level can reach [zone 6 \(zone 5.b\)](/basics/intensity-zones.md)
+Examples of activities: various interval workouts, interval workouts in the hilly terrain, repeats, fartlek. Such activities are united by the fact that during workout intervals, the intensity level can reach [zone 6 \(zone 5.b\)](/basics/intensity-zones.md)
 
 ### Sprint power {#sprintpower}
 
-Sprint power activities - activities focused on simultaneous development of muscular force and speed.   
+Sprint power activities - activities focused on simultaneous development of muscular force and speed.  
 Examples of activities: sprint accelerations with efforts level close to maximum.
 
 ### Functional test {#functionaltest}
 
 Functional test – activities during which the LT and/or the VO2 max are measured. There are many ways to conduct tests: laboratory tests on a cycle ergometer or a treadmill with gas analysis, step tests performed according to various protocols in the pool, on an exercise bicycle, at a stadium or a highway.
 
-The result of a functional test - confirmed levels of the intensity thresholds. 
+The result of a functional test - confirmed levels of the intensity thresholds.
 
 ### Preparation for the race {#racepreparation}
 
@@ -183,5 +183,5 @@ Preparation includes special activities, completed the day before the race or a 
 
 ### Race {#race}
 
-A special category of activities designed for races.
+A special activity category designed for races.
 
