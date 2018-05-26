@@ -16,7 +16,7 @@ The following information is available in a completed activity, uploaded from sp
 
 Staminity **calculates a set of indicators** for each completed activity, each lap, segment or part of activity randomly selected on a chart. The calculations are made based on the data recorded by sports watch or by an application on the smartphone.
 
-The information is displayed **on the “Details” tab** in activity which is available for users with “Premium” and “Coach” tariffs enabled.
+The information is displayed **on the “Details” tab** in activity which is available for users with “Premium” and “Coach” tariffs enabled.  
 It includes the following indicators:
 
 * [Distance](#distance)

@@ -86,7 +86,7 @@ To delete a category you need to open its edit window and click on the "Delete" 
 
 ### Change order of categories {#changeOrder}
 
-Categories can be sorted in a convenient order. To change the categories order you just need to drag and drop the required category. 
+Categories can be sorted in a convenient order. To change the categories order you just need to drag and drop the required category.
 
 ![Change order of categories](http://content.staminity.com/assets/images/_new/methodology/categories-drag.gif)
 
@@ -94,7 +94,7 @@ Categories can be sorted in a convenient order. To change the categories order y
 
 For each category, you can set the attribute of its relevance. Categories marked as "irrelevant" won't be displayed when creating activities.
 
-For example, you can hide one or several system categories you don't use. 
+For example, you can hide one or several system categories you don't use.
 
 ---
 
@@ -121,7 +121,7 @@ Development of basic skills:
 * **Muscular force **—  an ability to overcome the resistance. 
 * **Speed **– an ability to move effectively when swimming, cycling or running. It's a combination of technique and performance, defining how effectively do legs and arms work when moving fast.
 
-Development of "special skills" which are a combination of basic skills: 
+Development of "special skills" which are a combination of basic skills:
 
 * **Muscular endurance **= muscular force + endurance
 * **Anaerobic endurance** = endurance + speed
@@ -141,45 +141,47 @@ Depending on the goals, such activities are completed in 1-2 and 3 [training zon
 
 ### Muscular force {#muscularforce}
 
-Тренировки на развитие силы включают тренировки с высокой интенсивностью
+Activities focused on the muscular force development include activities with a high level of intensity:
 
-* в беге и на велосипеде:  движение по холмам, длинные подъемы, повторы на холмах,
-* в плавании: заплывы против течения, плавание в лопатках, плавание с сопротивлением.
+* in running and cycling: moving in the hilly terrain, long ascents, repeats in the hills,
+* in swimming: swimming upstream, workout using swimming paddles, resistance swimming. 
 
-### Развитие скорости {#spedskills}
+### Speed skills {#spedskills}
 
-Тренировки на развитие скорости выполняются на уровне усилий, близком к максимальному. Это короткие быстрые ускорения с темпом на уровне 6-7 тренировочных зон \(по Фрилу\).
+Activities focused on the speed skills development are completed on the efforts level close to maximum. They include short and fast accelerations with pace at the level of 6-7 training zones \(according to Friel\).
 
-### Мышечная выносливость {#muscularendurance}
+### Muscular endurance {#muscularendurance}
 
-Тренировки мышечной выносливости направлены на одновременное развитие силы и скорости. Примеры тренировок:
+Muscular endurance activities are focused on the simultaneous development of muscular force and speed. 
 
-* длительное движение в третьей зоне,
-* короткие и длинные крейсерские интервалы с интенсивностью близкой к ПАНО,
-* движение с интенсивностью на уровне ПАНО от 15-20 до 40 минут. 
+Examples of activities: 
 
-### Анаэробная выносливость {#anaerobicendurance}
+* continuous movement in the third zone,
+* short and long cruise intervals with intensity close to the LT, 
+* movement with intensity at the LT level lasting from 15-20 to 40 minutes.  
 
-Тренировки анаэробной выносливости направлены на одновременное развитие выносливости и скорости.
+### Anaerobic endurance {#anaerobicendurance}
 
-Примеры тренировок: различные интервалы, интервалы на холмах, повторы, фартлек. Объединяет тренировки то, что в рабочих отрезках интенсивность может доходить до [6 zone \(zone 5.b\)](/basics/intensity-zones.md)
+Anaerobic endurance activities are focused on the simultaneous development of endurance and speed. 
 
-### Мощность {#sprintpower}
+Examples of activities: various interval workouts, interval workouts in the hilly terrain, repeats, fartlek. Such activities are united by the fact that, during workout intervals, the intensity level can reach [zone 6 \(zone 5.b\)](/basics/intensity-zones.md)
 
-Тренировки мощности – это занятия на одновременное развитие силы и скорости.  
-Примеры: спринтерские ускорения с усилиями, близкими к максимальным.
+### Sprint power {#sprintpower}
 
-### Функциональный тест {#functionaltest}
+Sprint power activities - activities focused on simultaneous development of muscular force and speed.   
+Examples of activities: sprint accelerations with efforts level close to maximum.
 
-Функциональный тест – это тренировки, в ходе которых определяется уровень ПАНО и/или МПК. Существует множество вариантов проведения тестов: тестирование в лаборатории на велоэргометре или беговой дорожке с газоанализом, ступенчатые тесты, проводимые по различным протоколам в бассейне, на велотренажере, на стадионе или шоссе.
+### Functional test {#functionaltest}
 
-Результат функционального теста - подтвержденные уровни порогов интенсивности.
+Functional test – activities during which the LT and/or the VO2 max are measured. There are many ways to conduct tests: laboratory tests on a cycle ergometer or a treadmill with gas analysis, step tests performed according to various protocols in the pool, on an exercise bicycle, at a stadium or a highway.
 
-### Подготовка к старту {#racepreparation}
+The result of a functional test - confirmed levels of the intensity thresholds. 
 
-Подготовка к старту включает специальные тренировки, выполняемые за день до соревнования или разминку непосредственно перед стартом.
+### Preparation for the race {#racepreparation}
 
-### Старт {#race}
+Preparation includes special activities, completed the day before the race or a warm up immediately before the race.
 
-Специальная категория тренировок для соревнований.
+### Race {#race}
+
+A special category of activities designed for races.
 
