@@ -18,7 +18,7 @@ The following terms are used in the periodization concept:
 
 ### Preparation for season planning
  
-1. **Select periodization scheme**. Choose a set of mesocycles which you will use when season planning. Based on this, select the system scheme from The Triathlete Training Bible by Joe Friel or create your own scheme. Information about how to work with periodization schemes you will find in a [separate section](/methodology/periodisation-schemes.md).
+1. **Select periodization scheme**. Choose a set of mesocycles which you will use when season planning. Based on this, select the system scheme from The Triathlete's Training Bible by Joe Friel or create your own scheme. Information about how to work with periodization schemes you will find in a [separate section](/methodology/periodisation-schemes.md).
 2. Plan the **key competitions **of the season. How to create competitions see in this  [separate article.](/basics/competition.md)
 3. Create a **season plan. **
 
