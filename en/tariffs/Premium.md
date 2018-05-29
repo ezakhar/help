@@ -23,7 +23,7 @@ All features of the ["Basic"](/tariffs/basic.md) tariff plan +
 
 ### Cost
 
-**300 RUB** / month if paid monthly   
+**300 RUB** / month if paid monthly  
 or  
 **3000 RUB** / year if paid annually.
 
@@ -31,7 +31,7 @@ or
 
 * When enabling the "Premium" tariff you need to select the calculation period \(month or year\) and pay the invoice for the selected period.
 
-* If the “Premium” tariff is used without the “Coach” and “Club” tariffs, then the period of its validity coincides with the Paid period and is indicated in the invoice. 
+* If the “Premium” tariff is used without the “Coach” and “Club” tariffs, then the period of its validity coincides with the Paid period and is indicated in the invoice.
 
 * The extension of the tariff’s period of validity is performed by paying the invoice for a new period.
 
