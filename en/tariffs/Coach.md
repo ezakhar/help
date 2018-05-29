@@ -19,8 +19,8 @@ For a coach. The tariff includes all functions needed for remote work of one coa
 * **Communication **with athletes;
 * **Detailed analysis** of the completed activities;
 * Managing **templates **and activity **categories**;
-* **Reports and analysis** of the athletes training process;
-* **Season plans **fot athletes;
+* **Reports and analysis** of the athletes' training process;
+* **Season plans **for athletes;
 * **Training plans** for working with groups of athletes.
 
 ### Cost
@@ -36,14 +36,14 @@ Additionally, the coach can subscribe the athletes to the Premium tariff at his 
 
 ### Terms of subscription
 
-* 1.When enabling the "Coach" tariff you need to select the calculation period \(month or year\) and pay the invoice for the selected period. Therewith, the period of validity of the “Coach” tariff is: 
+* 1.When enabling the "Coach" tariff you need to select the calculation period \(month or year\) and pay the invoice for the selected period. Therewith, the period of validity of the “Coach” tariff is:
 
   * 1.1.In case of subscription to the tariff **before the 15th day of the month** - 1 month from the date of the subscription,
   * 1.2.In case of subscription to the tariff** after the 15th day of the month** - until the last day of the month following the month of the subscription.
 
-* 2.The calculation of the license fee according to the "Coach" tariff is performed on a daily basis and is reflected in the forming invoice. The amount of charges can be controled in user's Account, in the “Settings” section - "Tariffs and payments” - "Forming" invoice. 
+* 2.The calculation of the license fee according to the "Coach" tariff is performed on a daily basis and is reflected in the forming invoice. The amount of charges can be controled in user's Account, in the “Settings” section - "Tariffs and payments” - "Forming" invoice.
 
-* 3.An invoice is issued at the end of the period of validity of the “Coach” tariff.  In order to extend the validity period of the tariff, **the invoice must be paid within 7 days**. 
+* 3.An invoice is issued at the end of the period of validity of the “Coach” tariff.  In order to extend the validity period of the tariff, **the invoice must be paid within 7 days**.
 
   * 3.1 If the invoiced amount is zero, i.е. there are no additional charges for the previous period, the tariff is automatically prolonged until the end of the current month.
   * 3.2 If the invoiced amount is not zero, i.e. there are additional charges for the previous period, the Licensee has to pay the invoice in order to prolong the tariff’s period of validity.
