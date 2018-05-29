@@ -32,7 +32,7 @@ The cost of the tariff is composed of:
 
 Thus, the total cost for a coach per month will be from **300 RUB**/month \(1 athlete\) to **2200 RUB**/month\* \(10 and more athletes\).
 
-Additionally, the coach can subscribe the athletes to the Premium tariff at his own expense. The cost of the athletes’ subscription to the Premium tariff is 7 Roubles/day per each athlete В дополнение к этому тренер может подключить ученикам тариф Additionally, the coach can subscribe the athletes to the ["Premium"](/tariffs/premium.md) at his own expense. In case if the "Premium" tariff is enabled by a coach special subscription terms apply - **210 RUB** / month \(7 RUB / day\).
+Additionally, the coach can subscribe the athletes to the ["Premium"](/tariffs/premium.md) at his own expense. In case if the "Premium" tariff is enabled by a coach special subscription terms apply - **210 RUB** / month \(7 RUB / day\).
 
 ### Terms of subscription
 
