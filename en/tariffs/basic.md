@@ -7,7 +7,7 @@ related:
 
 # "Basic" tariff plan
 
-"Basic" tariff plan is enabled for all Staminity users 
+"Basic" tariff plan is enabled for all Staminity users
 
 ### For whom
 
@@ -24,5 +24,5 @@ For athletes
 
 ### Cost
 
-Free
+Free of charge
 
