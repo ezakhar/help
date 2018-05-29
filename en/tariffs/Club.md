@@ -30,18 +30,18 @@ The cost of the tariff is composed of:
 * **payment for the club coaches** – 300 RUB/month \(10 RUB/day\).
 * **payment for the club athletes** - 210 RUB/month \(7 RUB/day\).
 
-Each club coach gives the club the right to work with one athlete free of charge, and the club pays for not more than 10 athletes per each coach. 
+Each club coach gives the club the right to work with one athlete free of charge, and the club pays for not more than 10 athletes per each coach.
 
-> For example, for a club with 5 coaches and 80 athletes the monthly invoice of the club will include: 
+> For example, for a club with 5 coaches and 80 athletes the monthly invoice of the club will include:
 >
 > * subscription fee - 300 RUB/month
 > * payment for **4 coaches** \(one is included in the subscription fee\) - 1200 RUB/month
 > * payment for **45 athletes **\(maximum 10 for one coach and 1 is included in the cost for each coach\) – 9450 RUB
 >   Total: 10950 RUB.
 
-Additionally, the club can subscribe its athletes to the  ["Premium"](/tariffs/premium.md) tariff at its own expense. Для клуба действуют специальные условия подключения - **210 RUB**/месяц \(7 RUB/день\).
+Additionally, the club can subscribe its athletes to the  ["Premium"](/tariffs/premium.md) tariff at its own expense. In case if the "Premium" tariff is enabled by a club special subscription terms apply - **210 RUB**/month \(7 RUB / day\).
 
-Калькулятор тарифов поможет оценить точную стоимость использования сервиса для ваших условий: [https://staminity.com/tariffs            
+The tariff calculator will help you to estimate the exact cost of using the service according to your specific conditions: [https://staminity.com/tariffs              
 ](https://staminity.com/tariffs)
 
 ### Условия подключения
