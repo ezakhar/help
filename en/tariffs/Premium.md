@@ -5,37 +5,37 @@ related:
   - tariffs/Club.md
 ---
 
-# "Premium" tariff plan 
+# "Premium" tariff plan
 
 ### For whom
 
-For athletes who need a detailed analysis of their activities and a possibility to plan their own activities.    
+For athletes who need a detailed analysis of their activities and a possibility to plan their own activities.  
 Also, it will be suitable for coaches who keep on training and create planned activities for themselves.
 
 ### What is included in the tariff plan
 
 All features of the ["Basic"](/tariffs/basic.md) tariff plan +
 
-* Планирование своих тренировок
-* Детальный анализ тренировок
-* Управление своими шаблонами и категориями тренировок
-* \(СКОРО\) Отчетность и анализ по процессу тренировок
+* Planning your activities 
+* Detailed analysis of activities
+* Managing your templates and activity categories
+* \(UPCOMING\) Reports and analysis of the training process 
 
-### Стоимость
+### Cost
 
-**300 RUB** / месяц при оплате ежемесячно  
-или   
-**3000 RUB** / год при оплате за год.
+**300 RUB** / month if paid monthly   
+or  
+**3000 RUB** / year if paid annually.
 
-### Условия подключения
+### Terms of subscription
 
-* При подключении тарифа "Премиум" необходимо выбрать период расчетов \(месяц или год\) и оплатить счет за выбранный период.
+* When enabling the "Premium" tariff you need to select the calculation period \(month or year\) and pay the invoice for the selected period.
 
-* Для тарифа "Премиум", подключенного без тарифов "Тренер" и "Клуб", срок действия тарифа совпадает с Оплаченным периодом и указывается в счете.
+* If the “Premium” tariff is used without the “Coach” and “Club” tariffs, then the period of its validity coincides with the Paid period and is indicated in the invoice. 
 
-* Продление срока действия тарифа осуществляется путем оплаты выставленного счета за новый срок.
+* The extension of the tariff’s period of validity is performed by paying the invoice for a new period.
 
-* При подключении тарифа "Премиум" одновременно с тарифами "Тренер" и/или "Клуб", лицензионное вознаграждение по тарифу "Премиум" включается в общий счет, который формируется в течение календарного месяца и выставляется к оплате 1 числа каждого месяца.
+* When the “Premium” tariff is used together with the “Coach” and/or “Club” tariffs, the license fee for the “Premium” tariff is included in the total invoice, which is made during the calendar month and invoiced on the 1st day of every month.
 
 
 
