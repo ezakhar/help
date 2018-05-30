@@ -1,76 +1,77 @@
 ---
 related:
-- tariffs/basic.md
-- tariffs/Premium.md
-- tariffs/Coach.md
-- tariffs/Club.md
-
+  - tariffs/basic.md
+  - tariffs/Premium.md
+  - tariffs/Coach.md
+  - tariffs/Club.md
 ---
 
-#Подключение и продление сроков действия тарифов
+# How to enable a tariff or renew it
 
-В этом разделе:
-* [Подключение тарифов](#addtariff);
-* [Продление сроков действия тарифа. Автоматическое продление](#autorenewal);
-* [Отключение тарифов](#switchoff).
+In this section:
 
-##ПОДКЛЮЧЕНИЕ ТАРИФОВ{#addtariff}
+* [Enable tariff](#addtariff);
+* [Renew tariff. Auto renewal](#autorenewal);
+* [Disable tariff](#switchoff).
 
-**ПРИ РЕГИСТРАЦИИ**
-При регистрации в Staminity всем пользователям подключается бесплатно на две недели [тариф "Премиум"](/tariffs/Premium.md) для ознакомления с возможностями системы. 
+## Enable tariff {#addtariff}
 
-Если при регистрации был установлен признак "Я-тренер", то дополнительно пользователю также бесплатно на 2 недели подключается [тариф "Тренер"](/tariffs/Coach.md).
+**WHEN SIGNING UP**  
+When signing up in Staminity all users are subscribed to the "Premium" tariff free of charge for two weeks in order to be able to familiarize with the system.
 
-**ПОСЛЕ РЕГИСТРАЦИИ**
-Подключить нужный тариф можно в любой момент после регистрации.
-Для этого нужно перейти в "Настройки" и в разделе "Тарифы и счета" открыть карточку нужного тарифа.
+If the user has set the “I am a coach” attribute when signing up, then he is additionally subscribed to the ["Coach" tariff](/tariffs/Coach.md) free of charge for two weeks.
 
-![Подключить тариф](http://content.staminity.com/assets/images/_new/tariffs/add-trial-tariff.png)
+**AFTER SIGNING UP**  
+You can enable the needed tariff at any time after signing up.  
+In order to do it, you need to go to the "Settings” and in the “Tariffs and payments” section open the card of the required tariff.
 
-В карточке тарифа приведена информация по условиям его подключения: 
-* **1 - Период оплаты абонентской платы** и ее стоимость. Можно выбрать период: "Ежемесячно" / "Ежегодно". 
+![Enable trial tariff](http://content.staminity.com/assets/images/_new/tariffs/add-trial-tariff.png)
 
-* **2, 3, 4 - Отдельные составляющие стоимости тарифа и их условия**. 
-    * Для тарифа "Премиум" дополнительных составляющих стоимости нет;
-    * Для тарифа "Тренер" помимо абонентской платы на стоимость тарифа влияет количество подключенных учеников (Оплата за спортсменов) и количество спортсменов, которым тренер подключил тариф "Премиум" за свой счет;
-    * Для тарифа "Клуб" (изображен выше) на стоимость тарифа влияют количество спортсменов клуба [2], количество тренеров клуба [3] и количество спортсменов с тарифом "Премиум", подключенным за счет клуба [4].
-    
-* **5 - поле для ввода и применения промо-кода**. Введите в это поле промо-код и нажмите "Применить" для получения специальных условий подключения.
+In the tariff's card you will find information on terms of subscription:
 
-* **6 - признак согласия с условиями подключения тарифных планов**. Без согласия с условиями подключения тарифов ["Премиум"](/tariffs/Premium.md), ["Тренер"](/tariffs/Coach.md) или ["Клуб"](/tariffs/Club.md), подключение невозможно.
+* **1 - Period of the subscription fee payment **and its cost**.** You can select"Monthly"/"Annually". 
 
-* **7 - Кнопка подключения тарифа:**
-    * ПОДКЛЮЧИТЬ БЕСПЛАТНО - для подключения тарифа на пробный период. Кнопка доступна, если пользователь ранее не подключал данный тариф. 
-    * ПОДКЛЮЧИТЬ - для подключения тарифа на платной основе.
+* **2, 3, 4 - Components of the tariff cost and their terms**.
 
+  * For the “Premium” tariff there are no additional components of the cost;
+  * For the “Coach” tariff, in addition to the subscription fee, the cost depends on the number of connected athletes \(payment for athletes\) and the number of athletes who the coach has subscribed to the “Premium” tariff at his own expense;
+  * For the “Club” tariff \(shown above\) the cost depends on the number of club athletes \[2\], the number of club coaches \[3\] and the number of athletes subscribed to the "premium" tariff at the expense of the club \[4\].
 
-## ПРОДЛЕНИЕ СРОКОВ ДЕЙСТВИЯ ТАРИФОВ. АВТОМАТИЧЕСКОЕ ПРОДЛЕНИЕ{#autorenewal}
+* **5 - A field enabling to enter and use promo-code**. Fill in your promo-code here and click on "Submit" in order to get special terms of subscription.
 
-* Срок действия тарифов продляется на новый период (месяц или год для тарифа "Премиум" и месяц для тарифов "Тренер" и "Клуб"), если:
-    * тариф подключен;
-    * оплачены все счета за предыдущие периоды для тарифов "Тренер" и "Клуб";
-    * оплачен счет за будущий период по тарифу "Премиум".
+* **6 - An attribute indicating your consent with the terms of subscription to the tariff plans**. You cannot enable the ["Premium"](/tariffs/Premium.md), ["Coach"](/tariffs/Coach.md) or ["Club"](/tariffs/Club.md) tariff plans without providing your consent with the terms of subscription.
 
+* **7 - A button to subscribe to the tariff:**
+
+  * TRY IT FREE - to subscribe to the tariff for a trial period. The button is available if the user hasn't subscribed to this tariff previously. 
+  * SUBSCRIBE - to subscribe to the tariff on a paid basis.
+
+## ПРОДЛЕНИЕ СРОКОВ ДЕЙСТВИЯ ТАРИФОВ. АВТОМАТИЧЕСКОЕ ПРОДЛЕНИЕ {#autorenewal}
+
+* Срок действия тарифов продляется на новый период \(месяц или год для тарифа "Премиум" и месяц для тарифов "Тренер" и "Клуб"\), если:
+
+  * тариф подключен;
+  * оплачены все счета за предыдущие периоды для тарифов "Тренер" и "Клуб";
+  * оплачен счет за будущий период по тарифу "Премиум".
 
 * Счет за новый период использования **выставляется автоматически**, если в Личном кабинете "Лицензиата" в разделе "Тарифы и счета" для выбранного тарифа установлен признак **"Автоматическое продление"**
 
-![Автопродление](http://content.staminity.com/assets/images/_new/tariffs/tariff-auto-renewal.png)
-
+![Auto prolongation](http://content.staminity.com/assets/images/_new/tariffs/tariff-auto-renewal.png)
 
 * Признак **"Автоматическое продление"** по-умолчанию устанавливается в положение "Включено" для вновь подключенного тарифа. Изменить значение признака можно в Настройках в карточке тарифа.
 
 * Если признак **"Автоматическое продление"** выключен, то:
-    * По тарифу "Премиум" счет за новый период использования выставлен не будет, тариф будет отключен, когда закончится оплаченный срок действия;
-    * По тарифам "Тренер" и "Клуб" тариф отключится 1 числа месяца, следующего за расчетным. Лицензиату будет выставлен счет за прошедший месяц.
-    
-    
-## ОТКЛЮЧЕНИЕ ТАРИФОВ{#switchoff}
+
+  * По тарифу "Премиум" счет за новый период использования выставлен не будет, тариф будет отключен, когда закончится оплаченный срок действия;
+  * По тарифам "Тренер" и "Клуб" тариф отключится 1 числа месяца, следующего за расчетным. Лицензиату будет выставлен счет за прошедший месяц.
+
+## ОТКЛЮЧЕНИЕ ТАРИФОВ {#switchoff}
 
 В Staminity можно отключить тариф, по которому не действует пробный период или не оплачена абонентская плата вперед.
 
-Для отключения тарифа переведите тумблер тарифа в положение "Выкл":
+Для отключения тарифа переведите тумблер тарифа в положение "Выкл":  
 ![Отключение тарифа](http://content.staminity.com/assets/images/_new/tariffs/tariff-disable.png)
 
+**Если по тарифу действует пробный период или оплачена абонентская плата вперед**  
+Отключить такой тариф невозможно. Выключите признак ["Автоматическое продление" ](#autorenewal)у такого тарифа и тариф отключится сам после завершения оплаченного срока.
 
-**Если по тарифу действует пробный период или оплачена абонентская плата вперед**
-Отключить такой тариф невозможно. Выключите признак ["Автоматическое продление" ](#autorenewal)у такого тарифа и тариф отключится сам после завершения оплаченного срока. 
