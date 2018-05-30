@@ -6,7 +6,7 @@ related:
   - tariffs/Club.md
 ---
 
-# How to subscribe to the tariff or renew it
+# How to subscribe to a tariff or renew it
 
 In this section:
 
