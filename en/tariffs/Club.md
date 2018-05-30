@@ -41,22 +41,22 @@ Each club coach gives the club the right to work with one athlete free of charge
 
 Additionally, the club can subscribe its athletes to the  ["Premium"](/tariffs/premium.md) tariff at its own expense. In case if the "Premium" tariff is enabled by a club special subscription terms apply - **210 RUB**/month \(7 RUB / day\).
 
-The tariff calculator will help you to estimate the exact cost of using the service according to your specific conditions: [https://staminity.com/tariffs              
+The tariff calculator will help you to estimate the exact cost of using the service according to your specific conditions: [https://staminity.com/tariffs                        
 ](https://staminity.com/tariffs)
 
-### Условия подключения
+### Terms of subscription
 
-* 1.При подключении тарифа "Клуб" необходимо выбрать период расчетов абонентской платы \(месяц или год\) и оплатить абонентскую плату за выбранный период. При этом срок действия тарифа "Клуб" устанавливается:
+* 1.When enabling the "Club" tariff you need to select the calculation period \(month or year\) and pay the subscription fee for the selected period. Therewith, the period of validity of the “Club” tariff is:
 
-  * При подключении тарифа **до 15 числа** месяца - 1 месяц с даты подключения,
-  * При подключении тарифа **после 15 числа** месяца - до последнего числа месяца, следующего за месяцем подключения.
+  * In case of subscription to the tariff** before the 15th day of the month** - 1 month from the date of the subscription,
+  * In case of subscription to the tariff **after the 15th day of the month** - until the last day of the month following the month of the subscription.
 
-* 2.Расчет лицензионного вознаграждения по тарифу "Клуб" выполняется ежедневно и отражается в формирующемся счете. Контролировать размер начислений можно в Личном кабинете, в разделе "Настройки" - "Тарифы и счета", в счете со статусом "Формируется".
+* 2.The calculation of the license fee according to the "Club" tariff is performed on a daily basis and is reflected in the forming invoice. The amount of charges can be controled in user's Account in the “Settings” section - "Tariffs and payments” - "Forming" invoice.
 
-* 3.В конце срока действия тарифа "Клуб" выставляется счет за прошедший период. Для продления срока действия тарифа, выставленный счет необходимо оплатить **в течение 7 дней**.
+* 3.An invoice is issued at the end of the period of validity of the “Club” tariff. In order to extend the validity period of the tariff, the **invoice must be paid within 7 days.**
 
-  * **Если сумма счета равна нулю**, т.е. дополнительных начислений за прошедший период не было, тариф автоматически продлевается до конца текущего месяца.
-  * **Если сумма счета не равна нулю**, т.е. по тарифу были выполнены дополнительные начисления за прошедший период, для продления срока действия тарифа необходимо оплатить выставленный счет.
+  * **If the invoiced amount is zero,** i.е. there are no additional charges for the previous period, the tariff is automatically prolonged until the end of the current month.
+  * If the invoiced amount is not zero, i.e. there are additional charges for the previous period, then it is needed to pay the invoice in order to prolong the tariff’s period of validity.
 
 * 4.Если выставленный в соответствии с п.3 счет не будет оплачен в течение 7 дней:
 
