@@ -54,7 +54,7 @@ In the tariff card you will find information on terms of subscription:
   * all invoices for previous periods as per "Coach" and "Club" tariffs have been paid;
   * an invoice for the future period as per "Premium" tariff has been paid.
 
-* An invoice for a new period of the tariff’s usage is **issued automatically** if the Licensee has turned on an **“Auto renewal” **attribute for the selected tariff in the section "Settings" - "Tariffs and payments" in the Licensee’s Account
+* An invoice for a new period of the tariff’s usage is **issued automatically** if the Licensee has turned on an **“Auto renewal” **attribute for the selected tariff in the section "Settings" - "Tariffs and invoices" in the Licensee’s Account
 
 ![Auto prolongation](http://content.staminity.com/assets/images/_new/tariffs/tariff-auto-renewal.png)
 
@@ -73,5 +73,5 @@ In order to unsubscribe to the tariff set the tariff toggle to the "Turn off" po
 ![Отключение тарифа](http://content.staminity.com/assets/images/_new/tariffs/tariff-disable.png)
 
 **If the tariff has an ongoing trial period or if you have paid the subscription fee for future periods. **  
-You cannot unsubscribe to this tariff. Turn off the ["Auto renewal" ](#autorenewal)attribute for this tariff and it will be disabled upon completion of the paid period. 
+You cannot unsubscribe to this tariff. Turn off the ["Auto renewal" ](#autorenewal)attribute for this tariff and it will be disabled upon completion of the paid period.
 

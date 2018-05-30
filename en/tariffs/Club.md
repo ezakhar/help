@@ -41,7 +41,7 @@ Each club coach gives the club the right to work with one athlete free of charge
 
 Additionally, the club can subscribe its athletes to the ["Premium"](/tariffs/premium.md) tariff at its own expense. In case if the "Premium" tariff is enabled by a club special subscription terms apply - **210 RUB**/month \(7 RUB/day\).
 
-The tariff calculator will help you to estimate the exact cost of using the service according to your specific conditions: [https://staminity.com/tariffs                              
+The tariff calculator will help you to estimate the exact cost of using the service according to your specific conditions: [https://staminity.com/tariffs                                
 ](https://staminity.com/tariffs)
 
 ### Terms of subscription
@@ -51,7 +51,7 @@ The tariff calculator will help you to estimate the exact cost of using the serv
   * In case of subscription to the tariff** before the 15th day of the month** - 1 month from the date of the subscription,
   * In case of subscription to the tariff **after the 15th day of the month** - until the last day of the month following the month of the subscription.
 
-* 2.The calculation of the license fee according to the "Club" tariff is performed on a daily basis and is reflected in the forming invoice. The amount of charges can be controlled in user's Account in the “Settings” section - "Tariffs and payments” - "Forming" invoice.
+* 2.The calculation of the license fee according to the "Club" tariff is performed on a daily basis and is reflected in the forming invoice. The amount of charges can be controlled in user's Account in the “Settings” section - "Tariffs and invoices” - "Forming" invoice.
 
 * 3.An invoice is issued at the end of the period of validity of the “Club” tariff. In order to extend the validity period of the tariff, the **invoice must be paid within 7 days.**
 

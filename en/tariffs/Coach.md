@@ -41,7 +41,7 @@ Additionally, the coach can subscribe the athletes to the ["Premium"](/tariffs/p
   * 1.1.In case of subscription to the tariff **before the 15th day of the month** - 1 month from the date of the subscription,
   * 1.2.In case of subscription to the tariff** after the 15th day of the month** - until the last day of the month following the month of the subscription.
 
-* 2.The calculation of the license fee according to the "Coach" tariff is performed on a daily basis and is reflected in the forming invoice. The amount of charges can be controlled in user's Account, in the “Settings” section - "Tariffs and payments” - "Forming" invoice.
+* 2.The calculation of the license fee according to the "Coach" tariff is performed on a daily basis and is reflected in the forming invoice. The amount of charges can be controlled in user's Account, in the “Settings” section - "Tariffs and invoices” - "Forming" invoice.
 
 * 3.An invoice is issued at the end of the period of validity of the “Coach” tariff.  In order to extend the validity period of the tariff, **the invoice must be paid within 7 days**.
 
