@@ -14,7 +14,7 @@ For a coach. The tariff includes all functions needed for remote work of one coa
 ### What is included in the tariff plan
 
 * Athetes' **training diary**;
-* **Dashboard;**
+* Coach **Dashboard;**
 * **Planning **activities, competitions, and events;
 * **Communication **with athletes;
 * **Detailed analysis** of the completed activities;

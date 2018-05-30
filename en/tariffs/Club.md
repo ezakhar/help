@@ -41,7 +41,7 @@ Each club coach gives the club the right to work with one athlete free of charge
 
 Additionally, the club can subscribe its athletes to the  ["Premium"](/tariffs/premium.md) tariff at its own expense. In case if the "Premium" tariff is enabled by a club special subscription terms apply - **210 RUB**/month \(7 RUB / day\).
 
-The tariff calculator will help you to estimate the exact cost of using the service according to your specific conditions: [https://staminity.com/tariffs                        
+The tariff calculator will help you to estimate the exact cost of using the service according to your specific conditions: [https://staminity.com/tariffs                          
 ](https://staminity.com/tariffs)
 
 ### Terms of subscription
@@ -58,19 +58,19 @@ The tariff calculator will help you to estimate the exact cost of using the serv
   * **If the invoiced amount is zero,** i.е. there are no additional charges for the previous period, the tariff is automatically prolonged until the end of the current month.
   * If the invoiced amount is not zero, i.e. there are additional charges for the previous period, then it is needed to pay the invoice in order to prolong the tariff’s period of validity.
 
-* 4.Если выставленный в соответствии с п.3 счет не будет оплачен в течение 7 дней:
+* 4. If the invoice issued in accordance with clause 3 is not paid within 7 days:
 
-  * Тариф "Клуб" отключается. Все подключенные за счет клуба тарифы "Тренер" и "Премиум" у членов клуба отключаются. Связь учеников и тренеров с клубом, а также тренеров и учеников клуба между собой сохраняется еще в течение 30 дней.
-  * За 7 дней, прошедшие с момента выставления счета, выставляется новый счет.
+  * The “Club” tariff is to be disabled. All the “Premium” and “Coach” tariffs purchased for the club’s members for the expense of the club are to be disabled too. Communication between the athletes, coaches and the club, as well as between the athletes and coaches of the club remains enabled for another 30 days.
+  * A new invoice is to be issued for those 7 days that have passed since the day of the invoice issue..
 
-* 5.При повторном подключении тарифа "Клуб", отключенного за неуплату в соответствии с пунктом 4, необходимо оплатить задолженность по ранее выставленным счетам, а также заново подключить тариф "Клуб", оплатив абонентскую плату за выбранный период \(1 месяц или 1 год\).
+* 5.In case of re-subscription to the “Club” tariff which was disabled for non-payment in accordance with clause 8.6.5., it is necessary to pay the debts on the previously issued invoices and subscribe again to the "Club" tariff by paying the subscription fee for the selected period \(1 month or 1 year\).
 
-* 6.Начиная со второго месяца, независимо от даты подключения тарифа "Клуб", устанавливаются следующие правила расчетов:
+* 6.Starting from the second month, regardless of the date of the subscription to the “Club” tariff, the following settlement rules are applied:
 
-  * Расчетный период - календарный месяц, с 1 по последнее число месяца;
-  * Дата выставления счета - 1 число месяца.
+  * Settlement period - a calendar month, from the 1st till the last day of the month;
+  * Invoice date - the 1st day of the month.
 
-* 7.При одновременном подключении тарифа "Клуб" с другими тарифами, все начисления по всем подключенным тарифам включаются в общий счет.
+* 7.When the “Club” tariff is used together with other tariffs, then all charges on all tariffs are included in the total invoice.
 
 
 
