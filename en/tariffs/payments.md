@@ -1,8 +1,8 @@
 # Invoice payment. Automatic payment
 
-* Issued invoices are paid in Russian Roubles. 
+* Issued invoices are paid in Russian Roubles.
 
-* It is possible to make a payment by Visa or Mastercard credit card or by Paypal. 
+* It is possible to make a payment by Visa or Mastercard credit card or by Paypal.
 
 * Payment for the issued invoice may be charged automatically if the user previously made a payment from Visa or Mastercard card and turns on a **"Charge automatically**" attribute in the section "Settings" - "Tariffs and invoices" in the user's Account.
 
