@@ -41,7 +41,7 @@ Each club coach gives the club the right to work with one athlete free of charge
 
 Additionally, the club can subscribe its athletes to the ["Premium"](/tariffs/premium.md) tariff at its own expense. In case if the "Premium" tariff is enabled by a club special subscription terms apply - **210 RUB**/month \(7 RUB/day\).
 
-The tariff calculator will help you to estimate the exact cost of using the service according to your specific conditions: [https://staminity.com/tariffs                                    
+The tariff calculator will help you to estimate the exact cost of using the service according to your specific conditions: [https://staminity.com/tariffs                                      
 ](https://staminity.com/tariffs)
 
 ### Terms of subscription
