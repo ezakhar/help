@@ -63,7 +63,7 @@ In the tariff card you will find information on terms of subscription:
 * If the “**Auto renewal**” attribute is turned off, then:
 
   * An invoice for a new period of the tariff’s usage as per the “Premium” tariff will not be issued, the tariff will be disabled upon the end of the paid period;
-  * As per the “Coach” and “Club” tariffs, the tariff will be disabled on the 1st day of the month following the settlement one. The Licensee will be invoiced for the previous month.
+  * As per the “Coach” and “Club” tariffs, the tariff will be disabled on the 1st day of the month following the settlement one. The user will be invoiced for the previous month.
 
 ## Unsubscribe to a tariff {#switchoff}
 
