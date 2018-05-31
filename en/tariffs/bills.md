@@ -1,4 +1,4 @@
-# Tariff fees control and invoice payment
+# How to control charges in invoices
 
 In Staminity in each invoice, you will find detailed information about fees charged as per tariff.
 

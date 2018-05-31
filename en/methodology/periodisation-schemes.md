@@ -4,7 +4,7 @@
 
 * Periodization scheme described in **The Triathlete's Training Bible by Joe Friel **includes the following mesocycles:
 
-  * Prep, 
+  * Preparation, 
   * Base, 
   * Build, 
   * Peak, 

@@ -19,7 +19,8 @@ All features of the ["Basic"](/tariffs/basic.md) tariff plan +
 * Planning your activities 
 * Detailed analysis of activities
 * Managing your templates and activity categories
-* \(UPCOMING\) Reports and analysis of the training process 
+* Season planning and periodization
+* \(UPCOMING\) Premium reports  
 
 ### Cost
 
@@ -35,7 +36,7 @@ or
 
 * The extension of the tariff’s period of validity is performed by paying the invoice for a new period.
 
-* When the “Premium” tariff is used together with the “Coach” and/or “Club” tariffs, the license fee for the “Premium” tariff is included in the total invoice, which is made during the calendar month and invoiced on the 1st day of every month.
+* When the “Premium” tariff is used together with the “Coach” and/or “Club” tariffs, the license fee for the “Premium” tariff is included in the total invoice, which is made during the calendar month and issued on the 1st day of every month.
 
 
 

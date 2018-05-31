@@ -1,4 +1,4 @@
-# How to manage the activity categories
+# Activity categories
 
 **MANAGING THE ACTIVITY CATEGORIES:**
 
@@ -31,7 +31,7 @@
 
 Categories help to classify activities by types, select and compare activities of the same type, analyze dynamics of their completion and build reports.
 
-Category - an obligatory attribute of the activity. When creating an activity, users subscribed to the basic tariff can select a category from the list of [system categories](#systemcategories), and those who have the "Premium" or "Coach" tariff plans enabled, can manage their own list of categories.
+Category - an obligatory attribute of the activity. When creating an activity, users subscribed to the basic tariff can select a category from the list of [system categories](#systemcategories), and those who have the "Premium" or "Coach" tariffs enabled, can manage their own list of categories.
 
 ### View categories {#viewCategories}
 
@@ -57,7 +57,7 @@ The following information is available in the categories overview and management
 * 2 - The list of basic sports. When you select a basic sport, the relevant categories will be displayed;
 * 3-4 - Grouping categories by types. The following types are available:
   * **My categories **- user's categories;
-  * **Coach categories** - categories which have been used by the coach when planning your activities; 
+  * **Coach categories** - categories which have been used by your coach in your activities; 
   * **Club categories** - categories which have been created by the club management to be used by the coaches when planning activities for the athletes;
   * **System categories** - activity categories, used by default for all users. [Further](#systemcategories), in the article, you will find a detailed description of these categories.
 * 5 - Here you can set category visibility;
@@ -92,13 +92,13 @@ Categories can be sorted in a convenient order. To change the categories order y
 
 ### Manage visibility of categories {#changeVisibility}
 
-For each category, you can set the attribute of its relevance. Categories marked as "irrelevant" won't be displayed when creating activities.
+For each category, you can set the attribute of its visibility. Categories marked as "invisible" won't be displayed when creating activities.
 
 For example, you can hide one or several system categories you don't use.
 
 ---
 
-## Description of the system categories {#systemcategories}
+## DESCRIPTION OF THE SYSTEM CATEGORIES {#systemcategories}
 
 The following system categories are used in Staminity.
 

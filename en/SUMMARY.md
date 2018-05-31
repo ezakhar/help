@@ -23,11 +23,11 @@
 * [How to work as a coach](basics/athlete-management.md)
 * [Clubs in Staminity](basics/club.md)
 
-## Продвинутые возможности
+## Advanced
 
-* [Планирование сезона и периодизация](basics/season-plan.md)
-* [Создать схему периодизации](methodology/periodisation-schemes.md)
-* [Управление категориями тренировок](basics/categories.md)
+* [Season planning and periodization](basics/season-plan.md)
+* [Periodization schemes](methodology/periodisation-schemes.md)
+* [Activity categories](basics/categories.md)
 * [Управление шаблонами тренировок](basics/templates.md)
 * [Работа с группами спортсменов - Тренировочные планы](basics/training-plan.md)
 * [Внешние календари \(iCal\)](basics/calendar-subscription-ical.md)
@@ -46,11 +46,11 @@
 
 ## Тарифы и оплата
 
-* [Тариф "Базовый"](tariffs/basic.md)
-* [Тариф "Премиум"](tariffs/Premium.md)
-* [Тариф "Тренер"](tariffs/Coach.md)
-* [Тариф "Клуб"](tariffs/Club.md)
-* [Подключение тарифа, продление срока действия тарифа](tariffs/purchase.md)
-* [Контроль начислений и оплата счетов](tariffs/bills.md)
-* [Оплата по тарифам. Автоматическая оплата](tariffs/payments.md)
+* [Tariff Basic](tariffs/basic.md)
+* [Tariff Premium](tariffs/Premium.md)
+* [Tariff Coach](tariffs/Coach.md)
+* [Tariff Club](tariffs/Club.md)
+* [How to subscribe to a tariff or renew it](tariffs/purchase.md)
+* [How to control charges in invoices](tariffs/bills.md)
+* [Invoice payment. Automatic payment](tariffs/payments.md)
 
