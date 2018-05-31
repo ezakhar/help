@@ -8,7 +8,7 @@
 
 ![Автоматическая оплата](http://content.staminity.com/assets/images/_new/tariffs/tariff-auto-payments.png)
 
-* In case of automatic payment, the funds will be write-off from the user's card previously used for invoices’ payment. The user's card details are not stored in Staminity, the [Fondy company](https://fondy.eu) \(payment partner\) is responsible for such information storage.
+* In case of automatic payment, the funds will be written off from the user's card previously used for invoices’ payment. The user's credit card details are not stored in Staminity, the [Fondy company](https://fondy.eu) \(payment partner\) is responsible for such information storage.
 
 * **The “Charge automatically” attribute is set to "Turn on" after the first successful payment of the invoice. **The user can change the attribute value in a described above way.
 
