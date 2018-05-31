@@ -11,7 +11,7 @@ Club in Staminity - a tool which enables several coaches to work jointly.
 
 In contrast to personal coaches who manage their athletes independently by sending them invitations or accepting their requests, in a club the athletes' requests are processed by a club administrator. It is also him who assigns athletes to coaches.
 
-If there are several coaches in your running school or training center for triathlon athletes you should try to open a club in Staminity.
+If there are several coaches in your running school or training center for triathlon you should try to open a club in Staminity.
 
 In this article:
 
@@ -25,7 +25,7 @@ In this article:
 
 In order to open a club:
 
-* Sign up in Staminity. You should better do it without the "I am a coach" attribute as functions of a coach will be provided to you as a club manager, it is included in the subscription fee for the "Club" tariff;
+* Sign up in Staminity. You should better do it **without the "I am a coach"** attribute as functions of a coach will be provided to you as a club manager, it is included in the subscription fee for the "Club" tariff;
 * Enable the "Club" tariff,
 * Fill in information in the club profile,
 * Connect athletes and coaches to the club.
@@ -59,7 +59,7 @@ Only club managers and club administrators can edit club profile:
 
 ![](http://content.staminity.com/assets/images/club/club-fill-profile.gif)
 
-Besides, don't forget to download the **club image \(emblem, logo\) and background photo. **They will beneficially distinct your club profile from other profiles displayed in the search results.  
+Besides, don't forget to upload the **club image \(emblem, logo\) and background photo.** They will beneficially distinct your club profile from other profiles displayed in the search results.  
 Check, what your club profile looks like for the service users.
 
 ![](http://content.staminity.com/assets/images/club/club-upload-images.gif)
@@ -75,21 +75,21 @@ In order to do it, you need to click on the "Club members" item in the club menu
 
 Available features:
 
-* 1 - club members filter. By clicking on it you can set to display only athletes, coaches or club management, you can select athletes who don't have a coach assigned and all athletes of the selected coach;
-* 2 - club members search. The search is carried out by name;
-* 3 - invite new club members. More information about invitations to join the club you can find in the ["How to connect to a coach"](/basics/work-with-coach.md#joinclubinvite) article. 
+* **1 - club members filter**. By clicking on it you can set to display only athletes, coaches or club management, you can select athletes who don't have a coach assigned and all athletes of the selected coach;
+* **2 - club members search**. The search is carried out by name;
+* **3 - invite new club members**. More information about invitations to join the club you can find in the ["How to connect to a coach"](/basics/work-with-coach.md#joinclubinvite) article. 
 * **4 - Coaches.** Allows to assign a coach to the selected club member. This button is available only when you select a club member with the "Athlete" role;
 * **5 - Athletes**. Allows to connect one or several athletes to the club coach. This button is available only for a club member with the "Coach" role;
 * **6 - Tariffs**. Allows to enable or disable the "Premium" and "Coach" tariffs for the club members at the expense of the club;
 * **7 - Roles.** Allows to assign the selected club members the "Athlete", "Coach" or "Administrator" roles;
 * **8 - Remove**. This button is used when you need to exclude a club member. 
-* 9 - The selected club member. For the selected club member you can use the above-mentioned functions \[4\], \[5\], \[6\], \[7\] and \[8\]; 
-* 10 - Last name and first name of the club member;
-* 11 - A coach assigned to the club member. In case if there are several coaches assigned, the surname of the first one and the number of additional coaches are displayed in the list; 
-* 12 - Tariffs enabled for the club members. If there is a "Cl" sign next to the tariff name, then this tariff has been enabled at club's expense;
-* 13 - Number of athletes connected to the club coach;
-* 14 - City;
-* 15 - Age group.
+* **9 - The selected club member**. For the selected club member you can use the above-mentioned functions \[4\], \[5\], \[6\], \[7\] and \[8\]; 
+* **10 - Last name and first name** of the club member;
+* **11 - A coach assigned** to the club member. In case if there are several coaches assigned, the surname of the first one and the number of additional coaches are displayed in the list; 
+* **12 - Tariffs enabled** for the club members. If there is a "Cl" sign next to the tariff name, then this tariff has been enabled at club's expense;
+* **13 - Number of athletes** connected to the club coach;
+* **14 - City**;
+* **15 - Age group**.
 
 Let's consider some typical operations in detail:
 
@@ -109,17 +109,17 @@ The following roles are available in the club:
 
   * Manages club members by accepting/declining requests to join the club sent by athletes or coaches and by excluding athletes and coaches from the club;
   * Manages the assignment of coaches to the athletes;
-  * Manages club roles, assign the "Athlete", "Coach" and Administrator" roles to the club members or remove them; 
+  * Manages club roles, assign the "Athlete", "Coach" and "Administrator" roles to the club members or remove them; 
   * He can close the club.
 
-    The manager role is assigned and removed only when the "Club" tariff is enabled or disabled.
+> The manager role is assigned and removed only when the "Club" tariff is enabled or disabled.
 
 * **Club administrator** - club coach with the same authorities as a club manager, except that the administrator cannot close the club.  
   The "Administrator" role can be assigned only to a club member with the enabled "Coach" role. The role can be assigned by the club manager or by other club administrators.
 
 * **Club coach **- club member who has the right to train club athletes connected to him. The "Club coach" role can be assigned only to users who have the "Coach" tariff plan enabled. When assigning the "Coach" role to the club member who hasn't purchased the "Coach" tariff plan at his own expense, this tariff plan will be enabled for him at the club's expense. In case if the "Coach" tariff has been enabled for the club member at the expense of the club, the tariff rate will be added to the club bill.
 
-* **Club athlete** - club member who can be assigned a club coach. The cost of Staminity usage for a club depends on the number of club athletes.
+* **Club athlete** - club member who can be assigned to a club coach. The cost of Staminity usage for a club depends on the number of club athletes.
 
 In order to enable or disable roles for the selected club members you need to:
 

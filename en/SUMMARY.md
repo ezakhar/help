@@ -19,9 +19,9 @@
 * [How to analyze a completed activity](basics/analyse-detailed-activity.md)
 * [How to create a competition](basics/competition.md)
 * [How to create an event and measurement](basics/create-record.md)
-* [Аналитика и отчетность по тренировочному процессу](basics/analytics.md)
-* [Работа тренера в Staminity](basics/athlete-management.md)
-* [Работа клуба в Staminity](basics/club.md)
+* [Analytics and reports](basics/analytics.md)
+* [How to work as a coach](basics/athlete-management.md)
+* [Clubs in Staminity](basics/club.md)
 
 ## Продвинутые возможности
 
