@@ -1,15 +1,15 @@
 # Tariff fees control and invoice payment
 
-In Staminity in each invoice, you will find detailed information about fees charged as per tariff. 
+In Staminity in each invoice, you will find detailed information about fees charged as per tariff.
 
 In order to view this information, you need to open an invoice and go to the "Fees" tab:
 
-![Детали начислений по тарифу](http://content.staminity.com/assets/images/_new/tariffs/tariff-details.png)
+![Tariff fees details](http://content.staminity.com/assets/images/_new/tariffs/tariff-details.png)
 
-* 1 - вкладка "Начисления"
-* 2, 3, 4 - разделы с детализацией суммы начислений за выбранный период по различным составляющим тарифа. 
+* 1 - tab “Fees”
+* 2, 3, 4 - sections with detailed information about fees charged for different components of the tariff during the set period. 
 
-Если нажать на любой из разделов \[2\],\[3\],\[4\], то будет выведена подробная информация по начислениям за каждый день периода счета:
+If you click on any section \[2\],\[3\],\[4\], then the detailed information about fees charged for each day of the invoice period will be displayed:
 
-![Подробная информация по начислениям по тарифу](http://content.staminity.com/assets/images/_new/tariffs/tariff-drill-down.gif)
+![Detailed information about tariff fees](http://content.staminity.com/assets/images/_new/tariffs/tariff-drill-down.gif)
 
