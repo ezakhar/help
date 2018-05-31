@@ -48,7 +48,7 @@ Structure of the window and the available features:
 
 * **1 - Search **by the first name and the last names of athletes;** **
 * **2 - Invite athletes. **Click on the button, fill in last name, first name, email address of the new athlete and he will receive an invitation from you at the stated email address; 
-* **3 - Enable/disable tariff**. A coach can subscribe his athletes to the "Premium" tariff at his own expense. The cost of the "Premium" tariff is [lower](/tariffs/Coach.md) when enabled by the coach for his athletes, than when it is enabled by the athletes on their own. So the coach may offer different prices for his athletes and enable Premium access to Staminity for some of them.   
+* **3 - Enable/disable tariff**. A coach can subscribe his athletes to the "Premium" tariff at his own expense. The cost of the "Premium" tariff is [lower](/tariffs/Coach.md) when enabled by the coach for his athletes, than when it is enabled by the athletes on their own. So the coach may offer his athletes different prices for his services and include Premium access to Staminity in some of them.   
 * **4 - Remove**. Click on the "Remove" button if you want to stop training an athlete. After that, you won't be able to access the athlete's training calendar. 
 * **5 - Athlete selector**. 
 * **6 - Last name, First name **of the athlete 
