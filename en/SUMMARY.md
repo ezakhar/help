@@ -44,7 +44,7 @@
 
 * [Продажа тренировочных планов](training-plans/training-plans-for-coaches.md)
 
-## Тарифы и оплата
+## Tariffs and payments
 
 * [Tariff Basic](tariffs/basic.md)
 * [Tariff Premium](tariffs/Premium.md)
