@@ -1,173 +1,187 @@
-#Как управлять категориями тренировок
+# Activity categories
 
-**УПРАВЛЕНИЕ КАТЕГОРИЯМИ ТРЕНИРОВОК:**
-* [Зачем нужны категории](#begin)
-* [Просмотр категорий](#viewCategories)
-* [Создание категории](#createCategory)
-* [Изменение категории](#changeCategory)
-* [Удаление категории](#deleteCategory)
-* [Изменение порядка категорий](#changeOrder)
-* [Управление видимостью категорий](#changeVisibility)
+**MANAGING THE ACTIVITY CATEGORIES:**
 
+* [Why do we need categories](#begin)
+* [View categories](#viewCategories)
+* [Create category](#createCategory)
+* [Change category](#changeCategory)
+* [Delete category](#deleteCategory)
+* [Change order of categories](#changeOrder)
+* [Manage visibility of categories](#changeVisibility)
 
-**ОПИСАНИЕ СИСТЕМНЫХ КАТЕГОРИЙ ТРЕНИРОВОК В STAMINITY**
-* [Восстановление](#recovery)
-* [Аэробная выносливость](#aerobicendurance)
-* [Развитие силы](#muscularforce)
-* [Мышечная выносливость](#muscularendurance)
-* [Развитие скорости](#spedskills)
-* [Анаэробная выносливость](#anaerobicendurance)
-* [Мощность](#sprintpower)
-* [Функциональный тест](#functionaltest)
-* [Подготовка к старту](#racepreparation)
-* [Старт](#race)
+**DESCRIPTION OF THE SYSTEM CATEGORIES IN STAMINITY **
+
+* [Recovery](#recovery)
+* [Aerobic endurance](#aerobicendurance)
+* [Muscular force](#muscularforce)
+* [Muscular endurance](#muscularendurance)
+* [Speed skills](#spedskills)
+* [Anaerobic endurance](#anaerobicendurance)
+* [Sprint power](#sprintpower)
+* [Functional test](#functionaltest)
+* [Preparation for the race](#racepreparation)
+* [Race](#race)
+
+---
+
+## MANAGING THE ACTIVITY CATEGORIES
+
+### Why do we need categories {#begin}
+
+Categories help to classify activities by types, select and compare activities of the same type, analyze dynamics of their completion and build reports.
+
+Category - an obligatory attribute of the activity. When creating an activity, users subscribed to the basic tariff can select a category from the list of [system categories](#systemcategories), and those who have the "Premium" or "Coach" tariffs enabled, can manage their own list of categories.
+
+### View categories {#viewCategories}
+
+In order to manage the activity categories, you should proceed to the "Methodology" section in the menu to the left and select the "Activity categories" tab:
+
+![View categories in Staminity](http://content.staminity.com/assets/images/_new/methodology/methodology-menu.png)
+
+The list of categories is provided for **basic sports**:
+
+* Running;
+* Swimming;
+* Bike;
+* Ski;
+* Strength;
+* Other.
+
+Categories that are set for the basic sports are used to classify activities of derived sports.
+
+The following information is available in the categories overview and management window:  
+![View categories in Staminity](http://content.staminity.com/assets/images/_new/methodology/methodology-categories-navigation.png)
+
+* 1 - Tabs to switch between different sections of the "Methodology" view: Training plans - Periodization schemes - Activity categories - Activity templates;
+* 2 - The list of basic sports. When you select a basic sport, the relevant categories will be displayed;
+* 3-4 - Grouping categories by types. The following types are available:
+  * **My categories **- user's categories;
+  * **Coach categories** - categories which have been used by your coach in your activities; 
+  * **Club categories** - categories which have been created by the club management to be used by the coaches when planning activities for the athletes;
+  * **System categories** - activity categories, used by default for all users. [Further](#systemcategories), in the article, you will find a detailed description of these categories.
+* 5 - Here you can set category visibility;
+* 6 - A button to add a new category.
+
+### Create category {#createCategory}
+
+In order to create your own category, click on the "Add new" button and fill in the category name and description. After that, the category will be added to the category list for the selected sport.
+
+![Add category](http://content.staminity.com/assets/images/_new/methodology/categories-add.png)
+
+In case if you want to create a category for several sports, select them in this window when creating a new category.
+
+### Change category {#changeCategory}
+
+You can change the categories created by you. You cannot change coach categories, club categories, and system categories.
+
+To change a category you need to click on it and make changes in the appeared window.
+
+### Delete category {#deleteCategory}
+
+You can delete categories created by you until they are used in activities.  
+You cannot delete coach categories, club categories, and system categories, but you can hide them.
+
+To delete a category you need to open its edit window and click on the "Delete" button.
+
+### Change order of categories {#changeOrder}
+
+Categories can be sorted in a convenient order. To change the categories order you just need to drag and drop the required category.
+
+![Change order of categories](http://content.staminity.com/assets/images/_new/methodology/categories-drag.gif)
+
+### Manage visibility of categories {#changeVisibility}
+
+For each category, you can set the attribute of its visibility. Categories marked as "invisible" won't be displayed when creating activities.
+
+For example, you can hide one or several system categories you don't use.
 
 ---
 
-##УПРАВЛЕНИЕ КАТЕГОРИЯМИ ТРЕНИРОВОК
-###Зачем нужны категории тренировок{#begin}
-Категории помогают классифицировать тренировки по типам, выбирать и сравнивать однотипные тренировки, анализировать динамику их выполнения и строить отчеты.
+## DESCRIPTION OF THE SYSTEM CATEGORIES {#systemcategories}
 
-Категория - это обязательный признак тренировки. Пользователи с базовым тарифом при создании тренировки могут выбрать категорию из списка [системных категорий](#systemcategories), а обладателям тарифных планов "Премиум" и "Тренер" доступно управление списком своих категорий.
+The following system categories are used in Staminity.
 
-###Просмотр категорий{#viewCategories}
-Для управления категориями тренировок перейдите в раздел "Методология" в левом меню и выберите вкладку "Категории тренировок":
+* [Recovery](#recovery)
+* [Aerobic endurance](#aerobicendurance)
+* [Muscular force](#muscularforce)
+* [Muscular endurance](#muscularendurance)
+* [Speed skills](#spedskills)
+* [Anaerobic endurance](#anaerobicendurance)
+* [Sprint power](#sprintpower)
+* [Functional test](#functionaltest)
+* [Preparation for the race](#racepreparation)
+* [Race](#race)
 
-![Просмотр категорий в Стаминити](http://content.staminity.com/assets/images/_new/methodology/methodology-menu.png)
+This list has been created based on the activities classification offered by **Joe Friel in The Triathlete's Training Bible **for the development of basic and "special" skills.
 
-Перечень категорий ведется в разрезе **базовых видов спорта**:
-* Бег;
-* Плавание;
-* Велосипед;
-* Лыжные гонки;
-* Силовые тренировки;
-* Прочее.
+Development of basic skills:
 
-Категории, заданные для базовых видов спорта, используются для классификации тренировок по производным видам спорта.
+* **Endurance **– an ability to resist the influence of fatigue and reduce the associated negative effects.
+* **Muscular force **—  an ability to overcome the resistance. 
+* **Speed **– an ability to move effectively when swimming, cycling or running. It's a combination of technique and performance, defining how effectively do legs and arms work when moving fast.
 
-В окне просмотра и управления категориями доступна следующая информация:
-![Просмотр категорий в Стаминити](http://content.staminity.com/assets/images/_new/methodology/methodology-categories-navigation.png)
+Development of "special skills" which represent a combination of basic skills:
 
-* 1 - Вкладки для переключения между отдельными разделами в представлении "Методология": Тренировочные планы - Схемы периодизации - Категории - Шаблоны.
-* 2 - Перечень базовых видов спорта. Категории отображаются для выбранного базового вида спорта;
-* 3-4 - Группировка категорий по типам. Доступны следующие типы:
-    * **Мои категории** - категории пользователя;
-    * **Категориии тренера** - категории, которые использовал ваш тренер при планировании тренировок для вас;
-    * **Категории клуба** - категории, созданные руководством клуба для использования тренерами при планировании тренировок для учеников;
-    * **Системные категории** - категории тренировок, используемые по-умолчанию для всех пользователей. Описание данных категорий см. [ниже](#systemcategories).
-* 5 - Переключатель видимости категории;
-* 6 - Кнопка добавления новой категории.
-    
+* **Muscular endurance **= muscular force + endurance
+* **Anaerobic endurance** = endurance + speed
+* **Power **= muscular force + speed
 
-###Создание своей категории{#createCategory}
-Для создания своей категории нажмите на кнопку "Добавить" и введите название и описание категории. Категория будет добавлена для выбранного вида спорта.
+### Recovery {#recovery}
 
-![Добавить категорию](http://content.staminity.com/assets/images/_new/methodology/categories-add.png)
+Activities, performed in the [first training zone](/basics/intensity-zones.md) after intensive activities and after competitions. The goal of such activities is to recover after the training load.
 
-Если вы хотите добавить категорию для нескольких видов спорта, выберите их в данном окне при создании новой категории. 
+### Aerobic endurance {#aerobicendurance}
 
-###Изменение категории{#changeCategory}
-Созданные вами категории можно изменить. Не допускается изменение категорий тренера, клуба и системных категорий.
+Includes exercises, focused on aerobic maintenance and strengthening of endurance.
 
-Для изменения категории щелкните по ней мышкой и внесите изменения в открывшемся окне.
+Endurance activities develop cardiovascular system, slowly contracting muscle fibers and improve an ability of the body to conserve glycogen and glucose, simultaneously training muscles to use fats as fuel.
 
-###Удаление категории{#deleteCategory}
+Depending on the goals, such activities are completed in 1-2 and 3 [training zones](/basics/intensity-zones.md).
 
-Созданные вами категории можно удалить, пока они не использованы в тренировках. 
-Не допускается удаление категорий тренера, клуба и системных категорий, их можно только скрыть.
+### Muscular force {#muscularforce}
 
-Для удаления категории откройте окно ее редактирования и нажмите кнопку "Удалить".
+Activities focused on the muscular force development include activities with a high level of intensity:
 
-###Изменение порядка категорий{#changeOrder}
-Категории можно отсортировать в удобном для вас порядке. Порядок категорий изменяется перетаскиванием. 
+* in running and cycling: moving in the hilly terrain, long ascents, repeats in the hills,
+* in swimming: swimming upstream, workout using swimming paddles, resistance swimming. 
 
-![Изменение порядка категорий](http://content.staminity.com/assets/images/_new/methodology/categories-drag.gif)
+### Speed skills {#spedskills}
 
-###Управление видимостью категорий{#changeVisibility}
-Для каждой категории можно установить признак актуальности. Категории, отмеченные как "не актуальные", не будут отображаться при создании тренировок. 
+Activities focused on the speed skills development are completed on the efforts level close to maximum. They include short and fast accelerations with pace at the level of 6-7 training zones \(according to Friel\).
 
-Например, скрыть можно одну или несколько системных категорий, если вы их не используете.
+### Muscular endurance {#muscularendurance}
 
----
-##Описание системных категорий тренировок{#systemcategories}
-В Staminity используются следующие системные категории тренировок.
-* [Восстановление](#recovery)
-* [Аэробная выносливость](#aerobicendurance)
-* [Развитие силы](#muscularforce)
-* [Мышечная выносливость](#muscularendurance)
-* [Развитие скорости](#spedskills)
-* [Анаэробная выносливость](#anaerobicendurance)
-* [Мощность](#sprintpower)
-* [Функциональный тест](#functionaltest)
-* [Подготовка к старту](#racepreparation)
-* [Старт](#race)
+Muscular endurance activities are focused on the simultaneous development of muscular force and speed.
 
-За основу при определении данного перечня была взята классификация тренировок, предложенная** Джо Фрилом в "Библии триатлета"**, по развитию базовых и "особенных" способностей.
+Examples of activities:
 
-Развитие базовых способностей:
+* continuous movement in the third zone,
+* short and long cruise intervals with intensity close to the LT, 
+* movement with intensity at the LT level lasting from 15-20 to 40 minutes.  
 
-* **Выносливость** – это способность противостоять влиянию усталости и снижать связанные с ней отрицательные эффекты.
-* **Сила** — это способность преодолевать сопротивление.
-* **Скорость** – это способность эффективно двигаться при плавании, езде на велосипеде или беге. Это комбинация техники и производительности, определяющая, насколько эффективно работают руки и ноги при быстром движении.
+### Anaerobic endurance {#anaerobicendurance}
 
-Развите "особенных способностей", которые являются комбинацией базовых:
+Anaerobic endurance activities are focused on the simultaneous development of endurance and speed.
 
-* **Мышечная выносливость** = сила + выносливость
-* **Анаэробная выносливость** = выносливость + скорость
-* **Мощность** = сила + скорость
+Examples of activities: various interval workouts, interval workouts in the hilly terrain, repeats, fartlek. Such activities are united by the fact that during workout intervals, the intensity level can reach [zone 6 \(zone 5.b\)](/basics/intensity-zones.md)
 
-### Восстановление {#recovery}
+### Sprint power {#sprintpower}
 
-Тренировки, выполняемые в [первой тренировочной зоне](/basics/intensity-zones.md)  после интенсивных тренировок и после соревнований. Цель таких тренировок - восстановление после нагрузки.
+Sprint power activities - activities focused on the simultaneous development of muscular force and speed.  
+Examples of activities: sprint accelerations with efforts level close to maximum.
 
-### Аэробная выносливость {#aerobicendurance}
+### Functional test {#functionaltest}
 
-Включает упражнения, направленные на аэробное поддержание и укрепление выносливости.
+Functional test – activities during which the LT and/or the VO2 max are measured. There are many ways to conduct tests: laboratory tests on a cycle ergometer or a treadmill with gas analysis, step tests performed according to various protocols in the pool, on an exercise bicycle, at a stadium or a highway.
 
-Тренировки выносливости развивают сердечно-сосудистую систему, медленно сокращающиеся мышечные волокна, улучшают способность организма к консервации гликогена и глюкозы, одновременно приучая мышцы использовать в качестве топлива жиры.
+The result of a functional test - confirmed levels of the intensity thresholds.
 
-В зависимости от целей, такие тренировки выполняются в 1-2 и 3 [тренировочных зонах](/basics/intensity-zones.md).
+### Preparation for the race {#racepreparation}
 
-### Развитие силы {#muscularforce}
+Preparation includes special activities, completed the day before the race or a warm up immediately before the race.
 
-Тренировки на развитие силы включают тренировки с высокой интенсивностью
+### Race {#race}
 
-* в беге и на велосипеде:  движение по холмам, длинные подъемы, повторы на холмах,
-* в плавании: заплывы против течения, плавание в лопатках, плавание с сопротивлением.
+A special activity category designed for races.
 
-### Развитие скорости {#spedskills}
-
-Тренировки на развитие скорости выполняются на уровне усилий, близком к максимальному. Это короткие быстрые ускорения с темпом на уровне 6-7 тренировочных зон (по Фрилу).
-
-### Мышечная выносливость {#muscularendurance}
-
-Тренировки мышечной выносливости направлены на одновременное развитие силы и скорости. Примеры тренировок:
-
-* длительное движение в третьей зоне,
-* короткие и длинные крейсерские интервалы с интенсивностью близкой к ПАНО,
-* движение с интенсивностью на уровне ПАНО от 15-20 до 40 минут. 
-
-### Анаэробная выносливость {#anaerobicendurance}
-
-Тренировки анаэробной выносливости направлены на одновременное развитие выносливости и скорости. 
-
-Примеры тренировок: различные интервалы, интервалы на холмах, повторы, фартлек. Объединяет тренировки то, что в рабочих отрезках интенсивность может доходить до [6 зоны \(зона 5.b\)](/basics/intensity-zones.md)
-
-### Мощность {#sprintpower}
-
-Тренировки мощности – это занятия на одновременное развитие силы и скорости.
-Примеры: спринтерские ускорения с усилиями, близкими к максимальным.
-
-### Функциональный тест {#functionaltest}
-
-Функциональный тест – это тренировки, в ходе которых определяется уровень ПАНО и/или МПК. Существует множество вариантов проведения тестов: тестирование в лаборатории на велоэргометре или беговой дорожке с газоанализом, ступенчатые тесты, проводимые по различным протоколам в бассейне, на велотренажере, на стадионе или шоссе.
-
-Результат функционального теста - подтвержденные уровни порогов интенсивности.
-
-### Подготовка к старту {#racepreparation}
-
-Подготовка к старту включает специальные тренировки, выполняемые за день до соревнования или разминку непосредственно перед стартом. 
-
-### Старт {#race}
-
-Специальная категория тренировок для соревнований. 

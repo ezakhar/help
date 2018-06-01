@@ -1,60 +1,66 @@
-#Схемы периодизации
+# Periodization schemes
 
-**Схема периодизации** определяет набор мезоциклов, используемый при планировании сезона. Например:
+**Periodization scheme** defines a set of mesocycles used in season planning. For example:
 
-* Схема периодизации, описанная в **"Библии триатлета" Джо Фрила**, включает мезоциклы: 
- * Подготовительный, 
- * Базовый, 
- * Строительство, 
- * Пиковый, 
- * Гоночныи, 
- * Переходный период. 
+* Periodization scheme described in **The Triathlete's Training Bible by Joe Friel **includes the following mesocycles:
 
+  * Preparation, 
+  * Base, 
+  * Build, 
+  * Peak, 
+  * Race, 
+  * Transition. 
 
-* В книге **"Триатлон. Олимпийская дистанция" \(И.Сысоев, О.Кулиненков\)** предложен альтернативный вариант выделения в сезоне следующих мезоциклов: 
- * Восстановительный, 
- * Подготовительный, 
- * Подготовительно-силовой, 
- * Аэробный, 
- * Темповый мезоцикл \(ПАНО\), 
- * Интенсивный, 
- * Выводящий.
+* An alternative set of mesocycles within the season is presented in the **"Triathlon. Olympic distance" by I. Sysoev and O. Kulinenkov:** 
 
-  
-* Традиционный подход к периодизации \(**по Матвееву, 1977, под редакцией Иссурина В.Б.**\) включает мезоциклы: 
- * Общеподготовительный, 
- * Специально подготовительный, 
- * Подготовительный к соревнованиям, 
- * Соревновательный, 
- * Переходный. 
+  * Recovery, 
+  * Preparation, 
+  * Preparation-force, 
+  * Aerobic, 
+  * Pace mesocycle \(LT\), 
+  * Intensive, 
+  * Reduce.
 
-По-умолчанию для всех пользователей доступна "Схема Джо Фрила" из "Библии триатлета". Если вы хотите использовать другой набор мезоциклов, создайте свою схему. 
+* Traditional approach to periodization \(**according to Matveyev, 1977, edited by V.B. Issurin**\) includes the following mesocycles: 
 
-Создание и изменение схем описано далее в этом разделе.
-Планирование сезона с использованием схем периодизации - в [специальном](/basics/season-plan.md) разделе.
+  * General preparation, 
+  * Specific preparation, 
+  * Precompetitive, 
+  * Competitive, 
+  * Transition. 
 
-###Работа со схемами
-Окно работы со схемами разделено на два блока
+By default, the “Joe Friel scheme” from The Triathlete’s Training Bible is available for all users. If you want to use another set of mesocycles, you need to create your own scheme.
 
-![Схемы периодизации в Staminity](https://content.staminity.com/assets/images/periodization/schemes-overview.png)
+Information about how to create and edit schemes you will find further in this article.  
+Description of season planning with the use of periodization schemes - in [separate](/basics/season-plan.md) section.
 
-В левой части приведены схемы периодизации, а в правой - мезоциклы для выбранной схемы.
+### Work with schemes
 
-###Добавление схемы
-Для добавления схемы нажмите на кнопку "Создать новую схему" в левой части экрана, введите название и описание схемы.
+The window for working with schemes is divided into two blocks
 
-![Добавить схему периодизации в Staminity](https://content.staminity.com/assets/images/periodization/schemes-create.png)
+![Periodization schemes in Staminity](https://content.staminity.com/assets/images/periodization/schemes-overview.png)
 
-###Добавление мезоциклов в схему
-Для добавления мезоцикла в схему выделите нужную схему в левой части экрана и нажмите на "+" справа. 
-> Добавить мезоцикл можно только в ранее созданную схему, изменение системных схем невозможно
+Periodization schemes are presented to the left and mesocycles for the selected scheme - to the right.
 
-![Добавить мезоцикл в схему периодизации в Staminity](https://content.staminity.com/assets/images/periodization/mesocycle-add.png)
+### Add scheme
 
-При создании мезоцикла введите его название и цвет, при необходимости добавьте описание. 
-Выбранный цвет мезоцикла будет использоваться для наглядного представления графика нагрузки в ходе сезона, а также в календаре спортсмена.
+In order to add scheme, you need to click on the “Create new scheme” button located to the left, then enter name and description of the scheme.
 
-###Изменение и удаление мезоциклов
-Действия с мезоциклами доступны в левом контекстном меню для выбранного мезоцикла.
+![Add periodization scheme in Staminity](https://content.staminity.com/assets/images/periodization/schemes-create.png)
 
-Изменять можно только мезоциклы, созданные самостоятельно, изменение мезоциклов в системных схемах невозможно.
+### Add mesocycles to the scheme
+
+In order to add mesocycle to the scheme, you need to select the required scheme to the left and click on the "+" button to the right.
+
+> You can add mesocycle only to the previously created scheme, you cannot edit system schemes.
+
+![Add mesocycle to the periodization scheme in Staminity](https://content.staminity.com/assets/images/periodization/mesocycle-add.png)
+
+When creating a mesocycle, you need to set its name and color. Add a description if needed. The selected mesocycle color will be used to visualize the training load schedule during the season and in the athlete's calendar.
+
+### Edit or delete mesocycle
+
+In the left context menu, you will find the list of available actions for the selected mesocycle.
+
+You can edit only mesocycles created by you. You cannot edit mesocycles in system schemes.
+

@@ -1,79 +1,84 @@
 ---
 related:
-- basics/getting-started.md
-- basics/work-with-coach.md
-- basics/club.md
+  - basics/getting-started.md
+  - basics/work-with-coach.md
+  - basics/club.md
+---
+
+# How to work as a coach in Staminity
+
+Coach in Staminity is a user of the service who can train the others. A coach can access athletes’ calendar, can plan activities and competitions for them, create events, compose season plan and use [other features available for him](#coachwork).
+
+Options for organizing a coach work in Staminity:
+
+* **PERSONAL COACH** - works with athletes individually, without the club. In order to work as a personal coach, you should purchase the “Coach” tariff on your own.  
+  A personal coach manages his athletes independently, he can connect new athletes and drop off the existing ones.
+
+* **CLUB COACH** - works with the athletes through a club. The “Coach” tariff is purchased for him by the club, so he doesn’t need to purchase it on his own.  
+  A club coach doesn't manage his athletes, the athletes are assigned to him by the management of the club.
+
+* **COMBINING **– a coach can combine the roles of club coach and personal coach. For example, he can be a coach in one or two clubs and train personal athletes simultaneously.
+
+In this article:
+
+* [How to become a coach](#coach)
+* [How to connect new athletes and manage your athletes](#athletemanagement)
+* [The key features that a coach can use when working with athletes](#coachwork)
 
 ---
 
-#Работа тренера в Staminity
+## How to become a coach {#coach}
 
-Тренер в Staminity - пользователь сервиса, который может тренировать других. Тренер имеет доступ к календарям своих учеников, может планировать для них тренировки и соревнования, создавать события.
+Any Staminity user can become a coach.
 
-Варианты работы тренера в Staminity:
+In order to do it, you need to enable the ["Coach" tariff](/tariffs/Coach.md) for a trial period at your own expense or at the expense of the club. Different options for registration depending on the chosen role are described in the ["Getting started"](/basics/getting-started.md) article.
 
-* **ИНДИВИДУАЛЬНЫЙ ТРЕНЕР** - работает с учениками напрямую, без клуба.  Для работы нужен тариф "Тренер", приобретаемый тренером самостоятельно. 
-Индивидуальный тренер сам управляет своими учениками, может их подключать и отключать.
+If you don't have athletes, then you don't need to purchase the "Coach" tariff after the end of the trial period. Your coach profile will be displayed to the service's users in the coach search results and you will be able to purchase the tariff when you'll need the coach functions in order to work with athletes.
 
-* **ТРЕНЕР В КЛУБЕ** - работает с учениками через клуб. Тариф "Тренер" для него приобретается клубом, самостоятельно подключать тариф тренеру не нужно. 
-Тренер в клубе не управляет своими учениками, спортсмены назначаются для тренера руководством клуба.
-
-* **СОВМЕЩЕНИЕ** – тренер может совмещать роли тренера в клубе и индивидуального тренера. Например, быть тренером в одном или двух клубах, а также тренировать личных учеников. 
-
-В этой статье:
-* [Как стать тренером](#coach)
-* [Как подключить учеников и управлять своими учениками](#athletemanagement)
-* [Основные возможности для тренера по работе с учениками](#coachwork)
+If you want to work with athletes, you need to enable the "Coach" tariff. If you are a personal coach, you can purchase it at your own expense and if you are a club coach - at the expense of the club.
 
 ---
 
-## Как стать тренером{#coach}
+## How to manage your athletes {#athletemanagement}
 
-Тренером может стать любой пользователь Staminity.
+In order to manage his athletes, a coach should select the "Athletes management" item of the menu to the left.
 
-Для этого необходимо подключить [тариф "Тренер"](/tariffs/Coach.md) на пробный период за свой счет или за счет клуба. В статье ["С чего начать"](/basics/getting-started.md) описаны варианты регистрации в сервисе в зависимости от выбранной роли.
+Structure of the window and the available features:  
+![Athletes management](http://content.staminity.com/assets/images/_new/coach/athlete-management.png)
 
-**Если у вас нет учеников**, то покупать тариф "Тренер" после окончания пробного периода нет необходимости. Ваш профиль тренера будет отображаться в поиске тренеров для пользователей сервиса и вы сможете приобрести тариф тогда, когда вам понадобятся функции тренера для работы с учениками.
+* **1 - Search **by the first name and the last names of athletes;** **
+* **2 - Invite athletes. **Click on the button, fill in last name, first name, email address of the new athlete and he will receive an invitation from you at the stated email address; 
+* **3 - Enable/disable tariff**. A coach can subscribe his athletes to the "Premium" tariff at his own expense. The cost of the "Premium" tariff is [lower](/tariffs/Coach.md) when enabled by the coach for his athletes, than when it is enabled by the athletes on their own. So the coach may offer his athletes different prices for his services and include Premium access to Staminity in some of them.   
+* **4 - Remove**. Click on the "Remove" button if you want to stop training an athlete. After that, you won't be able to access the athlete's training calendar. 
+* **5 - Athlete selector**. 
+* **6 - Last name, First name **of the athlete 
+* **7 - Athlete's tariff plans**. If there is a "Coach" sign next to the tariff name, then this tariff has been enabled at your expense. 
 
-Если вы хотите работать с учениками, то вам потребуется тариф "Тренер". Его можно приобрести за свой счет, если вы индивидуальный тренер, или за счет клуба, если вы тренер в клубе.
+A personal coach is entitled not only to review his athletes but also to drop them off, as well as to enable and disable the "Premium" tariff for them at his own expense.
 
----
+In order to do it:
 
-## Как управлять учениками{#athletemanagement}
-
-Управление учениками для тренера в Staminity доступно при выборе пункта "Управление спортсменами" в левом меню.
-
-Структура окна и доступные возможности:
-![Управление спортсменами](http://content.staminity.com/assets/images/_new/coach/athlete-management.png)
-
-* **1 - поиск** по имени и фамилии спортсменов;
-* **2 - пригласить спортсменов**. Нажмите на кнопку, введите Фамилию, Имя и адрес электронной почты нового ученика и ему придет приглашение от вас на указанный почтовый адрес;
-* **3 - подключить/отключить тариф**. Тренер может подключить своим ученикам тариф "Премиум" за свой счет. Стоимость "Премиум" тарифа, при подключении его тренером для учеников [ниже](/tariffs/Coach.md), чем при самостоятельном подключении учениками. Тренер может предлагать 
-* **4 - Удалить ученика**. Нажмите на кнопку "Удалить", если хотите прекратить заниматься с учеником. После отключения ученика вы потеряете доступ к его тренировочному календарю.
-* **5 - Селектор выбора спортсменов**. 
-* **6 - Фамилия, Имя** ученика
-* **7 - Тарифные планы ученика**. Если рядом с названием тарифа есть обозначение "Т" (или "Coach"), то этот тариф подключен за ваш счет. 
-
-Индивидуальный тренер может не только просматривать своих учеников, но и отключать их от себя, а также подключать и отключать им тариф "Премиум" за свой счет. 
-
-Для выполнения этих действий:
-* выделите ученика [5],
-* нажмите нужную кнопку [3] или [4],
-* подтвердите выполнение действия.
+* select an athlete \[5\],
+* click on the required button \[3\] or \[4\],
+* confirm the action.
 
 ---
 
-## Как работать со спортсменами {#coachwork}
+## How to work with athletes {#coachwork}
 
-Пользователь с активным тарифом "Тренер" может выполнять следующие действия с подключенными к нему учениками:
-* Планировать [тренировки](/basics/create-plan-activity.md);
-* Планировать [соревнования](/basics/competition.md);
-* Создавать [события](/basics/create-record.md); 
-* Контролировать выполнение плана через [тренерский дэшборд](/basics/coach-dashboard.md);
-* Анализировать каждую [выполненную тренировку](/basics/analyse-detailed-activity.md);
-* Планировать [тренировочный сезон](/basics/season-plan.md);
-* Работать с группами спортсменов через [тренировочные планы](/basics/training-plan.md);
-* Формировать [отчетность по тренировочному процессу](/basics/analytics.md);
-* Настраивать [тренировочные зоны и ПАНО](/basics/getting-started.md#trainingzones) для спортсменов;
-* Создавать свои [категории тренировок](/basics/categories.md);
-* Создавать свои [шаблоны тренировок](/basics/templates.md).
+A user with enabled "Coach" tariff can perform the following actions with the connected athletes:
+
+* Plan [activities](/basics/create-plan-activity.md);
+* Plan [competitions](/basics/competition.md);
+* Create [events](/basics/create-record.md); 
+* Control the plan execution through the [coach dashboard](/basics/coach-dashboard.md);
+* Analyze each [completed activity](/basics/analyse-detailed-activity.md);
+* Plan a [training season](/basics/season-plan.md);
+* Work with groups of athletes through the [training plans](/basics/training-plan.md);
+* Review [reports on the training process](/basics/analytics.md);
+* Set [training zones and LT](/basics/getting-started.md#trainingzones) for athletes;
+* Create his own [categories of activities](/basics/categories.md);
+* Create his own [activities templates](/basics/templates.md).
+
+
+

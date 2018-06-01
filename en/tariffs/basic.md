@@ -1,26 +1,28 @@
 ---
 related:
-- tariffs/Premium.md
-- tariffs/Coach.md
-- tariffs/Club.md
-
+  - tariffs/Premium.md
+  - tariffs/Coach.md
+  - tariffs/Club.md
 ---
 
+# "Basic" tariff plan
 
-#Тарифный план "Базовый"
+"Basic" tariff plan is enabled for all Staminity users
 
-Тарифный план "Базовый" подключен всем пользователям Staminity
+### For whom
 
-###Для кого
-Для спортсменов
+For athletes
 
-###Что входит в тарифный план
-* Тренировочный дневник;
-* Просмотр выполненных тренировок;
-* Автоматическая загрузка фактических тренировок;
-* Работа с тренером: получение заданий, их выполнение и общение;
-* Базовые отчеты по тренировочному процессу;
-* (CКОРО) Общение с друзьями, соревнования в группах
+### What is included in the tariff plan
 
-###Стоимость
-Бесплатно
+* Training diary;
+* Completed activities overview;
+* Automatic upload of completed activities;
+* Work with a coach: receive planned activities, complete them and communicate with a coach;
+* Basic reports on the training process;
+* \(UPCOMING\) Communication with friends, competitions in groups
+
+### Cost
+
+Free of charge
+

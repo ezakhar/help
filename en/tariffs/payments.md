@@ -1,13 +1,16 @@
-# Оплата стоимости тарифов. Автоматическая оплата
+# Invoice payment. Automatic payment
 
-* Лицензионное вознаграждение за использование тарифов выплачивается в рублях РФ путем оплаты с использованием платежных систем Visa, MasterCard через систему Fondy или Paypal.
+* Issued invoices are paid in Russian Roubles. It is possible to make a payment by Visa or Mastercard credit card or by Paypal \(full list of payment methods is available in the Account\).
 
-* Оплата лицензионного вознаграждения может взиматься автоматически, если в Личном кабинете Лицензиата в разделе "Настройки" - "Тарифы и счета" установлен признак **"Оплачивать автоматически"**. 
+* Payment for the issued invoice may be charged automatically if the user has previously made payment by Visa or Mastercard card and turned on the **"Charge automatically**" attribute in the section "Settings" - "Tariffs and invoices" in the user's Account.
 
-![Автоматическая оплата](http://content.staminity.com/assets/images/_new/tariffs/tariff-auto-payments.png) 
+![Автоматическая оплата](http://content.staminity.com/assets/images/_new/tariffs/tariff-auto-payments.png)
 
-* При автоматической оплате инициируется списание денежных средств с банковской карты пользователя, которая была использована ранее при оплате счетов. В Staminity не хранятся данные банковских карт пользователя, за хранение этой информации отвечает платежный партнер - компания Fondy.
+* In case of automatic payment, the funds will be written off from the user's card previously used for invoices’ payment. The user's credit card details are not stored in Staminity, the [Fondy company](https://fondy.eu) \(payment partner\) is responsible for such information storage.
 
-* **Признак "Оплачивать автоматически" устанавливается в положение "Включено" после первой успешной оплаты счета.** Пользователь может изменить значение этого признака, как указано выше.
+* **The “Charge automatically” attribute is set to "Turn on" after the first successful payment of the invoice. **The user can change the attribute value in a described above way.
 
-* При получении информации о списании денежных средств с лицевого счета или с карты Пользователя Лицензиар направляет на электронную почту либо посредством Личного кабинета уведомление об оплате счета, а при необходимости - информацию об активации или о продлении срока действия тарифов.
+* When Staminity receives information about the write-off of the funds from the user's personal account or from the credit card, it sends the user a notification of the invoice payment, and if needed, information about activation or prolongation of the validity period of the tariffs via email or via Application.
+
+
+
