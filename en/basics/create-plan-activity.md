@@ -128,6 +128,8 @@ A coach can create an activity for several athletes at once. In order to do it, 
 * turn on "Recalculate based on LT" attribute, if you want the activity intensity to be recalculated for the added athletes based on their LT level;
 * go back to activity and Save it.
 
+![Create multiple activities](https://content.staminity.com/assets/images/_new/methodology/activity-for-2-athletes.gif)
+
 ### Planning for a group of athletes {#trainingplans}
 
 If the coach works with groups of athletes it will be very convenient for him to use “training plans”. Detailed information about features of the training plans and about their usage you can find in the following article: [Training plans - working with groups of athletes](/basics/training-plan.md)
