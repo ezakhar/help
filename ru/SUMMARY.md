@@ -39,7 +39,7 @@
 * [Тренировочные планы в Staminity. Виды планов](basics/training-plan.md)
 * [Управление тренировочными планами](basics/training-plan-management.md)
 * [Продажа тренировочных планов](training-plans/training-plans-for-coaches.md)
-* [plan-author-profile](basics/plan-author-profile.md)
+* [Как заполнить профиль Автора планов](basics/plan-author-profile.md)
 
 ## Ответы на вопросы
 
