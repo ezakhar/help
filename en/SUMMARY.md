@@ -43,7 +43,7 @@
 
 * [Тренировочные планы в Staminity. Виды планов](basics/training-plan.md)
 * [Продажа тренировочных планов](training-plans/training-plans-for-coaches.md)
-* [training-plan-management](basics/training-plan-management.md)
+* [Управление тренировочными планами](basics/training-plan-management.md)
 
 ## Tariffs and payments
 
