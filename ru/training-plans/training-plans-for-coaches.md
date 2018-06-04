@@ -13,7 +13,7 @@ Staminity предлагает тренерам и клубам платформ
 1. **получить дополнительный доход**
 2. **привлечь новых клиентов**
 
-Тренировочный план и услуга дистанционного тренинга имеют пересечение аудиторий, но все таки ориентированы на разные группы клиентов: которые готовы/могут платить за тренера или не могут/ не хотят.
+Тренировочный план и услуга дистанционного тренинга имеют пересечение аудиторий, но всё-таки ориентированы на разные группы клиентов: которые готовы/могут платить за тренера или не могут/ не хотят.
 
 Спортсменов, кто использует для подготовки тренировочные планы, больше, чем спортсменов занимающихся online с тренером. Большинство этих спортсменов готовится к своим первым стартам по бегу и триатлону. Для тренера это является хорошей возможностью заработать и предложить свои услуги.
 
@@ -33,9 +33,9 @@ Staminity - это профессиональная платформа для п
 
 * Для работы по плану спортсменам не требуется покупка платного тарифа, можно использовать приложение Staminity на компьютере и смартфонах совершенно бесплатно. Платный тариф Премиум дает дополнительные возможности для анализа тренировок.
 
-![](https://lh6.googleusercontent.com/TEQ-FWDz6mhZm4o7MLHPRSjLPf9trojZbAQuQ6V2EBI1yx8dkwdWoOKC2H7_uDCQz6jTi_dmbLo-4ZoBdlESQq2MBsw_BNsC9CYJo4pLtmE7ESuE0W9e1lUVrIAqQX3_eR0UEguN)Тренировочный календарь
+![Календарь спортсмена](https://lh6.googleusercontent.com/TEQ-FWDz6mhZm4o7MLHPRSjLPf9trojZbAQuQ6V2EBI1yx8dkwdWoOKC2H7_uDCQz6jTi_dmbLo-4ZoBdlESQq2MBsw_BNsC9CYJo4pLtmE7ESuE0W9e1lUVrIAqQX3_eR0UEguN)Тренировочный календарь
 
-![](https://lh6.googleusercontent.com/QvFA0Sp4gMuYIZi3kfhRMw2UBbVyBzi2UlvhZpfBVY8-2gW2MVALK1_B2F5I4y_jqeGeiEssZ3Hk7jXogVpuUab0KEq7hxgkGMLpDU_3pE_5SimdiJWEjUTGMzmZjzsvFCptEVKX)Анализ выполненный тренировки
+![Анализ выполненный тренировки](https://lh6.googleusercontent.com/QvFA0Sp4gMuYIZi3kfhRMw2UBbVyBzi2UlvhZpfBVY8-2gW2MVALK1_B2F5I4y_jqeGeiEssZ3Hk7jXogVpuUab0KEq7hxgkGMLpDU_3pE_5SimdiJWEjUTGMzmZjzsvFCptEVKX)Анализ выполненный тренировки
 
 ## Легко создать план
 
@@ -49,11 +49,11 @@ Staminity - это профессиональная платформа для п
 
 * Создавайте в один клик тренировку по шаблону.
 
-Ввод тренировочного плана![](https://lh4.googleusercontent.com/v44gR8_2JcAbAfhx60Q4rBo_a0neax_lnA-kiSpFedWEp1RSWMvWsvWD9z85fhn87eF3mgTSfwJrX7Pa-cOUhZTKprXiYwxGPMHBuX1v-jnYR-nKw2ADYKnxLaqSdqfC84rx_4_B)
+Ввод тренировочного плана![Ввод тренировочного плана](https://lh4.googleusercontent.com/v44gR8_2JcAbAfhx60Q4rBo_a0neax_lnA-kiSpFedWEp1RSWMvWsvWD9z85fhn87eF3mgTSfwJrX7Pa-cOUhZTKprXiYwxGPMHBuX1v-jnYR-nKw2ADYKnxLaqSdqfC84rx_4_B)
 
-Ввод задания на тренировку в виде сегментов![](https://lh5.googleusercontent.com/LjEX02hZ_4yhYVfS4tlirwdlndZaaG5oagRGB4ZKIg0fFuoldPTiAMCNRDTlYSMsi5N6KkVbrBB5YJe7OSkrEAlUh8ZMVzxJaAee7QTWsdWLzL8L4vOysa-k2AdI7CyInasjbT5J)
+Ввод задания на тренировку по сегментам![Ввод задания на тренировку по сегментам](https://lh5.googleusercontent.com/LjEX02hZ_4yhYVfS4tlirwdlndZaaG5oagRGB4ZKIg0fFuoldPTiAMCNRDTlYSMsi5N6KkVbrBB5YJe7OSkrEAlUh8ZMVzxJaAee7QTWsdWLzL8L4vOysa-k2AdI7CyInasjbT5J)
 
-Добавление записи с информационным контентом![](https://lh5.googleusercontent.com/IaKbjP06Gu1hHR8yNh-3KndgC8bUlExwzCrEQDwswzcbAE9AsmDJdoAs7vyJSGtGGqp3O_zVc0ho-ucuSf8lqBrdiYIw2YdazQmkFnTUaSuxKhHosJ2cWIL2-vqOOQUYTSDpTVBV)Подробнее о том как создать свой план в отдельной статье: [Тренировочные планы](/basics/training-plan.md)
+Добавление события![Добавление события](https://lh5.googleusercontent.com/IaKbjP06Gu1hHR8yNh-3KndgC8bUlExwzCrEQDwswzcbAE9AsmDJdoAs7vyJSGtGGqp3O_zVc0ho-ucuSf8lqBrdiYIw2YdazQmkFnTUaSuxKhHosJ2cWIL2-vqOOQUYTSDpTVBV)Подробнее о том как создать свой план в отдельной статье: [Тренировочные планы](/basics/training-plan.md)
 
 ## Нет продаж - не нужно платить
 
@@ -64,10 +64,11 @@ Staminity - это профессиональная платформа для п
 |  | Staminity | TrainingPeaks |
 | ---: | :---: | :---: |
 | Разовый взнос \(лицензия тренера\) | Нет | $99 |
-| Ежемесячная абонентская плата | Нет | $19 - $49 |
+| Ежемесячная абонентская плата | Нет* | $19 - $49 |
 | Комиссия сервиса с продаж планов | 30% | 30% |
 
-В Staminity не нужно покупать тариф "Тренер", чтобы опубликовать тренировочный план на продажу.   
+_*Примечание: в Staminity не нужно покупать тариф "Тренер", чтобы опубликовать тренировочный план в Магазине планов и получать доход от продажи._   
+
 Если вы уже предлагаете своим клиентам тренировочные планы, их копия в Staminity может стать хорошим дополнением для портфеля ваших продуктов.
 
 Предложите своим клиентам выбор:
@@ -81,19 +82,19 @@ Staminity - это профессиональная платформа для п
 
 Для каждого плана в Staminity доступна своя страница, на которой собрана вся необходимая информация по нему для потенциальных покупателей. Посмотрите примеры:
 
-![](https://lh4.googleusercontent.com/6zgim2rjhrRMyBOvw6wP1BfZVLycgnstP58Pzupr-M6-5RMhtB5nd2NS5bGoSR4k5g1bj1eR0jSF0nroviBZHMc5XoN3fCDR4L7v2FVhyAo-1kSv5q8FjCAR_JsNiYJEEdci1Wq4)
+![Страница тренировочного плана, пример 1](https://lh4.googleusercontent.com/6zgim2rjhrRMyBOvw6wP1BfZVLycgnstP58Pzupr-M6-5RMhtB5nd2NS5bGoSR4k5g1bj1eR0jSF0nroviBZHMc5XoN3fCDR4L7v2FVhyAo-1kSv5q8FjCAR_JsNiYJEEdci1Wq4)
 
-Пример 1: [http://dev2.staminity.com/plan/?planId=683](http://dev2.staminity.com/plan/?planId=683)
+Пример 1: [https://dev1.staminity.com/plan/683](https://dev1.staminity.com/plan/683)
 
-![](https://lh4.googleusercontent.com/SxAkm5DdGpWY7I235N7DhyjLH9AD7JNw11iEKl2QgxwkNLsOtdAslcxqTYJFEs4nAQIm3lBgbbVKXC4Z4aLu3TVEmxWLuF3OODLnYfHURPzU8KGsJrvYwuY0wFDREpmi5D_NrVtk)
+![Страница тренировочного плана, пример 2](https://lh4.googleusercontent.com/SxAkm5DdGpWY7I235N7DhyjLH9AD7JNw11iEKl2QgxwkNLsOtdAslcxqTYJFEs4nAQIm3lBgbbVKXC4Z4aLu3TVEmxWLuF3OODLnYfHURPzU8KGsJrvYwuY0wFDREpmi5D_NrVtk)
 
-Пример 2: [http://dev2.staminity.com/plan/?planId=21](http://dev2.staminity.com/plan/?planId=21)
+Пример 2: [https://dev1.staminity.com/plan/21](https://dev1.staminity.com/plan/21)
 
 Страница адаптирована для мобильных телефонов.
 
 Автоматически рассчитывается график нагрузки по неделям плана.
 
-![](https://lh6.googleusercontent.com/m6C4YicmKOWniUWZnGV17t5p-aR5Gubus83OsnZTWkeE0-JSmj_PFNqDhBwprjsetUQda6Towj7JOam706EFeM2YqUfk3NiPmOdRadWItgyLy0y8_40_vKckN5xbbyWeNfXX6Glm)
+![График нагрузки в плане](https://lh6.googleusercontent.com/m6C4YicmKOWniUWZnGV17t5p-aR5Gubus83OsnZTWkeE0-JSmj_PFNqDhBwprjsetUQda6Towj7JOam706EFeM2YqUfk3NiPmOdRadWItgyLy0y8_40_vKckN5xbbyWeNfXX6Glm)
 
 Примеры из тренировочного плана, по которым спортсмен сможет оценить подход автора к постановке тренировочного задания
 
@@ -101,9 +102,9 @@ Staminity - это профессиональная платформа для п
 
 и примеров описания упражнений или иной методической информации
 
-![](https://lh6.googleusercontent.com/Yvkl3R1OpJManqZLEaKVkRA3kETy1A9FqEiE0fRivaDCgh8bO5bsFZoiZBevy8irk9qt3DMzYAt473qB2uo9MXP2n-_v80eCM4fLeFYx5zuP8oG1sXMN1pPVlxCslyUQ_1yAEpee)
+![Примеры тренировок в плане](https://lh6.googleusercontent.com/Yvkl3R1OpJManqZLEaKVkRA3kETy1A9FqEiE0fRivaDCgh8bO5bsFZoiZBevy8irk9qt3DMzYAt473qB2uo9MXP2n-_v80eCM4fLeFYx5zuP8oG1sXMN1pPVlxCslyUQ_1yAEpee)
 
-Для увеличения продаж и дифференциации от других планов, мы рекомендуем:
+Для увеличения продаж и отличия от других планов, мы рекомендуем:
 
 1. Создавать планы под конкретную цель, старт. Например, “Марафон за 3 часа, недельный объем не более 70 км”, “Моя первая половинка IRONSTAR KAZAN 113”, “10 км за 40 минут на Московском марафоне”
 
@@ -124,7 +125,7 @@ Staminity - это профессиональная платформа для п
 
 **Как можно вывести денежные средства, полученные от продажи планов?**
 
-* Для физических лиц вывод производится на банковскую карту
+* Для физических лиц вывод производится на банковскую карту;
 * Для юридических лиц и ИП – перевод на расчетный счет.
 
 **Какие условия вывода средств?**
@@ -139,17 +140,17 @@ Staminity - это профессиональная платформа для п
 
 **1.Стать тренером и заполнить профиль тренера. Для этого:**
 
-* Подключить на пробный период тариф "Тренер". Это необходимо, чтобы в профиле в сервисе отразился признак "Я-тренер". Оплачивать тариф "Тренер" после окончания пробного периода не требуется.
+* Подключить на пробный период тариф "Тренер". Это необходимо, чтобы в профиле в сервисе отразился признак "Я-тренер". Если вы не планируете работать с учениками в Staminity, оплачивать тариф "Тренер" после окончания пробного периода не требуется.
 
 **2.Заполнить профиль тренера.**
 
-* Для физических лиц – заполнить профиль продавца планов и привязать банковскую карту для вывода средств
+* Для физических лиц – заполнить профиль Автора планов и привязать банковскую карту для вывода средств
 
-* Для юридических лиц и ИП - заполнить профиль продавца планов, заполнить и подписать анкету юридического лица, отправить по e-mail в адрес Staminity.
+* Для юридических лиц и ИП - заполнить профиль Автора планов, заполнить и подписать анкету юридического лица, отправить по e-mail в адрес Staminity.
 
 **Кто платит налоги?**
 
-Сделка покупки плана выполняется между Продавцом, физическим или юридическим лицом, автором тренировочного плана и Покупателем, физическим лицом. Staminity не является стороной сделки, а обеспечивает платформу для создания и работы с планом, а также информационно-техническое взаимодействие Продавца и Покупателя.
+Сделка покупки плана выполняется между Продавцом, физическим или юридическим лицом, автором тренировочного плана и Покупателем, физическим лицом. Staminity не является стороной сделки, а обеспечивает платформу для создания и работы с планом для Автора и Покупателя, а также информационно-техническое взаимодействие Продавца и Покупателя.
 
 Продавцы, физические и юридические лица, самостоятельно осуществляют уплату налогов и сборов в бюджет, согласно законодательству Российской Федерации.
 
