@@ -29,7 +29,6 @@
 * [Periodization schemes](methodology/periodisation-schemes.md)
 * [Activity categories](basics/categories.md)
 * [Управление шаблонами тренировок](basics/templates.md)
-* [Работа с группами спортсменов - Тренировочные планы](basics/training-plan.md)
 * [Внешние календари \(iCal\)](basics/calendar-subscription-ical.md)
 * [Методы расчета границ тренировочных зон](basics/intensity-zones.md)
 * [Настройки уведомлений](settings/notifications.md)
@@ -42,7 +41,9 @@
 
 ## Магазин тренировочных планов
 
+* [Тренировочные планы в Staminity. Виды планов](basics/training-plan.md)
 * [Продажа тренировочных планов](training-plans/training-plans-for-coaches.md)
+* [training-plan-management](basics/training-plan-management.md)
 
 ## Tariffs and payments
 
