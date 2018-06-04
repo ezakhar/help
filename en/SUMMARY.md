@@ -28,7 +28,7 @@
 * [Season planning and periodization](basics/season-plan.md)
 * [Periodization schemes](methodology/periodisation-schemes.md)
 * [Activity categories](basics/categories.md)
-* [Управление шаблонами тренировок](basics/templates.md)
+* [Templates](basics/templates.md)
 * [Внешние календари \(iCal\)](basics/calendar-subscription-ical.md)
 * [Методы расчета границ тренировочных зон](basics/intensity-zones.md)
 * [Настройки уведомлений](settings/notifications.md)

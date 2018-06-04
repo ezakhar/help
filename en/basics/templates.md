@@ -1,42 +1,42 @@
-# Шаблоны тренировок
+# Templates
 
-* [Что такое шаблоны](#templates)
-* [Отличия шаблона и тренировки](#template-and-activity)
-* [Просмотр и управление шаблонами](#managetemplates)
-* [Создать шаблон на основании тренировки](#templatefromactivity)
-* [Создать шаблон вручную](#createtemplate)
-* [Запланировать тренировку по шаблону](#createsingleactivity)
-* [Запланировать тренировку для нескольких учеников по одному шаблону](#createmultipleactivity)
+* [What are templates](#templates)
+* [Differences between template and activity](#template-and-activity)
+* [View and manage templates](#managetemplates)
+* [Create template from activity](#templatefromactivity)
+* [Create template manually](#createtemplate)
+* [Create activity from template](#createsingleactivity)
+* [Create activity for several athletes from one template](#createmultipleactivity)
 
 
-### Что такое шаблоны{#templates}
+### What are templates{#templates}
 
-**Шаблон тренировки** - это сохраненный набор параметров тренировочного задания, который можно использовать при создании новых тренировок.
+**Template** - a saved set of activity parameters which can be used when creating new activities. 
 
-Сохранив в шаблоны задания, которые вы выполняете регулярно сами или планируете для учеников, вы сможете проще и быстрее вводить новые тренировки.
+By saving as templates those activities that you often complete by yourself or plan for your athletes, you'll be able to create new activities in more simple and fast way. 
 
-### Отличия шаблона и тренировки{#template-and-activity}
+### Differences between template and activity{#template-and-activity}
 
-Шаблон имеет несколько отличий от тренировки:
+Template differs from activity by: 
 
-![Шаблоны и тренировки](http://content.staminity.com/assets/images/_new/methodology/templates-view.png)
+![Templates and activities](http://content.staminity.com/assets/images/_new/methodology/templates-view.png)
 
-* **1- Название**. Название поможет отличить шаблоны друг от друга и выбрать нужный шаблон при планировании
+* **1 - Name**. Name will help to differ templates from one another and select the required template when planning activities.
 
-* **2- Признак "Избранный"**. Шаблоны с данным признаком будут выделены в списке, чтобы быстрее их найти. 
+* **2 - Attribute “Favorite”.** Templates with this attribute will be highlighted in the list so you could find them faster. 
 
-* **3 - Интенсивность только в %ПАНО**. Один и тот же шаблон может использоваться при планировании тренировок для спортсменов с разным уровнем подготовки, поэтому в шаблоне интенсивность тренировки можно указать только в % от ПАНО. 
+* **3 - Intensity only in %LT.** The same template can be used to create activities for athletes with different fitness, that's why in template you can set intensity only in % of LT. 
 
-В зависимости от ПАНО спортсменов по одному и тому же шаблону для разных учеников будут созданы тренировки с разной интенсивностью:  
+Depending on the athletes’ LT, activities with different intensity will be created for different athletes when using the same template:  
 
-![Шаблоны и тренировки](http://content.staminity.com/assets/images/_new/methodology/template-and-activity.png)
+![Templates and activities](http://content.staminity.com/assets/images/_new/methodology/template-and-activity.png)
 
-### Просмотр и управление шаблонами{#managetemplates}
-Список шаблонов доступен в разделе "Методология" на вкладке "Шаблоны". Шаблоны выводятся для выбранного вида спорта и категории. 
+### View and manage templates{#managetemplates}
+The list of templates is located in the “Methodology” section on the “Activity templates” tab. Templates are displayed for the selected sport and category.
 
-![Шаблоны и тренировки](http://content.staminity.com/assets/images/_new/methodology/templates-navigation.png)
+![Templates and activities](http://content.staminity.com/assets/images/_new/methodology/templates-navigation.png)
 
-* 1 - **Вкладка "Шаблоны" в разделе Методология**. На других вкладках доступны ["Тренировочные планы"](/basics/training-plan.md), ["Схемы периодизации"](/methodology/periodisation-schemes.md) и ["Категории тренировок"](/basics/categories.md), управление которыми описано в соответствующих разделах справки. 
+* 1 - **"Activity templates" tab in the Methodology section**. On the other tabs you will find ["Training plans"](/basics/training-plan.md), ["Periodization schemes"](/methodology/periodisation-schemes.md) and ["Activity catgories"](/basics/categories.md), information about how to manage them is given in relevant articles.
 
 * 2 - Выбор **вида спорта**. 
 * 3 - **Категории** для данного вида спорта. Иконка с цифрой напротив категории показывает число доступных шаблонов по данной категории.
