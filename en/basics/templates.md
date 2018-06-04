@@ -36,36 +36,36 @@ The list of templates is located in the “Methodology” section on the “Acti
 
 ![Templates and activities](http://content.staminity.com/assets/images/_new/methodology/templates-navigation.png)
 
-* 1 - **"Activity templates" tab in the Methodology section**. On the other tabs you will find ["Training plans"](/basics/training-plan.md), ["Periodization schemes"](/methodology/periodisation-schemes.md) and ["Activity catgories"](/basics/categories.md), information about how to manage them is given in relevant articles.
+* 1 - **"Activity templates" tab in the Methodology section**. On the other tabs you will find ["Training plans"](/basics/training-plan.md), ["Periodization schemes"](/methodology/periodisation-schemes.md) and ["Activity categories"](/basics/categories.md), information about how to manage them is given in relevant articles.
 
-* 2 - Выбор **вида спорта**. 
-* 3 - **Категории** для данного вида спорта. Иконка с цифрой напротив категории показывает число доступных шаблонов по данной категории.
-* 4 - **Панель шаблонов**. Отображаются шаблоны по выбранному виду спорта [2] и категории [3].
-* 5 - Кнопка "**Добавить шаблон**".
+* 2 - Select **sport**. 
+* 3 - **Categories** for the selected sport. An icon with a number next to the category shows how many templates are available for the selected category. 
+* 4 - **Templates panel**. Here are displayed templates for the selected sport [2] and categories [3].
+* 5 - Button"**Add template**".
 
-Все шаблоны сгруппированы по типам:
-* **Мои шаблоны** - шаблоны пользователя. 
-* **Шаблоны тренера** - шаблоны, которые использовал ваш тренер при планировании тренировок для вас.  
-* **Шаблоны клуба** - шаблоны, созданные руководством клуба для использования тренерами при планировании.
+All templates are grouped by type:
+* **My templates** - user's templates. 
+* **Coach templates** - templates which have been used by the coach when planning your activities.  
+* **Club templates** - templates which have been created by the club management to be used by the coaches when planning activities for the athletes.
 
-Вносить изменения возможно только в "Мои шаблоны", но изменять порядок возможно для шаблонов во всех группах. 
-Чтобы видеть самые часто используемые шаблоны в начале списка, перетащите мышкой шаблон на нужное место в сетке.
+You can edit only "My templates" but you can change order of templates in all groups. 
+For the most commonly used templates to be displayed in the beginning of the list, drag and drop template to the required place.
 
 
-### Создать шаблон из тренировки {#templatefromactivity}
+### Create template from activity{#templatefromactivity}
 
-Создать шаблон можно из любой тренировки, в которой есть плановые показатели: как своей, так и любого ученика; как запланированной, так и выполненной.
+You can create template from any activity with planned values: both yours and your athlete's; both planned and completed. 
 
-Для создания шаблона:  
-1) в окне просмотра тренировки нажмите кнопку "В шаблон"  
-2) в открывшемся окне проверьте и отредактируйте параметры шаблона  
-3) сохраните шаблон
-4) при необходимости проверьте, что шаблон появился в списке доступных шаблонов
+In order to create a template:  
+1) in the activity window click on the "Save as template" button  
+2) check and edit parameters of the template in the emerged window  
+3) save template
+4) if needed, check that template has appeared in the list of available templates.
 
 <iframe width="720" height="405" src="https://www.youtube.com/embed/eUqBAQs1LKA?rel=0" frameborder="0" allowfullscreen></iframe>
 
 
-### Создать шаблон вручную {#createtemplate}
+### Create template manually {#createtemplate}
 
 Для создания шаблона необходимо:  
 1\) Открыть пункт меню "Методология" и перейти на вкладку "Шаблоны"
