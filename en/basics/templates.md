@@ -5,15 +5,15 @@
 * [View and manage templates](#managetemplates)
 * [Create template from activity](#templatefromactivity)
 * [Create template manually](#createtemplate)
-* [Create activity from template](#createsingleactivity)
-* [Create activity for several athletes from one template](#createmultipleactivity)
+* [Create activity using template](#createsingleactivity)
+* [Create activity for several athletes using one template](#createmultipleactivity)
 
 
 ### What are templates{#templates}
 
-**Template** - a saved set of activity parameters which can be used when creating new activities. 
+**Template** - saved set of activity parameters which can be used when creating new activities. 
 
-By saving as templates those activities that you often complete by yourself or plan for your athletes, you'll be able to create new activities in more simple and fast way. 
+By saving activities that you often complete by yourself or plan for your athletes as templates, you'll be able to create new activities in more simple and fast way. 
 
 ### Differences between template and activity{#template-and-activity}
 
@@ -23,11 +23,11 @@ Template differs from activity by:
 
 * **1 - Name**. Name will help to differ templates from one another and select the required template when planning activities.
 
-* **2 - Attribute “Favorite”.** Templates with this attribute will be highlighted in the list so you could find them faster. 
+* **2 - Attribute “Favorite”.** Templates with this attribute will be highlighted in the list so that you could find them faster. 
 
 * **3 - Intensity only in %LT.** The same template can be used to create activities for athletes with different fitness, that's why in template you can set intensity only in % of LT. 
 
-Depending on the athletes’ LT, activities with different intensity will be created for different athletes when using the same template:  
+Depending on the athletes’ LT, activities with different intensity level will be created for different athletes when using the same template:  
 
 ![Templates and activities](http://content.staminity.com/assets/images/_new/methodology/template-and-activity.png)
 
@@ -39,9 +39,9 @@ The list of templates is located in the “Methodology” section on the “Acti
 * 1 - **"Activity templates" tab in the Methodology section**. On the other tabs you will find ["Training plans"](/basics/training-plan.md), ["Periodization schemes"](/methodology/periodisation-schemes.md) and ["Activity categories"](/basics/categories.md), information about how to manage them is given in relevant articles.
 
 * 2 - Select **sport**. 
-* 3 - **Categories** for the selected sport. An icon with a number next to the category shows how many templates are available for the selected category. 
+* 3 - **Categories** for the selected sport. An icon with a number located next to the category shows how many templates are available for the selected category. 
 * 4 - **Templates panel**. Here are displayed templates for the selected sport [2] and categories [3].
-* 5 - Button"**Add template**".
+* 5 - Button "**Add template**".
 
 All templates are grouped by type:
 * **My templates** - user's templates. 
@@ -49,12 +49,12 @@ All templates are grouped by type:
 * **Club templates** - templates which have been created by the club management to be used by the coaches when planning activities for the athletes.
 
 You can edit only "My templates" but you can change order of templates in all groups. 
-For the most commonly used templates to be displayed in the beginning of the list, drag and drop template to the required place.
+In order for the most commonly used templates to be displayed at the beginning of the list, drag and drop template to the required place.
 
 
 ### Create template from activity{#templatefromactivity}
 
-You can create template from any activity with planned values: both yours and your athlete's; both planned and completed. 
+You can create template from any activity which has planned values: both yours and your athlete's; both planned and completed. 
 
 In order to create a template:  
 1) in the activity window click on the "Save as template" button  
@@ -67,46 +67,46 @@ In order to create a template:
 
 ### Create template manually {#createtemplate}
 
-Для создания шаблона необходимо:  
-1\) Открыть пункт меню "Методология" и перейти на вкладку "Шаблоны"
-2\) Выбрать вид спорта и категорию,  
-3\) Нажать на кнопку "Создать шаблон",  
-4\) Заполнить параметры шаблона и сохранить его.
+In order to create template you need to: 
+1\) Open menu item "Methodology" and proceed to the "Activity templates" tab,
+2\) Select sport and category,  
+3\) Click on the "Create template" button,  
+4\) Fill in parameters of the template and save it.
 
-Создание шаблона аналогично созданию [обычной тренировки](/basics/create-plan-activity.md#planactivity) или [тренировки по сегментам](/basics/create-plan-activity.md#structuredactivity). 
+The process of template creation is similar to the process of  [simple activity](/basics/create-plan-activity.md#planactivity) or [structured activity](/basics/create-plan-activity.md#structuredactivity) creation. 
 
-### Запланировать тренировку по шаблону {#createsingleactivity}
+### Create activity from template {#createsingleactivity}
 
-Шаблоны помогают создать тренировки гораздо быстрее. Если вы часто выполняете однотипные тренировки, сохраните их в шаблон и экономьте время при последующем планировании. 
+Templates greatly speed up the process of activity creation. If you often complete activities of the same type, create a corresponding template and save your time when planning.
 
-Самый удобный способ создать тренировку по шаблону - перетянуть в нужный день календаря тренировку с левой панели шаблонов:
+The most convenient way to create an activity using a template is to drag and drop the activity from the templates panel located to the left to the required date in the calendar:
 
-![Cоздание тренировки по шаблону из панели шаблонов](https://content.staminity.com/assets/images/_new/activity/activity-create-from-template-ezgif.gif)
-
-
-Также шаблон можно выбрать при создании тренировки, предварительно указав вид спорта и категорию.
-
-![Cоздание тренировки по шаблону](https://content.staminity.com/assets/images/_new/activity/activity-create-from-template-2-ezgif.gif)
-
-### Запланировать тренировку для нескольких учеников {#createmultipleactivity}
-
-Тренировку по шаблону можно создать сразу для нескольких учеников. Это подойдет для случая, когда у вас занимается группа учеников по одному плану или вы проводите общие групповые тренировки.
-
-Для создания нескольких тренировок по шаблону одновременно:
-1. Начните создавать тренировку, выберите вид спорта и категорию, выберите шаблон.
-2. В меню тренировки выберите пункт "Добавить спортсмена"
-3. Выберите учеников и установите признак, хотите ли вы пересчитать интенсивность тренировок для них по ПАНО.
-4. Сохраните тренировку. Тренировки появятся у всех выбранных спортсменов. 
-
-![Cоздание тренировки по шаблону](https://content.staminity.com/assets/images/_new/methodology/activity-for-2-athletes.gif)
+![Create activity using template from the templates panel](https://content.staminity.com/assets/images/_new/activity/activity-create-from-template-ezgif.gif)
 
 
-> Влияние признака "Пересчитать от ПАНО" покажем на примере. Допустим, у тренера есть шаблон тренировки с указанной интенсивностью 80% от ПАНО по пульсу. Тренер создает тренировку по данному шаблону для ученика 1 с ПАНО 170. При вводе задания тренер добавляет еще двух спортсменов, "Ученик 2" и "Ученик 3" в тренировку и у них другие уровни ПАНО. 
+Also, you can select a template when creating an activity after having set sport and category. 
+
+![Create activity using template](https://content.staminity.com/assets/images/_new/activity/activity-create-from-template-2-ezgif.gif)
+
+### Create activity for several athletes using one template {#createmultipleactivity}
+
+Using template you can create an activity for several athletes at once. It will come in handy if you have a group of athletes who train according to the same plan or if you hold general group activities. 
+
+In order to create several activities using one template simultaneously:
+1. Start creating an activity, set sport and category, select template.
+2. In the activity menu select the "Add athletes" item
+3. Select athletes and set the attribute indicating whether you want the intensity to be recalculated based on LT for these athletes.
+4. Save the activity. It will appear in calendars of all selected athletes. 
+
+![Create activity using template](https://content.staminity.com/assets/images/_new/methodology/activity-for-2-athletes.gif)
+
+
+> We would like to illustrate the effect of the "Recalculate based on LT" attribute. Let's assume that a coach has a template of an activity with the intensity set at the level of 80% of the HR LT. Using this template, the coach creates an activity for an athlete 1 with LT 170. When filling in task, he adds another two athletes "Athlete 2" and "Athlete 3" who have different LT levels.  
 >
-> В таблице показана интенсивность тренировок учеников 1, 2 и 3 в зависимости от установленного признака "Пересчитать по ПАНО"
+> The table shows intensity of the athletes' 1,2, and 3 activities depending on value of the "Recalculate based on LT" attribute.
 
-|  | Пересчитать от ПАНО = "ДА" | Пересчитать от ПАНО = "Нет" |
+|  | Recalculate based on LT = "YES" | Recalculate based on LT  = "NO" |
 | :--- | :--- | :--- |
-| Ученик 1. ПАНО 170  уд/мин| План по пульсу = 136 уд/мин | План по пульсу = 136 уд/мин |
-| Ученик 2. ПАНО 180 уд/мин | План по пульсу = 144 уд/мин| План по пульсу = 136 уд/мин|
-| Ученик 3. ПАНО 185 уд/мин | План по пульсу = 148 уд/мин| План по пульсу = 136 уд/мин|
+| Athlete 1. LT 170 bpm| Planned HR value  = 136 bpm | Planned HR value = 136 bpm |
+| Athlete 2. LT 180 bpm | Planned HR value = 144 bpm| Planned HR value = 136 bpm|
+| Athlete 3. LT 185 bpm | Planned HR value = 148 bpm| Planned HR value = 136 bpm|
