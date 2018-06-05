@@ -41,7 +41,7 @@
 * [Для тренера: Продажа тренировочных планов](training-plans/training-plans-for-coaches.md)
 * [Для тренера: Регистрация в качестве Автора планов](basics/plan-author-profile.md)
 * [Для тренера: Баланс и вывод средств](basics/withdrawals.md)
-* [use-training-plan](basics/use-training-plan.md)
+* [Для спортсмена: Как использовать тренировочный план](basics/use-training-plan.md)
 
 ## Ответы на вопросы
 
