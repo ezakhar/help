@@ -6,17 +6,17 @@ In Staminity we calculated intensity zones limits using the following methods:
 
 * **HR zones**
 
-  * [Joe Friel method, 7 HR zones of LT](#frielhr)
-  * [Метод Янсена \(Peter Janssen\), 6 зон от ЧССмакс](#janssenhr)
-  * [Метод Карвонена \(Martti Karvonen\), 5 зон от резерва ЧСС](#karvonenhr)
+  * [Joe Friel method, 7 HR zones based on LT](#frielhr)
+  * [Peter Janssen method, 6 HR zones based on maximum HR](#janssenhr)
+  * [Martti Karvonen  method, 5 HR zones based on HR reserve](#karvonenhr)
 
-* **Зоны по темпу/скорости**
+* **Pace/speed zones**
 
-  * [Метод Джо Фрила \(Joe Friel\), 7 зон по темпу/скорости от ПАНО](#frielspeed)
+  * [Joe Friel method, 7 pace/speed zones based on LT](#frielspeed)
 
-* **Зоны по мощности**
+* **Power zones**
 
-  * [Метод Коггана \(Andy Coggan\), 7 зон по мощности от ПАНО](#cogganpower)
+  * [Andy Coggan method, 7 power zones based on LT](#cogganpower)
 
 ## Зоны по пульсу
 
