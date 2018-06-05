@@ -37,10 +37,11 @@
 ## Тренировочные планы
 
 * [Тренировочные планы в Staminity. Виды планов](basics/training-plan.md)
-* [Управление тренировочными планами](basics/training-plan-management.md)
-* [Продажа тренировочных планов](training-plans/training-plans-for-coaches.md)
-* [Регистрация в качестве Автора планов](basics/plan-author-profile.md)
-* [Баланс и вывод средств](basics/withdrawals.md)
+* [Для тренера: Управление тренировочными планами](basics/training-plan-management.md)
+* [Для тренера: Продажа тренировочных планов](training-plans/training-plans-for-coaches.md)
+* [Для тренера: Регистрация в качестве Автора планов](basics/plan-author-profile.md)
+* [Для тренера: Баланс и вывод средств](basics/withdrawals.md)
+* [use-training-plan](basics/use-training-plan.md)
 
 ## Ответы на вопросы
 
