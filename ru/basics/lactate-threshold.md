@@ -14,6 +14,3 @@
 По выполненной тренировке мы также показываем интенсивность в % от ПАНО.
 
 ![](http://content.staminity.com/assets/images/settings/Staminity-intensity-by-FTP.png)
-
-
-###Как определить свой ПАНО
