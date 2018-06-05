@@ -30,7 +30,7 @@
 * [Activity categories](basics/categories.md)
 * [Templates](basics/templates.md)
 * [External calendars](basics/calendar-subscription-ical.md)
-* [Методы расчета границ тренировочных зон](basics/intensity-zones.md)
+* [Methods of calculating training zones limits](basics/intensity-zones.md)
 * [Настройки уведомлений](settings/notifications.md)
 * [Настройки приватности](basics/privacy-settings.md)
 

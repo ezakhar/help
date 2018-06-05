@@ -101,7 +101,7 @@ In order to create several activities at once using one template:
 ![Create activity using template](https://content.staminity.com/assets/images/_new/methodology/activity-for-2-athletes.gif)
 
 
-> We would like to illustrate effect of the "Recalculate based on LT" attribute. Let's assume that a coach has a template of an activity with the intensity set at the level of 80% of the HR LT. Using this template, the coach creates an activity for an athlete 1 with LT 170. When filling in task, he adds another two athletes "Athlete 2" and "Athlete 3" who have different LT levels.  
+> We would like to illustrate effect of the "Recalculate based on LT" attribute. Let's assume that a coach has a template of an activity with the intensity set at the level of 80% of the LTHR. Using this template, the coach creates an activity for an athlete 1 with LT 170. When filling in task, he adds another two athletes "Athlete 2" and "Athlete 3" who have different LT levels.  
 >
 > The table shows intensity of the athletes' 1,2, and 3 activities depending on the value of the "Recalculate based on LT" attribute.
 
