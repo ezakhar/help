@@ -29,7 +29,7 @@
 * [Periodization schemes](methodology/periodisation-schemes.md)
 * [Activity categories](basics/categories.md)
 * [Templates](basics/templates.md)
-* [Внешние календари \(iCal\)](basics/calendar-subscription-ical.md)
+* [External calendars](basics/calendar-subscription-ical.md)
 * [Методы расчета границ тренировочных зон](basics/intensity-zones.md)
 * [Настройки уведомлений](settings/notifications.md)
 * [Настройки приватности](basics/privacy-settings.md)
