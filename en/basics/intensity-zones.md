@@ -1,8 +1,8 @@
 # Determining training zones
 
-Training zones - intensity levels within which certain activities should be completed in order to achieve better training effect.   
-There are several popular methods of determining limits of your training zones which differ in the number of zones, basis for their calculation and zones limits.   
-In Staminity we calculated intensity zones limits using the following methods: 
+Training zones - intensity levels within which certain activities should be completed in order to achieve better training effect.  
+There are several popular methods of determining your training zones limits which differ in the number of zones, basis for their calculation and zones limits.  
+In Staminity we calculate intensity zones limits using the following methods:
 
 * **HR zones**
 
@@ -18,34 +18,34 @@ In Staminity we calculated intensity zones limits using the following methods:
 
   * [Andy Coggan method, 7 power zones based on LT](#cogganpower)
 
-## Зоны по пульсу
+## HR zones
 
-#### Метод Джо Фрила \(Joe Friel\), 7 зон по пульсу от ПАНО {#frielhr}
+#### Joe Friel method, 7 HR zones based on LT {#frielhr}
 
-Джо Фрил в "Библии триатлета" определяет семь тренировочных зон, границы которых рассчитываются в процентах от значения ПАНО спортсмена по пульсу, отдельно для бега и велоспорта:
+In The Triathlete's Training Bible Joe Friel defines seven training zones which limits are calculated in percents of athlete's HR LT, separately for running and cycling:
 
-| Зоны | Границы зон для бега | Границы зон для велосипеда |
+| Zones | Zones limits for running | Zones limits for cycling |
 | :--- | :--- | :--- |
-| Зона 1. Recovery | До 85% от ПАНО | До 81% от ПАНО |
-| Зона 2. Aerobic | 85-89% от ПАНО | 81-89% от ПАНО |
-| Зона 3. Tempo | 90-94% от ПАНО | 90-93% от ПАНО |
-| Зона 4. SubThreshold | 95-99% от ПАНО | 94-99% от ПАНО |
-| Зона 5.a. SuperThreshold | 100-102% от ПАНО | 100-102% от ПАНО |
-| Зона 5.b. Aerobic capacity | 103-106% от ПАНО | 103-106% от ПАНО |
-| Зона 5.c. Anaerobic capacity | Выше 106% от ПАНО | Выше 106% от ПАНО |
+| Zone 1. Recovery | Up to 85% of LT | Up to 81% of LT |
+| Zone 2. Aerobic | 85-89% of LT | 81-89% of LT |
+| Zone 3. Tempo | 90-94% of LT | 90-93% of LT |
+| Zone 4. SubThreshold | 95-99% of LT | 94-99% of LT |
+| Zone 5.a. SuperThreshold | 100-102% of LT | 100-102% of LT |
+| Zone 5.b. Aerobic capacity | 103-106% of LT | 103-106% of LT |
+| Zone 5.c. Anaerobic capacity | More then 106% of LT | More then 106% of LT |
 
-> Источник данных для таблицы: [http://www.trainingbible.com/joesblog/2009/11/quick-guide-to-setting-zones.html](http://www.trainingbible.com/joesblog/2009/11/quick-guide-to-setting-zones.html)
+> Data source: [http://www.trainingbible.com/joesblog/2009/11/quick-guide-to-setting-zones.html](http://www.trainingbible.com/joesblog/2009/11/quick-guide-to-setting-zones.html)
 
-Чтобы рассчитать границы пульсовых зон по Фрилу, ведите значение ПАНО, выберите в настройках зон соответствующий метод расчета и сохраните изменения:  
+In order to calculate HR zones limits according to Joe Friel method you need to fill in LT value, select the corresponding method of calculation in zones settings and save changes:   
 ![](http://content.staminity.com/assets/images/settings/FrielHRZones.png)
 
-**Восстановление \(зона 1\)**. Тренировки в границах зоны 1 включают в себя самые простые упражнения, которые помогают опытным спортсменам восстановиться после тяжелых упражнений или периода сложных тренировок.
+**Recovery \(zone 1\)**. Activities within zone 1 limits include the most simple exercises helping experienced athletes to recover after hard exercises or a period of complex activities. 
 
-**Экстенсивная выносливость \(зона 2\)**. Для данного типа интенсивности нормой являются продолжительные тренировки по развитию выносливости. При проведении упражнений на таком уровне усилий происходит формирование, а затем и поддержание аэробной выносливости. Лактат в организме вырабатывается в сравнительно небольших количествах, это позволяет проводить продолжительные, но в то же время комфортные тренировочные сессии на пределе аэробной выносливости спортсмена \(или чуть выше его\).
+**Extensive endurance \(zone 2\)**. This intensity type is characterized by long activities focused on endurance development. When completing exercises at such efforts level, firstly formation and then maintenance of aerobic endurance take place. During such activities, lactate is produced in relatively small quantities, which allows to complete long, but at the same time, comfortable training sessions at the athelete's aerobic endurance limit \(or a bit higher\).
 
-**Интенсивная выносливость \(зона 3\)**. При незначительном повышении интенсивности производство лактата начинает повышаться по сравнению с предыдущими уровнями, так как помимо медленно сокращающихся мышечных волокон в дело вступают быстро сокращающиеся.
+**Intensive endurance \(zone 3\)**. With a minor increase in intensity, the production of lactate begins to increase comparing to the previous levels, as in addition to the slow twitch muscle fibers, fast twitch ones spring into action. 
 
-**Порог интенсивности \(зоны 4 и 5a\)**. Возможно, самая важная тренировочная зона для многоборцев. Уровень усилий здесь чуть ниже или чуть выше ПАНО. При такой работе максимально задействуются аэробные механизмы, основное напряжение приходится на медленно сокращающиеся мышечные волокна и системы организма, вырабатывающие энергию. Значительная ее часть начинает производиться за счет  
+**Intensity threshold \(zones 4 and 5a\)**. Possibly, the most important training zone for all-round athletes.   The efforts level here is slightly above or slightly below the LT. Thus, aerobic mechanisms are used to the full, the main load falls to slow twitch muscle fibers and body systems that produce energy. Значительная ее часть начинает производиться за счет  
 анаэробных механизмов; в организме возникают улучшения, связанные с невосприимчивостью к действию лактата и ускорением утилизации продуктов его распада. Кроме того, быстро сокращающиеся мышечные волокна начинают проявлять характеристики медленно сокращающихся. Для того чтобы отделить друг от друга усилия, прилагаемые выше и ниже ПАНО, порог интенсивности разбит на две зоны.
 
 **Анаэробная выносливость \(зона 5b\).** На этом этапе интенсивность оказывается на уровне выше ПАНО. Типичными для него являются интервальные тренировки. Данный этап способствует росту и развитию быстро сокращающихся мышечных волокон, развивается способность организма противостоять действию лактата и утилизировать его. Высокий объем тренировок анаэробной выносливости является самой распространенной причиной перетренированности у серьезных спортсменов, поэтому к подобным тренировкам следует относиться с осторожностью, и за ними обязательно должен следовать продолжительный период восстановления.
