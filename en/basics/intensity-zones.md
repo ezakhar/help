@@ -7,8 +7,8 @@ In Staminity we calculate intensity zones limits using the following methods:
 * **HR zones**
 
   * [Joe Friel method, 7 HR zones based on LT](#frielhr)
-  * [Peter Janssen method, 6 HR zones based on HR max](#janssenhr)
-  * [Martti Karvonen  method, 5 HR zones based on HR reserve](#karvonenhr)
+  * [Peter Janssen method, 6 HR zones based on HRmax](#janssenhr)
+  * [Martti Karvonen  method, 5 HR zones based on HRreserve](#karvonenhr)
 
 * **Pace/speed zones**
 
@@ -55,85 +55,85 @@ In order to calculate HR zones limits according to Joe Friel method you need to 
 
 ####  {#janssenhr}
 
-#### Peter Janssen method, 6 HR zones based on HR max {#janssenhr}
+#### Peter Janssen method, 6 HR zones based on HRmax {#janssenhr}
 
-Peter Janssen in his book "Training Lactate Pulse-Rate" describes 6 intensity zones, calculating their limits in percentage of HR max.
+Peter Janssen in his book "Training Lactate Pulse-Rate" describes 6 intensity zones, calculating their limits in percentage of HRmax.
 
-**ЧССмакс** - это максимальная частота сердечных сокращений, наблюдавшаяся у спортсмена при тестировании в лаборатории или во время соревнований.
+**HRmax** - the athlete's maximum heart rate occured during testing in the laboratory or during the competition.
 
-| Зоны | Границы зон по пульсу |
+| Zones | HR zones limits |
 | :--- | :--- |
-| Зона R. Восстановительная | 60-70% от ЧССмакс |
-| Зона A1. Аэробная 1 | 70-80% от ЧССмакс |
-| Зона A2. Аэробная 2 | 80-85% от ЧССмакс |
-| Зона E1. Развивающая 1 | 85-90% от ЧССмакс |
-| Зона E2. Развивающая 2 | 90-95% от ЧССмакс |
-| Зона An1. Анаэробная 1 | 95-100% от ЧССмакс |
+| Zone R. Recovery | 60-70% of HRmax |
+| Zone A1. Aerobic 1 | 70-80% of HRmax |
+| Zone A2. Aerobic 2 | 80-85% of HRmax |
+| Zone E1. Endurance 1 | 85-90% of HRmax |
+| Zone E2. Endurance 2 | 90-95% of HRmax |
+| Zone An1. Anaerobic1 | 95-100% of HRmax |
 
-Чтобы рассчитать границы пульсовых зон по Янсену, ведите значение ЧССмакс, выберите в настройках зон соответствующий метод расчета и сохраните изменения:  
+In order to calculate HR zones limits according to Peter Janssen method you need to fill in HRmax value, select the corresponding method of calculation in zones settings and save changes:  
 ![](http://content.staminity.com/assets/images/settings/JanssenHRZones.png)
 
-Обозначения зон:
+Zones indications:
 
-1. **R - recovery** - восстановительная. Очень низкая интенсивность.
-2. **A - aerobic **- аэробная зона. Разделяется на две подзоны, с низкой \(А1\) и средней \(А2\) интенсивностью. В аэробной зоне энергия поставляется исключительно за счет аэробных процессов.
-3. **E - endurance** - развивающая зона \(от англ. endurance – выносливость\). Развивающая зона расположена чуть ниже и чуть выше анаэробного порога, поэтому энергия поставляется частично аэробным путем и частично анаэробным. Также выделяются две подзоны: E1 - транзитная зона, E2 - высокоинтенсивная выносливость. 
-4. **An - anaerobic** - анаэробная зона. Основана на анаэробном гликолизе, реакции образования энергии протекают в условиях недостаточного поступления кислорода,что ведет к образованию и накоплению молочной кислоты.
+1. **R - recovery **zone. Very low intensity.
+2. **A -  aerobic **zone. Is divided to two sub-zones with low \(A1\) and medium \(A2\) intensity. In aerobic zone energy is produced only thanks to aerobic processes.
+3. **E - endurance **zone. This zone lies a bit higher or a bit lower of the anaerobic threshold level, so energy is produced partly in aerobic and partly in anaerobic way. Also, two sub-zones are distinguished: E1 - transit zone, E2 - high-intensity endurance. 
+4. **An - anaerobic **zone. Is based on anaerobic glycolysis, energy production occurs in conditions of insufficient oxygen supply, which leads to the formation and accumulation of lactic acid. 
 
-#### Метод Карвонена \(Martti Karvonen\), 5 зон от резерва ЧСС {#karvonenhr}
+#### Martti Karvonen method, 5 HR zones based on HRreserve {#karvonenhr}
 
-Финский физиолог Мартти Карвонен предложил рассчитывать интенсивность тренировки от **ЧСС резерва**, который определяется как **ЧССмакс - ЧССпокоя**.
+Finnish physiologist Martti Karvonen offered to calculate intensity based on **HRreserve**, which is determined as **HRmax - HRrest**.
 
-С учетом этого 5 зон интенсивности определяются по следующим правилам:
+Based on it, the 5 intensity zones are determined according to the following rules:
 
-| Зоны | Границы зон по пульсу |
+| Zones | HR zones limits |
 | :--- | :--- |
-| Зона 1 | ЧССпокоя + ЧССрезерв \* \(50 - 60%\) |
-| Зона 2 | ЧССпокоя + ЧССрезерв \* \(60 - 70%\) |
-| Зона 3 | ЧССпокоя + ЧССрезерв \* \(70 - 80%\) |
-| Зона 4 | ЧССпокоя + ЧССрезерв \* \(80 - 90%\) |
-| Зона 5 | ЧССпокоя + ЧССрезерв \* \(90 - 100%\) |
+| Zone 1 | HRrest + HRreserve\* \(50 - 60%\) |
+| Zone 2 | HRrest + HRreserve \* \(60 - 70%\) |
+| Zone 3 | HRrest + HRreserve \* \(70 - 80%\) |
+| Zone 4 | HRrest + HRreserve \* \(80 - 90%\) |
+| Zone 5 | HRrest + HRreserve\* \(90 - 100%\) |
 
-Чтобы рассчитать границы пульсовых зон по Карвонену, ведите значение ЧССпокоя и ЧССмакс, выберите в настройках зон соответствующий метод расчета и сохраните изменения:  
+In order to calculate HR zones limits according to Martti Karvonen method you need to fill in HRrest and HRmax values, select the corresponding method of calculation in zones settings and save changes:  
 ![](http://content.staminity.com/assets/images/settings/KarvonenHRZones.png)
 
-## Зоны по темпу
+## Pace/speed zones
 
-#### Метод Джо Фрила \(Joe Friel\), 7 зон по темпу/скорости от ПАНО {#frielspeed}
+#### Joe Friel method, 7 pace/speed zones based on LT {#frielspeed}
 
-| Зоны | Границы зон по темпу |
+| Zones | Pace/speed zones limits |
 | :--- | :--- |
-| Зона 1. Recovery | Медленнее, чем 129% от ПАНО по темпу |
-| Зона 2. Aerobic | 114-129% от ПАНО по темпу |
-| Зона 3. Tempo | 106-113% от ПАНО по темпу |
-| Зона 4. SubThreshold | 101-105% от ПАНО по темпу |
-| Зона 5.a. SuperThreshold | 97-100% от ПАНО по темпу |
-| Зона 5.b. Aerobic capacity | 90-96% от ПАНО по темпу |
-| Зона 5.c. Anaerobic capacity | Быстрее 90% от ПАНО по темпу |
+| Zone 1. Recovery | Slower than 129% of LTPace |
+| Zone 2. Aerobic | 114-129% of LTPace |
+| Zone 3. Tempo | 106-113% of LTPace |
+| Zone 4. SubThreshold | 101-105% of LTPace |
+| Zone 5.a. SuperThreshold | 97-100% of LTPace |
+| Zone 5.b. Aerobic capacity | 90-96% of LTPace |
+| Zone 5.c. Anaerobic capacity | Faster than 90% of LTPace |
 
-> Источник данных для таблицы: [http://www.trainingbible.com/joesblog/2009/11/quick-guide-to-setting-zones.html](http://www.trainingbible.com/joesblog/2009/11/quick-guide-to-setting-zones.html)
+> Data source: [http://www.trainingbible.com/joesblog/2009/11/quick-guide-to-setting-zones.html](http://www.trainingbible.com/joesblog/2009/11/quick-guide-to-setting-zones.html)
 
-Чтобы рассчитать границы темповых зон по Фрилу, ведите значение ПАНО по темпу, выберите в настройках зон соответствующий метод расчета и сохраните изменения:  
+In order to calculate HR zones limits according to Joe Friel method you need to fill in LTPace value, select the corresponding method of calculation in zones settings and save changes:  
 ![](http://content.staminity.com/assets/images/settings/FrielPaceZones.png)
 
-Описания зон см. в разделе [Метод Джо Фрила \(Joe Friel\), 7 зон по пульсу от ПАНО](#frielhr)
+Zones description see in section [Joe Friel method, 7 HR zones based on LT](#frielhr)
 
-## Зоны по мощности
+## Power zones
 
-#### Метод Коггана \(Andy Coggan\), 7 зон по мощности от ПАНО {#cogganpower}
+#### Andy Coggan method, 7 power zones based on LT {#cogganpower}
 
-| Зоны | Границы зон мощности для велосипеда |
+| Zones | Power zones limits for cycling  |
 | :--- | :--- |
-| Зона 1. Active recovery | Меньше 55% от ПАНО по мощности |
-| Зона 2. Endurance | 55-74% от ПАНО |
-| Зона 3. Tempo | 75-89% от ПАНО |
-| Зона 4. Lactate threshold | 90-104% от ПАНО |
-| Зона 5. VO2 max | 105-120% от ПАНО |
-| Зона 6. Anaerobic capacity | 121-150% от ПАНО |
-| Зона 7. Neuromuscular power | Более 150% от ПАНО |
+| Zone 1. Active recovery | Lower than 55% of LTPower |
+| Zone 2. Endurance | 55-74% of LT |
+| Zone 3. Tempo | 75-89% of LT |
+| Zone 4. Lactate threshold | 90-104% of LT |
+| Zone 5. VO2 max | 105-120% of LT |
+| Zone 6. Anaerobic capacity | 121-150% of LT |
+| Zone 7. Neuromuscular power | More than 150% of LT |
 
-> Источник данных для таблицы: [http://m-ivanov.com/2016/08/kak-exat-bystree-sammari-na-knigu-trenirovki-po-moshhnosti-xanter-allen-i-endryu-koggan/](http://m-ivanov.com/2016/08/kak-exat-bystree-sammari-na-knigu-trenirovki-po-moshhnosti-xanter-allen-i-endryu-koggan/)
+> Data source: [http://m-ivanov.com/2016/08/kak-exat-bystree-sammari-na-knigu-trenirovki-po-moshhnosti-xanter-allen-i-endryu-koggan/](http://m-ivanov.com/2016/08/kak-exat-bystree-sammari-na-knigu-trenirovki-po-moshhnosti-xanter-allen-i-endryu-koggan/)
 
-Чтобы рассчитать границы зон мощности по Коггану, ведите значение ПАНО по мощности, выберите в настройках зон соответствующий метод расчета и сохраните изменения:  
+In order to calculate HR zones limits according to Joe Friel method you need to fill in LTPower value, select the corresponding method of calculation in zones settings and save changes:  
 ![](http://content.staminity.com/assets/images/settings/CogganPowerZones.png)
 
