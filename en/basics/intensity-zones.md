@@ -7,7 +7,7 @@ In Staminity we calculate intensity zones limits using the following methods:
 * **HR zones**
 
   * [Joe Friel method, 7 HR zones based on LT](#frielhr)
-  * [Peter Janssen method, 6 HR zones based on maximum HR](#janssenhr)
+  * [Peter Janssen method, 6 HR zones based on HR max](#janssenhr)
   * [Martti Karvonen  method, 5 HR zones based on HR reserve](#karvonenhr)
 
 * **Pace/speed zones**
@@ -22,7 +22,7 @@ In Staminity we calculate intensity zones limits using the following methods:
 
 #### Joe Friel method, 7 HR zones based on LT {#frielhr}
 
-In The Triathlete's Training Bible Joe Friel defines seven training zones which limits are calculated in percents of athlete's HR LT, separately for running and cycling:
+In The Triathlete's Training Bible Joe Friel defines seven training zones which limits are calculated in percentage of athlete's LTHR, separately for running and cycling:
 
 | Zones | Zones limits for running | Zones limits for cycling |
 | :--- | :--- | :--- |
@@ -45,19 +45,19 @@ In order to calculate HR zones limits according to Joe Friel method you need to 
 
 **Intensive endurance \(zone 3\)**. With a minor increase in intensity, the production of lactate begins to increase comparing to the previous levels, as in addition to the slow twitch muscle fibers, fast twitch ones spring into action.
 
-**Intensity threshold \(zones 4 and 5a\)**. Possibly, the most important training zone for all-round athletes. The efforts level here is slightly above or slightly below the LT. Thus, aerobic mechanisms are used to the full, the main load falls to slow twitch muscle fibers and body systems that produce energy. A significant part of it starts to produce thanks to anaerobic mechanisms; in the body there appear improvements associated with immunity to the effect of lactate and accelerated utilization of its decay products. Moreover, fast twitch muscle fibres start to show characteristics of the slow twitch ones. In order to separate efforts applied lower and higher the LT level, the intensity threshold is divided to two zones. 
+**Intensity threshold \(zones 4 and 5a\)**. Possibly, the most important training zone for all-round athletes. The efforts level here is slightly above or slightly below the LT. Thus, aerobic mechanisms are used to the full, the main load falls to slow twitch muscle fibers and body systems that produce energy. A significant part of it starts to produce thanks to anaerobic mechanisms; in the body there appear improvements associated with immunity to the effect of lactate and accelerated utilization of its decay products. Moreover, fast twitch muscle fibres start to show characteristics of the slow twitch ones. In order to separate efforts applied lower and higher the LT level, the intensity threshold is divided to two zones.
 
 **Anaerobic endurance \(zone 5b\).** At this stage intensity level is higher than LT. Structured activities are typical for this zone. This stage facilitates growth and development of fast twitch muscle fibres and the body's ability of the to resist the action of lactate and utilize it. Great volume of activities focused on anaerobic endurance development represents the most common reason of professional athletes' overtraining  so these activities should be treated with caution, and they should be followed by a long period of recovery.
 
-**Power \(zone 5c\). **Power development is not so important for all-round athletes. Except situations when an athlete faces difficulties with muscle mass building or when he needs to use fast twitch muscle fibers to increase speed. Power development exercises should consist of short explosive intervals divided long recovery periods. 
+**Power \(zone 5c\). **Power development is not so important for all-round athletes. Except situations when an athlete faces difficulties with muscle mass building or when he needs to use fast twitch muscle fibers to increase speed. Power development exercises should consist of short explosive intervals separated by long recovery periods.
 
-> Zone description data source: The Triathlete's training Bible by Joe Friel. Mann, Ivanov and Ferber publishing house,  Moscow, 2011
+> Zone description data source: The Triathlete's training Bible by Joe Friel. Mann, Ivanov and Ferber publishing house, Moscow, 2011
 
 ####  {#janssenhr}
 
-#### Метод Янсена \(Peter Janssen\), 6 зон от ЧССмакс {#janssenhr}
+#### Peter Janssen method, 6 HR zones based on HR max {#janssenhr}
 
-Питер Янсен в книге "ЧСС, лактат и тренировки на выносливость" определяет 6 зон интенсивности, рассчитывая их границы в процентах от ЧССмакс.
+Peter Janssen in his book "Training Lactate Pulse-Rate" defines 6 intensity zones, calculating their limits in percentage of HR max.
 
 **ЧССмакс** - это максимальная частота сердечных сокращений, наблюдавшаяся у спортсмена при тестировании в лаборатории или во время соревнований.
 
