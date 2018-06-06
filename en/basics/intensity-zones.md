@@ -57,7 +57,7 @@ In order to calculate HR zones limits according to Joe Friel method you need to 
 
 #### Peter Janssen method, 6 HR zones based on HR max {#janssenhr}
 
-Peter Janssen in his book "Training Lactate Pulse-Rate" defines 6 intensity zones, calculating their limits in percentage of HR max.
+Peter Janssen in his book "Training Lactate Pulse-Rate" describes 6 intensity zones, calculating their limits in percentage of HR max.
 
 **ЧССмакс** - это максимальная частота сердечных сокращений, наблюдавшаяся у спортсмена при тестировании в лаборатории или во время соревнований.
 
