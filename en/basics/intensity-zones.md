@@ -1,14 +1,14 @@
 # Determining training zones
 
-Training zones - intensity levels within which certain activities should be completed in order to achieve better training effect.  
-There are several popular methods of determining your training zones limits which differ in the number of zones, basis for their calculation and zones limits.  
+Training zones are intensity levels within which certain activities should be completed in order to achieve better training effect.  
+There are several popular methods of determining your training zones limits which differ in the number of zones, basis of their calculation and zones limits.  
 In Staminity we calculate intensity zones limits using the following methods:
 
 * **HR zones**
 
   * [Joe Friel method, 7 HR zones based on LT](#frielhr)
   * [Peter Janssen method, 6 HR zones based on HRmax](#janssenhr)
-  * [Martti Karvonen  method, 5 HR zones based on HRreserve](#karvonenhr)
+  * [Martti Karvonen method, 5 HR zones based on HRreserve](#karvonenhr)
 
 * **Pace/speed zones**
 
@@ -41,13 +41,13 @@ In order to calculate HR zones limits according to Joe Friel method you need to 
 
 **Recovery \(zone 1\)**. Activities within zone 1 limits include the most simple exercises helping experienced athletes to recover after hard exercises or a period of complex activities.
 
-**Extensive endurance \(zone 2\)**. This intensity type is characterized by long activities focused on endurance development. When completing exercises at such efforts level, firstly formation and then maintenance of aerobic endurance take place. During such activities, lactate is produced in relatively small quantities, which allows to complete long, but at the same time, comfortable training sessions at the athelete's aerobic endurance limit \(or a bit higher\).
+**Extensive endurance \(zone 2\)**. This intensity type is characterized by long activities focused on endurance development. When completing exercises at such efforts level, formation and then maintenance of aerobic endurance take place. During such activities, lactate is produced in relatively small quantities, which allows to complete long, but at the same time, comfortable training sessions at the athlete's aerobic endurance limit \(or a bit higher\).
 
 **Intensive endurance \(zone 3\)**. With a minor increase in intensity, the production of lactate begins to increase comparing to the previous levels, as in addition to the slow twitch muscle fibers, fast twitch ones spring into action.
 
 **Intensity threshold \(zones 4 and 5a\)**. Possibly, the most important training zone for all-round athletes. The efforts level here is slightly above or slightly below the LT. Thus, aerobic mechanisms are used to the full, the main load falls to slow twitch muscle fibers and body systems that produce energy. A significant part of it starts to produce thanks to anaerobic mechanisms; in the body there appear improvements associated with immunity to the effect of lactate and accelerated utilization of its decay products. Moreover, fast twitch muscle fibres start to show characteristics of the slow twitch ones. In order to separate efforts applied lower and higher the LT level, the intensity threshold is divided to two zones.
 
-**Anaerobic endurance \(zone 5b\).** At this stage intensity level is higher than LT. Structured activities are typical for this zone. This stage facilitates growth and development of fast twitch muscle fibres and the body's ability of the to resist the action of lactate and utilize it. Great volume of activities focused on anaerobic endurance development represents the most common reason of professional athletes' overtraining  so these activities should be treated with caution, and they should be followed by a long period of recovery.
+**Anaerobic endurance \(zone 5b\).** At this stage intensity level is higher than LT. Structured activities are typical for this zone. This stage facilitates growth and development of fast twitch muscle fibres and the body's ability to resist the effect of lactate and utilize it. Great volume of activities focused on anaerobic endurance development represents the most common reason of professional athletes' overtraining so these activities should be treated with caution, and they should be followed by a long period of recovery.
 
 **Power \(zone 5c\). **Power development is not so important for all-round athletes. Except situations when an athlete faces difficulties with muscle mass building or when he needs to use fast twitch muscle fibers to increase speed. Power development exercises should consist of short explosive intervals separated by long recovery periods.
 
@@ -57,9 +57,9 @@ In order to calculate HR zones limits according to Joe Friel method you need to 
 
 #### Peter Janssen method, 6 HR zones based on HRmax {#janssenhr}
 
-Peter Janssen in his book "Training Lactate Pulse-Rate" describes 6 intensity zones, calculating their limits in percentage of HRmax.
+Peter Janssen in his book "Training Lactate Pulse-Rate" describes 6 intensity zones and calculates their limits in percentage of HRmax.
 
-**HRmax** - the athlete's maximum heart rate occured during testing in the laboratory or during the competition.
+**HRmax** - the athlete's maximum heart rate occured during testing in a laboratory or during a competition.
 
 | Zones | HR zones limits |
 | :--- | :--- |
@@ -73,18 +73,18 @@ Peter Janssen in his book "Training Lactate Pulse-Rate" describes 6 intensity zo
 In order to calculate HR zones limits according to Peter Janssen method you need to fill in HRmax value, select the corresponding method of calculation in zones settings and save changes:  
 ![](http://content.staminity.com/assets/images/settings/JanssenHRZones.png)
 
-Zones indications:
+Zones marking:
 
 1. **R - recovery **zone. Very low intensity.
 2. **A -  aerobic **zone. Is divided to two sub-zones with low \(A1\) and medium \(A2\) intensity. In aerobic zone energy is produced only thanks to aerobic processes.
-3. **E - endurance **zone. This zone lies a bit higher or a bit lower of the anaerobic threshold level, so energy is produced partly in aerobic and partly in anaerobic way. Also, two sub-zones are distinguished: E1 - transit zone, E2 - high-intensity endurance. 
+3. **E - endurance **zone. This zone lies a bit higher or a bit lower of the anaerobic threshold level, so energy is produced partly in aerobic and partly in anaerobic way. Also, two sub-zones are defined: E1 - transit zone, E2 - high-intensity endurance. 
 4. **An - anaerobic **zone. Is based on anaerobic glycolysis, energy production occurs in conditions of insufficient oxygen supply, which leads to the formation and accumulation of lactic acid. 
 
 #### Martti Karvonen method, 5 HR zones based on HRreserve {#karvonenhr}
 
 Finnish physiologist Martti Karvonen offered to calculate intensity based on **HRreserve**, which is determined as **HRmax - HRrest**.
 
-Based on it, the 5 intensity zones are determined according to the following rules:
+Based on it, 5 intensity zones are determined according to the following rules:
 
 | Zones | HR zones limits |
 | :--- | :--- |
@@ -122,7 +122,7 @@ Zones description see in section [Joe Friel method, 7 HR zones based on LT](#fri
 
 #### Andy Coggan method, 7 power zones based on LT {#cogganpower}
 
-| Zones | Power zones limits for cycling  |
+| Zones | Power zones limits for cycling |
 | :--- | :--- |
 | Zone 1. Active recovery | Lower than 55% of LTPower |
 | Zone 2. Endurance | 55-74% of LT |
