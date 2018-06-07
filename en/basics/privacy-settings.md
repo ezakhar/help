@@ -1,32 +1,38 @@
-#Настройки приватности
+# Privacy settings
 
-Вы можете управлять тем, какая информация о вас доступна другим, в настройках приватности. 
+You can manage visibility of your personal data in privacy settings. 
 
-> Важно! Вне зависимости от настроек приватности:
-* Ваши **фамилия**, **имя**, **фотография** и **фоновое изображение** доступны  для просмотра всем пользователям сервиса.
+> Important! Regardless of privacy settings:
+>
+> * Your **last name, first name, photo **and **background image **are visible to all service users. ** **
 
-Для управления настройками приватности перейдите в Настройки, выберите раздел "Настройки приватности": 
+In order to manage privacy settings go to Settings and select "Privacy settings" section:   
 ![Настройки приватности](http://content.staminity.com/assets/images/_new/settings/user-privacy.png)
 
-В настройках приватности определены следующие категории информации, в разрезе которых определяется ее доступность: 
-  
-**Профиль: персональная информация** 
-_Информация о себе, пол, дата рождения, страна и город проживания, виды спорта._
-> Если вы тренер, то чтобы ваш профиль тренера был заполнен, необходимо проставить в этом поле значение "Все". Это необходимо для отображения информации о вас в результатах поиска тренеров. 
+The following information categories with visibility manageable by the user are provided in privacy settings: 
 
-**Профиль: сводная статистика по тренировкам**
-_Общее количество, продолжительность и расстояние выполненных тренировок_
+**User profile: personal information**   
+_Information about yourself, sex, birthday, country and city, sports. _
 
-**Тренировка: сводная информация (СКОРО)**
-_По каждой выполненной тренировке: просмотр сводной информации, без деталей_
+> In case if you are a coach, then in order for your coach profile to be completed, you need to select "Everyone" attribute in this field. That is required for information about you to be displayed among coach search results.
 
-**Тренировка: детальная фактическая информация (СКОРО)**
-_По каждой выполненной тренировке: полная фактическая информация_
+**Profile: summary statistics**  
+_Total distance and time spent for training by periods_
 
-**Тренировка: план и сравнение план/факт (СКОРО)**
-_По каждой тренировке: план на тренировку, полная фактическая информация, сравнение план/факт_
+**Activity: general information \(UPCOMING\)**  
+_General actual data about your activities_
 
-Для каждой категории информации можно указать, для кого она доступна:
-* **Я и тренер.** Минимальный уровень доступности: информация доступна только для вас и вашего тренера. Если вы тренируетесь в клубе, то информация в данной категории доступна также вашему тренеру клуба и руководству клуба.
-* **Я, тренер и друзья (СКОРО).** Информация доступна дополнительно вашим друзьям.
-* **Все.** Доступ к информации не ограничен. 
+**Activity: detailed actual data \(UPCOMING\)**  
+_Detailed actual data for every activity _
+
+**Activity: plan and actual info \(UPCOMING\)**  
+_Plan and actual data for every activity_
+
+You can also set to whom every information category is available:
+
+* **Me and my coach. **The minimum level of availability: information is available only to you and your coach. If you train in a club, then this information is also available to your club coach and club management.
+* **Me, my coach and friends. **\(UPCOMING\). In addition, information is available to your friends.
+* **Everyone.** Unlimited access to information. 
+
+
+
