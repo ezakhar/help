@@ -31,7 +31,7 @@
 * [Templates](basics/templates.md)
 * [External calendars](basics/calendar-subscription-ical.md)
 * [Methods of calculating training zones limits](basics/intensity-zones.md)
-* [Настройки уведомлений](settings/notifications.md)
+* [Notification settings](settings/notifications.md)
 * [Настройки приватности](basics/privacy-settings.md)
 
 ## Ответы на вопросы

@@ -1,13 +1,18 @@
-#Настройки уведомлений
-В Staminity реализовано большое количество уведомлений, которые помогают оставаться в курсе происходящего в системе.
+# Notification settings
 
-Уведомления отправляются:
-* по почте,
-* в виде пуш-уведомлений в приложение на телефон,
-* в веб-приложении.
+In Staminity there are a lot of notifications which help you to be aware of everything that happens in the system.
 
-Управление настройками отправки уведомлений выполняется в разделе "Настройки - Уведомления".
+Notifications are sent:
+
+* Via email,
+
+* Via mobile app in the form of push-notifications,
+
+* Via web application.
+
+You can manage notification settings in the section 'Settings-Notifications”.
 
 ![Настройка уведомлений в Staminity](https://content.staminity.com/assets/images/_new/settings/user-notifications.png)
 
-Также отключить доставку определенных видов уведомлений по почте можно нажав на кнопку "Отписаться" в письме от Staminity.
+Also, you can cancel sending certain types of notifications by email by clicking on the "Unsubscribe" button in a letter received from Staminity.
+

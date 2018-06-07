@@ -32,7 +32,7 @@ In The Triathlete's Training Bible Joe Friel defines seven training zones which 
 | Zone 4. SubThreshold | 95-99% of LT | 94-99% of LT |
 | Zone 5.a. SuperThreshold | 100-102% of LT | 100-102% of LT |
 | Zone 5.b. Aerobic capacity | 103-106% of LT | 103-106% of LT |
-| Zone 5.c. Anaerobic capacity | More then 106% of LT | More then 106% of LT |
+| Zone 5.c. Anaerobic capacity | More than 106% of LT | More than 106% of LT |
 
 > Data source: [http://www.trainingbible.com/joesblog/2009/11/quick-guide-to-setting-zones.html](http://www.trainingbible.com/joesblog/2009/11/quick-guide-to-setting-zones.html)
 
@@ -43,13 +43,13 @@ In order to calculate HR zones limits according to Joe Friel method you need to 
 
 **Extensive endurance \(zone 2\)**. This intensity type is characterized by long activities focused on endurance development. When completing exercises at such efforts level, formation and then maintenance of aerobic endurance take place. During such activities, lactate is produced in relatively small quantities, which allows to complete long, but at the same time, comfortable training sessions at the athlete's aerobic endurance limit \(or a bit higher\).
 
-**Intensive endurance \(zone 3\)**. With a minor increase in intensity, the production of lactate begins to increase comparing to the previous levels, as in addition to the slow twitch muscle fibers, fast twitch ones spring into action.
+**Intensive endurance \(zone 3\)**. With a minor increase in intensity, the production of lactate begins to increase compared to the previous levels, as in addition to the slow twitch muscle fibers, fast twitch ones spring into action.
 
-**Intensity threshold \(zones 4 and 5a\)**. Possibly, the most important training zone for all-round athletes. The efforts level here is slightly above or slightly below the LT. Thus, aerobic mechanisms are used to the full, the main load falls to slow twitch muscle fibers and body systems that produce energy. A significant part of it starts to produce thanks to anaerobic mechanisms; in the body there appear improvements associated with immunity to the effect of lactate and accelerated utilization of its decay products. Moreover, fast twitch muscle fibres start to show characteristics of the slow twitch ones. In order to separate efforts applied lower and higher the LT level, the intensity threshold is divided to two zones.
+**Intensity threshold \(zones 4 and 5a\)**. Possibly, the most important training zone for all-round athletes. The efforts level here is slightly above or slightly below the LT. Thus, aerobic mechanisms are used to the full, the main load falls to slow twitch muscle fibers and body systems that produce energy. A significant part of it starts to produce thanks to anaerobic mechanisms; in the body there appear improvements associated with immunity to the effect of lactate and accelerated utilization of its decay products. Moreover, fast twitch muscle fibers start to show characteristics of the slow twitch ones. In order to separate efforts applied lower and higher the LT level, the intensity threshold is divided into two zones.
 
-**Anaerobic endurance \(zone 5b\).** At this stage intensity level is higher than LT. Structured activities are typical for this zone. This stage facilitates growth and development of fast twitch muscle fibres and the body's ability to resist the effect of lactate and utilize it. Great volume of activities focused on anaerobic endurance development represents the most common reason of professional athletes' overtraining so these activities should be treated with caution, and they should be followed by a long period of recovery.
+**Anaerobic endurance \(zone 5b\).** At this stage intensity level is higher than LT. Structured activities are typical for this zone. This stage facilitates growth and development of fast twitch muscle fibers and the body's ability to resist the effect of lactate and utilize it. Great volume of activities focused on anaerobic endurance development represents the most common reason of professional athletes' overtraining so these activities should be treated with caution, and they should be followed by a long period of recovery.
 
-**Power \(zone 5c\). **Power development is not so important for all-round athletes. Except situations when an athlete faces difficulties with muscle mass building or when he needs to use fast twitch muscle fibers to increase speed. Power development exercises should consist of short explosive intervals separated by long recovery periods.
+**Power \(zone 5c\). **Power development is not so important for all-round athletes. Except for situations when an athlete faces difficulties with muscle mass building or when he needs to use fast twitch muscle fibers to increase speed. Power development exercises should consist of short explosive intervals separated by long recovery periods.
 
 > Zone description data source: The Triathlete's training Bible by Joe Friel. Mann, Ivanov and Ferber publishing house, Moscow, 2011
 
@@ -59,7 +59,7 @@ In order to calculate HR zones limits according to Joe Friel method you need to 
 
 Peter Janssen in his book "Training Lactate Pulse-Rate" describes 6 intensity zones and calculates their limits in percentage of HRmax.
 
-**HRmax** - the athlete's maximum heart rate occured during testing in a laboratory or during a competition.
+**HRmax** - the athlete's maximum heart rate occurred during testing in a laboratory or during a competition.
 
 | Zones | HR zones limits |
 | :--- | :--- |
@@ -76,7 +76,7 @@ In order to calculate HR zones limits according to Peter Janssen method you need
 Zones marking:
 
 1. **R - recovery **zone. Very low intensity.
-2. **A -  aerobic **zone. Is divided to two sub-zones with low \(A1\) and medium \(A2\) intensity. In aerobic zone energy is produced only thanks to aerobic processes.
+2. **A -  aerobic **zone. Is divided into two sub-zones with low \(A1\) and medium \(A2\) intensity. In aerobic zone energy is produced only thanks to aerobic processes.
 3. **E - endurance **zone. This zone lies a bit higher or a bit lower of the anaerobic threshold level, so energy is produced partly in aerobic and partly in anaerobic way. Also, two sub-zones are defined: E1 - transit zone, E2 - high-intensity endurance. 
 4. **An - anaerobic **zone. Is based on anaerobic glycolysis, energy production occurs in conditions of insufficient oxygen supply, which leads to the formation and accumulation of lactic acid. 
 
