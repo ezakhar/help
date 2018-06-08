@@ -7,16 +7,16 @@
 
 ### What is a training plan {#plan}
 
-**Training plan** is a set of planned activities and recommendations of the coach, which must to be completed by the athlete in order to achieve the plan goals.
+**Training plan** is a set of planned activities and recommendations of the coach, which must be completed by the athlete in order to achieve the plan goals.
 
 ![Training plan in Staminity](https://content.staminity.com/assets/images/methodology/training-plan-builder.png)
 
-It is similar to calendar with planned activities for one athlete but with several significant differences. Such plan can be:
+It is similar to the calendar with planned activities for one athlete but with several significant differences. Such plan can be:
 
 * created with or without fixed dates;
 * made dynamic, so that changes could be transferred to assigned athletes;
 * assigned to several athletes simultaneously;
-* presented as separate product and put up for sale. 
+* presented as a separate product and put up for sale. 
 
 When a coach assigns a training plan to his athletes, all items from the plan appear on their calendars, such as activities, events, and competitions.
 
@@ -32,7 +32,7 @@ In Staminity there are several types of plans:
 
 Training plan without fixed dates is a multipurpose plan. A coach can apply it for different athletes on different dates.
 
-Dates of items for particular athlete are set when such plan is being assigned.
+Dates of items for the particular athlete are set when such plan is being assigned.
 
 ![training plan not fixed dates](https://content.staminity.com/assets/images/_new/methodology/tp-not-fixed-dates.gif)
 
@@ -44,7 +44,7 @@ Such plan can be used:
 
 ### Plan with fixed dates {#fixed}
 
-In the plan with fixed dates a coach sets certain dates when creating plan items.  
+In the plan with fixed dates, a coach sets certain dates when creating plan items.  
 When assigning such plan to athletes, they will have activities on the same dates as in the plan.
 
 ![training plan not fixed dates](https://content.staminity.com/assets/images/_new/methodology/tp-fixed-dates.gif)
@@ -57,7 +57,7 @@ Such plan can be used:
 ### Dynamic plan {#dynamic}
 
 Plan with fixed dates can additionally be made dynamic.  
-In dynamic plan all changes are transferred to assigned athletes.
+In dynamic plan, all changes are transferred to assigned athletes.
 
 ![training plan not fixed dates](https://content.staminity.com/assets/images/_new/methodology/tp-fixed-dynamic.gif)
 
@@ -67,7 +67,7 @@ Such plan will come in handy:
 
 * for working with **corporate running and triathlon team** that train according to the same schedule. In this case, the coach works with one plan, and each team member sees actual schedule on his calendar.
 
-* for planning group activities. Clubs that hold group offline activities, can use dynamic plan for this purpose. In this case, each athlete will have both individual schedule and group offline activities on his calendar.  
+* for planning group activities. Clubs that hold group offline activities, can use dynamic plan for this purpose. In this case, each athlete will have both individual schedule and group offline activities on his calendar.
 
 
 
