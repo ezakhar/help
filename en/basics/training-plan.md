@@ -7,7 +7,7 @@
 
 ### What is a training plan {#plan}
 
-**Training plan** is a set of planned activities and recommendations of the coach, which must be completed by the athlete in order to achieve the plan goals.
+**Training plan** is a set of planned activities and recommendations of a coach, which must be completed by an athlete in order to achieve the plan goals.
 
 ![Training plan in Staminity](https://content.staminity.com/assets/images/methodology/training-plan-builder.png)
 
@@ -18,7 +18,7 @@ It is similar to the calendar with planned activities for one athlete but with s
 * assigned to several athletes simultaneously;
 * presented as a separate product and put up for sale. 
 
-When a coach assigns a training plan to his athletes, all items from the plan appear on their calendars, such as activities, events, and competitions.
+When a coach assigns a training plan to his athletes, all items from the plan \(activities, events, and competitions\) appear on their calendars.
 
 ![Training plan operating principle](https://content.staminity.com/assets/images/_new/methodology/training-plan-scheme.png)
 
@@ -30,7 +30,7 @@ In Staminity there are several types of plans:
 
 ### Plan with non-fixed dates {#notfixed}
 
-Training plan without fixed dates is a multipurpose plan. A coach can apply it for different athletes on different dates.
+Training plan with non-fixed dates is a multipurpose plan. A coach can apply it for different athletes on different dates.
 
 Dates of items for the particular athlete are set when such plan is being assigned.
 
