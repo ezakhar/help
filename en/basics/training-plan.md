@@ -42,9 +42,9 @@ Such plan can be used:
 * as a universal author’s plan for preparing amateurs of approximately the same level to their first marathon, half-marathon, first run.  
 * as a template of several weeks of activities, focused on certain skills development.
 
-### Plan with fixed dates  {#fixed}
+### Plan with fixed dates {#fixed}
 
-In the plan with fixed dates a coach sets certain dates when creating plan items.   
+In the plan with fixed dates a coach sets certain dates when creating plan items.  
 When assigning such plan to athletes, they will have activities on the same dates as in the plan.
 
 ![training plan not fixed dates](https://content.staminity.com/assets/images/_new/methodology/tp-fixed-dates.gif)
@@ -56,18 +56,18 @@ Such plan can be used:
 
 ### Dynamic plan {#dynamic}
 
-Plan with fixed dates can additionally be made dynamic.   
-In dynamic plan all changes are transferred to assigned athletes. 
+Plan with fixed dates can additionally be made dynamic.  
+In dynamic plan all changes are transferred to assigned athletes.
 
 ![training plan not fixed dates](https://content.staminity.com/assets/images/_new/methodology/tp-fixed-dynamic.gif)
 
-Такой план удобно использовать:
+Such plan will come in handy:
 
-* для проведения **тренировочных сборов**. Группа спортсменов, выезжающая на сбор, прикрепляется к такому плану и каждый участник сбора видит в своем календаре актуальное расписание тренировок. Если по каким-то причинам расписание меняется, организаторам достаточно внести изменения в один план и они будут переданы всем спортсменам.
+* for holding** training camps**. Group of athletes, participating in the camp, is assigned to such plan and each participant sees an actual schedule on his calendar. If for some reason there are changes in the schedule, organizers need to edit only one plan and changes will be transferred to all athletes
 
-* для работы тренера с **корпоративной командой по бегу и триатлону**, занимающейся по одному расписанию. Тренер работает в этом случае с одним планом, а каждый член команды в своем календаре видит актуальное расписание.
+* for working with **corporate running and triathlon team** that train according to the same schedule. In this case, the coach works with one plan, and each team member sees actual schedule on his calendar.
 
-* для планирования общих тренировок. Клубы, которые проводят общие очные тренировки, могут использовать для этого обновляемый план. И тогда у каждого ученика расписание в календаре будет индивидуальное, но туда же будут попадать и общегрупповые очные тренировки.
+* for planning group activities. Clubs that hold group offline activities, can use dynamic plan for this purpose. In this case, each athlete will have both individual schedule and group offline activities on his calendar.  
 
 
 
