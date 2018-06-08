@@ -1,27 +1,26 @@
-# Тренировочные планы в Staminity. Виды планов
+# Training plans in Staminity. Plan types
 
+* [What is a training plan](#plan)
+* [Plan without fixed dates](#notfixed)
+* [Plan with fixed dates](#fixed)
+* [Dynamic plan](#dynamic)
 
-* [Что такое тренировочный план](#plan)
-* [План с нефиксированными датами](#notfixed)
-* [План с фиксированными датами](#fixed)
-* [Обновляемый план](#dynamic)
+### What is a training plan {#plan}
 
-### Что такое тренировочный план {#plan}
+**Training plan** is a set of planned activities and recommendations of the coach, which must to be completed by the athlete in order to achieve the plan goals.
 
-**Тренировочный план** - это набор плановых тренировок и рекомендаций тренера, которые необходимо выполнить ученику для достижения целей плана.
+![Training plan in Staminity](https://content.staminity.com/assets/images/methodology/training-plan-builder.png)
 
-![Тренировочный план в Staminity](https://content.staminity.com/assets/images/methodology/training-plan-builder.png)
+It is similar to calendar with planned activities for one athlete but with several significant differences. Such plan can be:
 
-Он похож на календарь с запланированными тренировками для одного ученика, но с несколькими существенными отличиями. Такой план можно:
+* created with or without fixed dates;
+* made dynamic, so that changes could be transferred to assigned athletes;
+* assigned to several athletes simultaneously;
+* presented as separate product and put up for sale. 
 
-* сделать как в определенные календарные даты, так и без привязки к датам;
-* сделать обновляемым, чтобы изменения транслировались ученикам и после присвоений;
-* присвоить сразу нескольким ученикам;
-* упаковать как отдельный продукт и выставить на продажу.
+When a coach assigns a training plan to his athletes, all items from the plan appear on their calendars, such as activities, events, and competitions.
 
-Когда тренер присваивает тренировочный план нескольким своим ученикам, в их календарях появляются все записи из плана: тренировки, события и соревнования. 
-
-![Принцип работы тренировочного плана](https://content.staminity.com/assets/images/_new/methodology/training-plan-scheme.png)
+![Training plan operating principle](https://content.staminity.com/assets/images/_new/methodology/training-plan-scheme.png)
 
 В Staminity есть несколько видов планов:
 
@@ -29,8 +28,7 @@
 * План с фиксированными датами;
 * Обновляемый план.
 
-
-###План с нефиксированными датами{#notfixed}
+### План с нефиксированными датами {#notfixed}
 
 Тренировочный план с нефиксированными датами - это универсальный план. Тренер может применять его для разных учеников в разные даты.
 
@@ -44,23 +42,21 @@
 * как универсальный авторский план подготовки любителей примерно одного уровня к своему первому марафону, полумарафону, первому забегу
 * как шаблон нескольких недель тренировок, направленный на развитие определенных качеств учеников.
 
+### План с фиксированными датами {#fixed}
 
-###План с фиксированными датами{#fixed}
-
-В плане с фиксированными датами тренер создает записи в плане в определенные календарные даты.
+В плане с фиксированными датами тренер создает записи в плане в определенные календарные даты.  
 При присвоении такого плана ученикам в даты плана, у всех учеников тренировки будут в тех же датах
 
 ![training plan not fixed dates](https://content.staminity.com/assets/images/_new/methodology/tp-fixed-dates.gif)
 
 Такой план можно применять:
 
-* как авторский план подготовки любителей к определенному старту (Московский марафон, Берлинский марафон);
+* как авторский план подготовки любителей к определенному старту \(Московский марафон, Берлинский марафон\);
 * для составления плана групповых тренировок.
 
+### Обновляемый план {#dynamic}
 
-###Обновляемый план{#dynamic}
-
-План с фиксированными датами можно дополнительно сделать обновляемым.
+План с фиксированными датами можно дополнительно сделать обновляемым.  
 В обновляемом плане все изменения, которые вносит тренер в своем плане, транслируются ученикам даже после присвоения.
 
 ![training plan not fixed dates](https://content.staminity.com/assets/images/_new/methodology/tp-fixed-dynamic.gif)
@@ -72,3 +68,6 @@
 * для работы тренера с **корпоративной командой по бегу и триатлону**, занимающейся по одному расписанию. Тренер работает в этом случае с одним планом, а каждый член команды в своем календаре видит актуальное расписание.
 
 * для планирования общих тренировок. Клубы, которые проводят общие очные тренировки, могут использовать для этого обновляемый план. И тогда у каждого ученика расписание в календаре будет индивидуальное, но туда же будут попадать и общегрупповые очные тренировки.
+
+
+
