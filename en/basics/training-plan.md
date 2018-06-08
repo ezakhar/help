@@ -1,7 +1,7 @@
 # Training plans in Staminity. Plan types
 
 * [What is a training plan](#plan)
-* [Plan without fixed dates](#notfixed)
+* [Plan with non-fixed dates](#notfixed)
 * [Plan with fixed dates](#fixed)
 * [Dynamic plan](#dynamic)
 
@@ -22,17 +22,17 @@ When a coach assigns a training plan to his athletes, all items from the plan ap
 
 ![Training plan operating principle](https://content.staminity.com/assets/images/_new/methodology/training-plan-scheme.png)
 
-В Staminity есть несколько видов планов:
+In Staminity there are several types of plans:
 
-* План с не фиксированными датами;
-* План с фиксированными датами;
-* Обновляемый план.
+* Plan with non-fixed dates;
+* Plan with fixed dates;
+* Dynamic plan.
 
-### План с нефиксированными датами {#notfixed}
+### Plan with non-fixed dates {#notfixed}
 
-Тренировочный план с нефиксированными датами - это универсальный план. Тренер может применять его для разных учеников в разные даты.
+Training plan without fixed dates is a multipurpose plan. A coach can apply it for different athletes on different dates.
 
-Даты записей в календаре спортсменов определяются при каждом присвоении такого плана.
+Dates of items for particular athlete are set when such plan is being assigned.
 
 ![training plan not fixed dates](https://content.staminity.com/assets/images/_new/methodology/tp-not-fixed-dates.gif)
 
