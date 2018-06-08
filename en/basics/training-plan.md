@@ -36,28 +36,28 @@ Dates of items for particular athlete are set when such plan is being assigned.
 
 ![training plan not fixed dates](https://content.staminity.com/assets/images/_new/methodology/tp-not-fixed-dates.gif)
 
-Такой план можно использовать:
+Such plan can be used:
 
-* как типовой план для начала работы с новичками
-* как универсальный авторский план подготовки любителей примерно одного уровня к своему первому марафону, полумарафону, первому забегу
-* как шаблон нескольких недель тренировок, направленный на развитие определенных качеств учеников.
+* as a typical plan for starting work with newbies; 
+* as a universal author’s plan for preparing amateurs of approximately the same level to their first marathon, half-marathon, first run.  
+* as a template of several weeks of activities, focused on certain skills development.
 
-### План с фиксированными датами {#fixed}
+### Plan with fixed dates  {#fixed}
 
-В плане с фиксированными датами тренер создает записи в плане в определенные календарные даты.  
-При присвоении такого плана ученикам в даты плана, у всех учеников тренировки будут в тех же датах
+In the plan with fixed dates a coach sets certain dates when creating plan items.   
+When assigning such plan to athletes, they will have activities on the same dates as in the plan.
 
 ![training plan not fixed dates](https://content.staminity.com/assets/images/_new/methodology/tp-fixed-dates.gif)
 
-Такой план можно применять:
+Such plan can be used:
 
-* как авторский план подготовки любителей к определенному старту \(Московский марафон, Берлинский марафон\);
-* для составления плана групповых тренировок.
+* as an author’s plan for preparing amateurs for a specific race \(Moscow marathon, Berlin marathon\);
+* for composing group activity plan.
 
-### Обновляемый план {#dynamic}
+### Dynamic plan {#dynamic}
 
-План с фиксированными датами можно дополнительно сделать обновляемым.  
-В обновляемом плане все изменения, которые вносит тренер в своем плане, транслируются ученикам даже после присвоения.
+Plan with fixed dates can additionally be made dynamic.   
+In dynamic plan all changes are transferred to assigned athletes. 
 
 ![training plan not fixed dates](https://content.staminity.com/assets/images/_new/methodology/tp-fixed-dynamic.gif)
 
