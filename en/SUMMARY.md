@@ -28,12 +28,11 @@
 * [Season planning and periodization](basics/season-plan.md)
 * [Periodization schemes](methodology/periodisation-schemes.md)
 * [Activity categories](basics/categories.md)
-* [Управление шаблонами тренировок](basics/templates.md)
-* [Работа с группами спортсменов - Тренировочные планы](basics/training-plan.md)
-* [Внешние календари \(iCal\)](basics/calendar-subscription-ical.md)
-* [Методы расчета границ тренировочных зон](basics/intensity-zones.md)
-* [Настройки уведомлений](settings/notifications.md)
-* [Настройки приватности](basics/privacy-settings.md)
+* [Templates](basics/templates.md)
+* [External calendars](basics/calendar-subscription-ical.md)
+* [Methods of calculating training zones limits](basics/intensity-zones.md)
+* [Notification settings](settings/notifications.md)
+* [Privacy settings](basics/privacy-settings.md)
 
 ## Ответы на вопросы
 
@@ -42,7 +41,10 @@
 
 ## Магазин тренировочных планов
 
+* [Training plans in Staminity. Plan types](basics/training-plan.md)
+* [Управление тренировочными планами](basics/training-plan-management.md)
 * [Продажа тренировочных планов](training-plans/training-plans-for-coaches.md)
+* [Как заполнить профиль Автора планов](basics/plan-author-profile.md)
 
 ## Tariffs and payments
 
