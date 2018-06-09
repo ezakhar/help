@@ -7,14 +7,14 @@
 
 ### What is a training plan {#plan}
 
-**Training plan** is a set of planned activities and recommendations of a coach, which must be completed by an athlete in order to achieve the plan goals.
+**Training plan** is a set of planned activities and recommendations of a coach, which must be completed by an athlete in order to achieve the planned goals.
 
 ![Training plan in Staminity](https://content.staminity.com/assets/images/methodology/training-plan-builder.png)
 
 It is similar to the calendar with planned activities for one athlete but with several significant differences. Such plan can be:
 
 * created with or without fixed dates;
-* made dynamic, so that changes could be transferred to assigned athletes;
+* made dynamic, so that changes will be transferred to assigned athletes;
 * assigned to several athletes simultaneously;
 * presented as a separate product and put up for sale. 
 
@@ -39,7 +39,7 @@ Dates of items for the particular athlete are set when such plan is being assign
 Such plan can be used:
 
 * as a typical plan for starting work with newbies; 
-* as a universal author’s plan for preparing amateurs of approximately the same level to their first marathon, half-marathon, first run.  
+* as a universal author’s plan for preparing amateurs of approximately the same level for their first marathon, half-marathon, first run.  
 * as a template of several weeks of activities, focused on certain skills development.
 
 ### Plan with fixed dates {#fixed}
