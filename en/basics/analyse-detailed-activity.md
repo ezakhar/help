@@ -47,7 +47,7 @@ The following information is available in a completed activity, uploaded from sp
 ### Comparing planned and actual values - “Overview” tab {#planfact}
 
 Total planned and actual values are compared on the “Overview” tab.  
-![](http://content.staminity.com/assets/images/ActivityPlanFact.png)
+![](http://264710.selcdn.ru/assets/images/ActivityPlanFact.png)
 
 Percent of the planned activities’ completion is calculated based on the results of the planned and actual values of duration/distance and intensity indicators comparison.
 
@@ -63,7 +63,7 @@ Percent of completion for structured activities is calculated based on the perce
 
 There is an indicators chart for each completed activity.
 
-![Managing the indicators chart](https://content.staminity.com/assets/images/_new/activity/measures-chart-actions.gif)
+![Managing the indicators chart](https://264710.selcdn.ru/assets/images/_new/activity/measures-chart-actions.gif)
 
 The chart is composed by time or by distance and displays the following indicators \(the set depends on the list of indicators recorded by the device\):
 
@@ -74,7 +74,7 @@ The chart is composed by time or by distance and displays the following indicato
 * cadence.
 
 Elements of the chart management:  
-![Managing the indicators chart](https://content.staminity.com/assets/images/_new/activity/measures-chart.png)
+![Managing the indicators chart](https://264710.selcdn.ru/assets/images/_new/activity/measures-chart.png)
 
 * 1 - Сhart selector: **indicators chart/segments chart**. It is available only for structured activities and allow to switch between **indicators chart** and [segments chart](#segmentpanel). 
 * 2 - Turn on/turn off the **auto zoom** attribute. If the auto zoom is turned on, then when you select a part of the chart, it changes its scale and the selected part is displayed at full width of the screen. 
@@ -98,7 +98,7 @@ There are indicators available:
 * for a selected segment or several segments from the list of segments; 
 * for any part of the activity, selected on the chart.
 
-![Indicators in activity](http://content.staminity.com/assets/images/_new/activity/activity-details-measures.png)
+![Indicators in activity](http://264710.selcdn.ru/assets/images/_new/activity/activity-details-measures.png)
 
 ### Peaks by distance and by time - “Details” tab {#peaks}
 
@@ -112,7 +112,7 @@ Peaks are calculated by time and by distance for the following indicators:
 * pace
 * power
 
-![Peaks](http://content.staminity.com/assets/images/_new/activity/activity-details-peaks.png)
+![Peaks](http://264710.selcdn.ru/assets/images/_new/activity/activity-details-peaks.png)
 
 As well as indicators, there are peaks available:
 
@@ -124,14 +124,14 @@ As well as indicators, there are peaks available:
 ### Laps panel {#laps}
 
 In the laps table, you will find information about the main duration/distance and intensity indicators for each lap.  
-![Managing indicators chart](https://content.staminity.com/assets/images/_new/activity/activity-laps.png)
+![Managing indicators chart](https://264710.selcdn.ru/assets/images/_new/activity/activity-laps.png)
 
 The selected lap is displayed on the chart and on the map, and information about its calculated indicators and peaks is provided on the “Details” tab.
 
 ### Time in zones {#timeinzone}
 
 The "Zones" tab displays the activity duration in each zone, for each intensity indicator.  
-![ВTime in zones](http://content.staminity.com/assets/images/settings/Staminity-time-in-zones-480.gif)
+![ВTime in zones](http://264710.selcdn.ru/assets/images/settings/Staminity-time-in-zones-480.gif)
 
 You can set up the training zones limits in the section ["Settings” - “Zones”](/basics/getting-started.md#trainingzones)
 
@@ -139,7 +139,7 @@ You can set up the training zones limits in the section ["Settings” - “Zones
 
 For a structured activity, planned by segments, there are the following additional analysis options available:
 
-![Analysis of a structured activity](https://content.staminity.com/assets/images/_new/activity/activity-structured-analysis.png)
+![Analysis of a structured activity](https://264710.selcdn.ru/assets/images/_new/activity/activity-structured-analysis.png)
 
 * **1 - panel of the total values by segments**. 
 
@@ -149,7 +149,7 @@ It allows to choose a display mode “Planned” / “Completed” / “Groups�
 * Completed - actual values by segments.
 * Groups - allows to manage the mode of data display: per each segment or per group of segments.
 
-![Analysis of a structured activity](https://content.staminity.com/assets/images/_new/activity/activity-segment-panel.gif)
+![Analysis of a structured activity](https://264710.selcdn.ru/assets/images/_new/activity/activity-segment-panel.gif)
 
 * **2 - chart of planned/actual values by segments** 
 

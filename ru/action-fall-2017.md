@@ -2,7 +2,7 @@
 
 Акция **для всех новых и текущих пользователей** Стаминити:
 
-![](http://content.staminity.com/assets/images/promo/20prc-discount-review.png)
+![](http://264710.selcdn.ru/assets/images/promo/20prc-discount-review.png)
 
 ###Как получить скидку 20% по тарифам до конца 2017 года
 

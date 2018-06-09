@@ -8,7 +8,7 @@
 * задать нам вопрос,
 * поддержать идеи и сообщения других пользователей.
 
-![](http://content.staminity.com/assets/images/general/reformal.png)
+![](http://264710.selcdn.ru/assets/images/general/reformal.png)
 
 Большая просьба при отправке нам сообщений о проблемах указывать в тексте:
 * какой браузер вы используете;

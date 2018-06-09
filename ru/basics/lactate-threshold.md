@@ -9,8 +9,8 @@
 
 В Стаминити мы предусмотрели указание текущего уровня ПАНО по всем показателям интенсивности в разрезе видов спорта
 
-![](http://content.staminity.com/assets/images/settings/Staminity-settings-zones-by-sport.png)
+![](http://264710.selcdn.ru/assets/images/settings/Staminity-settings-zones-by-sport.png)
 
 По выполненной тренировке мы также показываем интенсивность в % от ПАНО.
 
-![](http://content.staminity.com/assets/images/settings/Staminity-intensity-by-FTP.png)
+![](http://264710.selcdn.ru/assets/images/settings/Staminity-intensity-by-FTP.png)

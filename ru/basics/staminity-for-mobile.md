@@ -7,7 +7,7 @@
 
 Приложение Staminity для смартфонов доступно на платформах IOS и Android. Мобильные приложения не смогут заменить полноценную веб-версию, но помогут узнать план на сегодня или изменить ранее запланированную тренировку. 
 
-![Стаминити для компьютера и смартфона](https://content.staminity.com/assets/images/mobile/mobile-options-2.png)
+![Стаминити для компьютера и смартфона](https://264710.selcdn.ru/assets/images/mobile/mobile-options-2.png)
 
 Скачать приложение в App Store и Google Play:
 
@@ -50,23 +50,23 @@
 
 Сравнение функций различных версий Staminity:
 
-![Стаминити для компьютера и смартфона](https://content.staminity.com/assets/images/mobile/web-mobile-compare.png)
+![Стаминити для компьютера и смартфона](https://264710.selcdn.ru/assets/images/mobile/web-mobile-compare.png)
 
 Под ваши задачи выбирайте нужную вам версию.
 
 ###Через браузер смартфона или планшета{#pwa}
 Также работать в Staminity можно, зайдя к нам на сайт со смартфона или планшета, где доступна специальная адаптивная версия для мобильных устройств.
 
-![Стаминити для компьютера и смартфона](https://content.staminity.com/assets/images/mobile-pwa/Desktop-and-mobile2.png)
+![Стаминити для компьютера и смартфона](https://264710.selcdn.ru/assets/images/mobile-pwa/Desktop-and-mobile2.png)
 
 Если часто используете адаптивную версию сайта, рекомендуем сохранить приложение на рабочий стол вашего устройства. Это позволит работать с ним практически как с обычным приложением для телефона.
 
 Для этого откройте сайт [https://staminity.com](https://staminity.com) через браузер вашего смартфона и в опциях браузера выберите "Добавить на главный экран"
 
-<p style="text-align:center"><img src="https://content.staminity.com/assets/images/mobile-pwa/save-to-desktop.gif" alt="Сохранить приложение на рабочий стол смартфона"/></p>
+<p style="text-align:center"><img src="https://264710.selcdn.ru/assets/images/mobile-pwa/save-to-desktop.gif" alt="Сохранить приложение на рабочий стол смартфона"/></p>
 
 После этого при первом входе в приложение нужно ввести имя и пароль, либо войти через социальные сети:
 
-<p style="text-align:center"><img src="https://content.staminity.com/assets/images/mobile-pwa/signin-pwa.gif" alt="Вход в приложение"/></p>
+<p style="text-align:center"><img src="https://264710.selcdn.ru/assets/images/mobile-pwa/signin-pwa.gif" alt="Вход в приложение"/></p>
 
 Приложение запомнит введенные данные и в дальнейшем можно входить в приложение без ввода имени и пароля. 

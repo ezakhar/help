@@ -8,7 +8,7 @@ Any user of Staminity can analyze his own data and coach with enabled "Coach" ta
 
 In order to proceed to the view, you should click on the "Analytics and reports" item in the menu to the left. 
 
-![Analytics and reports](http://content.staminity.com/assets/images/_new/analytics/analytics-navigation.png)
+![Analytics and reports](http://264710.selcdn.ru/assets/images/_new/analytics/analytics-navigation.png)
 
 Structure of the "Analytics and reports" view: 
 
@@ -31,7 +31,7 @@ Structure of the "Analytics and reports" view:
 ### Add the required charts
 
 In order to change the list of the available charts displayed in the main panel, go to the “Reports” tab in the left panel:  
-![Add report](http://content.staminity.com/assets/images/_new/analytics/analytics-reports.png)
+![Add report](http://264710.selcdn.ru/assets/images/_new/analytics/analytics-reports.png)
 
 Set the display attribute to the “Turned on” mode for the required reports, and to the “Turned off” mode for the ones you want to hide.
 
@@ -41,7 +41,7 @@ Each chart has its own settings. In order to change them, click on the “Settin
 
 The following parameters are available in the chart settings window:
 
-![Change report settings](http://content.staminity.com/assets/images/_new/analytics/analytics-chart-settings.png)
+![Change report settings](http://264710.selcdn.ru/assets/images/_new/analytics/analytics-chart-settings.png)
 
 * **1 - Attribute "Use general params". **In case if it is “Turned on” then the chart will be composed based on the general params \(panel \[1\] on the first image\), and if it is “Turned off” - on the local parameters.
 

@@ -26,7 +26,7 @@ The following terms are used in the periodization concept:
 In order to create a season plan:
 * click on the “Season plan” item in the menu to the left
 * for a coach - select an athlete
-![Select athlete in a season plan Staminity](https://content.staminity.com/assets/images/periodization/season-new-plan.gif)
+![Select athlete in a season plan Staminity](https://264710.selcdn.ru/assets/images/periodization/season-new-plan.gif)
 
 If there are no previously created season plans, create a new plan. You will need to set:
 * Plan name
@@ -37,13 +37,13 @@ If there are no previously created season plans, create a new plan. You will nee
 
 > Please note! After the season plan creation, you won’t be able to edit anything except its name and description:
 
-![Season plan in Staminity](https://content.staminity.com/assets/images/periodization/season-create.png)
+![Season plan in Staminity](https://264710.selcdn.ru/assets/images/periodization/season-create.png)
 
 In the created plan, you need to set a mesocycle for each microcycle (week)
-![Season planning by mesocycles](https://content.staminity.com/assets/images/periodization/season-builder-create.gif)
+![Season planning by mesocycles](https://264710.selcdn.ru/assets/images/periodization/season-builder-create.gif)
 
 and planned training load:
-![Load planning by mesocycles](https://content.staminity.com/assets/images/periodization/season-builder-plan.gif)
+![Load planning by mesocycles](https://264710.selcdn.ru/assets/images/periodization/season-builder-plan.gif)
 
 The fact of the season plan completion will be formed automatically based on the current plan in the calendar and completed activities.
-![Season plan in Staminity](https://content.staminity.com/assets/images/periodization/season-builder.png)
+![Season plan in Staminity](https://264710.selcdn.ru/assets/images/periodization/season-builder.png)

@@ -38,7 +38,7 @@ Description of season planning with the use of periodization schemes - in [separ
 
 The window for working with schemes is divided into two blocks
 
-![Periodization schemes in Staminity](https://content.staminity.com/assets/images/periodization/schemes-overview.png)
+![Periodization schemes in Staminity](https://264710.selcdn.ru/assets/images/periodization/schemes-overview.png)
 
 Periodization schemes are presented to the left and mesocycles for the selected scheme - to the right.
 
@@ -46,7 +46,7 @@ Periodization schemes are presented to the left and mesocycles for the selected 
 
 In order to add scheme, you need to click on the “Create new scheme” button located to the left, then enter name and description of the scheme.
 
-![Add periodization scheme in Staminity](https://content.staminity.com/assets/images/periodization/schemes-create.png)
+![Add periodization scheme in Staminity](https://264710.selcdn.ru/assets/images/periodization/schemes-create.png)
 
 ### Add mesocycles to the scheme
 
@@ -54,7 +54,7 @@ In order to add mesocycle to the scheme, you need to select the required scheme 
 
 > You can add mesocycle only to the previously created scheme, you cannot edit system schemes.
 
-![Add mesocycle to the periodization scheme in Staminity](https://content.staminity.com/assets/images/periodization/mesocycle-add.png)
+![Add mesocycle to the periodization scheme in Staminity](https://264710.selcdn.ru/assets/images/periodization/mesocycle-add.png)
 
 When creating a mesocycle, you need to set its name and color. Add a description if needed. The selected mesocycle color will be used to visualize the training load schedule during the season and in the athlete's calendar.
 

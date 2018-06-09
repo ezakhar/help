@@ -16,7 +16,7 @@
 
 Если вы тренер, поставьте галочку "Я - тренер".
 
-![Staminity signup](http://content.staminity.com/assets/images/settings/Signup.png)
+![Staminity signup](http://264710.selcdn.ru/assets/images/settings/Signup.png)
 
 Если выбран способ регистрации через e-mail, необходимо подтвердить почтовый адрес, перейдя по ссылке в письме. Если письмо долго не приходит, проверьте папку Спам.
 
@@ -24,7 +24,7 @@
 Переход к настройкам выполняется в правом меню, по нажатию на пункт "Настройки" или по ссылке: [staminity.com/settings](http://staminity.com/settings).
 Информация о вас, указанная в разделе "Персональная информация", используется в вашем профиле в сервисе.
 
-![Staminity profile personal settings](http://content.staminity.com/assets/images/PersonalSettings.png)
+![Staminity profile personal settings](http://264710.selcdn.ru/assets/images/PersonalSettings.png)
 
 Обратите внимание на поле, выделенное красным. Здесь можно ввести удобный псевдоним для доступа к вашему профилю. 
 
@@ -45,12 +45,12 @@ staminity.com/user/[псевдоним]
 - выбрать один из доступных [методов](/basics/intensity-zones.md) расчета тренировочных зон или указать метод "Вручную" для ввода значений вручную.
 - сохранить введенные или рассчитанные значения.
 
-![](http://content.staminity.com/assets/images/settings/SetZones.gif)
+![](http://264710.selcdn.ru/assets/images/settings/SetZones.gif)
 
 
 ###Настройте автоматическую загрузку фактических тренировок{#sync}
 В Стаминити реализована автоматическая загрузка тренировок из Garmin Connect и из Strava.
-![Staminity sync settings](http://content.staminity.com/assets/images/settings/Sync-settings.png)
+![Staminity sync settings](http://264710.selcdn.ru/assets/images/settings/Sync-settings.png)
 
 **Если у вас часы Garmin**, в настройках нужно ввести данные вашей учетной записи в Garmin Connect и тренировки с выбранной даты начальной синхронизации будут загружены в Стаминити. При выполнении каждой новой тренировки они будут автоматически загружаться в сервис. 
 
@@ -64,12 +64,12 @@ staminity.com/user/[псевдоним]
 
 ### Найдите тренера или клуб и подключитесь к нему {#startcoach}
 Для поиска тренера необходимо в левом меню выбрать пункт **"Поиск"** 
-![Staminity find coach](http://content.staminity.com/assets/images/settings/Find-coach.png)
+![Staminity find coach](http://264710.selcdn.ru/assets/images/settings/Find-coach.png)
 
 Запрос тренеру выполняется из его профиля.
 Необходимо перейти в профиль тренера из результатов поиска и нажать на "Начать тренироваться".
 
-![Staminity send request to coach](http://content.staminity.com/assets/images/StartCoaching_4.gif)
+![Staminity send request to coach](http://264710.selcdn.ru/assets/images/StartCoaching_4.gif)
 
 Статус в профиле тренера "Заявка отправлена" покажет, что ваш запрос был адресован тренеру и ожидает его одобрения.
 

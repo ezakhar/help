@@ -19,7 +19,7 @@ related:
 Календарь содержит расписание тренировок на неделю, запланированных и выполненных. Он поможет оценить статус выполнения плана на неделю и сложность отдельных заданий.
 
 
-![Навигация в календаре](https://content.staminity.com/assets/images/_new/calendar/calendar-navigation.png)
+![Навигация в календаре](https://264710.selcdn.ru/assets/images/_new/calendar/calendar-navigation.png)
 
 **Содержимое окна календаря: **
 * 1 - Выбор спортсмена (для тренера);
@@ -38,7 +38,7 @@ related:
 
 В тренировочной неделе в календаре отображаются:
 
-![Записи в календаре](https://content.staminity.com/assets/images/_new/calendar/calendar-calendaritems.png)
+![Записи в календаре](https://264710.selcdn.ru/assets/images/_new/calendar/calendar-calendaritems.png)
 
 1. Запланированные и выполненные [тренировочные задания](/basics/create-plan-activity.md) с планом на всю тренировку;
 2. Запланированные и выполненные [тренировочные задания](/basics/create-plan-activity.md), в которых план разбит по нескольким сегментам;

@@ -36,20 +36,20 @@
 ###Работа со схемами
 Окно работы со схемами разделено на два блока
 
-![Схемы периодизации в Staminity](https://content.staminity.com/assets/images/periodization/schemes-overview.png)
+![Схемы периодизации в Staminity](https://264710.selcdn.ru/assets/images/periodization/schemes-overview.png)
 
 В левой части приведены схемы периодизации, а в правой - мезоциклы для выбранной схемы.
 
 ###Добавление схемы
 Для добавления схемы нажмите на кнопку "Создать новую схему" в левой части экрана, введите название и описание схемы.
 
-![Добавить схему периодизации в Staminity](https://content.staminity.com/assets/images/periodization/schemes-create.png)
+![Добавить схему периодизации в Staminity](https://264710.selcdn.ru/assets/images/periodization/schemes-create.png)
 
 ###Добавление мезоциклов в схему
 Для добавления мезоцикла в схему выделите нужную схему в левой части экрана и нажмите на "+" справа. 
 > Добавить мезоцикл можно только в ранее созданную схему, изменение системных схем невозможно
 
-![Добавить мезоцикл в схему периодизации в Staminity](https://content.staminity.com/assets/images/periodization/mesocycle-add.png)
+![Добавить мезоцикл в схему периодизации в Staminity](https://264710.selcdn.ru/assets/images/periodization/mesocycle-add.png)
 
 При создании мезоцикла введите его название и цвет, при необходимости добавьте описание. 
 Выбранный цвет мезоцикла будет использоваться для наглядного представления графика нагрузки в ходе сезона, а также в календаре спортсмена.

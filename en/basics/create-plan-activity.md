@@ -23,7 +23,7 @@ Here’s how the same activity
 
 looks when created with segments and without them:
 
-![2 вида тренировок в Staminity](https://content.staminity.com/assets/images/_new/about/2-activity-types.png)
+![2 вида тренировок в Staminity](https://264710.selcdn.ru/assets/images/_new/about/2-activity-types.png)
 
 For structured activities the percent of completion is calculated automatically for each segment, thus allowing the coach to promptly estimate the correctness of the athlete’s performance.
 
@@ -32,11 +32,11 @@ For structured activities the percent of completion is calculated automatically 
 **Through the calendar:**  
 1.Open your calendar or the athlete’s calendar, in case if you plan an activity for an athlete. You can choose an athlete in the top panel of the calendar: 
 
-![Выбрать спортсмена](https://content.staminity.com/assets/images/calendar/athlete-selector.gif)
+![Выбрать спортсмена](https://264710.selcdn.ru/assets/images/calendar/athlete-selector.gif)
 
 2.Click on the “Add” button on the required date and choose the basic sport for which you want to create an activity:
 
-![create new activity](https://content.staminity.com/assets/images/_new/calendar/calendar-wizard.png)
+![create new activity](https://264710.selcdn.ru/assets/images/_new/calendar/calendar-wizard.png)
 
 3.In the appeared window input the following information about the activity:
 
@@ -44,15 +44,15 @@ For structured activities the percent of completion is calculated automatically 
 * planned **duration** OR **distance** for whole activity and if needed - planned **intensity** (heart rate, pace or power);
 * Activity description. You may use rich text format, insert images or links to videos.
 
-![create planned activity Staminity](https://content.staminity.com/assets/images/_new/calendar/calendar-new-activity.png)
+![create planned activity Staminity](https://264710.selcdn.ru/assets/images/_new/calendar/calendar-new-activity.png)
 
 Plan for the intensity indicator can be set as one value, an average value for the activity, or as the range of values.
 
-![intensity planning in Staminity](https://content.staminity.com/assets/images/_new/calendar/calendar-intensity-range2.png)
+![intensity planning in Staminity](https://264710.selcdn.ru/assets/images/_new/calendar/calendar-intensity-range2.png)
 
 **Through the dashboard \(for a coach\):**  
 1. Open coach dashboard in the left menu and select the required athlete.  
-![Выбрать спортсмена в дэшборде](https://content.staminity.com/assets/images/_new/dashboard/dashboard-add-button.png)
+![Выбрать спортсмена в дэшборде](https://264710.selcdn.ru/assets/images/_new/dashboard/dashboard-add-button.png)
 
 2-3. Create an activity according to steps 2-3 described above.
 
@@ -68,7 +68,7 @@ Plan for the intensity indicator can be set as one value, an average value for t
 
 4. Plan the activity segments, setting duration and intensity for each one.
 
-![add segments to Staminity](https://content.staminity.com/assets/images/_new/activity/activity-structured-plan.png)
+![add segments to Staminity](https://264710.selcdn.ru/assets/images/_new/activity/activity-structured-plan.png)
 
 To add a segment click on the “Add” button.  
 To add a preset of segments, choose it from the list:
@@ -77,17 +77,17 @@ To add a preset of segments, choose it from the list:
 * **Warm up + Workout + Cool down** - an activity consisting of warm up, the main part and cool down;  
 * **Warm up + Intervals + Cool down** - block of segments, consisting of warm up, the series of intervals and cool down. 
 
-![segments presets in Staminity](https://content.staminity.com/assets/images/_new/activity/activity-structured-block-ezgif.gif)
+![segments presets in Staminity](https://264710.selcdn.ru/assets/images/_new/activity/activity-structured-block-ezgif.gif)
 
 By selecting two adjacent segments, you can combine them into a group and set the number of repeats. It will be appropriate for interval workouts:
 
-![объединить сегменты в группу в Staminity](https://content.staminity.com/assets/images/_new/activity/activity-structured-group.gif)
+![объединить сегменты в группу в Staminity](https://264710.selcdn.ru/assets/images/_new/activity/activity-structured-group.gif)
 
 5.Describe the activity \(if needed\). You may use rich text format, insert images or links to videos.
 
 **Through the dashboard \(for a coach\):**  
 1. Open coach dashboard in the left menu and select the required athlete.  
-![Выбрать спортсмена в дэшборде](https://content.staminity.com/assets/images/_new/dashboard/dashboard-add-button.png)
+![Выбрать спортсмена в дэшборде](https://264710.selcdn.ru/assets/images/_new/dashboard/dashboard-add-button.png)
 
 2-5. Create a structured activity as described above in steps 2-5 for creation through the calendar.
 
@@ -97,11 +97,11 @@ With templates, you can create activities much faster. If you often plan or comp
 
 The most convenient way to plan activity with a template is to **drag and drop** the template from the left panel of templates to the required date:
 
-![Create activity with a template](https://content.staminity.com/assets/images/_new/activity/activity-create-from-template-ezgif.gif)
+![Create activity with a template](https://264710.selcdn.ru/assets/images/_new/activity/activity-create-from-template-ezgif.gif)
 
 Also you can choose a template when creating an activity, but at first you need to set the required sport and category.
 
-![Create activity with a template](https://content.staminity.com/assets/images/_new/activity/activity-create-from-template-2-ezgif.gif)
+![Create activity with a template](https://264710.selcdn.ru/assets/images/_new/activity/activity-create-from-template-2-ezgif.gif)
 
 ### Create one or several activities by copying {#copypasteactivity}
 
@@ -111,7 +111,7 @@ In order to do it, select one or several activities in the calendar and click on
 
 Then choose the target day and click on “Paste”. New activities will be created based on the copied ones.
 
-![activity copy paste](https://content.staminity.com/assets/images/_new/activity/activity-copy-paste-ezgif.gif)
+![activity copy paste](https://264710.selcdn.ru/assets/images/_new/activity/activity-copy-paste-ezgif.gif)
 
 Please note:
 
@@ -128,7 +128,7 @@ A coach can create an activity for several athletes at once. In order to do it, 
 * turn on "Recalculate based on LT" attribute, if you want the activity intensity to be recalculated for the added athletes based on their LT level;
 * go back to activity and Save it.
 
-![Create multiple activities](https://content.staminity.com/assets/images/_new/methodology/activity-for-2-athletes.gif)
+![Create multiple activities](https://264710.selcdn.ru/assets/images/_new/methodology/activity-for-2-athletes.gif)
 
 ### Planning for a group of athletes {#trainingplans}
 

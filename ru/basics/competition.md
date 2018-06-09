@@ -23,10 +23,10 @@ related:
 
 Для создания соревнования нажмите "Добавить" в выбранном дне календаря и выберите вид спорта для соревнования:
 
-![Визард добавления записей в календарь Staminity](https://content.staminity.com/assets/images/periodization/wizard-competition.png)
+![Визард добавления записей в календарь Staminity](https://264710.selcdn.ru/assets/images/periodization/wizard-competition.png)
 
 При создании соревнования необходимо указать:
-![Добавить соревнование в Staminity](https://content.staminity.com/assets/images/periodization/competition-create2.png)
+![Добавить соревнование в Staminity](https://264710.selcdn.ru/assets/images/periodization/competition-create2.png)
 
 * **Название** - название соревнования, которое вы хотите видеть в календаре
 * **Вид спорта**
@@ -34,7 +34,7 @@ related:
 * **Приоритет**: А - ключевой старт сезона, B - один из промежуточных стартов, С - не приоритетный старт.
 * **Установка тренера**
 
-![Добавить соревнование в Staminity](https://content.staminity.com/assets/images/periodization/competition-create.gif)
+![Добавить соревнование в Staminity](https://264710.selcdn.ru/assets/images/periodization/competition-create.gif)
 
 Для соревнований также можно указать **целевое время или расстояние**. Для стандартных дистанций указывается плановое время, для соревнований на время - целевое расстояние. 
 
@@ -42,7 +42,7 @@ related:
 
 План по времени указывать не обязательно, но если он введен, то Стаминити будет использовать именно его при сопоставлении факта с планом.
 
-![План на гонку в Staminity](https://content.staminity.com/assets/images/periodization/competition-edit.gif)
+![План на гонку в Staminity](https://264710.selcdn.ru/assets/images/periodization/competition-edit.gif)
 
 ### Выполнить соревнование - вручную или автоматически{#complete}
 
@@ -50,7 +50,7 @@ related:
 
 В отличие от тренировки, в одном соревновании может быть несколько тренировок, т.к. план создается на каждый этап соревнования. При загрузке выполненной тренировки она может быть сопоставлена с ранее созданной плановой по стандартным правилам.
 
-![Просмотр выполненного соревнования в Staminity](https://content.staminity.com/assets/images/periodization/competition-completed.png)
+![Просмотр выполненного соревнования в Staminity](https://264710.selcdn.ru/assets/images/periodization/competition-completed.png)
 
 Если к этапу соревнования будет привязана фактическая тренировка, из карточки соревнования можно будет перейти и проанализировать этап детально, как [обычную тренировку](/basics/analyse-detailed-activity.md).
 
@@ -61,8 +61,8 @@ related:
 
 Для связи фактической тренировки с этапом соревнования перетащите ее на нужный этап:
 
-![Вручную связать факт с соревнованием](https://content.staminity.com/assets/images/_new/activity/merge-competition.gif)
+![Вручную связать факт с соревнованием](https://264710.selcdn.ru/assets/images/_new/activity/merge-competition.gif)
 
 Если факт был связан с этапом соревнования по ошибке, можно открепить фактическую тренировку от планового этапа. Для этого откройте этап соревнования на просмотр и в контекстном меню тренировки выберите пункт "Открепить фактические данные". 
 
-![Открепить факт от соревнования](https://content.staminity.com/assets/images/_new/activity/split-competition.gif)
+![Открепить факт от соревнования](https://264710.selcdn.ru/assets/images/_new/activity/split-competition.gif)

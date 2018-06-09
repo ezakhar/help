@@ -35,7 +35,7 @@ related:
 
 Перейдите в раздел "Настройки" и в подразделе "Учетная запись – Тарифные планы" подключите [тарифный план "Клуб"](/tariffs/Club.md):
 
-![Подключить тариф клуб](http://content.staminity.com/assets/images/club/club-add-tariff.gif)
+![Подключить тариф клуб](http://264710.selcdn.ru/assets/images/club/club-add-tariff.gif)
 
 ### Заполните информацию в профиле клуба:
 
@@ -53,12 +53,12 @@ related:
 * **Доступность для новых учеников** - принимаете ли вы новых учеников;
 * **Виды спорта** - виды спорта, подготовку в которых вы осуществляете.
 
-![](http://content.staminity.com/assets/images/club/club-fill-profile.gif)
+![](http://264710.selcdn.ru/assets/images/club/club-fill-profile.gif)
 
 Кроме того, не забудьте загрузить **аватар \(эмблему, логотип\) клуба и фоновое изображение**. Они визуально выделят профиль вашего клуба среди других в поиске.   
 Проверьте, как профиль вашего клуба видят все пользователи сервиса.
 
-![](http://content.staminity.com/assets/images/club/club-upload-images.gif)
+![](http://264710.selcdn.ru/assets/images/club/club-upload-images.gif)
 
 ---
 
@@ -67,7 +67,7 @@ related:
 Управление членами клуба доступно руководству клуба: менеджеру клуба и его администраторам.
 
 Откройте пункт меню "Члены клуба" в левом клубном меню:  
-![Управление клубом](http://content.staminity.com/assets/images/_new/club/club-management-navigation.png)
+![Управление клубом](http://264710.selcdn.ru/assets/images/_new/club/club-management-navigation.png)
 
 Доступные возможности:
 

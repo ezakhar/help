@@ -10,7 +10,7 @@
 
 **Тренировочный план** - это набор плановых тренировок и рекомендаций тренера, которые необходимо выполнить ученику для достижения целей плана.
 
-![Тренировочный план в Staminity](https://content.staminity.com/assets/images/methodology/training-plan-builder.png)
+![Тренировочный план в Staminity](https://264710.selcdn.ru/assets/images/methodology/training-plan-builder.png)
 
 Он похож на календарь с запланированными тренировками для одного ученика, но с несколькими существенными отличиями. Такой план можно:
 
@@ -21,7 +21,7 @@
 
 Когда тренер присваивает тренировочный план нескольким своим ученикам, в их календарях появляются все записи из плана: тренировки, события и соревнования. 
 
-![Принцип работы тренировочного плана](https://content.staminity.com/assets/images/_new/methodology/training-plan-scheme.png)
+![Принцип работы тренировочного плана](https://264710.selcdn.ru/assets/images/_new/methodology/training-plan-scheme.png)
 
 В Staminity есть несколько видов планов:
 
@@ -36,7 +36,7 @@
 
 Даты записей в календаре спортсменов определяются при каждом присвоении такого плана.
 
-![training plan not fixed dates](https://content.staminity.com/assets/images/_new/methodology/tp-not-fixed-dates.gif)
+![training plan not fixed dates](https://264710.selcdn.ru/assets/images/_new/methodology/tp-not-fixed-dates.gif)
 
 Такой план можно использовать:
 
@@ -50,7 +50,7 @@
 В плане с фиксированными датами тренер создает записи в плане в определенные календарные даты.
 При присвоении такого плана ученикам в даты плана, у всех учеников тренировки будут в тех же датах
 
-![training plan not fixed dates](https://content.staminity.com/assets/images/_new/methodology/tp-fixed-dates.gif)
+![training plan not fixed dates](https://264710.selcdn.ru/assets/images/_new/methodology/tp-fixed-dates.gif)
 
 Такой план можно применять:
 
@@ -63,7 +63,7 @@
 План с фиксированными датами можно дополнительно сделать обновляемым.
 В обновляемом плане все изменения, которые вносит тренер в своем плане, транслируются ученикам даже после присвоения.
 
-![training plan not fixed dates](https://content.staminity.com/assets/images/_new/methodology/tp-fixed-dynamic.gif)
+![training plan not fixed dates](https://264710.selcdn.ru/assets/images/_new/methodology/tp-fixed-dynamic.gif)
 
 Такой план удобно использовать:
 

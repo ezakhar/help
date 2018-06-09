@@ -4,7 +4,7 @@
 
 Статус отправленных запросов в адрес тренера или клуба отображается соответственно в профиле тренера / клуба, а также в реестре исходящих запросов.
 
-![](http://content.staminity.com/assets/images/Request_statuses.png)
+![](http://264710.selcdn.ru/assets/images/Request_statuses.png)
 
 ##### Статусы в профиле:
 
@@ -15,13 +15,13 @@
 
 * Запросы в разделе **"Ожидают подтверждения"** - отправлены, ожидают реагирования со стороны получателя;
 * Запросы в разделе **"История"**:
-  * ![](http://content.staminity.com/assets/images/Accept_status.png) - запрос принят
-  * ![](http://content.staminity.com/assets/images/Decline_status.png) - запрос отклонен получателем
-  * ![](http://content.staminity.com/assets/images/Cancel_status.png) - запрос отменен инициатором
+  * ![](http://264710.selcdn.ru/assets/images/Accept_status.png) - запрос принят
+  * ![](http://264710.selcdn.ru/assets/images/Decline_status.png) - запрос отклонен получателем
+  * ![](http://264710.selcdn.ru/assets/images/Cancel_status.png) - запрос отменен инициатором
 
 ### Отменить отправленный запрос {#cancelrequest}
 Отменить отправленный ранее запрос возможно из профиля тренера или клуба, а также из реестра исходящих запросов. 
 В профиле необходимо выбрать в выпадающем списке действий для статуса пункт "Отменить запрос"
-![](http://content.staminity.com/assets/images/CancelStartClubCoaching_profile.gif)
+![](http://264710.selcdn.ru/assets/images/CancelStartClubCoaching_profile.gif)
 
 Отменить запрос можно также в реестре исходящих запросов. Для этого необходимо выбрать пункт "Отменить запрос". 

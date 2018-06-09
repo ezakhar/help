@@ -32,7 +32,7 @@ related:
  _"Разминка 8 км, далее работа 4 км по 3:45-3:50 мин/км через отдых 3 минуты, заминка 1 км"_, 
  созданная с планом по сегментам и без него:
  
-![2 вида тренировок в Staminity](https://content.staminity.com/assets/images/_new/about/2-activity-types.png)
+![2 вида тренировок в Staminity](https://264710.selcdn.ru/assets/images/_new/about/2-activity-types.png)
 
 По структурированным тренировкам план выполнения рассчитывается автоматически по каждому сегменту, что позволяет тренеру быстрее оценить корректность выполнения задания.
 
@@ -41,26 +41,26 @@ related:
 **Через календарь:**
 1.Откройте свой календарь или календарь спортсмена, если планируете тренировку  не для себя. Выбор спортсмена доступен в верхней панели календаря:
 
-![Выбрать спортсмена](https://content.staminity.com/assets/images/calendar/athlete-selector.gif)
+![Выбрать спортсмена](https://264710.selcdn.ru/assets/images/calendar/athlete-selector.gif)
 
 2.Нажмите на кнопку "Добавить" в нужном дне календаря и выберите базовый вид спорта, по которому необходимо создать тренировку:  
 
-![Добавить новую запись в Staminity](https://content.staminity.com/assets/images/_new/calendar/calendar-wizard.png)
+![Добавить новую запись в Staminity](https://264710.selcdn.ru/assets/images/_new/calendar/calendar-wizard.png)
 
 3.В окне ввода тренировки укажите:
 * [категорию тренировки](/basics/activity-categories.md); 
 * план по **длительности** (можно указать или общее время или общее расстояние), а при необходимости - план по **интенсивности **(пульс, темп или мощность);   
 * задание тренера. При вводе задания можно форматировать текст, вставлять ссылки на видеоролики или изображения.
 
-![Запланировать тренировку в Staminity](https://content.staminity.com/assets/images/_new/calendar/calendar-new-activity.png)
+![Запланировать тренировку в Staminity](https://264710.selcdn.ru/assets/images/_new/calendar/calendar-new-activity.png)
 
 План по показателю интенсивности можно указать как одним значением, средним за тренировку, так и диапазоном значений.  
 
-![Планирование диапазона интенсивности Staminity](https://content.staminity.com/assets/images/_new/calendar/calendar-intensity-range2.png)
+![Планирование диапазона интенсивности Staminity](https://264710.selcdn.ru/assets/images/_new/calendar/calendar-intensity-range2.png)
 
 **Через дэшборд (для тренера):**
 1. Откройте дэшборд тренера в левом меню и отметьте галочкой спортсмена, для которого вы хотите запланировать тренировку. 
-![Выбрать спортсмена в дэшборде](https://content.staminity.com/assets/images/_new/dashboard/dashboard-add-button.png)
+![Выбрать спортсмена в дэшборде](https://264710.selcdn.ru/assets/images/_new/dashboard/dashboard-add-button.png)
 
 2-3.Создайте тренировку, выполнив пункты 2-3 аналогично описанному выше.
 
@@ -76,7 +76,7 @@ related:
 
 4.Запланируйте сегменты тренировки, указав для каждого длительность и интенсивность.
 
-![Добавить структурированную тренировку в Staminity](https://content.staminity.com/assets/images/_new/activity/activity-structured-plan.png)
+![Добавить структурированную тренировку в Staminity](https://264710.selcdn.ru/assets/images/_new/activity/activity-structured-plan.png)
 
 Чтобы добавить одиночный сегмент, нажмите на кнопку "Добавить".
 Чтобы добавить блок сегментов, выберите из списка нужный блок:
@@ -84,17 +84,17 @@ related:
 * **Разминка + Работа + Заминка** - тренировка, состоящая из разминки, основной части и заминки;
 * **Разминка + Серия интервалов + Заминка** - блок сегментов, состоящий из разминки, основной интервальной тренировки и заминки. 
 
-![Добавить cегмент в тренировку Staminity](https://content.staminity.com/assets/images/_new/activity/activity-structured-block-ezgif.gif)
+![Добавить cегмент в тренировку Staminity](https://264710.selcdn.ru/assets/images/_new/activity/activity-structured-block-ezgif.gif)
 
 Выделив два соседних сегмента, можно объединить их в группу и указать количество повторов. Это подойдет для интервальных тренировок:
 
-![объединить сегменты в группу в Staminity](https://content.staminity.com/assets/images/_new/activity/activity-structured-group.gif)
+![объединить сегменты в группу в Staminity](https://264710.selcdn.ru/assets/images/_new/activity/activity-structured-group.gif)
 
 5.Укажите задание тренера (при необходимости). При вводе задания можно форматировать текст, вставлять ссылки на видео и прикреплять изображения.
 
 **Через дэшборд (для тренера):**
 1. Откройте дэшборд тренера в левом меню и отметьте галочкой спортсмена, для которого вы хотите запланировать тренировку. 
-![Выбрать спортсмена в дэшборде](https://content.staminity.com/assets/images/_new/dashboard/dashboard-add-button.png)
+![Выбрать спортсмена в дэшборде](https://264710.selcdn.ru/assets/images/_new/dashboard/dashboard-add-button.png)
 
 2-5.Создайте структурированную тренировку аналогично тому, как описано выше в пунктах 2-5 с вводом структурированной тренировки через календарь. 
 
@@ -103,12 +103,12 @@ related:
 
 Самый удобный способ - перетянуть в нужный день календаря тренировку с левой панели шаблонов:
 
-![Cоздание тренировки по шаблону из панели шаблонов](https://content.staminity.com/assets/images/_new/activity/activity-create-from-template-ezgif.gif)
+![Cоздание тренировки по шаблону из панели шаблонов](https://264710.selcdn.ru/assets/images/_new/activity/activity-create-from-template-ezgif.gif)
 
 
 Также шаблон можно выбрать при создании тренировки, предварительно указав вид спорта и категорию.
 
-![Cоздание тренировки по шаблону](https://content.staminity.com/assets/images/_new/activity/activity-create-from-template-2-ezgif.gif)
+![Cоздание тренировки по шаблону](https://264710.selcdn.ru/assets/images/_new/activity/activity-create-from-template-2-ezgif.gif)
 
 
 ### Создать одну или несколько тренировок копированием {#copypasteactivity}
@@ -118,7 +118,7 @@ related:
 
 Затем выберите нужный день и нажмите "Вставить". Новые тренировки будут созданы на основании скопированных.
 
-![Cоздание тренировки по шаблону из панели шаблонов](https://content.staminity.com/assets/images/_new/activity/activity-copy-paste-ezgif.gif)
+![Cоздание тренировки по шаблону из панели шаблонов](https://264710.selcdn.ru/assets/images/_new/activity/activity-copy-paste-ezgif.gif)
 
 Обратите внимание:
 * можно копировать только тренировки с планом;
@@ -133,7 +133,7 @@ related:
 * включить признак "Пересчитать от ПАНО", если вы хотите, чтобы интенсивность тренировки для добавленных спортсменов была пересчитана с учетом их уровня ПАНО;
 * вернуться в тренировку.
 
-![Cоздание тренировки по шаблону](https://content.staminity.com/assets/images/_new/methodology/activity-for-2-athletes.gif)
+![Cоздание тренировки по шаблону](https://264710.selcdn.ru/assets/images/_new/methodology/activity-for-2-athletes.gif)
 
 ### Планирование для групп спортсменов {#trainingplans}
 Если тренер работает с группами спортсменов, удобнее всего использовать "тренировочные планы".

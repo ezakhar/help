@@ -11,7 +11,7 @@
 ###Загрузка тренировок из Garmin connect {#garmin}
 Для загрузки тренировок из Garmin Connect необходимо перейти в Настройки, в разделе "Настройка интеграции" перевести  переключатель для Garmin Connect в положение "Вкл", в появившемся окне указать имя и пароль, а также дату начальной синхронизации. 
 
-![](http://content.staminity.com/assets/images/settings/GarminConnectSync.png)
+![](http://264710.selcdn.ru/assets/images/settings/GarminConnectSync.png)
 
 Все тренировки, начиная с указанной даты, будут загружены в Стаминити.
 После завершения синхронизации вы получите уведомление.
@@ -23,7 +23,7 @@
 ###Загрузка тренировок из Strava{#strava}
 Для загрузки тренировок из Strava необходимо перейти в Настройки, в разделе "Настройка интеграции" включить синхронизацию и в открывшемся окне подтвердить подключение. 
 
-![](http://content.staminity.com/assets/images/settings/StravaConnectSync.png)
+![](http://264710.selcdn.ru/assets/images/settings/StravaConnectSync.png)
 
 После этого запустится начальная синхронизация. В связи с особенностью Strava, в Стаминити будут загружены тренировки за последние 3 месяца. После окончания начальной синхронизации вы получите уведомление.
 
@@ -40,10 +40,10 @@
 1. Зайдите в Strava (https://strava.com) и создайте новый аккаунт. Функции Premium не нужны, достаточно базового аккаунта.
 
 2. В настройках вашего аккаунта в Polar Flow (https://flow.polar.com) в разделе "Учетная запись" нажмите **Подключиться** для приложения Strava
-![](http://content.staminity.com/assets/images/settings/Polar-Flow-Settings.png)
+![](http://264710.selcdn.ru/assets/images/settings/Polar-Flow-Settings.png)
 
 3. Там же, в разделе "Настройки" - "Конфиденциальность" укажите, что доступ к вашим тренировкам могут получить "Читатели":
-![](http://content.staminity.com/assets/images/settings/Polar-Flow-Settings-Privacy.png)
+![](http://264710.selcdn.ru/assets/images/settings/Polar-Flow-Settings-Privacy.png)
 Сохраните настройки в Polar flow. Теперь все ваши тренировки, выполненные в часах Polar, будут попадать в Strava.
 
 4. Настройте [синхронизацию Strava и Стаминити](#strava), как описано выше.
@@ -59,7 +59,7 @@
 1. Зайдите в Strava (https://strava.com) и создайте новый аккаунт. Функции Premium не нужны, достаточно базового аккаунта.
 
 2. Зайдите в Suunto Movescount (https://movescount.com), и в разделе "Настройки" (Settings) - "Прочие спортивные службы" (Other sport settings) нажмите **Connect with Strava** 
-![](http://content.staminity.com/assets/images/settings/Movescount-Settings.png)
+![](http://264710.selcdn.ru/assets/images/settings/Movescount-Settings.png)
 Сохраните настройки. Теперь все ваши тренировки, выполненные в часах Suunto, будут попадать в Strava.
 
 3. Настройте [синхронизацию Strava и Стаминити](#strava), как описано выше.

@@ -26,7 +26,7 @@
 Чтобы создать план на сезон:
 * выберите в левом меню пункт "План на сезон"
 * для тренера - выберите ученика
-![Выбрать ученика в плане на сезон Staminity](https://content.staminity.com/assets/images/periodization/season-new-plan.gif)
+![Выбрать ученика в плане на сезон Staminity](https://264710.selcdn.ru/assets/images/periodization/season-new-plan.gif)
 
 Если нет ранее созданных планов на сезон, создайте новый план. Укажите:
 * Название плана
@@ -37,16 +37,16 @@
 
 > Будьте внимательны! После создания плана на сезон нельзя изменить ничего, кроме названия и описания:
 
-![План на сезон в Стаминити](https://content.staminity.com/assets/images/periodization/season-create.png)
+![План на сезон в Стаминити](https://264710.selcdn.ru/assets/images/periodization/season-create.png)
 
 В созданном плане укажите для каждого микроцикла (недели) мезоцикл
-![Планирование сезона по мезоциклам](https://content.staminity.com/assets/images/periodization/season-builder-create.gif)
+![Планирование сезона по мезоциклам](https://264710.selcdn.ru/assets/images/periodization/season-builder-create.gif)
 
 и плановую нагрузку:
-![Планирование нагрузки по мезоциклам](https://content.staminity.com/assets/images/periodization/season-builder-plan.gif)
+![Планирование нагрузки по мезоциклам](https://264710.selcdn.ru/assets/images/periodization/season-builder-plan.gif)
 
 Факт выполнения плана на сезон будет формироваться автоматически на основании оперативного плана в календаре и выполненных тренировок.
-![План на сезон в Staminity](https://content.staminity.com/assets/images/periodization/season-builder.png)
+![План на сезон в Staminity](https://264710.selcdn.ru/assets/images/periodization/season-builder.png)
 
 
 

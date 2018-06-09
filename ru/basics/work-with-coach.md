@@ -32,28 +32,28 @@ related:
 ### Подключение по инициативе ученика {#startcoach}
 
 Для поиска тренера в левом меню выберите пункт **"Поиск"**  
-![Staminity find coach](http://content.staminity.com/assets/images/_new/search/find-coach.png)
+![Staminity find coach](http://264710.selcdn.ru/assets/images/_new/search/find-coach.png)
 
 Далее перейдите в профиль индивидуального тренера из результатов поиска и нажмите на "Начать тренироваться".
 
-![Staminity send request to coach](http://content.staminity.com/assets/images/StartCoaching_4.gif)
+![Staminity send request to coach](http://264710.selcdn.ru/assets/images/StartCoaching_4.gif)
 
 Статус в профиле тренера "Заявка отправлена" покажет, что ваш запрос был адресован тренеру и ожидает его одобрения.
 
 Тренер, получив входящий запрос от ученика, может принять или отклонить его. Эти действия производятся в реестре запросов:
  
-![Принять запрос от ученика в Стаминити](http://content.staminity.com/assets/images/requests/accept_request.gif)
+![Принять запрос от ученика в Стаминити](http://264710.selcdn.ru/assets/images/requests/accept_request.gif)
 
 
 ### Подключение по инициативе тренера {#invite}
 
 В реестре спортсменов выберите функцию "Пригласить атлетов", заполните Имя, Фамилию и адрес электронной почты учеников и отправьте приглашение.
 
-![Приглашение учеников](http://content.staminity.com/assets/images/_new/coach/coach-athlete-invite.png)
+![Приглашение учеников](http://264710.selcdn.ru/assets/images/_new/coach/coach-athlete-invite.png)
 
 Если ученики не зарегистрированы в Staminity, им придет приглашение на указанный почтовый адрес. После регистрации ученики смогут принять запрос от вас:
  
-![Принять запрос от тренера в Стаминити](https://content.staminity.com/assets/images/requests/accept_inviteFromCoach.gif)
+![Принять запрос от тренера в Стаминити](https://264710.selcdn.ru/assets/images/requests/accept_inviteFromCoach.gif)
 
 ---
 
@@ -77,13 +77,13 @@ related:
 Любой администратор клуба может отправить приглашение вступить в клуб. 
 
 Для этого откройте пункт меню "Члены клуба" в левом клубном меню, выберите функцию "Пригласить атлетов"
-![Отправить приглашение от клуба](https://content.staminity.com/assets/images/_new/club/club-management-invite.png)
+![Отправить приглашение от клуба](https://264710.selcdn.ru/assets/images/_new/club/club-management-invite.png)
 
 заполните Имя, Фамилию и адрес электронной почты учеников и отправьте приглашение.
 
 Если пользователи, которым отправлено приглашение от клуба, не зарегистрированы в Staminity, им придет приглашение на указанный почтовый адрес. После регистрации ученики смогут принять приглашение от клуба:
  
-![Принять запрос от тренера в Стаминити](https://content.staminity.com/assets/images/requests/accept_inviteFromCoach.gif)
+![Принять запрос от тренера в Стаминити](https://264710.selcdn.ru/assets/images/requests/accept_inviteFromCoach.gif)
 
 Когда спортсмен и тренер станут членами клуба, руководитель клуба сможет назначить им роли "Спортсмен" и "Тренер" в клубе и прикрепить тренера к каждому спортсмену.
 

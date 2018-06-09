@@ -10,7 +10,7 @@
 
 **Тренировочный план** - это набор плановых тренировок и рекомендаций тренера, которые необходимо выполнить ученику для достижения целей плана.
 
-![Тренировочный план в Staminity](https://content.staminity.com/assets/images/methodology/training-plan-builder.png)
+![Тренировочный план в Staminity](https://264710.selcdn.ru/assets/images/methodology/training-plan-builder.png)
 
 Он похож на план для одного ученика, но с несколькими существенными отличиями. Такой план можно:
 
@@ -34,7 +34,7 @@
 
 Для создания тренировочного плана перейдите в раздел "Методология" - "Тренировочные планы" и нажмите кнопку "Добавить":
 
-![Создать тренировочный план в Staminity](https://content.staminity.com/assets/images/methodology/training-plan-create.png)
+![Создать тренировочный план в Staminity](https://264710.selcdn.ru/assets/images/methodology/training-plan-create.png)
 
 Укажите:
 
@@ -62,7 +62,7 @@
 * из шаблонов, перетаскивая шаблон с левой панели шаблонов
 * копированием из другой тренировки
 
-![Тренировки в плане Staminity](https://content.staminity.com/assets/images/methodology/training-plan-copy-paste.gif)
+![Тренировки в плане Staminity](https://264710.selcdn.ru/assets/images/methodology/training-plan-copy-paste.gif)
 
 **В заданиях тренировочного плана интенсивность всегда указывается в % от ПАНО**. Это позволяет один план использовать для нескольких спортсменов с разным уровнем подготовки и уровнем ПАНО.
 
@@ -72,13 +72,13 @@
 
 Есть несколько способов присвоения плана.   
 1.В списке планов напротив нужного плана нажмите кнопку "Присвоить"  
-![Присвоить тренировочный план в Staminity](https://content.staminity.com/assets/images/methodology/training-plan-assign-from-list.png)
+![Присвоить тренировочный план в Staminity](https://264710.selcdn.ru/assets/images/methodology/training-plan-assign-from-list.png)
 
 2.В контекстном меню для строчки плана выберите "Присвоить..."   
-![Присвоить тренировочный план в Staminity](https://content.staminity.com/assets/images/methodology/training-plan-assign-from-menu.png)
+![Присвоить тренировочный план в Staminity](https://264710.selcdn.ru/assets/images/methodology/training-plan-assign-from-menu.png)
 
 3.В конструкторе планов нажмите на иконку "Присвоить"  
-![Присвоить тренировочный план в Staminity](https://content.staminity.com/assets/images/methodology/training-plan-assign-from-builder.gif)
+![Присвоить тренировочный план в Staminity](https://264710.selcdn.ru/assets/images/methodology/training-plan-assign-from-builder.gif)
 
 В окне присвоения плана укажите:
 

@@ -6,13 +6,13 @@
 * Релиз;
 * Развитие
 
-![](http://content.staminity.com/assets/images/Стадии.png)
+![](http://264710.selcdn.ru/assets/images/Стадии.png)
 
 В марте-апреле 2017 года проводилось закрытое бета-тестирование приложения, Стаминити пробовали использовать несколько тренеров и спортсменов. 
 
 В мае начинается открытое бета-тестирование и мы включаем в него следующие возможности:
 
-![](http://content.staminity.com/assets/images/general/OpenBetaPhase.png)
+![](http://264710.selcdn.ru/assets/images/general/OpenBetaPhase.png)
 
 См. далее - [Что сделано, что в работе](/zakrytaya-beta/status.md)
 

@@ -12,7 +12,7 @@ This calendar item is created in order to plan single and repeated events, and t
 
 In order to create an event, hover your mouse cursor over the required date in the calendar, click on the "Add" button and select the event type:
 
-![Select event type](https://content.staminity.com/assets/images/_new/calendar/calendar-wizard-event.png)
+![Select event type](https://264710.selcdn.ru/assets/images/_new/calendar/calendar-wizard-event.png)
 
 Event types in Staminity:
 
@@ -31,7 +31,7 @@ If needed, you can set **frequency **of the event and add a **description**.
 
 #### Frequency:
 
-![Set event frequency](http://content.staminity.com/assets/images/calendarItem/record.png)
+![Set event frequency](http://264710.selcdn.ru/assets/images/calendarItem/record.png)
 
 A single event is created on the date specified in the heading.  
 For repeated events you may set:
@@ -65,7 +65,7 @@ Select when the repeats will stop:
 Describe an event, give advice or recommendations to an athlete.  
 Format text, highlight important things with color, insert images, links to files and videos.
 
-![Event description](http://content.staminity.com/assets/images/calendarItem/record-advanced-formatting.png)
+![Event description](http://264710.selcdn.ru/assets/images/calendarItem/record-advanced-formatting.png)
 
 ### Measurement {#measurement}
 
@@ -73,7 +73,7 @@ In order to create a measurement, you need to hover your mouse cursor over the r
 
 Fill in the required fields in the card and click on "Save".
 
-![create measurement](http://content.staminity.com/assets/images/calendarItem/measurement2.png)
+![create measurement](http://264710.selcdn.ru/assets/images/calendarItem/measurement2.png)
 
 You may set:
 

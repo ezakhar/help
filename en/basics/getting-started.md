@@ -42,7 +42,7 @@ In order to start your work, you should sign up.
 2. When signing up, set the “I am a coach” attribute depending on your role -  see above
 3. You can sign up through the social networks or by using your email address. When signing up you need to accept the Website use policy. 
 
-![Staminity signup](https://content.staminity.com/assets/images/_new/settings/signup.png)
+![Staminity signup](https://264710.selcdn.ru/assets/images/_new/settings/signup.png)
 
 If you have chosen to sign up by email, you need to verify your email address by following the link in the received email. If you didn’t receive the email, please check your Spam.
 
@@ -54,7 +54,7 @@ In order to go to the settings you need to click on the “Settings” item in t
 
 * To edit your profile click on the line below the photo.
 
-![Staminity profile personal settings](https://content.staminity.com/assets/images/_new/settings/user-menu-profile.png)
+![Staminity profile personal settings](https://264710.selcdn.ru/assets/images/_new/settings/user-menu-profile.png)
 
 Fill in the following information:
 
@@ -77,7 +77,7 @@ Coaches with an empty profile do not appear in the search results
 
 To fill in the coach profile go to the “Coach profile” section and enter the following information:
 
-![Staminity coach profile settings](https://content.staminity.com/assets/images/_new/settings/coach-profile.png)
+![Staminity coach profile settings](https://264710.selcdn.ru/assets/images/_new/settings/coach-profile.png)
 
 * **About yourself **- the main information about you. It is displayed in the coach search card.
 * **Conditions **- the cost and terms of activities according to different programs.  
@@ -98,7 +98,7 @@ The correct zones and threshold settings will allow to properly calculate the in
 To set up:
 
 * go to the “Training zones” section:  
-  ![Staminity training zones and FTP settings](https://content.staminity.com/assets/images/_new/settings/user-zones.png)
+  ![Staminity training zones and FTP settings](https://264710.selcdn.ru/assets/images/_new/settings/user-zones.png)
 
 * add sports for the intensity indicator \(pace, heart rate, power\);
 
@@ -110,7 +110,7 @@ To set up:
 
 * save the entered or calculated values.
 
-![](http://content.staminity.com/assets/images/settings/SetZones.gif)
+![](http://264710.selcdn.ru/assets/images/settings/SetZones.gif)
 
 > Please note:  
 > The coach can set the training zones’ values and LT for his athletes. In order to do it, the coach has to choose the required athlete from the drop-down list in the “Settings” section and then enter and save the zones’ values for this athlete.
@@ -118,7 +118,7 @@ To set up:
 ### 5. Set up an automatic upload of your completed activities to Staminity {#sync}
 
 Staminity enables to upload your activities from Garmin Connect and Strava automatically.  
-![Staminity sync settings](http://content.staminity.com/assets/images/settings/Sync-settings.png)
+![Staminity sync settings](http://264710.selcdn.ru/assets/images/settings/Sync-settings.png)
 
 **If you have a Garmin watch,** in settings you should specify your Garmin Connect account information and all your activities starting from the selected date will be downloaded to Staminity. After that, every new activity in Garmin Connect will be uploaded.
 
