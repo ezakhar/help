@@ -21,7 +21,7 @@
 
 Необходимо перейти в профиль тренера по ссылке, полученной от тренера, и нажать на "Начать тренироваться".
 
-![](http://content.staminity.com/assets/images/StartCoaching_4.gif)
+![](http://264710.selcdn.ru/assets/images/StartCoaching_4.gif)
 
 Статус в профиле тренера "Заявка отправлена" покажет, что ваш запрос был адресован тренеру и ожидает его одобрения.
 
@@ -29,14 +29,14 @@
 
 Запрос на вступление в клуб выполняется аналогично запросу тренеру, но из профиля клуба. Необходимо перейти в профиль клуба по ссылке, полученной от менеджера или тренера клуба и отправить запрос "Вступить в клуб"
 
-![](http://content.staminity.com/assets/images/StartClubCoaching.gif)  
+![](http://264710.selcdn.ru/assets/images/StartClubCoaching.gif)  
 Статус в профиле клуба "Заявка отправлена" покажет, что ваш запрос был адресован тренеру и ожидает его одобрения.
 
 ### Просмотреть статус запроса {#requeststatus}
 
 Статус отправленных запросов в адрес тренера или клуба отображается соответственно в профиле тренера / клуба, а также в реестре исходящих запросов.
 
-![](http://content.staminity.com/assets/images/Request_statuses.png)
+![](http://264710.selcdn.ru/assets/images/Request_statuses.png)
 
 ##### Статусы в профиле:
 
@@ -47,14 +47,14 @@
 
 * Запросы в разделе **"Ожидают подтверждения"** - отправлены, ожидают реагирования со стороны получателя;
 * Запросы в разделе **"История"**:
-  * ![](http://content.staminity.com/assets/images/Accept_status.png) - запрос принят
-  * ![](http://content.staminity.com/assets/images/Decline_status.png) - запрос отклонен получателем
-  * ![](http://content.staminity.com/assets/images/Cancel_status.png) - запрос отменен инициатором
+  * ![](http://264710.selcdn.ru/assets/images/Accept_status.png) - запрос принят
+  * ![](http://264710.selcdn.ru/assets/images/Decline_status.png) - запрос отклонен получателем
+  * ![](http://264710.selcdn.ru/assets/images/Cancel_status.png) - запрос отменен инициатором
 
 ### Отменить отправленный запрос {#cancelrequest}
 Отменить отправленный ранее запрос возможно из профиля тренера или клуба, а также из реестра исходящих запросов. 
 В профиле необходимо выбрать в выпадающем списке действий для статуса пункт "Отменить запрос"
-![](http://content.staminity.com/assets/images/CancelStartClubCoaching_profile.gif)
+![](http://264710.selcdn.ru/assets/images/CancelStartClubCoaching_profile.gif)
 
 Для отмены запроса в реестре исходящих запросов также необходимо выбрать пункт "Отменить запрос". 
 

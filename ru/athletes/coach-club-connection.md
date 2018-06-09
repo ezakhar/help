@@ -15,16 +15,16 @@
 
 Для этого войдите в сервис, в реестре запросов выберите поступивший запрос и нажмите "Принять":
  
-![Принять приглашение от тренера в Стаминити](http://content.staminity.com/assets/images/requests/accept_inviteFromCoach.gif)
+![Принять приглашение от тренера в Стаминити](http://264710.selcdn.ru/assets/images/requests/accept_inviteFromCoach.gif)
 
 ### Найти тренера и отправить запрос {#startcoach}
 Вы также можете сами отправить запрос выбранному тренеру. 
 Для поиска тренера необходимо в левом меню выбрать пункт **"Поиск"** 
-![](http://content.staminity.com/assets/images/settings/Find-coach.png)
+![](http://264710.selcdn.ru/assets/images/settings/Find-coach.png)
 
 перейти в профиль тренера из результатов поиска и нажать на "Начать тренироваться".
 
-![](http://content.staminity.com/assets/images/StartCoaching_4.gif)
+![](http://264710.selcdn.ru/assets/images/StartCoaching_4.gif)
 
 Статус в профиле тренера "Заявка отправлена" покажет, что ваш запрос был адресован тренеру и ожидает его одобрения.
 
@@ -34,6 +34,6 @@
 Запрос на вступление в клуб выполняется аналогично запросу тренеру, но из профиля клуба. 
 Перейти в профиль клуба можно из поиска клубов или по ссылке, полученной от менеджера или тренера клуба.
 
-![](http://content.staminity.com/assets/images/StartClubCoaching.gif)  
+![](http://264710.selcdn.ru/assets/images/StartClubCoaching.gif)  
 Статус в профиле клуба "Заявка отправлена" покажет, что ваш запрос был адресован клубу и ожидает его одобрения.
 

@@ -20,7 +20,7 @@ related:
 
 ###Как открыть дэшборд{#dashboard}
 
-![Открыть дэшборд в Staminity](https://content.staminity.com/assets/images/_new/dashboard/dashboard-menu.png)
+![Открыть дэшборд в Staminity](https://264710.selcdn.ru/assets/images/_new/dashboard/dashboard-menu.png)
 
 * 1 - **Дэшборд тренера** доступен для пользователя Staminity с активным тарифом "Тренер". Ссылка для доступа находится в левом меню приложения, в разделе "Спортсмены".
 В дэшборде тренера отображаются все ученики тренера, как работающие с ним напрямую, так и подключенные к нему через один из клубов.
@@ -32,7 +32,7 @@ related:
 
 ###Навигация в дэшборде{#dashboardnavigation}
 
-![Навигация в дэшборде в Staminity](https://content.staminity.com/assets/images/_new/dashboard/dashboard-navigation.png)
+![Навигация в дэшборде в Staminity](https://264710.selcdn.ru/assets/images/_new/dashboard/dashboard-navigation.png)
 
 * 1 - дата начала отображаемой недели;
 * 2 - переключение недель: вперед/назад;
@@ -50,7 +50,7 @@ related:
 
 Чтобы выполнить нужные операции, отметьте галочкой одного или несколько учеников. После этого, при наведении мышкой на выбранный день календаря, становятся доступными кнопки действий:
 
-![Кнопки действий для выбранного ученика](https://content.staminity.com/assets/images/_new/dashboard/dashboard-buttons-2.png)
+![Кнопки действий для выбранного ученика](https://264710.selcdn.ru/assets/images/_new/dashboard/dashboard-buttons-2.png)
 
 * 1 - добавить запись в выбраный день: тренировку, событие, соревнование
 * 2 - выделить день

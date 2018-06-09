@@ -44,7 +44,7 @@ If you want to work with athletes, you need to enable the "Coach" tariff. If you
 In order to manage his athletes, a coach should select the "Athletes management" item of the menu to the left.
 
 Structure of the window and the available features:  
-![Athletes management](http://content.staminity.com/assets/images/_new/coach/athlete-management.png)
+![Athletes management](http://264710.selcdn.ru/assets/images/_new/coach/athlete-management.png)
 
 * **1 - Search **by the first name and the last names of athletes;** **
 * **2 - Invite athletes. **Click on the button, fill in last name, first name, email address of the new athlete and he will receive an invitation from you at the stated email address; 

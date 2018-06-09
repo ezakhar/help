@@ -17,7 +17,7 @@ It is a recommended mode. You can set up [automatic synchronization of activitie
 
 _For example, you had a half-marathon planned for today and at first you ran 2 km as a warm up and then you ran 21 km. The warm up will be the first one to be uploaded to Staminity and it will be matched with the plan. But the moment the completed half-marathon activity is downloaded, everything will fall into place: the planned half-marathon will be matched to the completed one, and the warm up will be displayed separately, without a plan. _
 
-![Activity matching](http://content.staminity.com/assets/images/calendar/activity-matching.png)
+![Activity matching](http://264710.selcdn.ru/assets/images/calendar/activity-matching.png)
 
 ### Set actual values manually in planned activity {#manualinput}
 
@@ -33,7 +33,7 @@ In order to set actual values manually:
 
 Your coach will receive a notification on the completed activity.
 
-![Complete activity manually](http://content.staminity.com/assets/images/calendar/manual-complete.gif)
+![Complete activity manually](http://264710.selcdn.ru/assets/images/calendar/manual-complete.gif)
 
 ### Merge completed activity with planned one {#splitmerge}
 
@@ -41,11 +41,11 @@ If the planned and completed activities have been matched incorrectly, at first 
 
 * **Split activity into planned and completed**. You need to choose “Split plan and actual data” in activity menu in calendar or in context menu in Activity. After that two activities appear in your calendar:
 
-![Split planned and actual activities](https://content.staminity.com/assets/images/_new/activity/split-activity.gif)
+![Split planned and actual activities](https://264710.selcdn.ru/assets/images/_new/activity/split-activity.gif)
 
 * **Merge planned and completed activity.** When the required planned and completed activities are standing separately, they can be matched. In order to do it, just drag one activity on another:
 
-![Merge two activities](https://content.staminity.com/assets/images/_new/activity/merge-activity.gif)
+![Merge two activities](https://264710.selcdn.ru/assets/images/_new/activity/merge-activity.gif)
 
 Please note:
 * Matched activities should have the same sport;

@@ -17,12 +17,12 @@ It is created for athletes, coaches and clubs that specialize in triathlon, runn
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/NQA05RJ7o-0' frameborder='0' allowfullscreen></iframe></div>
 
 * Completed activities diary and plan from your coach in one calendar: 
-![Workout log in Staminity](https://content.staminity.com/assets/images/about/calendar-view.png)
+![Workout log in Staminity](https://264710.selcdn.ru/assets/images/about/calendar-view.png)
 
 * [Auto upload](/questions/activity-auto-sync.md) of completed activities and their comparison with the plan 
 
 * Two types of activities: for whole activity and for every activity segment:
-![Two types of activity plan in Staminity](https://content.staminity.com/assets/images/about/two-activity-type.png)
+![Two types of activity plan in Staminity](https://264710.selcdn.ru/assets/images/about/two-activity-type.png)
 
 * Your own templates and categories of activities:
 
@@ -30,30 +30,30 @@ It is created for athletes, coaches and clubs that specialize in triathlon, runn
 
 
 * Compare planned and completed activity and chat with coach in every activity: 
-![Chat with coach in Staminity](https://content.staminity.com/assets/images/about/activity-plan-and-fact.png)
+![Chat with coach in Staminity](https://264710.selcdn.ru/assets/images/about/activity-plan-and-fact.png)
 
 * Detailed analysis of each activity 
-![Activity analysis in Staminity](https://content.staminity.com/assets/images/about/activity-details.png)
+![Activity analysis in Staminity](https://264710.selcdn.ru/assets/images/about/activity-details.png)
 
 * Analysis of activity completion by segments, in LT percents: 
-![Structured activity analysis in Staminity](https://content.staminity.com/assets/images/about/activity-structured2.png)
+![Structured activity analysis in Staminity](https://264710.selcdn.ru/assets/images/about/activity-structured2.png)
 
 * Swim analysis:
-![Staminity swim analysis](https://content.staminity.com/assets/images/about/activity-swim.png)
+![Staminity swim analysis](https://264710.selcdn.ru/assets/images/about/activity-swim.png)
 
 * Reports and analytics for athletes and coaches:
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/AxLKeMMTn2Q' frameborder='0' allowfullscreen></iframe></div>
 
 * Coach or club search:
-![Coach search](https://content.staminity.com/assets/images/about/find-coach.png)
+![Coach search](https://264710.selcdn.ru/assets/images/about/find-coach.png)
 
 ###Special features for coaches
 
 * Coach dashboard with week review for all athletes:
-![Coach dashboard in Staminity](https://content.staminity.com/assets/images/about/coach-dashboard.png)
+![Coach dashboard in Staminity](https://264710.selcdn.ru/assets/images/about/coach-dashboard.png)
 
 * Mass actions in dashboard and calendar:
-![copy paste activities in Staminity](https://content.staminity.com/assets/images/about/copy-paste.gif)
+![copy paste activities in Staminity](https://264710.selcdn.ru/assets/images/about/copy-paste.gif)
 
 * Fast creation of activities with templates:
 
@@ -62,7 +62,7 @@ It is created for athletes, coaches and clubs that specialize in triathlon, runn
 * Set [training zones and LT level](/basics/intensity-zones.md) for every sport and intensity indicator
 
 * Single and repeated events in training calendar important for training process (travel, diet, problem, supplements, rest day, sickness, etc):
-![Events in training calendar in Staminity](https://content.staminity.com/assets/images/about/record-foods.png)
+![Events in training calendar in Staminity](https://264710.selcdn.ru/assets/images/about/record-foods.png)
 
 * Activity plan with images, rich text and video:
 ![Activity plan with video in Staminity](http://blog.staminity.com/content/images/2018/01/activity-formatted-view.gif)
@@ -71,18 +71,18 @@ It is created for athletes, coaches and clubs that specialize in triathlon, runn
 
 ###Special features for clubs
 * Club management: add and delete club members, assign club roles (coach, athlete, manager), assign coach to athletes
-![Club management in Staminity](https://content.staminity.com/assets/images/about/club-management.png)
+![Club management in Staminity](https://264710.selcdn.ru/assets/images/about/club-management.png)
 
 * Club dashboard to review training process of all club athletes and control the coaches' work:  
-![Обзор выполнения тренировок клуба Staminity](https://content.staminity.com/assets/images/about/club-dashboard.png)
+![Обзор выполнения тренировок клуба Staminity](https://264710.selcdn.ru/assets/images/about/club-dashboard.png)
 
 * Club templates and categories of activities
-![Клубные шаблоны и категории тренировок в Staminity](https://content.staminity.com/assets/images/about/club-methodology.png)
+![Клубные шаблоны и категории тренировок в Staminity](https://264710.selcdn.ru/assets/images/about/club-methodology.png)
 
 
 #Available from PC and [mobile devices](/basics/staminity-for-mobile.md)
 
-![Staminity for mobile](https://content.staminity.com/assets/images/mobile-pwa/Desktop-and-mobile2.png)
+![Staminity for mobile](https://264710.selcdn.ru/assets/images/mobile-pwa/Desktop-and-mobile2.png)
 
 #Need help?
 If you have any questions about Staminity do not hesitate to contact us: 

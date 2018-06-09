@@ -37,7 +37,7 @@ Category - an obligatory attribute of the activity. When creating an activity, u
 
 In order to manage the activity categories, you should proceed to the "Methodology" section in the menu to the left and select the "Activity categories" tab:
 
-![View categories in Staminity](http://content.staminity.com/assets/images/_new/methodology/methodology-menu.png)
+![View categories in Staminity](http://264710.selcdn.ru/assets/images/_new/methodology/methodology-menu.png)
 
 The list of categories is provided for **basic sports**:
 
@@ -51,7 +51,7 @@ The list of categories is provided for **basic sports**:
 Categories that are set for the basic sports are used to classify activities of derived sports.
 
 The following information is available in the categories overview and management window:  
-![View categories in Staminity](http://content.staminity.com/assets/images/_new/methodology/methodology-categories-navigation.png)
+![View categories in Staminity](http://264710.selcdn.ru/assets/images/_new/methodology/methodology-categories-navigation.png)
 
 * 1 - Tabs to switch between different sections of the "Methodology" view: Training plans - Periodization schemes - Activity categories - Activity templates;
 * 2 - The list of basic sports. When you select a basic sport, the relevant categories will be displayed;
@@ -67,7 +67,7 @@ The following information is available in the categories overview and management
 
 In order to create your own category, click on the "Add new" button and fill in the category name and description. After that, the category will be added to the category list for the selected sport.
 
-![Add category](http://content.staminity.com/assets/images/_new/methodology/categories-add.png)
+![Add category](http://264710.selcdn.ru/assets/images/_new/methodology/categories-add.png)
 
 In case if you want to create a category for several sports, select them in this window when creating a new category.
 
@@ -88,7 +88,7 @@ To delete a category you need to open its edit window and click on the "Delete" 
 
 Categories can be sorted in a convenient order. To change the categories order you just need to drag and drop the required category.
 
-![Change order of categories](http://content.staminity.com/assets/images/_new/methodology/categories-drag.gif)
+![Change order of categories](http://264710.selcdn.ru/assets/images/_new/methodology/categories-drag.gif)
 
 ### Manage visibility of categories {#changeVisibility}
 

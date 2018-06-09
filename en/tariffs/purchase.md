@@ -25,7 +25,7 @@ If the user has set the “I am a coach” attribute when signing up, then he is
 You can enable the needed tariff at any time after signing up.  
 In order to do it, you need to go to the "Settings” and in the “Tariffs and invoices” section open the card of the required tariff.
 
-![Enable trial tariff](http://content.staminity.com/assets/images/_new/tariffs/add-trial-tariff.png)
+![Enable trial tariff](http://264710.selcdn.ru/assets/images/_new/tariffs/add-trial-tariff.png)
 
 In the tariff card you will find information on terms of subscription:
 
@@ -56,7 +56,7 @@ In the tariff card you will find information on terms of subscription:
 
 * An invoice for a new period of the tariff’s usage is **issued automatically** if the Licensee has turned on an **“Auto renewal” **attribute for the selected tariff in the section "Settings" - "Tariffs and invoices" in the Licensee’s Account
 
-![Auto prolongation](http://content.staminity.com/assets/images/_new/tariffs/tariff-auto-renewal.png)
+![Auto prolongation](http://264710.selcdn.ru/assets/images/_new/tariffs/tariff-auto-renewal.png)
 
 * The **“Auto renewal**” attribute is set to “Turn on” mode for the re-subscribed tariff by default. The user can manage the “Auto renewal” attribute in the Settings of the tariff card.
 
@@ -70,7 +70,7 @@ In the tariff card you will find information on terms of subscription:
 In Staminity you can disable a tariff without an ongoing trial period or for which you haven't paid the subscription fee for future periods.
 
 In order to unsubscribe to the tariff set the tariff toggle to the "Turn off" position:  
-![Отключение тарифа](http://content.staminity.com/assets/images/_new/tariffs/tariff-disable.png)
+![Отключение тарифа](http://264710.selcdn.ru/assets/images/_new/tariffs/tariff-disable.png)
 
 **If the tariff has an ongoing trial period or if you have paid the subscription fee for future periods. **  
 You cannot unsubscribe to this tariff. Turn off the ["Auto renewal" ](#autorenewal)attribute for this tariff and it will be disabled upon completion of the paid period.

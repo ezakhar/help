@@ -19,7 +19,7 @@
 
 Шаблон имеет несколько отличий от тренировки:
 
-![Шаблоны и тренировки](http://content.staminity.com/assets/images/_new/methodology/templates-view.png)
+![Шаблоны и тренировки](http://264710.selcdn.ru/assets/images/_new/methodology/templates-view.png)
 
 * **1- Название**. Название поможет отличить шаблоны друг от друга и выбрать нужный шаблон при планировании
 
@@ -29,12 +29,12 @@
 
 В зависимости от ПАНО спортсменов по одному и тому же шаблону для разных учеников будут созданы тренировки с разной интенсивностью:  
 
-![Шаблоны и тренировки](http://content.staminity.com/assets/images/_new/methodology/template-and-activity.png)
+![Шаблоны и тренировки](http://264710.selcdn.ru/assets/images/_new/methodology/template-and-activity.png)
 
 ### Просмотр и управление шаблонами{#managetemplates}
 Список шаблонов доступен в разделе "Методология" на вкладке "Шаблоны". Шаблоны выводятся для выбранного вида спорта и категории. 
 
-![Шаблоны и тренировки](http://content.staminity.com/assets/images/_new/methodology/templates-navigation.png)
+![Шаблоны и тренировки](http://264710.selcdn.ru/assets/images/_new/methodology/templates-navigation.png)
 
 * 1 - **Вкладка "Шаблоны" в разделе Методология**. На других вкладках доступны ["Тренировочные планы"](/basics/training-plan.md), ["Схемы периодизации"](/methodology/periodisation-schemes.md) и ["Категории тренировок"](/basics/categories.md), управление которыми описано в соответствующих разделах справки. 
 
@@ -81,12 +81,12 @@
 
 Самый удобный способ создать тренировку по шаблону - перетянуть в нужный день календаря тренировку с левой панели шаблонов:
 
-![Cоздание тренировки по шаблону из панели шаблонов](https://content.staminity.com/assets/images/_new/activity/activity-create-from-template-ezgif.gif)
+![Cоздание тренировки по шаблону из панели шаблонов](https://264710.selcdn.ru/assets/images/_new/activity/activity-create-from-template-ezgif.gif)
 
 
 Также шаблон можно выбрать при создании тренировки, предварительно указав вид спорта и категорию.
 
-![Cоздание тренировки по шаблону](https://content.staminity.com/assets/images/_new/activity/activity-create-from-template-2-ezgif.gif)
+![Cоздание тренировки по шаблону](https://264710.selcdn.ru/assets/images/_new/activity/activity-create-from-template-2-ezgif.gif)
 
 ### Запланировать тренировку для нескольких учеников {#createmultipleactivity}
 
@@ -98,7 +98,7 @@
 3. Выберите учеников и установите признак, хотите ли вы пересчитать интенсивность тренировок для них по ПАНО.
 4. Сохраните тренировку. Тренировки появятся у всех выбранных спортсменов. 
 
-![Cоздание тренировки по шаблону](https://content.staminity.com/assets/images/_new/methodology/activity-for-2-athletes.gif)
+![Cоздание тренировки по шаблону](https://264710.selcdn.ru/assets/images/_new/methodology/activity-for-2-athletes.gif)
 
 
 > Влияние признака "Пересчитать от ПАНО" покажем на примере. Допустим, у тренера есть шаблон тренировки с указанной интенсивностью 80% от ПАНО по пульсу. Тренер создает тренировку по данному шаблону для ученика 1 с ПАНО 170. При вводе задания тренер добавляет еще двух спортсменов, "Ученик 2" и "Ученик 3" в тренировку и у них другие уровни ПАНО. 

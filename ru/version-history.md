@@ -41,7 +41,7 @@
 * **(new) Шаблоны и категории переведены на базовые виды спорта**
 По просьбам тренеров мы упростили процедуру ведения категорий и шаблонов. Раньше они создавались по каждому виду спорта, а теперь ведутся в разрезе базовых видов спорта.
 
-![Виды спорта в Staminity](https://content.staminity.com/assets/images/categories/activity-types.png)
+![Виды спорта в Staminity](https://264710.selcdn.ru/assets/images/categories/activity-types.png)
 
 Например, достаточно вести категории или шаблоны заданий для **Бега** и их можно будет использовать при планировании тренировок по Бегу, Бегу по улице, Бегу в помещении, Бегу по пересеченной местности и Беговой дорожке.
 
@@ -180,7 +180,7 @@ https://help.staminity.com/ru/basics/create-record.html#record
 ### v0.5.1.beta\#065, 19.06.2017 {#beta007}
 * (new) Новый дэшборд для тренера и менеджера клуба.
 
-![Дэшборд тренера и менеджера клуба в Стаминити](http://content.staminity.com/assets/images/dashboard/Coach_dashboard_Jun2017.gif)
+![Дэшборд тренера и менеджера клуба в Стаминити](http://264710.selcdn.ru/assets/images/dashboard/Coach_dashboard_Jun2017.gif)
 
 1) Больше информации. Теперь на экране помещается больше спортсменов, а по выбранным ученикам доступны подробности и детали заданий.
 2) Удобный порядок отображения. Тренер может менять порядок отображения учеников, изменения сохраняются и доступны при последующих входах.
@@ -193,7 +193,7 @@ https://help.staminity.com/ru/basics/create-record.html#record
 
 * **\(new\) Работа в Стаминити с мобильных устройств**  
   Пока мобильные приложения для IOS и Android в разработке, мы сделали специальную версию приложения для работы через мобильный браузер. Открывайте Стаминити со своего смартфона, просматривайте тренировки, общайтесь с тренером.  
-  ![](http://content.staminity.com/assets/images/mobile-pwa/Desktop-and-mobile2.png)
+  ![](http://264710.selcdn.ru/assets/images/mobile-pwa/Desktop-and-mobile2.png)
 
 * **\(new\) Поиск пользователей**  
   Найти тренера стало удобнее: переходите в профиль пользователя из результатов поиска и отправляйте запрос.
@@ -230,26 +230,26 @@ https://help.staminity.com/ru/basics/create-record.html#record
 
 Тренировки с Polar, Suunto, TomTom, Mio и многих других производителей теперь доступны в Стаминити. Тренируйтесь в ваших часах, загружайте тренировки в Страву, включайте синхронизацию и ваши тренировки автоматически загрузятся к нам.
 
-![](http://content.staminity.com/assets/images/settings/StravaConnectSync.png)
+![](http://264710.selcdn.ru/assets/images/settings/StravaConnectSync.png)
 
 * **\(new\) Дэшборд тренера по ученикам**
 
 Планируйте тренировки и анализируйте выполнение по всем ученикам в одном месте. Теперь не нужно переходить в календарь спортсмена, чтобы просмотреть тренировку или запланировать новую.   
-![](http://content.staminity.com/assets/images/dashboard/CoachDashboard.png)
+![](http://264710.selcdn.ru/assets/images/dashboard/CoachDashboard.png)
 
 * **\(new\) Планирование тренировок в %ПАНО**
 
 Недавно была добавлена работа с зонами интенсивности и ПАНО. А теперь можно запланировать интенсивность в тренировке сразу в % от ПАНО.  
-![](http://content.staminity.com/assets/images/calendar/ActivityPercentFTP.png)
+![](http://264710.selcdn.ru/assets/images/calendar/ActivityPercentFTP.png)
 
 * **\(new\) Переписка с тренером в тренировке**  
   В тренировке появился чат с тренером. Обсуждайте детали задания и делитесь впечатлениями о тренировке. Скоро добавим уведомления о сообщениях и обновления списка в режиме онлайн. Пока новые сообщения можно увидеть только обновив страницу.  
-  ![](http://content.staminity.com/assets/images/calendar/ActivityChat.png)
+  ![](http://264710.selcdn.ru/assets/images/calendar/ActivityChat.png)
 
 * **\(new\) Управление масштабом графика в тренировке**
 
 Добавили режимы масштабирования графика показателей. По умолчанию установлено автомасштабирование: выделенный отрезок на графике отображается на весь экран.  
-![](http://content.staminity.com/assets/images/calendar/MetricsChartZoom.gif)
+![](http://264710.selcdn.ru/assets/images/calendar/MetricsChartZoom.gif)
 
 Его можно отключить для того, чтобы управлять масштабом выделенного отрезка графика самостоятельно.
 
@@ -269,17 +269,17 @@ https://help.staminity.com/ru/basics/create-record.html#record
   * Расчет [границ тренировочных зон](/basics/intensity-zones.md) с использованием различных методов \(Фрил, Янсен, Карвонен\)
   * Расчет в тренировке интенсивности в процентах от ПАНО по каждому кругу
 
-    ![](http://content.staminity.com/assets/images/settings/Staminity-intensity-by-FTP.png)
+    ![](http://264710.selcdn.ru/assets/images/settings/Staminity-intensity-by-FTP.png)
 
   * Расчет времени в зонах в тренировке
 
-    ![](http://content.staminity.com/assets/images/settings/Staminity-time-in-zones-320.gif)
+    ![](http://264710.selcdn.ru/assets/images/settings/Staminity-time-in-zones-320.gif)
 
 ### v0.0.1.beta\#014, 28.03.2017 {#beta003}
 
 * **\(new\) Уведомления**. Теперь спортсмен узнает об изменении плана, а тренер - о выполнении тренировок.
 
-![](http://content.staminity.com/assets/images/Notifications2.gif)
+![](http://264710.selcdn.ru/assets/images/Notifications2.gif)
 
 > Доступные уведомления:
 >
@@ -294,9 +294,9 @@ https://help.staminity.com/ru/basics/create-record.html#record
 ### v0.0.1.beta\#011, 20.03.2017 {#beta002}
 
 * \(new\) Анализ показателей по любому выбранному отрезку в тренировке
-  ![](http://content.staminity.com/assets/images/ChartUserSelection.gif)
+  ![](http://264710.selcdn.ru/assets/images/ChartUserSelection.gif)
 * \(new\) Отображение плановых объемов в итогах недели в календаре
-  ![](http://content.staminity.com/assets/images/WeekTotals.png)
+  ![](http://264710.selcdn.ru/assets/images/WeekTotals.png)
 * \(new\) Отображение плановой интенсивности для тренировок в календаре
 * \(fix\) Отображение графика в тренировках по плаванию
 * \(fix\) Расчет среднего темпа в беговых тренировках

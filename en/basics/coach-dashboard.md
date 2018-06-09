@@ -9,7 +9,7 @@ The dashboard displays one training week of all the coach’s athletes or of all
 
 ### How to open the dashboard {#dashboard}
 
-![Open the dashboard in Staminity](https://content.staminity.com/assets/images/_new/dashboard/dashboard-menu.png)
+![Open the dashboard in Staminity](https://264710.selcdn.ru/assets/images/_new/dashboard/dashboard-menu.png)
 
 * 1 - **Coach dashboard **is available for Staminity users with enabled “Coach” tariff.  These users can proceed to it by following the link **"My dashboard"** on the left menu of the application in the “Athletes” section. The coach dashboard displays all the coach’s athletes, both the ones that are working with him directly and connected to him through the club.
 
@@ -20,7 +20,7 @@ In their dashboard, both coach and club manager can review the details of each p
 
 ### Dashboard navigation {#dashboardnavigation}
 
-![Dashboard navigation](https://content.staminity.com/assets/images/_new/dashboard/dashboard-navigation.png)
+![Dashboard navigation](https://264710.selcdn.ru/assets/images/_new/dashboard/dashboard-navigation.png)
 
 * 1 - start date of the displayed week;
 * 2 - switch between weeks: next/previous;
@@ -39,7 +39,7 @@ With the help of dashboard the coach can:
 
 To carry out the required actions, place a check mark on one or several athletes. Then, when you move the mouse cursor to the selected day, the following buttons become active:
 
-![Кнопки действий для выбранного ученика](https://content.staminity.com/assets/images/_new/dashboard/dashboard-buttons-2.png)
+![Кнопки действий для выбранного ученика](https://264710.selcdn.ru/assets/images/_new/dashboard/dashboard-buttons-2.png)
 
 * 1 - add an entry: activity, event, competition
 * 2 - mark a day

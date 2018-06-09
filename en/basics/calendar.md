@@ -8,7 +8,7 @@
 Calendar - the main view in Staminity.  
 Calendar contains schedule of planned and completed activities for the week. It will help to estimate the progress of the plan’s execution and complexity of separate tasks.
 
-![Calendar in Staminity](https://content.staminity.com/assets/images/_new/calendar/calendar-navigation.png)
+![Calendar in Staminity](https://264710.selcdn.ru/assets/images/_new/calendar/calendar-navigation.png)
 
 **Content of the calendar: **
 
@@ -28,7 +28,7 @@ Calendar contains schedule of planned and completed activities for the week. It 
 
 The following information is displayed in training week:
 
-![](https://content.staminity.com/assets/images/_new/calendar/calendar-calendaritems.png)
+![](https://264710.selcdn.ru/assets/images/_new/calendar/calendar-calendaritems.png)
 
 1. Planned and completed [simple activities](/basics/create-plan-activity.md) with a plan for the whole activity;
 2. Planned and completed [structured activities](/basics/create-plan-activity.md). Here the plan is divided into several segments;

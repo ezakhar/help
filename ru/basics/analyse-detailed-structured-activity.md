@@ -12,5 +12,5 @@
 * график план/факт выполнения по сегментам,
 * детальная информация по выполнению каждого сегмента.
 
-![](http://content.staminity.com/assets/images/about/activity-structured2.png)
+![](http://264710.selcdn.ru/assets/images/about/activity-structured2.png)
 

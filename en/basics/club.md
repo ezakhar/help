@@ -34,7 +34,7 @@ In order to open a club:
 
 Go to "Settings" and in the "Account - Tariff plans" subsection enable the ["Club" tariff plan](/tariffs/Club.md):
 
-![Enable the &quot;Club&quot; tariff plan](http://content.staminity.com/assets/images/club/club-add-tariff.gif)
+![Enable the &quot;Club&quot; tariff plan](http://264710.selcdn.ru/assets/images/club/club-add-tariff.gif)
 
 ### Fill in information in the club profile:
 
@@ -57,12 +57,12 @@ Only club managers and club administrators can edit club profile:
 
 * **Sports **- what kinds of sports you specialize in.
 
-![](http://content.staminity.com/assets/images/club/club-fill-profile.gif)
+![](http://264710.selcdn.ru/assets/images/club/club-fill-profile.gif)
 
 Besides, don't forget to upload the **club image \(emblem, logo\) and background photo.** They will beneficially distinct your club profile from other profiles displayed in the search results.  
 Check, what your club profile looks like for the service users.
 
-![](http://content.staminity.com/assets/images/club/club-upload-images.gif)
+![](http://264710.selcdn.ru/assets/images/club/club-upload-images.gif)
 
 ---
 
@@ -71,7 +71,7 @@ Check, what your club profile looks like for the service users.
 Only the club manager and club administrator can manage club members.
 
 In order to do it, you need to click on the "Club members" item in the club menu to the left.  
-![Club management](http://content.staminity.com/assets/images/_new/club/club-management-navigation.png)
+![Club management](http://264710.selcdn.ru/assets/images/_new/club/club-management-navigation.png)
 
 Available features:
 

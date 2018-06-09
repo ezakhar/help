@@ -4,7 +4,7 @@
 
 * Payment for the issued invoice may be charged automatically if the user has previously made payment by Visa or Mastercard card and turned on the **"Charge automatically**" attribute in the section "Settings" - "Tariffs and invoices" in the user's Account.
 
-![Автоматическая оплата](http://content.staminity.com/assets/images/_new/tariffs/tariff-auto-payments.png)
+![Автоматическая оплата](http://264710.selcdn.ru/assets/images/_new/tariffs/tariff-auto-payments.png)
 
 * In case of automatic payment, the funds will be written off from the user's card previously used for invoices’ payment. The user's credit card details are not stored in Staminity, the [Fondy company](https://fondy.eu) \(payment partner\) is responsible for such information storage.
 

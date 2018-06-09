@@ -6,7 +6,7 @@
 
 You can download Staminity mobile app for Android or iOS operating systems. Mobile apps cannot completely substitute a full-fledged web version but they can help you to check your plan for today or change the planned activity. 
 
-![Стаминити для компьютера и смартфона](https://content.staminity.com/assets/images/mobile/mobile-options-2.png)
+![Стаминити для компьютера и смартфона](https://264710.selcdn.ru/assets/images/mobile/mobile-options-2.png)
 
 Download the mobile app in App Store and Google Play:
 
@@ -49,23 +49,23 @@ The main distinctive feature of the mobile apps are the **push notifications**. 
 
 Comparing features of different Staminity versions:
 
-![Стаминити для компьютера и смартфона](https://content.staminity.com/assets/images/mobile/web-mobile-compare.png)
+![Стаминити для компьютера и смартфона](https://264710.selcdn.ru/assets/images/mobile/web-mobile-compare.png)
 
 Choose a version that suits your needs.
 
 ###Through a browser on your phone or tablet{#pwa}
 You can access Staminity website through a browser on your phone or tablet.  A special adaptive version for mobile devices makes work in Staminity easy and convenient.
 
-![Стаминити для компьютера и смартфона](https://content.staminity.com/assets/images/mobile-pwa/Desktop-and-mobile2.png)
+![Стаминити для компьютера и смартфона](https://264710.selcdn.ru/assets/images/mobile-pwa/Desktop-and-mobile2.png)
 
 If you often use the adaptive version of the website, we recommend you to save the app on your device’s desktop. Thus, you can use Staminity almost like a regular mobile app.
 
 In order to do it, open the website [https://staminity.com](https://staminity.com) through a browser on your smartphone and set “Add to Homescreen” in the browser’s settings
 
-<p style="text-align:center"><img src="https://content.staminity.com/assets/images/mobile-pwa/save-to-desktop.gif" alt="Сохранить приложение на рабочий стол смартфона"/></p>
+<p style="text-align:center"><img src="https://264710.selcdn.ru/assets/images/mobile-pwa/save-to-desktop.gif" alt="Сохранить приложение на рабочий стол смартфона"/></p>
 
 After that, when you will sign in for the first time, you will need to enter your name and password or authorize through social networks:
 
-<p style="text-align:center"><img src="https://content.staminity.com/assets/images/mobile-pwa/signin-pwa.gif" alt="Вход в приложение"/></p>
+<p style="text-align:center"><img src="https://264710.selcdn.ru/assets/images/mobile-pwa/signin-pwa.gif" alt="Вход в приложение"/></p>
 
 The application will save the entered data and from now on you won’t need to enter your name and password when signing in. 

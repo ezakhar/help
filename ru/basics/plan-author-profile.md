@@ -12,7 +12,7 @@
 Для регистрации Автора плана - физического лица необходимо:
 
 1.Установить признак "Я хочу публиковать тренировочные планы" в Настройках:
-![Основные параметры плана](https://content.staminity.com/assets/images/_new/settings/agent-author-isactive.png)  
+![Основные параметры плана](https://264710.selcdn.ru/assets/images/_new/settings/agent-author-isactive.png)  
 
 При этом появится возможность заполнить Профиль автора планов.
 
@@ -26,7 +26,7 @@
 * Указать Е-mail и номер телефона;
 * Прочитать ["Договор с авторами планов - физическими лицами"](https://legal.staminity.com/ru/offer-author-individual.html) и [Договор между Автором и Покупателем тренировочного плана](https://legal.staminity.com/ru/offer-author-buyer.html) и подтвердить акцепт условий данных договоров. 
 
-![Основные параметры плана](https://content.staminity.com/assets/images/_new/settings/agent-author-individual.png) 
+![Основные параметры плана](https://264710.selcdn.ru/assets/images/_new/settings/agent-author-individual.png) 
 
 3.Завершить регистрацию, сохранив введенную информацию.
 
@@ -39,7 +39,7 @@
 Для регистрации юридического лица или ИП в качестве Автора планов в Staminity необходимо:
 
 1.Установить признак "Я хочу публиковать тренировочные планы" в Настройках:
-![Основные параметры плана](https://content.staminity.com/assets/images/_new/settings/agent-author-isactive.png)  
+![Основные параметры плана](https://264710.selcdn.ru/assets/images/_new/settings/agent-author-isactive.png)  
 
 При этом появится возможность заполнить Профиль автора планов.
 

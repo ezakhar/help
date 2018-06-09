@@ -6,20 +6,20 @@
 Запланированные тренировки отображаются в вашем основном календаре вместе с другими рабочими и личными задачами, совещаниями, встречами.
 На рисунке сверху показан план в Стаминити, в нижней части - эта же тренировочная неделя в Google Calendar.
 
-![План тренировок из Стаминити в Google calendar](http://content.staminity.com/assets/images/calendar-ical/calendar-ical-staminity.png)
+![План тренировок из Стаминити в Google calendar](http://264710.selcdn.ru/assets/images/calendar-ical/calendar-ical-staminity.png)
 
 По каждой тренировке доступен план от тренера, его установка на тренировку. Сравните ниже слева запланированную тренировку в Стаминити, справа - ее же в Google Calendar.
 
-![Тренировка из Стаминити в Google Calendar](http://content.staminity.com/assets/images/calendar-ical/activity-compare-2.png)
+![Тренировка из Стаминити в Google Calendar](http://264710.selcdn.ru/assets/images/calendar-ical/activity-compare-2.png)
 
 
 Для структурированных тренировок план от тренера мы покажем текстом:
-![Тренировка из Стаминити в Google Calendar](http://content.staminity.com/assets/images/calendar-ical/activity-compare-1.png)
+![Тренировка из Стаминити в Google Calendar](http://264710.selcdn.ru/assets/images/calendar-ical/activity-compare-1.png)
 
 ###Как настроить подписку на ваш календарь плановых тренировок
 * Перейдите в раздел "Настройки" в сервисе и найдите раздел "Интеграция с календарем (iCal)
 
-![Тренировка из Стаминити в Google Calendar](http://content.staminity.com/assets/images/calendar-ical/profile-ical.png)
+![Тренировка из Стаминити в Google Calendar](http://264710.selcdn.ru/assets/images/calendar-ical/profile-ical.png)
 
 * Скопируйте вашу индивидуальную ссылку
 * Перейдите в выбранное календарное приложение и добавьте подписку на новый календарь по URL

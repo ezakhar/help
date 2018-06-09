@@ -22,31 +22,31 @@ So start work with club coach could be possible only through club [by sending a 
 ### Connect with personal coach by athlete's request {#startcoach}
 
 To search for a coach select the “**Search**” item in the menu to the left.
-![Staminity find coach](http://content.staminity.com/assets/images/_new/search/find-coach.png)
+![Staminity find coach](http://264710.selcdn.ru/assets/images/_new/search/find-coach.png)
 
 A request to the personal coach is to be sent from the coach profile. In order to do it you need to go to the coach profile from the search results and click on “Join coach” button.
 
-![Staminity send request to coach](http://content.staminity.com/assets/images/StartCoaching_4.gif)
+![Staminity send request to coach](http://264710.selcdn.ru/assets/images/StartCoaching_4.gif)
 
 A status in the coach profile "Your request has been sent" means that your request has been successfully sent and is waiting to be approved.
 
 Personal coach may accept or decline incoming request. These actions are available in Request register:
  
-![Принять запрос от ученика в Стаминити](http://content.staminity.com/assets/images/requests/accept_request.gif)
+![Принять запрос от ученика в Стаминити](http://264710.selcdn.ru/assets/images/requests/accept_request.gif)
 
 
 ### Connect with personal coach by coach' invitation {#invite}
 
 Go to "My athletes" menu item in the left menu and select option "Invite athletes":
 
-![Пригласить учеников в Стаминити](https://content.staminity.com/assets/images/_new/coach/coach-athlete-invite.png)
+![Пригласить учеников в Стаминити](https://264710.selcdn.ru/assets/images/_new/coach/coach-athlete-invite.png)
 
 Fill athlete's First name, Last name, e-mail address and push Send button.
 
 If invited athletes does not have accounts in Staminity, they will receive an invitation by e-mail.
 They could create Staminity account by following the instructions from e-mail and accept your request in Staminity:
  
-![Принять запрос от тренера в Стаминити](https://content.staminity.com/assets/images/requests/accept_inviteFromCoach.gif)
+![Принять запрос от тренера в Стаминити](https://264710.selcdn.ru/assets/images/requests/accept_inviteFromCoach.gif)
 
 ---
 
@@ -69,11 +69,11 @@ Every club administrator could send an ivitation to the new club member.
 
 In order to do it go to "Club athletes" menu item in the left club menu and select option "Invite athletes":
 
-![Отправить приглашение от клуба](https://content.staminity.com/assets/images/_new/club/club-management-invite.png)
+![Отправить приглашение от клуба](https://264710.selcdn.ru/assets/images/_new/club/club-management-invite.png)
 
 Fill new member's First name, Last name, e-mail address and push Send button.
 
 If invited users does not have accounts in Staminity, they will receive an invitation by e-mail.
 They could create Staminity account by following the instructions from e-mail and accept your request in Staminity:
  
-![Принять запрос от тренера в Стаминити](https://content.staminity.com/assets/images/requests/accept_inviteFromCoach.gif)
+![Принять запрос от тренера в Стаминити](https://264710.selcdn.ru/assets/images/requests/accept_inviteFromCoach.gif)

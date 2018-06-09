@@ -22,7 +22,7 @@ related:
 
 Для создания события наведите мышкой на выбранный день календаря, нажмите на кнопку "Добавить" и выберите тип события:
 
-![Выбор типа события](https://content.staminity.com/assets/images/_new/calendar/calendar-wizard-event.png)
+![Выбор типа события](https://264710.selcdn.ru/assets/images/_new/calendar/calendar-wizard-event.png)
 
 Типы событий в Staminity: 
 
@@ -41,7 +41,7 @@ related:
 
 ####Параметры повтора:
 
-![Параметры повтора события](http://content.staminity.com/assets/images/calendarItem/record.png)
+![Параметры повтора события](http://264710.selcdn.ru/assets/images/calendarItem/record.png)
 
 Событие без повторов создается в дату, указанную в заголовке.
 Для повторяющегося события укажите параметры повторов:
@@ -71,7 +71,7 @@ related:
 Опишите событие, дайте совет и рекомендацию ученику.
 Форматируйте текст, выделяйте важное цветом, вставляйте картинки, ссылки на файлы и видеоролики.
 
-![Описание события](http://content.staminity.com/assets/images/calendarItem/record-advanced-formatting.png)
+![Описание события](http://264710.selcdn.ru/assets/images/calendarItem/record-advanced-formatting.png)
 
 
 ###Измерение{#measurement}
@@ -79,7 +79,7 @@ related:
 
 Заполните нужные поля в карточке измерения и нажмите "Сохранить".
 
-![Создание измерения](http://content.staminity.com/assets/images/calendarItem/measurement2.png)
+![Создание измерения](http://264710.selcdn.ru/assets/images/calendarItem/measurement2.png)
 
 Фиксируйте в измерениях:
 * Вес;

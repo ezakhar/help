@@ -37,7 +37,7 @@
 > Источник данных для таблицы: [http://www.trainingbible.com/joesblog/2009/11/quick-guide-to-setting-zones.html](http://www.trainingbible.com/joesblog/2009/11/quick-guide-to-setting-zones.html)
 
 Чтобы рассчитать границы пульсовых зон по Фрилу, ведите значение ПАНО, выберите в настройках зон соответствующий метод расчета и сохраните изменения:
-![](http://content.staminity.com/assets/images/settings/FrielHRZones.png)
+![](http://264710.selcdn.ru/assets/images/settings/FrielHRZones.png)
 
 **Восстановление \(зона 1\)**. Тренировки в границах зоны 1 включают в себя самые простые упражнения, которые помогают опытным спортсменам восстановиться после тяжелых упражнений или периода сложных тренировок.
 
@@ -72,7 +72,7 @@
 | Зона An1. Анаэробная 1 | 95-100% от ЧССмакс |
 
 Чтобы рассчитать границы пульсовых зон по Янсену, ведите значение ЧССмакс, выберите в настройках зон соответствующий метод расчета и сохраните изменения:
-![](http://content.staminity.com/assets/images/settings/JanssenHRZones.png)
+![](http://264710.selcdn.ru/assets/images/settings/JanssenHRZones.png)
 
 Обозначения зон:
 
@@ -96,7 +96,7 @@
 | Зона 5 | ЧССпокоя + ЧССрезерв \* \(90 - 100%\) |
 
 Чтобы рассчитать границы пульсовых зон по Карвонену, ведите значение ЧССпокоя и ЧССмакс, выберите в настройках зон соответствующий метод расчета и сохраните изменения:
-![](http://content.staminity.com/assets/images/settings/KarvonenHRZones.png)
+![](http://264710.selcdn.ru/assets/images/settings/KarvonenHRZones.png)
 
 
 ## Зоны по темпу
@@ -116,7 +116,7 @@
 > Источник данных для таблицы: [http://www.trainingbible.com/joesblog/2009/11/quick-guide-to-setting-zones.html](http://www.trainingbible.com/joesblog/2009/11/quick-guide-to-setting-zones.html)
 
 Чтобы рассчитать границы темповых зон по Фрилу, ведите значение ПАНО по темпу, выберите в настройках зон соответствующий метод расчета и сохраните изменения:
-![](http://content.staminity.com/assets/images/settings/FrielPaceZones.png)
+![](http://264710.selcdn.ru/assets/images/settings/FrielPaceZones.png)
 
 Описания зон см. в разделе [Метод Джо Фрила \(Joe Friel\), 7 зон по пульсу от ПАНО](#frielhr)
 
@@ -137,4 +137,4 @@
 > Источник данных для таблицы: [http://m-ivanov.com/2016/08/kak-exat-bystree-sammari-na-knigu-trenirovki-po-moshhnosti-xanter-allen-i-endryu-koggan/](http://m-ivanov.com/2016/08/kak-exat-bystree-sammari-na-knigu-trenirovki-po-moshhnosti-xanter-allen-i-endryu-koggan/)
 
 Чтобы рассчитать границы зон мощности по Коггану, ведите значение ПАНО по мощности, выберите в настройках зон соответствующий метод расчета и сохраните изменения:
-![](http://content.staminity.com/assets/images/settings/CogganPowerZones.png)
+![](http://264710.selcdn.ru/assets/images/settings/CogganPowerZones.png)
