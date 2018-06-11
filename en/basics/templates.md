@@ -19,24 +19,24 @@ By saving activities that you often complete by yourself or plan for your athlet
 
 Template differs from activity by: 
 
-![Templates and activities](http://content.staminity.com/assets/images/_new/methodology/templates-view.png)
+![Templates and activities](http://264710.selcdn.ru/assets/images/_new/methodology/templates-view.png)
 
 * **1 - Name**. The name will help to differ templates from one another and select the required template when planning activities.
 
 * **2 - Attribute “Favorite”.** Templates with this attribute will be highlighted in the list so that you could find them faster. 
 
-* **3 - Intensity only in %LT.** The same template can be used to create activities for athletes with different fitness, that's why in a template you can set intensity only in % of LT. 
+* **3 - Intensity only in %LT.** The same template can be used to create activities for athletes with different fitness, that's why in a template you can set intensity only in % of LT ([lactate threshold](/basics/lactate-threshold.md)). 
 
 Depending on the athletes’ LT, activities with different intensity level will be created for different athletes when using the same template:  
 
-![Templates and activities](http://content.staminity.com/assets/images/_new/methodology/template-and-activity.png)
+![Templates and activities](http://264710.selcdn.ru/assets/images/_new/methodology/template-and-activity.png)
 
 ### View and manage templates{#managetemplates}
-The list of templates is located in the “Methodology” section on the “Activity templates” tab. Templates are displayed for the selected sport and category.
+The list of templates is located in the “Methodology” view on the “Activity templates” tab. Templates are displayed for the selected sport and category.
 
-![Templates and activities](http://content.staminity.com/assets/images/_new/methodology/templates-navigation.png)
+![Templates and activities](http://264710.selcdn.ru/assets/images/_new/methodology/templates-navigation.png)
 
-* 1 - **"Activity templates" tab in the Methodology section**. On the other tabs you will find ["Training plans"](/basics/training-plan.md), ["Periodization schemes"](/methodology/periodisation-schemes.md) and ["Activity categories"](/basics/categories.md), information about how to manage them is given in relevant articles.
+* 1 - **"Activity templates" tab in the Methodology view**. On the other tabs you will find ["Training plans"](/basics/training-plan.md), ["Periodization schemes"](/methodology/periodisation-schemes.md) and ["Activity categories"](/basics/categories.md), information about how to manage them is given in relevant articles.
 
 * 2 - Select **sport**. 
 * 3 - **Categories** for the selected sport. An icon with a number located next to the category shows how many templates are available for the selected category. 
@@ -81,12 +81,12 @@ Templates greatly speed up the process of activity creation. If you often comple
 
 The most convenient way to create an activity using a template is to drag and drop the activity from the templates panel located to the left to the required date in the calendar:
 
-![Create activity using template from the templates panel](https://content.staminity.com/assets/images/_new/activity/activity-create-from-template-ezgif.gif)
+![Create activity using template from the templates panel](https://264710.selcdn.ru/assets/images/_new/activity/activity-create-from-template-ezgif.gif)
 
 
 Also, you can select a template when creating an activity after having set sport and category. 
 
-![Create activity using template](https://content.staminity.com/assets/images/_new/activity/activity-create-from-template-2-ezgif.gif)
+![Create activity using template](https://264710.selcdn.ru/assets/images/_new/activity/activity-create-from-template-2-ezgif.gif)
 
 ### Create an activity for several athletes using one template {#createmultipleactivity}
 
@@ -98,7 +98,7 @@ In order to create several activities at once using one template:
 3. Select athletes and set the attribute indicating whether you want the intensity level to be recalculated based on LT for these athletes.
 4. Save the activity. It will appear in calendars of all selected athletes. 
 
-![Create activity using template](https://content.staminity.com/assets/images/_new/methodology/activity-for-2-athletes.gif)
+![Create activity using template](https://264710.selcdn.ru/assets/images/_new/methodology/activity-for-2-athletes.gif)
 
 
 > We would like to illustrate effect of the "Recalculate based on LT" attribute. Let's assume that a coach has a template of an activity with the intensity set at the level of 80% of the LTHR. Using this template, the coach creates an activity for an athlete 1 with LT 170. When filling in task, he adds another two athletes "Athlete 2" and "Athlete 3" who have different LT levels.  

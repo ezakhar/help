@@ -12,7 +12,7 @@ Notifications are sent:
 
 You can manage notification settings in the section 'Settings-Notifications”.
 
-![Настройка уведомлений в Staminity](https://content.staminity.com/assets/images/_new/settings/user-notifications.png)
+![Настройка уведомлений в Staminity](https://264710.selcdn.ru/assets/images/_new/settings/user-notifications.png)
 
 Also, you can cancel sending certain types of notifications by email by clicking on the "Unsubscribe" button in a letter received from Staminity.
 

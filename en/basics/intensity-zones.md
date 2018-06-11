@@ -37,7 +37,7 @@ In The Triathlete's Training Bible Joe Friel defines seven training zones which 
 > Data source: [http://www.trainingbible.com/joesblog/2009/11/quick-guide-to-setting-zones.html](http://www.trainingbible.com/joesblog/2009/11/quick-guide-to-setting-zones.html)
 
 In order to calculate HR zones limits according to Joe Friel method you need to fill in LT value, select the corresponding method of calculation in zones settings and save changes:  
-![](http://content.staminity.com/assets/images/settings/FrielHRZones.png)
+![select training zones calculation method](http://264710.selcdn.ru/assets/images/settings/FrielHRZones.png)
 
 **Recovery \(zone 1\)**. Activities within zone 1 limits include the most simple exercises helping experienced athletes to recover after hard exercises or a period of complex activities.
 
@@ -52,8 +52,6 @@ In order to calculate HR zones limits according to Joe Friel method you need to 
 **Power \(zone 5c\). **Power development is not so important for all-round athletes. Except for situations when an athlete faces difficulties with muscle mass building or when he needs to use fast twitch muscle fibers to increase speed. Power development exercises should consist of short explosive intervals separated by long recovery periods.
 
 > Zone description data source: The Triathlete's training Bible by Joe Friel. Mann, Ivanov and Ferber publishing house, Moscow, 2011
-
-####  {#janssenhr}
 
 #### Peter Janssen method, 6 HR zones based on HRmax {#janssenhr}
 
@@ -71,7 +69,7 @@ Peter Janssen in his book "Training Lactate Pulse-Rate" describes 6 intensity zo
 | Zone An1. Anaerobic1 | 95-100% of HRmax |
 
 In order to calculate HR zones limits according to Peter Janssen method you need to fill in HRmax value, select the corresponding method of calculation in zones settings and save changes:  
-![](http://content.staminity.com/assets/images/settings/JanssenHRZones.png)
+![peter janssen method](http://264710.selcdn.ru/assets/images/settings/JanssenHRZones.png)
 
 Zones marking:
 
@@ -95,7 +93,7 @@ Based on it, 5 intensity zones are determined according to the following rules:
 | Zone 5 | HRrest + HRreserve\* \(90 - 100%\) |
 
 In order to calculate HR zones limits according to Martti Karvonen method you need to fill in HRrest and HRmax values, select the corresponding method of calculation in zones settings and save changes:  
-![](http://content.staminity.com/assets/images/settings/KarvonenHRZones.png)
+![Karvonen zones](http://264710.selcdn.ru/assets/images/settings/KarvonenHRZones.png)
 
 ## Pace/speed zones
 
@@ -114,7 +112,7 @@ In order to calculate HR zones limits according to Martti Karvonen method you ne
 > Data source: [http://www.trainingbible.com/joesblog/2009/11/quick-guide-to-setting-zones.html](http://www.trainingbible.com/joesblog/2009/11/quick-guide-to-setting-zones.html)
 
 In order to calculate HR zones limits according to Joe Friel method you need to fill in LTPace value, select the corresponding method of calculation in zones settings and save changes:  
-![](http://content.staminity.com/assets/images/settings/FrielPaceZones.png)
+![](http://264710.selcdn.ru/assets/images/settings/FrielPaceZones.png)
 
 Zones description see in section [Joe Friel method, 7 HR zones based on LT](#frielhr)
 
@@ -135,5 +133,5 @@ Zones description see in section [Joe Friel method, 7 HR zones based on LT](#fri
 > Data source: [http://m-ivanov.com/2016/08/kak-exat-bystree-sammari-na-knigu-trenirovki-po-moshhnosti-xanter-allen-i-endryu-koggan/](http://m-ivanov.com/2016/08/kak-exat-bystree-sammari-na-knigu-trenirovki-po-moshhnosti-xanter-allen-i-endryu-koggan/)
 
 In order to calculate HR zones limits according to Joe Friel method you need to fill in LTPower value, select the corresponding method of calculation in zones settings and save changes:  
-![](http://content.staminity.com/assets/images/settings/CogganPowerZones.png)
+![](http://264710.selcdn.ru/assets/images/settings/CogganPowerZones.png)
 

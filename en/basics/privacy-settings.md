@@ -7,7 +7,7 @@ You can manage visibility of your personal data in privacy settings.
 > * Your **last name, first name, photo **and **background image **are visible to all service users. ** **
 
 In order to manage privacy settings go to Settings and select "Privacy settings" section:   
-![Настройки приватности](http://content.staminity.com/assets/images/_new/settings/user-privacy.png)
+![Privacy settings](http://264710.selcdn.ru/assets/images/_new/settings/user-privacy.png)
 
 The following information categories with visibility manageable by the user are provided in privacy settings: 
 

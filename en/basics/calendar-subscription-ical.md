@@ -6,20 +6,20 @@ In Staminity you can set integration of your activity calendar with popular cale
 
 Planned activities will be displayed in your main calendar together with other business and personal tasks, meetings, etc. On the picture you can see how does the same training week looks like in Staminity \(at the top\) and in Google Calendar \(at the bottom\)
 
-![План тренировок из Sтаминити в Google calendar](http://content.staminity.com/assets/images/calendar-ical/calendar-ical-staminity.png)
+![План тренировок из Sтаминити в Google calendar](http://264710.selcdn.ru/assets/images/calendar-ical/calendar-ical-staminity.png)
 
 For each activity, you can see a plan set by the coach and description. Just compare a planned activity in Staminity \(to the left\) and the same activity in Google Calendar \(to the right\).
 
-![Тренировка из Staminity в Google Calendar](http://content.staminity.com/assets/images/calendar-ical/activity-compare-2.png)
+![Тренировка из Staminity в Google Calendar](http://264710.selcdn.ru/assets/images/calendar-ical/activity-compare-2.png)
 
 In structured activities a plan set by the coach will be displayed as text:  
-![Тренировка из Стаминити в Google Calendar](http://content.staminity.com/assets/images/calendar-ical/activity-compare-1.png)
+![Тренировка из Стаминити в Google Calendar](http://264710.selcdn.ru/assets/images/calendar-ical/activity-compare-1.png)
 
 ### How to set up subscription to your planned activities calendar
 
 * Go to service’s “Settings” and find section “Integration with calendar \(iCal\)”
 
-![Тренировка из Стаминити в Google Calendar](http://content.staminity.com/assets/images/calendar-ical/profile-ical.png)
+![Тренировка из Стаминити в Google Calendar](http://264710.selcdn.ru/assets/images/calendar-ical/profile-ical.png)
 
 * Copy your personal link
 * Open the required calendar application and add subscription to new calendar via URL
