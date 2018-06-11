@@ -27,6 +27,7 @@
 
 * [Season planning and periodization](basics/season-plan.md)
 * [Periodization schemes](methodology/periodisation-schemes.md)
+* [Training plan based training](basics/use-training-plan.md)
 * [Activity categories](basics/categories.md)
 * [Templates](basics/templates.md)
 * [External calendars](basics/calendar-subscription-ical.md)
@@ -37,15 +38,15 @@
 ## Training plans
 
 * [Training plans in Staminity. Plan types](basics/training-plan.md)
-* [Для тренера: Управление тренировочными планами](basics/training-plan-management.md)
-* [Для тренера: Продажа тренировочных планов](training-plans/training-plans-for-coaches.md)
-* [Для тренера: Регистрация в качестве Автора планов](basics/plan-author-profile.md)
-* [Для тренера: Баланс и вывод средств](basics/withdrawals.md)
-* [Для спортсмена: Как использовать тренировочный план](basics/use-training-plan.md)
+* [For a coach: Training plans management](basics/training-plan-management.md)
+* [For a coach: Selling training plans](training-plans/training-plans-for-coaches.md)
+* [For a coach: Registering as a plan Author](basics/plan-author-profile.md)
+* [For a coach: Available balance and withdrawal of funds](basics/withdrawals.md)
+* [For an athlete: How to use a training plan](basics/use-training-plan.md)
 
 ## FAQ
 
-* [lactate-threshold](basics/lactate-threshold.md)
+* [LT \(lactate threshold\)](basics/lactate-threshold.md)
 
 ## Tariffs and payments
 

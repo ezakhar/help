@@ -1,107 +1,122 @@
-#Для спортсмена: Как использовать тренировочный план
+---
+related:
+  - basics/training-plan.md
+  - basics/training-plan-management.md
+  - basics/training-plans-for-coaches.md
+  - basics/plan-author-profile.md
+  - basics/withdrawals.md
+---
 
-* [Преимущества работы по тренировочному плану в Staminity](#plan)
-* [Как приобрести тренировочный план](#purchase)
-* [Как начать заниматься по плану](#assign)
-* [Как отключить план и удалить тренировки из календаря](#deleteassignment)
+# For an athlete: How to use a training plan
 
-#Тренировочный план в Staminity - это удобно{#plan}       
-Staminity - это профессиональная платформа для поддержки тренировочного процесса. 
-Поэтому в отличие от плана на бумаге, в электронной таблице или в файле, заниматься по тренировочному плану в Staminity для спортсменов гораздо удобнее:
+* [Advantages of training according to a plan in Staminity](#plan)
+* [How to purchase a training plan](#purchase)
+* [How to start using a plan](#assign)
+* [How to remove plan assignment and delete activities from the calendar](#deleteassignment)
 
-* **Тренировочный календарь всегда под рукой** и доступен с компьютера и с мобильных приложений для IOS и Android. При необходимости календарь Staminity интегрируется с рабочим календарем Google, Outlook и других календарных приложений;
+# Training plan in Staminity - it is convenient {#plan}
 
-* Выполненные тренировки загружаются **автоматически и сопоставляются с планом**;
+Staminity is a professional platform designed for supporting training process in cyclic sports.  
+That's why unlike a plan presented on a paper, in a spreadsheet or in a file, it is much more convenient for athletes to train according to the plan in Staminity:
 
-* Система оценивает корректность выполнения задания;
+* **Training calendar is always at your disposal** and you can access it both via desktop and via iOS and Android mobile apps. If needed, Staminity calendar can be integrated with Google calendar, Outlook, and other calendar apps;
 
-* Доступна подробная информация по каждой выполненной тренировке и отчетность в целом по процессу тренировок;
+* Completed activities are **automatically downloaded and compared with a plan**;
 
-* Для работы по плану спортсменам не требуется покупка платного тарифа, можно использовать приложение Staminity на компьютере и смартфонах совершенно бесплатно. Платный тариф Премиум дает дополнительные возможности для анализа тренировок.
+* The system evaluates the correctness of the activity's performance;
 
-![Календарь спортсмена](https://lh6.googleusercontent.com/TEQ-FWDz6mhZm4o7MLHPRSjLPf9trojZbAQuQ6V2EBI1yx8dkwdWoOKC2H7_uDCQz6jTi_dmbLo-4ZoBdlESQq2MBsw_BNsC9CYJo4pLtmE7ESuE0W9e1lUVrIAqQX3_eR0UEguN)Тренировочный календарь
+* Detailed information on every completed activity as well as reports on the whole training process are available;
 
-![Анализ выполненной тренировки](https://lh6.googleusercontent.com/QvFA0Sp4gMuYIZi3kfhRMw2UBbVyBzi2UlvhZpfBVY8-2gW2MVALK1_B2F5I4y_jqeGeiEssZ3Hk7jXogVpuUab0KEq7hxgkGMLpDU_3pE_5SimdiJWEjUTGMzmZjzsvFCptEVKX)Анализ выполненной тренировки
+* In order to work according to the plan, athletes don't need to enable a paid tariff, they can use Staminity app on the desktop and smartphones for free. The paid Premium tariff provides additional possibilities for analyzing activities.
 
-###Как приобрести тренировочный план{#purchase}
+![Athlete&apos;s calendar](https://lh6.googleusercontent.com/TEQ-FWDz6mhZm4o7MLHPRSjLPf9trojZbAQuQ6V2EBI1yx8dkwdWoOKC2H7_uDCQz6jTi_dmbLo-4ZoBdlESQq2MBsw_BNsC9CYJo4pLtmE7ESuE0W9e1lUVrIAqQX3_eR0UEguN)Training calendar
 
-1.Выбрать подходящий тренировочный план можно в **Магазине тренировочных планов**. Для перехода в Магазин: 
-* Выберите пункт "Тренировочные планы" в левом меню, если вы вошли в приложение;
-* ИЛИ Откройте ссылку "Магазин планов" с главной страницы сайта https://staminity.com
-* ИЛИ перейдите по ссылке: https://staminity.com/training-plans-store?state=store
+![Analysis of a completed activity](https://lh6.googleusercontent.com/QvFA0Sp4gMuYIZi3kfhRMw2UBbVyBzi2UlvhZpfBVY8-2gW2MVALK1_B2F5I4y_jqeGeiEssZ3Hk7jXogVpuUab0KEq7hxgkGMLpDU_3pE_5SimdiJWEjUTGMzmZjzsvFCptEVKX)Analysis of a completed activity
 
-![Магазин тренировочных планов](https://264710.selcdn.ru/assets/images/_new/training-plan/training-plan-store.png)
+### How to purchase a training plan {#purchase}
 
-При необходимости отфильтруйте доступные планы, выбрав один или несколько признаков на левой панели. 
+1.You can select a suitable training plan in the **Training plans store**. In order to proceed to the Store:
 
-2.Изучите предлагаемые планы, просматривая подробную информацию на странице плана, а также информацию об Авторе плана.
+* Select the "Training plans" item in the menu to the left if you use Staminity via mobile app;
+* OR open the "Plans store" link located on the main page of the website [https://staminity.com](https://staminity.com)
+* OR follow the link: [https://staminity.com/training-plans-store?state=store](https://staminity.com/training-plans-store?state=store)
 
-3.Чтобы приобрести план:
-* для бесплатных планов нажмите на кнопку "Добавить бесплатно" в Магазине планов или на странице выбранного плана;
-* для платных планов - нажмите "Купить". 
+![Training plans Store](https://264710.selcdn.ru/assets/images/_new/training-plan/training-plan-store.png)
 
-4.Изучите [Правила приобретения тренировочных планов](https://legal.staminity.com/ru/offer-plan-buyer.html) и условия [Договора между Автором и Покупателем тренировочного плана](https://legal.staminity.com/ru/offer-author-buyer.html).  Для приобретения плана необходимо согласиться с условиями данных договоров. 
+If needed you can filter the available plans by selecting one or several attributes on the panel located to the left.
 
->**Обратите внимание:**
-Staminity предоставляет платформу для создания и продвижения планов (для Автора) и для работы по плану (для Покупателя), но полную ответственность за описание и содержимое тренировочного плана несет Автор плана. 
-По любым вопросам, связанным с содержанием конкретного плана необходимо обращаться напрямую к Автору.
+2.Study the offered plans by familiarizing with detailed information provided on the plan page and information about plan Author.
 
-5.Оплатить тренировочный план можно с использованием банковской карты. 
+3.In order to purchase a plan:
 
-6.Приобретенный план появится на вкладке "Приобретения" в Магазине планов.  
+* for free plans you need to click on the "Take for free" button in the Store or on the plan page; 
+* for paid plans - click on "Buy". 
 
-![Приобретенные планы](https://264710.selcdn.ru/assets/images/_new/training-plan/training-plan-purchases-navigation2.png)
+4.Study the [Training plans purchase policy](https://legal.staminity.com/eng/offer-plan-buyer.html) and terms of the [Agreement between the training plans Author and the plan Acquirer](https://legal.staminity.com/eng/offer-author-buyer.html). In order to purchase a plan, you have to confirm your consent with terms of these agreements.
 
-В этом окне:
-* **1 - Переключение вкладок "Все планы" или "Приобретения".** На вкладке "Все планы" отображаются все доступные опубликованные Авторами тренировочные планы в Staminity, а на вкладке "Приобретения" - доступные для использования планы для пользователя.
+> **Please note:**  
+> Staminity provides a platform for creating and promoting plans \(for Author\) and training according to the plan \(for Acquirer\), but the Author of the plan bears full responsibility for description and content of the training plan.  
+> If you have any questions related to the content of a particular plan, you need to contact the plan Author directly.
 
-* **2 - Тренировочный план.** По клику на название плана откроется страница плана. 
+5.You can pay for a training plan using your bank card.
 
-* **3 - Кнопка "Присвоения"**, позволяющая применить план в нужные даты, либо отключить его.
+6.The purchased plan will appear on the "Purchases" tab in the Store.
 
-* **4 - Статус "Заказан"** у плана, означающий, что информация о платеже находится в стадии обработки. В статусе "Заказан" применить план невозможно. 
+![Purchased plans](https://264710.selcdn.ru/assets/images/_new/training-plan/training-plan-purchases-navigation2.png)
 
-###Как начать заниматься по плану{#assign}
+In this window:
 
-Чтобы начать заниматься по плану, необходимо применить его в нужные даты. При этом все записи плана попадут в ваш тренировочный календарь.
+* **1 - You can switch between tabs "All plans" and "Purchases".** On the "All plans" tab you can view all available plans published by Authors in the Store, and on the "Purchases" tab - plans that can be used by the user.
 
-Для применения плана нажмите на кнопку [3] (см. изображение выше). 
+* **2 - Training plan.** If you click on the plan name, the plan page will open.
 
-По-умолчанию система предложит вам начать заниматься по плану:
-* С начала следующей недели, если план не привязан к конкретным датам;
-* В даты плана, если план привязан к конкретным датам.
+* **3 - Button "Assignments"**, it enables to assign the plan to required dates or remove the assignment.
 
-Но вы всегда можете изменить предлагаемые по-умолчанию параметры:
-![Окно присвоения плана](https://264710.selcdn.ru/assets/images/_new/methodology/tp-assignment-window.png)
+* **4 - "Ordered" status** of the plan means that information about the payment is in processing. You can't assign a plan with "Ordered" status.
 
-* **1 - Ваше имя и фамилия** для применения плана. Купленный план вы можете присвоить только себе,
-* **2 - Режим присвоения**, который определяет способ расчета дат присвоения. Можно выбрать присвоение в даты плана или присвоение в даты записей \(событий, тренировок, соревнований\). Расчетный блок дат [5] в карточке присвоения поможет выбрать нужный вам режим.
-* **3 - Дату начала или дату окончания присвоения. **Выбор даты позволит применить план или начиная с определенной даты или по определенную дату. 
-* **4 - Укажите дату**:
+### How to start using a plan {#assign}
 
-| Дата | Описание |
+In order to start training according to the purchased plan, you need to assign it to required dates. By doing so all items of the plan will appear in your training calendar.
+
+To assign a plan you need to click on the button \[3\] \(see the image above\).
+
+By default, the system will offer you to use a plan:
+
+* Starting from the next week, if the plan doesn't have fixed dates;
+* Starting from the plan dates, if the plan has fixed dates.
+
+But you can always change parameters offered by the system by default.  
+![Plan assignment window](https://264710.selcdn.ru/assets/images/_new/methodology/tp-assignment-window.png)
+
+* **1 - Your first name and last name** for plan assignment. The purchased plan you can assign only to yourself,
+* **2 - Assignment mode**, which determines the method of assignment dates calculation. You can select assignment in the plan dates or in the item \(events, activities, competitions\) dates. A block with dates calculation \[5\] in the assignments card will help you to choose the mode you need.
+* **3 - Start date and end date of assignment. **Date selection will help you to apply the plan either starting from a specific date or till a specific date.. 
+* **4 - Set a date**:
+
+| Date | Description |
 | :--- | :--- |
-| Дата начала плана | Первый день недели, начиная с которой в вашем календаре будут показаны записи плана |
-| Дата первой записи | Дата первой записи из плана в вашем календаре. Отличается от даты начала плана, если первая тренировка в плане запланирована не в первый день недели |
-| Дата последней записи | Дата последней записи из плана в вашем календаре. Отличается от даты окончания плана, если последняя тренировка в плане запланирована не в последний день недели |
-| Дата окончания плана | Последний день недели в вашем календаре, когда закончится тренировочный план |
+| Plan start date | The first day of the week starting from which the plan items will appear in the athlete's calendar |
+| First item date | Date of the first plan item displayed in the athlete's calendar. It differs from the plan start date if the first activity is planned not on the first day of the week |
+| Last item date | Date of the last plan item displayed in the athlete's calendar. It differs from the plan end date if the last activity is planned not on the last day of the week |
+| Plan end date | The last day of the week in the athlete's calendar when the training plan will end |
 
-* **5 - расчетный блок дат**, для помощи в правильности выбора параметров присвоения 
+* **5 - block with dates calculation**, to help you check the correctness of the assignment dates 
 
+**Important features of the plan assignment:**
 
-**Важные особенности присвоения плана:**
+* **Activities from the plan cannot be created on the past dates in your calendar. **If you set such dates so that all plan activities or part of them are assigned on the past dates, then they won't appear in your calendar.
 
-* **Тренировки в прошлом не создаются.** Если вы выберите даты так, что все или часть тренировок из плана окажутся в прошлом, то они не будут созданы в вашем календаре.
+* **A plan can be assigned several times.** You can easily assign plan several times to different dates.
 
-* **План можно присвоить несколько раз.** Вы свободно можете присваивать план несколько раз в разные даты.
+### How to remove plan assignment and delete activities from the calendar {#deleteassignment}
 
-### Как отключить план и удалить тренировки из календаря {#deleteassignment}
-В окне присвоений вы всегда можете видеть, когда был присвоен данный план:
+In the assignments window you can always check when the given plan has been assigned:
 
-![Присвоения плана](https://264710.selcdn.ru/assets/images/_new/methodology/tp-assignments.png)
+![Plan assignments](https://264710.selcdn.ru/assets/images/_new/methodology/tp-assignments.png)
 
-Для просмотра подробной информации по присвоению, по датам и режимам присвоения плана, щелкните мышкой на строчке присвоения. 
+In order to view detailed information on plan assignments, dates and modes of assignment, click on the assignments line.
 
-Для удаления присвоения войдите в контекстное меню присвоения и выберите функцию "Удалить". 
+In order to remove the assignment, go to the assignments context menu and select the "Remove" option.
 
-После удаления присвоения из вашего календаря будут удалены все невыполненные тренировки по данному плану. 
+After that, all uncompleted activities within the plan will be removed from your calendar.
+

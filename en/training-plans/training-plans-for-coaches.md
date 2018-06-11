@@ -1,170 +1,178 @@
-# Продажа тренировочных планов через Staminity
+---
+related:
+  - basics/training-plan.md
+  - basics/training-plan-management.md
+  - basics/plan-author-profile.md
+  - basics/withdrawals.md
+  - basics/use-training-plan.md  
+---
 
-Staminity предлагает тренерам и клубам платформу для продвижения и продаж тренировочных планов в циклических видах спорта.
+# Selling training plans in Staminity
 
-Тренировочный план в Staminity - это набор тренировочных заданий и рекомендаций тренера по достижению определенной цели в спорте.
+Staminity offers coaches and clubs a convenient platform for promoting and selling training plans in cyclic sports.
 
-## Дополнительный доход для тренера
+**Training plan** in Staminity is a set of planned activities and recommendations of a coach, which should be completed by an athlete in order to achieve the planned goals.
 
-![Продажа тренировочных планов в Staminity](https://264710.selcdn.ru/assets/images/training-plan/training_plans_money.png)
+## Extra income for a coach
 
-Во всем мире тренировочные планы позволяют тренерам:
+![Selling training plans in Staminity](https://264710.selcdn.ru/assets/images/training-plan/training_plans_money.png)
 
-1. **получить дополнительный доход**
-2. **привлечь новых клиентов**
+All over the world training plans allow coaches to:
 
-Тренировочный план и услуга дистанционного тренинга имеют пересечение аудиторий, но всё-таки ориентированы на разные группы клиентов: которые готовы/могут платить за тренера или не могут/ не хотят.
+1. **earn extra income**
+2. **attract new clients**
 
-Спортсменов, кто использует для подготовки тренировочные планы, больше, чем спортсменов занимающихся online с тренером. Большинство этих спортсменов готовится к своим первым стартам по бегу и триатлону. Для тренера это является хорошей возможностью заработать и предложить свои услуги.
+The target audience of a training plan and of a remote work with a coach partly overlap but still, they are focused on different groups of clients: the ones who are ready/can pay for a coach and the ones who can't/don't want to.
 
-Добавляя в свой тренировочный план консультации или очные тренировки, вы сможете познакомиться с вашими будущими клиентами и продемонстрировать ваши компетенции тренера, мотиватора.
+There are more athletes who use training plans than those who work with a coach online. The majority of these athletes are preparing for their first races in running or triathlon. It is a great opportunity for a coach to earn extra and offer his services.
 
-## Удобно для спортсменов
+By adding consultations or offline activities to your training plan, you receive a chance to get acquainted with your future clients and show your competences as a coach and motivator.
 
-Staminity - это профессиональная платформа для поддержки тренировочного процесса. Поэтому в отличие от плана на бумаге, в электронной таблице или в файле, заниматься по плану в Staminity для спортсменов гораздо удобнее:
+## It is convenient for athletes
 
-* **Тренировочный календарь всегда под рукой **и доступен с компьютера и с мобильных приложений для IOS и Android. При необходимости календарь Staminity интегрируется с рабочим календарем Google, Outlook и других календарных приложений;
+Staminity is a professional platform designed for supporting the training process. That's why unlike a plan presented on a paper, in a spreadsheet or in a file, it is much more convenient for athletes to train according to the plan in Staminity:
 
-* Выполненные тренировки загружаются **автоматически и сопоставляются с планом**;
+* **Training calendar is always at your disposal **and you can access it both via desktop or via iOS and Android mobile apps. If needed, Staminity calendar can be integrated with Google calendar, Outlook, and other calendar apps.
 
-* Система оценивает корректность выполнения задания;
+* Completed activities are **automatically downloaded and compared with a plan**;
 
-* Доступна подробная информация по каждой выполненной тренировке и отчетность в целом по процессу тренировок;
+* The system evaluates the correctness of the activity's performance;
 
-* Для работы по плану спортсменам не требуется покупка платного тарифа, можно использовать приложение Staminity на компьютере и смартфонах совершенно бесплатно. Платный тариф Премиум дает дополнительные возможности для анализа тренировок.
+* Detailed information on every completed activity as well as reports on the whole training process are available;
 
-![Календарь спортсмена](https://lh6.googleusercontent.com/TEQ-FWDz6mhZm4o7MLHPRSjLPf9trojZbAQuQ6V2EBI1yx8dkwdWoOKC2H7_uDCQz6jTi_dmbLo-4ZoBdlESQq2MBsw_BNsC9CYJo4pLtmE7ESuE0W9e1lUVrIAqQX3_eR0UEguN)Тренировочный календарь
+* In order to work according to the plan, athletes don't need to enable a paid tariff, they can use Staminity app on the desktop and smartphones for free. The paid Premium tariff provides additional possibilities for analyzing activities.
 
-![Анализ выполненный тренировки](https://lh6.googleusercontent.com/QvFA0Sp4gMuYIZi3kfhRMw2UBbVyBzi2UlvhZpfBVY8-2gW2MVALK1_B2F5I4y_jqeGeiEssZ3Hk7jXogVpuUab0KEq7hxgkGMLpDU_3pE_5SimdiJWEjUTGMzmZjzsvFCptEVKX)Анализ выполненный тренировки
+![Athletes calendar](https://lh6.googleusercontent.com/TEQ-FWDz6mhZm4o7MLHPRSjLPf9trojZbAQuQ6V2EBI1yx8dkwdWoOKC2H7_uDCQz6jTi_dmbLo-4ZoBdlESQq2MBsw_BNsC9CYJo4pLtmE7ESuE0W9e1lUVrIAqQX3_eR0UEguN)Training calendar
 
-## Легко создать план
+![Analysis of a completed activity](https://lh6.googleusercontent.com/QvFA0Sp4gMuYIZi3kfhRMw2UBbVyBzi2UlvhZpfBVY8-2gW2MVALK1_B2F5I4y_jqeGeiEssZ3Hk7jXogVpuUab0KEq7hxgkGMLpDU_3pE_5SimdiJWEjUTGMzmZjzsvFCptEVKX)Analysis of a completed activity
 
-Вы знаете методику подготовки спортсменов, а мы заботимся о том, чтобы вам было удобно работать в сервисе. Чтобы тратить меньше времени на планирование:
+## It is easy to create a plan
 
-* Копируйте и вставляйте повторяющиеся тренировки;
+You know the methods of athletes training and we make sure that working environment in Staminity is as comfortable as possible. In order to waste less time on planning:
 
-* Копируйте тренировки между планами;
+* Copy and paste repeating activities;
 
-* Перетаскивайте задания мышкой в нужные даты, копируйте при перетаскивании;
+* Copy activity from one plan and paste it into another;
 
-* Создавайте в один клик тренировку по шаблону.
+* Drag and drop activities to the required dates, copy when dragging;
 
-Ввод тренировочного плана![Ввод тренировочного плана](https://lh4.googleusercontent.com/v44gR8_2JcAbAfhx60Q4rBo_a0neax_lnA-kiSpFedWEp1RSWMvWsvWD9z85fhn87eF3mgTSfwJrX7Pa-cOUhZTKprXiYwxGPMHBuX1v-jnYR-nKw2ADYKnxLaqSdqfC84rx_4_B)
+* Create activity in one click using a template.
 
-Ввод задания на тренировку по сегментам![Ввод задания на тренировку по сегментам](https://lh5.googleusercontent.com/LjEX02hZ_4yhYVfS4tlirwdlndZaaG5oagRGB4ZKIg0fFuoldPTiAMCNRDTlYSMsi5N6KkVbrBB5YJe7OSkrEAlUh8ZMVzxJaAee7QTWsdWLzL8L4vOysa-k2AdI7CyInasjbT5J)
+Using training plan![Training plan in the calendar](https://lh4.googleusercontent.com/v44gR8_2JcAbAfhx60Q4rBo_a0neax_lnA-kiSpFedWEp1RSWMvWsvWD9z85fhn87eF3mgTSfwJrX7Pa-cOUhZTKprXiYwxGPMHBuX1v-jnYR-nKw2ADYKnxLaqSdqfC84rx_4_B)
 
-Добавление события![Добавление события](https://lh5.googleusercontent.com/IaKbjP06Gu1hHR8yNh-3KndgC8bUlExwzCrEQDwswzcbAE9AsmDJdoAs7vyJSGtGGqp3O_zVc0ho-ucuSf8lqBrdiYIw2YdazQmkFnTUaSuxKhHosJ2cWIL2-vqOOQUYTSDpTVBV)Подробнее о том как создать свой план в отдельной статье: [Тренировочные планы](/basics/training-plan.md)
+More information about training plan creation you can find in this article: [Training plans management](/basics/training-plan-management.md) 
 
-## Нет продаж - не нужно платить
+## No sales - no costs
 
-Создать тренировочный план и опубликовать его для продажи в Staminity можно совершенно бесплатно. Staminity зарабатывает на процентах с продаж.
+You can create a training plan and publish it in the Store for free. Staminity earns on commissions received from each sale. 
 
-Сравнительная стоимость публикации тренировочных планов в Staminity и TrainingPeaks:
+Сomparing cost of the training plan publication in Staminity and in TrainingPeaks:
 
 |  | Staminity | TrainingPeaks |
 | ---: | :---: | :---: |
-| Разовый взнос \(лицензия тренера\) | Нет | $99 |
-| Ежемесячная абонентская плата | Нет* | $19 - $49 |
-| Комиссия сервиса с продаж планов | 30% | 30% |
+| One-time payment \(coach license\) | No | $99 |
+| Monthly subscription fee | No\* | $19 - $49 |
+| Service commissions set for the plan sales | 30% | 30% |
 
-_*Примечание: в Staminity не нужно покупать тариф "Тренер", чтобы опубликовать тренировочный план в Магазине планов и получать доход от продажи._   
+_\*Note: in Staminity you don't need to buy the "Coach" tariff in order to publish a training plan in the Store and earn on sales._
 
-Если вы уже предлагаете своим клиентам тренировочные планы, их копия в Staminity может стать хорошим дополнением для портфеля ваших продуктов.
+If you are already offering your training plans to clients, then their copy in Staminity can beneficially supplement your portfolio.
 
-Предложите своим клиентам выбор:
+Offer your clients a choice:
 
-* или использовать план как раньше, получая его в файле или электронной таблице;
-* или получить этот же план в Staminity.
+* either use the plan as before, receiving it in a file or in a spreadsheet;
+* or receive the same plan in Staminity.
 
-## Всё для продажи
+## Simple and convenient selling process
 
-Вы создаете план и описываете его, а мы заботимся о том, как его представить его для клиентов.
+You create and describe a plan and we take care of how to present it to clients.
 
-Для каждого плана в Staminity доступна своя страница, на которой собрана вся необходимая информация по нему для потенциальных покупателей. Посмотрите примеры:
+Each plan has its own page in Staminity where potential customers can find all information they might need. Just look at the following examples:
 
-![Страница тренировочного плана, пример 1](https://lh4.googleusercontent.com/6zgim2rjhrRMyBOvw6wP1BfZVLycgnstP58Pzupr-M6-5RMhtB5nd2NS5bGoSR4k5g1bj1eR0jSF0nroviBZHMc5XoN3fCDR4L7v2FVhyAo-1kSv5q8FjCAR_JsNiYJEEdci1Wq4)
+![Training plan page, example 1](https://lh4.googleusercontent.com/6zgim2rjhrRMyBOvw6wP1BfZVLycgnstP58Pzupr-M6-5RMhtB5nd2NS5bGoSR4k5g1bj1eR0jSF0nroviBZHMc5XoN3fCDR4L7v2FVhyAo-1kSv5q8FjCAR_JsNiYJEEdci1Wq4)
 
-Пример 1: [https://dev1.staminity.com/plan/683](https://dev1.staminity.com/plan/683)
+Example 1
 
-![Страница тренировочного плана, пример 2](https://lh4.googleusercontent.com/SxAkm5DdGpWY7I235N7DhyjLH9AD7JNw11iEKl2QgxwkNLsOtdAslcxqTYJFEs4nAQIm3lBgbbVKXC4Z4aLu3TVEmxWLuF3OODLnYfHURPzU8KGsJrvYwuY0wFDREpmi5D_NrVtk)
+![Training plan page, example 2](https://lh4.googleusercontent.com/SxAkm5DdGpWY7I235N7DhyjLH9AD7JNw11iEKl2QgxwkNLsOtdAslcxqTYJFEs4nAQIm3lBgbbVKXC4Z4aLu3TVEmxWLuF3OODLnYfHURPzU8KGsJrvYwuY0wFDREpmi5D_NrVtk)
 
-Пример 2: [https://dev1.staminity.com/plan/21](https://dev1.staminity.com/plan/21)
+Example 2
 
-Страница адаптирована для мобильных телефонов.
+The page is adapted for convenient use on smartphones.
 
-Автоматически рассчитывается график нагрузки по неделям плана.
+The chart of training loads during each training week is calculated automatically.
 
-![График нагрузки в плане](https://lh6.googleusercontent.com/m6C4YicmKOWniUWZnGV17t5p-aR5Gubus83OsnZTWkeE0-JSmj_PFNqDhBwprjsetUQda6Towj7JOam706EFeM2YqUfk3NiPmOdRadWItgyLy0y8_40_vKckN5xbbyWeNfXX6Glm)
+![Chart of training load in the plan](https://lh6.googleusercontent.com/m6C4YicmKOWniUWZnGV17t5p-aR5Gubus83OsnZTWkeE0-JSmj_PFNqDhBwprjsetUQda6Towj7JOam706EFeM2YqUfk3NiPmOdRadWItgyLy0y8_40_vKckN5xbbyWeNfXX6Glm)
 
-Примеры из тренировочного плана, по которым спортсмен сможет оценить подход автора к постановке тренировочного задания
+Samples from the training plan that would help an athlete to study the Author's approach to setting a training task
 
 ![](https://lh4.googleusercontent.com/AoTtaoC_XtjlR1CPlFXy1tK3gjxgJR4YqrtGII9aHru9BC-N_Zni8Izk6kJA_nr69jwb8vB_y_EZrur2e8qehxyvOcTHMVTguq8pHf-j8z2z75P7Y_oL2qIC6P3VWGKScedIqJuj)
 
-и примеров описания упражнений или иной методической информации
+and samples of exercises description or other methodical information
 
-![Примеры тренировок в плане](https://lh6.googleusercontent.com/Yvkl3R1OpJManqZLEaKVkRA3kETy1A9FqEiE0fRivaDCgh8bO5bsFZoiZBevy8irk9qt3DMzYAt473qB2uo9MXP2n-_v80eCM4fLeFYx5zuP8oG1sXMN1pPVlxCslyUQ_1yAEpee)
+![Samples of activities within the plan](https://lh6.googleusercontent.com/Yvkl3R1OpJManqZLEaKVkRA3kETy1A9FqEiE0fRivaDCgh8bO5bsFZoiZBevy8irk9qt3DMzYAt473qB2uo9MXP2n-_v80eCM4fLeFYx5zuP8oG1sXMN1pPVlxCslyUQ_1yAEpee)
 
-Для увеличения продаж и отличия от других планов, мы рекомендуем:
+In order to promote sales and to make your plan notable, we recommend you to:
 
-1. Создавать планы под конкретную цель, старт. Например, “Марафон за 3 часа, недельный объем не более 70 км”, “Моя первая половинка IRONSTAR KAZAN 113”, “10 км за 40 минут на Московском марафоне”
+1. Create plans designed for a specific race or goal. For example: "Marathon in 3 hours, week distance not more than 70 km", "My first half of IRONSTAR KAZAN 113", "10 km in 40 minutes during the Moscow marathon".
 
-2. Добавить дополнительные услуги: консультации, очные тренировки и пр...
+2. Add extra services: consultations, offline activities, etc.
 
-3. Рекламировать свой план в интернете/соцсетях. Ваш план – это отдельная страница со своим адресом и вы можете рекламировать через свои каналы общения с клиентами.
+3. Promote your plan on the Internet/social networks. Your plan is a separate page with its own web-address and you can promote it via your own channels of communication with clients.
 
-## Вопросы и ответы:
+## Q&A:
 
-**Какую комиссию берет Staminity?**
+**What is the commission of Staminity? **
 
-Комиссия Staminity - 30% от стоимости плана. В личном кабинете автора плана в Staminity на баланс с каждой покупки зачисляется 70% от цены плана.
+Staminity commission is 30% of the plan's cost. And the rest 70% go to the plan Author's balance.
 
-**Кто может продавать планы?**
+**Who can sell plans?**
 
-* Физические лица, резиденты РФ,
-* ИП и юрлица, резиденты РФ.
+* Private individuals, residents of the Russian Federation,
+* Individual entrepreneurs and legal entities, residents of the Russian Federation.
 
-**Как можно вывести денежные средства, полученные от продажи планов?**
+**How to withdraw money made by selling plans?**
 
-* Для физических лиц вывод производится на банковскую карту;
-* Для юридических лиц и ИП – перевод на расчетный счет.
+* Private individuals can transfer money to any bank card;
+* Legal entities and individual entrepreneurs can transfer money to their settlement accounts.
 
-**Какие условия вывода средств?**
+**What are the withdrawal terms?**
 
-Вывод средств бесплатен, если сумма вывода больше или равна 3000 рублей. При выводе меньше этой суммы взимается комиссия платежной системы в размере 1.5%, минимум 60 рублей.
+Withdrawal is made for free if the amount of withdrawal is more than or equals 3000 RUB. If less, then the payment system commission is charged in the amount of 1,5%, min 60 RUB.
 
-**Можно публиковать бесплатные планы?**
+**Can I publish free plans?**
 
-Нет, минимальная стоимость плана - 300 рублей.
+Yes.
 
-**Как начать продавать планы?**
+**How to start selling plans?**
 
-**1.Стать тренером и заполнить профиль тренера. Для этого:**
+**1.Become a coach and fill in your coach profile. In order to do it:**
 
-* Подключить на пробный период тариф "Тренер". Это необходимо, чтобы в профиле в сервисе отразился признак "Я-тренер". Если вы не планируете работать с учениками в Staminity, оплачивать тариф "Тренер" после окончания пробного периода не требуется.
+* Enable “Coach” tariff for a trial period. It is required for the “I am a coach” attribute to appear in the profile. If you don't plan to work with athletes in Staminity, you don't have to pay for the “Coach” tariff after the trial period.
 
-**2.Заполнить профиль тренера.**
+**2.Fill in your coach profile.**
 
-* Для физических лиц – заполнить профиль Автора планов и привязать банковскую карту для вывода средств
+* For private individuals - to fill in the plan Author profile and set the bank card for withdrawal;
 
-* Для юридических лиц и ИП - заполнить профиль Автора планов, заполнить и подписать анкету юридического лица, отправить по e-mail в адрес Staminity.
+* For legal entities and individual entrepreneurs - to fill in the plan Author profile, fill in and sign the legal entity form and send it to Staminity via email.
 
-**Кто платит налоги?**
+**Who pays taxes?**
 
-Сделка покупки плана выполняется между Продавцом, физическим или юридическим лицом, автором тренировочного плана и Покупателем, физическим лицом. Staminity не является стороной сделки, а обеспечивает платформу для создания и работы с планом для Автора и Покупателя, а также информационно-техническое взаимодействие Продавца и Покупателя.
+The plan purchase deal is concluded between the Author \(private individual or legal entity\) and the Buyer \(private individual\). Staminity doesn't participate as a party to the deal but only provides a platform enabling the Author and the Buyer to create a plan and work with it as well as informational and technical support of the cooperation between the Author and the Buyer.
 
-Продавцы, физические и юридические лица, самостоятельно осуществляют уплату налогов и сборов в бюджет, согласно законодательству Российской Федерации.
+Sellers, private individuals and legal entities, have to pay the required taxes and fees according to the current legislation of the Russian Federation on their own.
 
-**Какие требования к Продавцу планов?**
+**What are the requirements to a plan's Seller?**
 
-Нам важно, чтобы Вы были успешны, а Ваши планы продавались. Поэтому просим обращать внимание на:
+We want you to be successful and your plans to be popular. That's why we ask you to pay attention to:
 
-* **Фотографии** в описании плана. Проверьте, что у Вас есть права на используемые фотографии.
+* **Photos **in the plan description. Check that you have the required rights to dispose of these photos.
 
-* **Интеллектуальная собственность**. Вы гарантируете, что обладаете правами на интеллектуальную собственность, на основании которой создан план.  
-  Мы оставляем за собой право удалить план с публикации и запретить его последующую публикацию в магазине в случае получения жалоб на нарушение авторских прав.
+* **Intellectual property.** You guarantee that you have intellectual property rights, on the basis of which a plan has been created.  
+  We reserve the right to unpublish the plan and to prohibit its subsequent publication in the Store in case of receiving complaints of copyright infringement.
 
-* **Описание плана**. Описание должно быть корректным, правдивым, соответствовать содержанию плана и размещенным фотографиям, не содержать грамматических ошибок и нецензурной лексики.
+* **Plan description**. The description has to be correct, true and correspond to the plan content and plan images, without any grammatical mistakes as well as coarse language.
 
-**Как я узнаю о покупке и как устроен процесс продажи?**
+**How will I find out about the plan purchase and how is the sale process arranged?**
 
-Информация о новой покупке поступит на почту и будет отражена в уведомлении в Личном кабинете.
+You will receive information about the plan purchase via email and also you will see a relevant notification in your Account.
+

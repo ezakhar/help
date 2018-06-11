@@ -1,67 +1,85 @@
-#Регистрация в качестве Автора планов
+---
+related:
+  - basics/training-plan.md
+  - basics/training-plan-management.md
+  - basics/training-plans-for-coaches.md
+  - basics/withdrawals.md
+  - basics/use-training-plan.md  
+---
 
-Чтобы публиковать тренировочные планы в Магазине тренировочных планов Staminity, необходимо пройти регистрацию как Автора тренировочных планов и заполнить профиль Автора.
+# Registering as a plan Author
 
-Продажа тренировочных планов на текущий момент возможна для резидентов РФ - физических лиц и резидентов РФ - юридических лиц и ИП.
+In order to publish training plans in the Store you need to register as a plan Author and fill in the plan Author profile.
 
-* [Регистрация Автора планов - физического лица](#individual)
-* [Регистрация Автора планов - юридического лица или ИП](#company)
+As for now, only residents of the Russian Federation \(private individuals, legal entities and individual entrepreneurs\) can sell training plans in Staminity.
 
-### Регистрация Автора планов - физического лица{#individual}
+* [Registering as a plan Author - private individual](#individual)
+* [Registering as a plan Author - legal entity or individual entrepreneur](#company)
 
-Для регистрации Автора плана - физического лица необходимо:
+### Registering as a plan Author - private individual {#individual}
 
-1.Установить признак "Я хочу публиковать тренировочные планы" в Настройках:
-![Основные параметры плана](https://264710.selcdn.ru/assets/images/_new/settings/agent-author-isactive.png)  
+In order to register as a plan Author - private individual you need to:
 
-При этом появится возможность заполнить Профиль автора планов.
+1.Enable the “I want to publish training plans in Store” attribute in Settings:  
+![General params of the plan](https://264710.selcdn.ru/assets/images/_new/settings/agent-author-isactive.png)
 
-2.Заполнить **"Профиль автора планов"** в качестве физического лица. 
-Для этого:
-* Указать **страну резидентства**, подтвердив, что Автор плана является резидентом Российской федерации;
-> Обратите внимание, для вывода средств от продажи планов можно привязать только банковские карты, эмитированные банками Российской федерации.
+Upon doing so you will be able to fill in the plan Author profile.
 
-* Установить признак, что Автор плана является физическим лицом;
-* Проверить правильность указания Фамилии и Имени Автора плана;
-* Указать Е-mail и номер телефона;
-* Прочитать ["Договор с авторами планов - физическими лицами"](https://legal.staminity.com/ru/offer-author-individual.html) и [Договор между Автором и Покупателем тренировочного плана](https://legal.staminity.com/ru/offer-author-buyer.html) и подтвердить акцепт условий данных договоров. 
+2.Fill in the **“Plan Author profile” **as a private individual. In order to do it:
 
-![Основные параметры плана](https://264710.selcdn.ru/assets/images/_new/settings/agent-author-individual.png) 
+* Specify the** country of residence,** confirming that the plan Author is a resident of the Russian Federation;
 
-3.Завершить регистрацию, сохранив введенную информацию.
+  > Please note, to withdraw money earned on plans selling, you can use only cards issued by the Russian Federation banks
 
-### Регистрация Автора планов - юридического лица или ИП{#individual}
+* Enable the attribute saying that the plan Author is a private individual;
 
-Регистрация Автора планов в качестве юридического лица или ИП позволит получать денежные средства, вырученные от продажи планов, на расчетный счет организации/ИП в банке РФ.
+* Check if you have correctly indicated the last name and first name of the plan Author;
 
-Расчеты с юридическими лицами и ИП производятся ООО "Стаминити" с привлечением партнера - **Небанковской кредитной организацией «МОНЕТА.РУ»** (общество с ограниченной ответственностью), лицензия на осуществление банковских операций со средствами в рублях и иностранной валюте №3508-К выдана Банком России 02.07.2012г.
+* Provide your email and phone number;
 
-Для регистрации юридического лица или ИП в качестве Автора планов в Staminity необходимо:
+* Read the ["Agreement with the training plans authors - private individuals"](https://legal.staminity.com/en/offer-author-individual.html) and "[Agreement between the training plan Author and the plan Acquirer](https://legal.staminity.com/en/offer-author-buyer.html)" and confirm that you accept all terms of these agreements.
 
-1.Установить признак "Я хочу публиковать тренировочные планы" в Настройках:
-![Основные параметры плана](https://264710.selcdn.ru/assets/images/_new/settings/agent-author-isactive.png)  
+![General params of the plan](https://264710.selcdn.ru/assets/images/_new/settings/agent-author-individual.png)
 
-При этом появится возможность заполнить Профиль автора планов.
+3.Complete your registration by saving the provided information.
 
-2.Заполнить "Профиль Автора планов" в качестве юридического лица или ИП. Для этого:
-* Указать страну резидентства, подтвердив, что Автор плана является резидентом Российской федерации;
-* Установить признак, что Автор плана является юридическим лицом или ИП;
-* Указать ИНН, КПП и полное наименование юридического лица/ИП.
+### Registering as a plan Author - legal entity or individual entrepreneur {#individual}
 
-3.Заполнить анкету юридического лица или ИП, с указанием данных, необходимых для регистрации Автора в качестве получателя денежных средств в НКО (НКО "Монета" (ООО)), подтвердив согласие с условиями:
-* [1] Договора с Авторами планов - юридическими лицами или ИП:  
-https://legal.staminity.com/ru/offer-author-company.html
-* [2] Договора между Авторами планов и Покупателями тренировочнх планов: https://legal.staminity.com/ru/offer-author-buyer.html
-* [3] Договора о переводах без открытия счетов в Системе МОНЕТА.РУ и осуществлении информационно-технологического взаимодействия для юридических лиц и индивидуальных предпринимателей — резидентов РФ: https://moneta.ru/info/d/ru/public/merchants/b2boffer.pdf
+Registering as a plan Author - legal entity or individual entrepreneur will allow you to withdraw money made by selling plans to a settlement account of an organization/individual entrepreneur opened in the Russian Federation bank.
 
-Шаблон анкеты юридического лица / индивидуального предпринимателя приведен по ссылке: https://docs.google.com/spreadsheets/d/1EBDE40iqPtk8gSNVNE2XcJHuEp6UU2Xtigqv7vplcY4/edit?usp=sharing.
+Settlements with legal entities and individual entrepreneurs are conducted by LLC Staminity with the involvement of a partner - **non-banking credit organization «MONETA.RU»** \(Limited Liability Company\), license to conduct banking operations with funds in Roubles and foreign currencies No. 3508-K issued by the Bank of Russia on 02.07.2012.
 
-4.Распечатать заполненную анкету, подписать, отсканировать и направить скан-копию анкеты вместе с файлом анкеты по адресу: [support@staminity.com](mailto:support@staminity.com) с темой "Регистрация Автора планов - юрлица или ИП".
+In order to register a legal entity or individual entrepreneur as a plan Author in Staminity you need to:
 
-5.После обработки анкеты Получатель платежа будет зарегистрирован в НКО "Монета" (ООО), после чего будет открыта возможность публикации планов в Магазине. Автор тренировочных планов получит уведомление о факте обработки Анкеты по e-mail.
+1.Enable the “I want to publish training plans in Store” attribute in Settings:  
+![General params of the plan](https://264710.selcdn.ru/assets/images/_new/settings/agent-author-isactive.png)
 
-6.В соответствии с условиями Договора [3], в течение 30 дней с момента регистрации Автору необходимо отправить Заявление о заключении Договора о переводах без открытия счетов в Системе МОНЕТА.РУ при осуществлении информационно-технологического взаимодействия.
+Upon doing so you will be able to fill in the plan Author profile.
 
-Для этого на основании заполненной Анкеты будет подготовлено Заявление по форме Приложения №9 к Договору [3] и отправлено Автору. Автору необходимо подписать Заявление и отправить оригинал в НКО "Монета" любым из способов, предусмотренных пунктом 2.6 Договора [3].
+2.Fill in the “Plan Author profile” as a legal entity or individual entrepreneur. In order to do it:
 
-> Обратите внимание. В соответствии с условиями Договора [3], п.2.5.1, "если в течение 30 дней с момента регистрации оригинал заявления не был получен НКО, на 31 календарный день после регистрации Получателя в НКО "Монета" прекращается прием платежей." 
+* Specify the country of residence, confirming that the plan Author is a resident of the Russian Federation;
+* Enable the attribute saying that the plan Author is a legal entity or individual entrepreneur;
+* Indicate INN, KPP and full name of the legal entity or individual entrepreneur. 
+
+3.Fill in the legal entity or individual entrepreneur form, specifying data required to register the Author as a recipient of funds in the NCO \(NCO "Moneta" \(LLC\)\), confirming agreement with terms of:
+
+* \[1\] Agreement with the training plans authors - legal entities or individual entrepreneurs:  
+  [https://legal.staminity.com/eng/offer-author-company.html](https://legal.staminity.com/eng/offer-author-company.html)
+* \[2\] Agreement between the training plan Author and the plan Acquirer: [https://legal.staminity.com/eng/offer-author-buyer.html](https://legal.staminity.com/eng/offer-author-buyer.html)
+* \[3\] Agreements on money transfers without the need to open accounts in MONETA.RU System and implementation of informational and technological interaction with legal entities and individual entrepreneurs - residents of the Russian Federation: [https://moneta.ru/info/d/eng/public/merchants/b2boffer.pdf](https://moneta.ru/info/d/eng/public/merchants/b2boffer.pdf)
+
+In order to find the template for legal entity/individual entrepreneur form please visit:  [https://docs.google.com/spreadsheets/d/1EBDE40iqPtk8gSNVNE2XcJHuEp6UU2Xtigqv7vplcY4/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1EBDE40iqPtk8gSNVNE2XcJHuEp6UU2Xtigqv7vplcY4/edit?usp=sharing).
+
+4.Print the completed form, sign it, scan and send the scanned copy together with the form’s file by email: [support@staminity.com](mailto:support@staminity.com) with the subject of the letter: “Signing up as a plan Author - legal entity or individual entrepreneur”.
+
+5.Upon the form's processing, the Payee will be registered in the NCO "Moneta" \(LLC\), after that he will be able to publish plans in the Store. The plan Author will be notified of the form's processing completion by e-mail.
+
+6.In accordance with terms of the Agreement \[3\], within 30 days from the date of registration, the Author has to send an Application for the conclusion of the Agreement on money transfers without the need to open accounts in MONETA.RU System and implementation of informational and technological interaction
+
+For this purpose, on the basis of the completed Form, an Application will be prepared according to the form provided in Annex No. 9 to the Agreement \[3\] and sent to the Author. The Author has to sign the Application and send the original to the NCO "Moneta" by any means provided for in clause 2.6 of the Agreement \[3\].
+
+> Please note. According to terms of the Agreement \[3\], clause 2.5.1, "if within 30 days from the date of registration, the original application is not being received by the NCO, then the reception of payments will be terminated on the 31 calendar day after the Payee registration in the NCO "Moneta."
+
+
+

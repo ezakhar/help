@@ -27,6 +27,7 @@
 
 * [Планирование сезона и периодизация](basics/season-plan.md)
 * [Создать схему периодизации](methodology/periodisation-schemes.md)
+* [Для спортсмена: Как использовать тренировочный план](basics/use-training-plan.md)
 * [Управление категориями тренировок](basics/categories.md)
 * [Управление шаблонами тренировок](basics/templates.md)
 * [Внешние календари \(iCal\)](basics/calendar-subscription-ical.md)

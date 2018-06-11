@@ -1,86 +1,104 @@
-# Доступный баланс и вывод средств
+---
+related:
+  - basics/training-plan.md
+  - basics/training-plan-management.md
+  - basics/training-plans-for-coaches.md
+  - basics/plan-author-profile.md
+  - basics/use-training-plan.md  
+---
 
-В Настройках в разделе "Продажа тренировочных планов" отображается доступный баланс и сопутствующая информация:
+# Available balance and withdrawal of funds
 
-![Продажи планов](https://264710.selcdn.ru/assets/images/_new/settings/user-purchases-all.png)
+In Settings in the "Training plans sales" section you can view the available balance and the relevant information:
 
-* **[Карты и счета](#addcard)** - для привязки банковских карт и управления ими;
-* **[Продажи тренировочных планов](#purchases)** - для просмотра детальной информации по продажам планов. 
-* **[Доступный баланс](#balance)** - для отображения информации по сумме средств, доступной для вывода
-* **[Вывод средств](#withdrawals)** - для просмотра перечня поручений на вывод средств.
+![Training plan sales](https://264710.selcdn.ru/assets/images/_new/settings/user-purchases-all.png)
 
-### Добавление банковских карт и управление ими {#addcard}
+* [**Cards and bank accounts**](#addcard) -  here you can set bank cards that will be used for withdrawal and manage them; 
+* [**Training plans purchases**](#purchases) - here you can view detailed information about plan purchases;  
+* [**Available balance**](#balance) - here you can check the amount of money available for withdrawal; 
+* [**Withdraw**](#withdrawals) - here you can view the list of withdrawal requests.
 
-> Только для Авторов планов - физических лиц
+### Adding bank cards and managing them {#addcard}
 
-Вывод средств, полученных Авторами планов от продажи тренировочных планов в Staminity, производится следующими способами:
+> Only for plan Authors - private individuals
 
-| Авторы планов | Способы вывода средств |
+A plan Author can withdraw money made by selling plans in Staminity, in the following ways:
+
+| Plan Authors | Ways of withdrawal |
 | :--- | :--- |
-| Физические лица | **На банковскую карту**. Авторы планов - физические лица самостоятельно могут добавлять банковские карты, на которые они хотели бы осуществлять вывод средств. |
-| Юридические лица и ИП | **На расчетный счет**. Управлять реквизитами счета в интерфейсе Staminity невозможно, реквизиты расчетного счета для юрлиц и ИП указываются в анкете, которая заполняется при регистрации.  |
+| Private individuals | **To a bank card. **Plan Authors - private individuals can independently add bank cards to which they would like to transfer money. |
+| Legal entities and individual entrepreneurs | **To a settlement account.** You can't manage the account details in Staminity interface, details of the settlement account for legal entities and individual entrepreneurs are indicated in the form which is to be filled in when signing up. |
 
-Для добавления новой карты Автору плана-физическому лицу необходимо:
+In order to add a new bank card, plan Author - private individual has to:
 
-1.Перейти в Настройки и в разделе "Продажа тренировочных планов" выбрать пункт "Карты и счета":
+1. Go to Settings and in the "Training plans sale" section select the "Cards and bank accounts" item: 
 
-![Управление картами](https://264710.selcdn.ru/assets/images/_new/settings/user-cards.png)
+![Card management](https://264710.selcdn.ru/assets/images/_new/settings/user-cards.png)
 
-2.Нажать на кнопку "Добавить новую карту" и ввести реквизиты карты.
+2.Click on the "Add new card" button and enter the card details.
 
-> **ВАЖНО:**
+> IMPORTANT**:**
 >
-> 1.Staminity не хранит данные карт, вводимые в данном разделе. За хранение карт отвечает партнер по проведению расчетов между Авторами и Покупателями тренировочных планов - **Небанковская кредитная организация «МОНЕТА.РУ»** \(общество с ограниченной ответственностью\), лицензия на осуществление банковских операций со средствами в рублях и иностранной валюте №3508-К выдана Банком России 02.07.2012г.за тренировочные планы.
+> 1.Staminity doesn't store card details, entered in this section. They are stored by the partner responsible for making settlements between training plan Authors and Buyers - **Non-banking credit organization «MONETA.RU» **\(Limited Liability Company\), license to conduct banking operations with funds in Roubles and foreign currencies No. 3508-K issued by the Bank of Russia on 02.07.2012.
 >
-> 2.**Для проверки корректности ввода реквизитов карты, в момент привязки с нее будет списана сумма не более одного рубля. Данная сумма НЕ БУДЕТ ВОЗВРАЩЕНА на карту.**
+> 2.**In order to verify the correctness of the card details, an amount of not more than one rouble is charged from the card at the moment you enter the card details. This amount WON'T BE RETURNED to the card.**
 >
-> 3.Введенная карта может быть использована только в качестве средства вывода денежных средств, полученных от продажи тренировочных планов в Staminity.
+> 3.The set card can be used only for withdrawal of money made by selling training plans in Staminity.
 
-Обратите внимание на признак "По-умолчанию" для карты. 
-При оформлении запроса на вывод средств платеж будет выполнен на карту, установленную по-умолчанию для данной валюты.
+Note the “Default” attribute for cards.  
+When making a withdrawal request, money will be transferred to the card, set as "default" for this specific currency.
 
-![Карта по-умолчанию](https://264710.selcdn.ru/assets/images/_new/settings/user-cards-default.png)
+![Card set as &quot;By default&quot;](https://264710.selcdn.ru/assets/images/_new/settings/user-cards-default.png)
 
-Данные любой введенной карты можно удалить. 
-После удаления карта в интерфейсе помечается удаленной \(DELETED\) и отправляется запрос на удаление ее данных в адрес НКО "Монета" \(ООО\).
+You can delete details of any card.  
+After deleting, the card is marked as \(DELETED\) in the interface and a request to delete its data is sent to the address of the NCO Moneta \(LLC\).
 
-### Реестр продаж тренировочных планов{#purchases}
+### Training plans purchases register {#purchases}
 
-В разделе "Продажи тренировочных планов" отображается реестр всех продаж тренировочных планов Автора в Staminity.
+A register of all Author's plans purchases in Staminity is displayed in the “Training plans purchases” section.
 
-![Продажи планов](https://264710.selcdn.ru/assets/images/_new/settings/user-purchases.png)
+![Training plans purchases](https://264710.selcdn.ru/assets/images/_new/settings/user-purchases.png)
 
-В реестре отображается "чистая" сумма, т.е. сумма продажи за вычетом комиссии Staminity
+In the register, you will see the "net" amount, i.e. sales amount minus Staminity commission.
 
-> Комиссия Staminity составляет 30% с каждой продажи от установленной Автором стоимости плана.
+> Staminity charges commission from each sale, the commission is 30% of the plan's cost set by the Author.
 
-### Доступный баланс и вывод средств{#balance}
-В строке "Баланс" указывается сумма средств, полученная автором от продажи тренировочных планов, доступная для вывода на банковскую карту или на расчетный счет Автору. 
+### Available balance and withdrawal of funds {#balance}
 
-В сумме доступного баланса учитывается:
-* сумма продаж тренировочных планов;
-* комиссия Staminity:
-* сумма ранее выполненных поручений на вывод денежных средств.
+In the "Available balance" line you will see the amount of money made by selling training plans which can be transferred to the Author's bank card or settlement account.
 
-Для вывода средств необходимо нажать на кнопку "Вывести" и подтвердить условия выполнения операции. 
+The following items are accounted in the amount of available balance:
 
->**Условия вывода средств:**
-* При выводе 3000 рублей и выше дополнительная комиссия не взимается;
-* При выводе менее 3000 рублей платежной системой взимается дополнительная комиссия в размере 1.5%, минимум 60 рублей. 
+* the amount of training plans purchases;
+* Staminity commission.
+* the amount of completed withdrawal requests.
 
-**Кнопка "Вывести"** доступна, если:
-* доступный для вывода баланс выше минимального лимита: 300 рублей.
-* есть доступные карты или счета для вывода средств.
+In order to withdraw funds, you need to click on the "Withdraw" button and confirm agreement with terms of the transaction.
 
-После подтверждения условий вывода Ваш запрос (поручение на вывод средств) будет сформирован и отправлен на подтверждение. Рассмотрение запроса обычно занимает несколько часов, но может продолжаться до 3 рабочих дней. 
+> **Terms of withdrawal:**
+>
+> * Withdrawal is made for free if the amount of withdrawal is more than or equals 3000 RUB;
+> * If less, then the system commission is charged in the amount of 1,5%, 60 RUB minimum.
 
-### Реестр поручений на вывод средств{#withdrawals}
-В разделе "Вывод средств" выводится информация обо всех оформленных ранее запросах на вывод средств с их статусом:
+**The "Withdraw" button** is available if:
 
-![Продажи планов](https://264710.selcdn.ru/assets/images/_new/settings/user-withdrawals.png)
+* the available balance is more then 300 RUB;
+* there are cards or accounts set for money withdrawal.
 
-Доступные статусы:
-* **Создан** - Запрос на вывод средств создан и отправлен на рассмотрение и подтверждение;
-* **Подтверждён** - Запрос подтвержден, передана информация платежному партнеру на перечисление денежных средств;
-* **Отменён** - Запрос отменен по результатам рассмотрения;
-* **Выполнен** - Получена информация от платежного партнера об успешном перечислении денежных средств.
+After you confirm your agreement with terms of withdrawal, your request will be generated and sent for confirmation. Request processing usually takes a few hours, but it may require up to 3 business days.
+
+### Withdrawal requests register {#withdrawals}
+
+In the "Withdraw" section you can view information about all withdrawal requests made earlier and their status:
+
+![Withdrawal requests](https://264710.selcdn.ru/assets/images/_new/settings/user-withdrawals.png)
+
+Statuses available:
+
+* **Created** - Withdrawal request has been generated and sent for consideration and confirmation;
+* **Approved** - The request has been approved and information on the transfer of funds has been sent to the payment partner; 
+* **Declined** - The request has been declined upon consideration;
+* **Executed** - Information about successful transfer of funds has been received from the payment partner.
+
+
+
