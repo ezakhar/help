@@ -45,7 +45,7 @@
 
 ## FAQ
 
-* [What is Lactate threshold](basics/lactate-threshold.md)
+* [lactate-threshold](basics/lactate-threshold.md)
 
 ## Tariffs and payments
 
