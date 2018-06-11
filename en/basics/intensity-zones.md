@@ -1,140 +1,137 @@
-# Определение тренировочных зон
+# Determining training zones
 
-Тренировочные зоны – это уровни интенсивности, в которых необходимо выполнять те или иные тренировки для достижения лучшего тренировочного эффекта.  
-Существует несколько известных методов определения границ своих тренировочных зон, отличающихся количеством зон, базой для их расчета и границами зон.  
-В Стаминити мы реализовали расчет границ зон интенсивности по следующим методам:
+Training zones are intensity levels within which certain activities should be completed in order to achieve better training effect.  
+There are several popular methods of determining your training zones limits which differ in the number of zones, basis of their calculation and zones limits.  
+In Staminity we calculate intensity zones limits using the following methods:
 
-* **Зоны частоты сердечных сокращений \(зоны по пульсу\):**
+* **HR zones**
 
-  * [Метод Джо Фрила \(Joe Friel\), 7 зон по пульсу от ПАНО](#frielhr)
-  * [Метод Янсена \(Peter Janssen\), 6 зон от ЧССмакс](#janssenhr)
-  * [Метод Карвонена \(Martti Karvonen\), 5 зон от резерва ЧСС](#karvonenhr)
+  * [Joe Friel method, 7 HR zones based on LT](#frielhr)
+  * [Peter Janssen method, 6 HR zones based on HRmax](#janssenhr)
+  * [Martti Karvonen method, 5 HR zones based on HRreserve](#karvonenhr)
 
-* **Зоны по темпу/скорости**
+* **Pace/speed zones**
 
-  * [Метод Джо Фрила \(Joe Friel\), 7 зон по темпу/скорости от ПАНО](#frielspeed)
+  * [Joe Friel method, 7 pace/speed zones based on LT](#frielspeed)
 
-* **Зоны по мощности**
+* **Power zones**
 
-  * [Метод Коггана \(Andy Coggan\), 7 зон по мощности от ПАНО](#cogganpower)
+  * [Andy Coggan method, 7 power zones based on LT](#cogganpower)
 
-## Зоны по пульсу
+## HR zones
 
-#### Метод Джо Фрила \(Joe Friel\), 7 зон по пульсу от ПАНО {#frielhr}
+#### Joe Friel method, 7 HR zones based on LT {#frielhr}
 
-Джо Фрил в "Библии триатлета" определяет семь тренировочных зон, границы которых рассчитываются в процентах от значения ПАНО спортсмена по пульсу, отдельно для бега и велоспорта:
+In The Triathlete's Training Bible Joe Friel defines seven training zones which limits are calculated in percentage of athlete's LTHR, separately for running and cycling:
 
-| Зоны | Границы зон для бега | Границы зон для велосипеда |
+| Zones | Zones limits for running | Zones limits for cycling |
 | :--- | :--- | :--- |
-| Зона 1. Recovery | До 85% от ПАНО | До 81% от ПАНО |
-| Зона 2. Aerobic | 85-89% от ПАНО | 81-89% от ПАНО |
-| Зона 3. Tempo | 90-94% от ПАНО | 90-93% от ПАНО |
-| Зона 4. SubThreshold | 95-99% от ПАНО | 94-99% от ПАНО |
-| Зона 5.a. SuperThreshold | 100-102% от ПАНО | 100-102% от ПАНО |
-| Зона 5.b. Aerobic capacity | 103-106% от ПАНО | 103-106% от ПАНО |
-| Зона 5.c. Anaerobic capacity | Выше 106% от ПАНО | Выше 106% от ПАНО |
+| Zone 1. Recovery | Up to 85% of LT | Up to 81% of LT |
+| Zone 2. Aerobic | 85-89% of LT | 81-89% of LT |
+| Zone 3. Tempo | 90-94% of LT | 90-93% of LT |
+| Zone 4. SubThreshold | 95-99% of LT | 94-99% of LT |
+| Zone 5.a. SuperThreshold | 100-102% of LT | 100-102% of LT |
+| Zone 5.b. Aerobic capacity | 103-106% of LT | 103-106% of LT |
+| Zone 5.c. Anaerobic capacity | More than 106% of LT | More than 106% of LT |
 
-> Источник данных для таблицы: [http://www.trainingbible.com/joesblog/2009/11/quick-guide-to-setting-zones.html](http://www.trainingbible.com/joesblog/2009/11/quick-guide-to-setting-zones.html)
+> Data source: [http://www.trainingbible.com/joesblog/2009/11/quick-guide-to-setting-zones.html](http://www.trainingbible.com/joesblog/2009/11/quick-guide-to-setting-zones.html)
 
-Чтобы рассчитать границы пульсовых зон по Фрилу, ведите значение ПАНО, выберите в настройках зон соответствующий метод расчета и сохраните изменения:
-![](http://264710.selcdn.ru/assets/images/settings/FrielHRZones.png)
+In order to calculate HR zones limits according to Joe Friel method you need to fill in LT value, select the corresponding method of calculation in zones settings and save changes:  
+![select training zones calculation method](http://264710.selcdn.ru/assets/images/settings/FrielHRZones.png)
 
-**Восстановление \(зона 1\)**. Тренировки в границах зоны 1 включают в себя самые простые упражнения, которые помогают опытным спортсменам восстановиться после тяжелых упражнений или периода сложных тренировок.
+**Recovery \(zone 1\)**. Activities within zone 1 limits include the most simple exercises helping experienced athletes to recover after hard exercises or a period of complex activities.
 
-**Экстенсивная выносливость \(зона 2\)**. Для данного типа интенсивности нормой являются продолжительные тренировки по развитию выносливости. При проведении упражнений на таком уровне усилий происходит формирование, а затем и поддержание аэробной выносливости. Лактат в организме вырабатывается в сравнительно небольших количествах, это позволяет проводить продолжительные, но в то же время комфортные тренировочные сессии на пределе аэробной выносливости спортсмена \(или чуть выше его\).
+**Extensive endurance \(zone 2\)**. This intensity type is characterized by long activities focused on endurance development. When completing exercises at such efforts level, formation and then maintenance of aerobic endurance take place. During such activities, lactate is produced in relatively small quantities, which allows to complete long, but at the same time, comfortable training sessions at the athlete's aerobic endurance limit \(or a bit higher\).
 
-**Интенсивная выносливость \(зона 3\)**. При незначительном повышении интенсивности производство лактата начинает повышаться по сравнению с предыдущими уровнями, так как помимо медленно сокращающихся мышечных волокон в дело вступают быстро сокращающиеся.
+**Intensive endurance \(zone 3\)**. With a minor increase in intensity, the production of lactate begins to increase compared to the previous levels, as in addition to the slow twitch muscle fibers, fast twitch ones spring into action.
 
-**Порог интенсивности \(зоны 4 и 5a\)**. Возможно, самая важная тренировочная зона для многоборцев. Уровень усилий здесь чуть ниже или чуть выше ПАНО. При такой работе максимально задействуются аэробные механизмы, основное напряжение приходится на медленно сокращающиеся мышечные волокна и системы организма, вырабатывающие энергию. Значительная ее часть начинает производиться за счет  
-анаэробных механизмов; в организме возникают улучшения, связанные с невосприимчивостью к действию лактата и ускорением утилизации продуктов его распада. Кроме того, быстро сокращающиеся мышечные волокна начинают проявлять характеристики медленно сокращающихся. Для того чтобы отделить друг от друга усилия, прилагаемые выше и ниже ПАНО, порог интенсивности разбит на две зоны.
+**Intensity threshold \(zones 4 and 5a\)**. Possibly, the most important training zone for all-round athletes. The efforts level here is slightly above or slightly below the LT. Thus, aerobic mechanisms are used to the full, the main load falls to slow twitch muscle fibers and body systems that produce energy. A significant part of it starts to produce thanks to anaerobic mechanisms; in the body there appear improvements associated with immunity to the effect of lactate and accelerated utilization of its decay products. Moreover, fast twitch muscle fibers start to show characteristics of the slow twitch ones. In order to separate efforts applied lower and higher the LT level, the intensity threshold is divided into two zones.
 
-**Анаэробная выносливость \(зона 5b\).** На этом этапе интенсивность оказывается на уровне выше ПАНО. Типичными для него являются интервальные тренировки. Данный этап способствует росту и развитию быстро сокращающихся мышечных волокон, развивается способность организма противостоять действию лактата и утилизировать его. Высокий объем тренировок анаэробной выносливости является самой распространенной причиной перетренированности у серьезных спортсменов, поэтому к подобным тренировкам следует относиться с осторожностью, и за ними обязательно должен следовать продолжительный период восстановления.
+**Anaerobic endurance \(zone 5b\).** At this stage intensity level is higher than LT. Structured activities are typical for this zone. This stage facilitates growth and development of fast twitch muscle fibers and the body's ability to resist the effect of lactate and utilize it. Great volume of activities focused on anaerobic endurance development represents the most common reason of professional athletes' overtraining so these activities should be treated with caution, and they should be followed by a long period of recovery.
 
-**Мощность \(зона 5c\)**. Тренировка мощности не является особенно важной для спортсменов, занимающихся многоборьем. Исключение составляют случаи, когда спортсмену сложно нарастить мышечную массу или когда для набора скорости ему необходимо задействовать быстро сокращающиеся мышечные волокна. Упражнения на развитие мощности должны состоять из коротких, взрывных интервалов, разделяемых длительными периодами восстановления.
+**Power \(zone 5c\). **Power development is not so important for all-round athletes. Except for situations when an athlete faces difficulties with muscle mass building or when he needs to use fast twitch muscle fibers to increase speed. Power development exercises should consist of short explosive intervals separated by long recovery periods.
 
-> Источник данных для описания зон: Джо Фрил, "Библия триатлета". Издательство "Манн, Иванов, Фербер", Москва, 2011 год
+> Zone description data source: The Triathlete's training Bible by Joe Friel. Mann, Ivanov and Ferber publishing house, Moscow, 2011
 
-####  {#janssenhr}
+#### Peter Janssen method, 6 HR zones based on HRmax {#janssenhr}
 
-#### Метод Янсена \(Peter Janssen\), 6 зон от ЧССмакс {#janssenhr}
+Peter Janssen in his book "Training Lactate Pulse-Rate" describes 6 intensity zones and calculates their limits in percentage of HRmax.
 
-Питер Янсен в книге "ЧСС, лактат и тренировки на выносливость" определяет 6 зон интенсивности, рассчитывая их границы в процентах от ЧССмакс.
+**HRmax** - the athlete's maximum heart rate occurred during testing in a laboratory or during a competition.
 
-**ЧССмакс** - это максимальная частота сердечных сокращений, наблюдавшаяся у спортсмена при тестировании в лаборатории или во время соревнований.
-
-| Зоны | Границы зон по пульсу |
+| Zones | HR zones limits |
 | :--- | :--- |
-| Зона R. Восстановительная | 60-70% от ЧССмакс |
-| Зона A1. Аэробная 1 | 70-80% от ЧССмакс |
-| Зона A2. Аэробная 2 | 80-85% от ЧССмакс |
-| Зона E1. Развивающая 1 | 85-90% от ЧССмакс |
-| Зона E2. Развивающая 2 | 90-95% от ЧССмакс |
-| Зона An1. Анаэробная 1 | 95-100% от ЧССмакс |
+| Zone R. Recovery | 60-70% of HRmax |
+| Zone A1. Aerobic 1 | 70-80% of HRmax |
+| Zone A2. Aerobic 2 | 80-85% of HRmax |
+| Zone E1. Endurance 1 | 85-90% of HRmax |
+| Zone E2. Endurance 2 | 90-95% of HRmax |
+| Zone An1. Anaerobic1 | 95-100% of HRmax |
 
-Чтобы рассчитать границы пульсовых зон по Янсену, ведите значение ЧССмакс, выберите в настройках зон соответствующий метод расчета и сохраните изменения:
-![](http://264710.selcdn.ru/assets/images/settings/JanssenHRZones.png)
+In order to calculate HR zones limits according to Peter Janssen method you need to fill in HRmax value, select the corresponding method of calculation in zones settings and save changes:  
+![peter janssen method](http://264710.selcdn.ru/assets/images/settings/JanssenHRZones.png)
 
-Обозначения зон:
+Zones marking:
 
-1. **R - recovery** - восстановительная. Очень низкая интенсивность.
-2. **A - aerobic **- аэробная зона. Разделяется на две подзоны, с низкой \(А1\) и средней \(А2\) интенсивностью. В аэробной зоне энергия поставляется исключительно за счет аэробных процессов.
-3. **E - endurance** - развивающая зона \(от англ. endurance – выносливость\). Развивающая зона расположена чуть ниже и чуть выше анаэробного порога, поэтому энергия поставляется частично аэробным путем и частично анаэробным. Также выделяются две подзоны: E1 - транзитная зона, E2 - высокоинтенсивная выносливость. 
-4. **An - anaerobic** - анаэробная зона. Основана на анаэробном гликолизе, реакции образования энергии протекают в условиях недостаточного поступления кислорода,что ведет к образованию и накоплению молочной кислоты.
+1. **R - recovery **zone. Very low intensity.
+2. **A -  aerobic **zone. Is divided into two sub-zones with low \(A1\) and medium \(A2\) intensity. In aerobic zone energy is produced only thanks to aerobic processes.
+3. **E - endurance **zone. This zone lies a bit higher or a bit lower of the anaerobic threshold level, so energy is produced partly in aerobic and partly in anaerobic way. Also, two sub-zones are defined: E1 - transit zone, E2 - high-intensity endurance. 
+4. **An - anaerobic **zone. Is based on anaerobic glycolysis, energy production occurs in conditions of insufficient oxygen supply, which leads to the formation and accumulation of lactic acid. 
 
-#### Метод Карвонена \(Martti Karvonen\), 5 зон от резерва ЧСС {#karvonenhr}
+#### Martti Karvonen method, 5 HR zones based on HRreserve {#karvonenhr}
 
-Финский физиолог Мартти Карвонен предложил рассчитывать интенсивность тренировки от **ЧСС резерва**, который определяется как **ЧССмакс - ЧССпокоя**.
+Finnish physiologist Martti Karvonen offered to calculate intensity based on **HRreserve**, which is determined as **HRmax - HRrest**.
 
-С учетом этого 5 зон интенсивности определяются по следующим правилам: 
+Based on it, 5 intensity zones are determined according to the following rules:
 
-| Зоны | Границы зон по пульсу  |
+| Zones | HR zones limits |
 | :--- | :--- |
-| Зона 1 | ЧССпокоя + ЧССрезерв \* \(50 - 60%\) |
-| Зона 2 | ЧССпокоя + ЧССрезерв \* \(60 - 70%\) |
-| Зона 3 | ЧССпокоя + ЧССрезерв \* \(70 - 80%\) |
-| Зона 4 | ЧССпокоя + ЧССрезерв \* \(80 - 90%\) |
-| Зона 5 | ЧССпокоя + ЧССрезерв \* \(90 - 100%\) |
+| Zone 1 | HRrest + HRreserve\* \(50 - 60%\) |
+| Zone 2 | HRrest + HRreserve \* \(60 - 70%\) |
+| Zone 3 | HRrest + HRreserve \* \(70 - 80%\) |
+| Zone 4 | HRrest + HRreserve \* \(80 - 90%\) |
+| Zone 5 | HRrest + HRreserve\* \(90 - 100%\) |
 
-Чтобы рассчитать границы пульсовых зон по Карвонену, ведите значение ЧССпокоя и ЧССмакс, выберите в настройках зон соответствующий метод расчета и сохраните изменения:
-![](http://264710.selcdn.ru/assets/images/settings/KarvonenHRZones.png)
+In order to calculate HR zones limits according to Martti Karvonen method you need to fill in HRrest and HRmax values, select the corresponding method of calculation in zones settings and save changes:  
+![Karvonen zones](http://264710.selcdn.ru/assets/images/settings/KarvonenHRZones.png)
 
+## Pace/speed zones
 
-## Зоны по темпу
+#### Joe Friel method, 7 pace/speed zones based on LT {#frielspeed}
 
-#### Метод Джо Фрила \(Joe Friel\), 7 зон по темпу/скорости от ПАНО {#frielspeed}
-
-| Зоны | Границы зон по темпу |
+| Zones | Pace/speed zones limits |
 | :--- | :--- |
-| Зона 1. Recovery | Медленнее, чем 129% от ПАНО по темпу |
-| Зона 2. Aerobic | 114-129% от ПАНО по темпу |
-| Зона 3. Tempo | 106-113% от ПАНО по темпу |
-| Зона 4. SubThreshold | 101-105% от ПАНО по темпу |
-| Зона 5.a. SuperThreshold | 97-100% от ПАНО по темпу |
-| Зона 5.b. Aerobic capacity | 90-96% от ПАНО по темпу |
-| Зона 5.c. Anaerobic capacity | Быстрее 90% от ПАНО по темпу |
+| Zone 1. Recovery | Slower than 129% of LTPace |
+| Zone 2. Aerobic | 114-129% of LTPace |
+| Zone 3. Tempo | 106-113% of LTPace |
+| Zone 4. SubThreshold | 101-105% of LTPace |
+| Zone 5.a. SuperThreshold | 97-100% of LTPace |
+| Zone 5.b. Aerobic capacity | 90-96% of LTPace |
+| Zone 5.c. Anaerobic capacity | Faster than 90% of LTPace |
 
-> Источник данных для таблицы: [http://www.trainingbible.com/joesblog/2009/11/quick-guide-to-setting-zones.html](http://www.trainingbible.com/joesblog/2009/11/quick-guide-to-setting-zones.html)
+> Data source: [http://www.trainingbible.com/joesblog/2009/11/quick-guide-to-setting-zones.html](http://www.trainingbible.com/joesblog/2009/11/quick-guide-to-setting-zones.html)
 
-Чтобы рассчитать границы темповых зон по Фрилу, ведите значение ПАНО по темпу, выберите в настройках зон соответствующий метод расчета и сохраните изменения:
+In order to calculate HR zones limits according to Joe Friel method you need to fill in LTPace value, select the corresponding method of calculation in zones settings and save changes:  
 ![](http://264710.selcdn.ru/assets/images/settings/FrielPaceZones.png)
 
-Описания зон см. в разделе [Метод Джо Фрила \(Joe Friel\), 7 зон по пульсу от ПАНО](#frielhr)
+Zones description see in section [Joe Friel method, 7 HR zones based on LT](#frielhr)
 
-## Зоны по мощности
+## Power zones
 
-#### Метод Коггана \(Andy Coggan\), 7 зон по мощности от ПАНО {#cogganpower}
+#### Andy Coggan method, 7 power zones based on LT {#cogganpower}
 
-| Зоны | Границы зон мощности для велосипеда |
+| Zones | Power zones limits for cycling |
 | :--- | :--- |
-| Зона 1. Active recovery | Меньше 55% от ПАНО по мощности |
-| Зона 2. Endurance | 55-74% от ПАНО |
-| Зона 3. Tempo | 75-89% от ПАНО |
-| Зона 4. Lactate threshold | 90-104% от ПАНО |
-| Зона 5. VO2 max | 105-120% от ПАНО |
-| Зона 6. Anaerobic capacity | 121-150% от ПАНО |
-| Зона 7. Neuromuscular power | Более 150% от ПАНО |
+| Zone 1. Active recovery | Lower than 55% of LTPower |
+| Zone 2. Endurance | 55-74% of LT |
+| Zone 3. Tempo | 75-89% of LT |
+| Zone 4. Lactate threshold | 90-104% of LT |
+| Zone 5. VO2 max | 105-120% of LT |
+| Zone 6. Anaerobic capacity | 121-150% of LT |
+| Zone 7. Neuromuscular power | More than 150% of LT |
 
-> Источник данных для таблицы: [http://m-ivanov.com/2016/08/kak-exat-bystree-sammari-na-knigu-trenirovki-po-moshhnosti-xanter-allen-i-endryu-koggan/](http://m-ivanov.com/2016/08/kak-exat-bystree-sammari-na-knigu-trenirovki-po-moshhnosti-xanter-allen-i-endryu-koggan/)
+> Data source: [http://m-ivanov.com/2016/08/kak-exat-bystree-sammari-na-knigu-trenirovki-po-moshhnosti-xanter-allen-i-endryu-koggan/](http://m-ivanov.com/2016/08/kak-exat-bystree-sammari-na-knigu-trenirovki-po-moshhnosti-xanter-allen-i-endryu-koggan/)
 
-Чтобы рассчитать границы зон мощности по Коггану, ведите значение ПАНО по мощности, выберите в настройках зон соответствующий метод расчета и сохраните изменения:
+In order to calculate HR zones limits according to Joe Friel method you need to fill in LTPower value, select the corresponding method of calculation in zones settings and save changes:  
 ![](http://264710.selcdn.ru/assets/images/settings/CogganPowerZones.png)
+

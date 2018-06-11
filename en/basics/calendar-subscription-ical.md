@@ -1,29 +1,30 @@
-#Как подключить календарь тренировок к своему рабочему календарю (iCal)
+# How to cynchronize activity calendar and business calendar \(iCal\)
 
-В Стаминити можно настроить интеграцию календаря ваших тренировок с популярными календарными приложениями - **Google calendar, Microsoft Outlook, Apple iCal** и другими, поддерживающими подписку на сторонние календари.
+In Staminity you can set integration of your activity calendar with popular calendar applications - **Google Calendar, Microsoft Outlook, Apple iCal** and others, which support subscription to external calendars.
 
-###Как это работает
-Запланированные тренировки отображаются в вашем основном календаре вместе с другими рабочими и личными задачами, совещаниями, встречами.
-На рисунке сверху показан план в Стаминити, в нижней части - эта же тренировочная неделя в Google Calendar.
+### How does it work
 
-![План тренировок из Стаминити в Google calendar](http://264710.selcdn.ru/assets/images/calendar-ical/calendar-ical-staminity.png)
+Planned activities will be displayed in your main calendar together with other business and personal tasks, meetings, etc. On the picture you can see how does the same training week looks like in Staminity \(at the top\) and in Google Calendar \(at the bottom\)
 
-По каждой тренировке доступен план от тренера, его установка на тренировку. Сравните ниже слева запланированную тренировку в Стаминити, справа - ее же в Google Calendar.
+![Staminity integration with Google calendar](http://264710.selcdn.ru/assets/images/calendar-ical/calendar-ical-staminity.png)
 
-![Тренировка из Стаминити в Google Calendar](http://264710.selcdn.ru/assets/images/calendar-ical/activity-compare-2.png)
+For each activity, you can see a plan set by the coach and description. Just compare a planned activity in Staminity \(to the left\) and the same activity in Google Calendar \(to the right\).
 
+![Activity from Staminity in Google Calendar](http://264710.selcdn.ru/assets/images/calendar-ical/activity-compare-2.png)
 
-Для структурированных тренировок план от тренера мы покажем текстом:
-![Тренировка из Стаминити в Google Calendar](http://264710.selcdn.ru/assets/images/calendar-ical/activity-compare-1.png)
+In structured activities a plan set by the coach will be displayed as text:  
+![Activity from Staminity in Google Calendar](http://264710.selcdn.ru/assets/images/calendar-ical/activity-compare-1.png)
 
-###Как настроить подписку на ваш календарь плановых тренировок
-* Перейдите в раздел "Настройки" в сервисе и найдите раздел "Интеграция с календарем (iCal)
+### How to set up subscription to your planned activities calendar
 
-![Тренировка из Стаминити в Google Calendar](http://264710.selcdn.ru/assets/images/calendar-ical/profile-ical.png)
+* Go to service’s “Settings” and find section “Integration with calendar \(iCal\)”
 
-* Скопируйте вашу индивидуальную ссылку
-* Перейдите в выбранное календарное приложение и добавьте подписку на новый календарь по URL
+![Activity from Staminity in Google Calendar](http://264710.selcdn.ru/assets/images/calendar-ical/profile-ical.png)
 
-Инструкция для [Google Calendar](https://support.google.com/calendar/answer/37100?co=GENIE.Platform%3DDesktop&hl=ru), [Apple iCal](https://support.apple.com/ru-ru/guide/calendar/subscribe-to-calendars-icl1022), [Microsoft Outlook](https://support.office.com/en-us/article/Import-or-subscribe-to-a-calendar-in-Outlook-com-or-Outlook-on-the-web-cff1429c-5af6-41ec-a5b4-74f2c278e98c)
+* Copy your personal link
+* Open the required calendar application and add subscription to new calendar via URL
 
-**Обратите внимание!** Календарные приложения сами выбирают частоту обновления данных в подписанных календарях. В Стаминити данные в календаре обновляются сразу по факту их изменения тренером, а в сторонних приложениях эти изменения могут быть доступны лишь спустя несколько часов.
+Instructions for [Google Calendar](https://support.google.com/calendar/answer/37100?co=GENIE.Platform%3DDesktop&hl=ru), [Apple iCal](https://support.apple.com/ru-ru/guide/calendar/subscribe-to-calendars-icl1022), [Microsoft Outlook](https://support.office.com/en-us/article/Import-or-subscribe-to-a-calendar-in-Outlook-com-or-Outlook-on-the-web-cff1429c-5af6-41ec-a5b4-74f2c278e98c)
+
+**Please note! **Calendar apps independently set the frequency of data updating in subscribed calendars. In Staminity calendar data is updated as soon as it is changed by the coach, but in third-party applications, these changes may become available only in few hours.
+

@@ -4,7 +4,7 @@
 * [2. Create an account and sign in to the application ](#signin)
 * [3-1. Set up the profile](#profile)
 * [3-2. For the coach - set up the Coach profile](#сoachprofile) 
-* [4. Set up the training zones and thresholds ](#trainingzones)
+* [4. Set up training zones and thresholds ](#trainingzones)
 * [5. Set up an automatic upload of your completed activities to Staminity](#sync)
 * [6. Set up connection between Coach and Athletes](#startcoach)
 * [7. Set up access from your smartphone](#mobile)

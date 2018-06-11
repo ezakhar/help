@@ -1,104 +1,73 @@
-# Тренировочные планы
+# Training plans in Staminity. Plan types
 
-* [Зачем нужны тренировочные планы](#plan)
-* [Создать план](#createPlan)
-* [Запланировать тренировки, события, соревнования в плане](#buildPlan)
-* [Присвоить план ученикам](#assignPlan)
-* \(Скоро!\) Выставить план на продажу
+* [What is a training plan](#plan)
+* [Plan with non-fixed dates](#notfixed)
+* [Plan with fixed dates](#fixed)
+* [Dynamic plan](#dynamic)
 
-### Зачем нужны тренировочные планы {#plan}
+### What is a training plan {#plan}
 
-**Тренировочный план** - это набор плановых тренировок и рекомендаций тренера, которые необходимо выполнить ученику для достижения целей плана.
+**Training plan** is a set of planned activities and recommendations of a coach, which should be completed by an athlete in order to achieve the planned goals.
 
-![Тренировочный план в Staminity](https://264710.selcdn.ru/assets/images/methodology/training-plan-builder.png)
+![Training plan in Staminity](https://264710.selcdn.ru/assets/images/methodology/training-plan-builder.png)
 
-Он похож на план для одного ученика, но с несколькими существенными отличиями. Такой план можно:
+It is similar to the calendar with planned activities for one athlete but with several significant differences. Such plan can be:
 
-* сделать как в определенные календарные даты, так и без привязки к датам;
-* сделать обновляемым, чтобы изменения транслировались ученикам и после присвоений;
-* присвоить сразу нескольким ученикам;
-* \(скоро\) упаковать как отдельный продукт и выставить на продажу.
+* created with or without fixed dates;
+* made dynamic, so that changes will be transferred to assigned athletes;
+* assigned to several athletes simultaneously;
+* published in the Training plan store for sale. 
 
-Сфера применения тренировочных планов огромна:
+When a coach assigns a training plan to his athletes, all items from the plan \(activities, events, and competitions\) appear on their calendars.
 
-* **Подведение группы учеников к одному соревнованию**. Для группы, которая занимается по одному плану и готовится к одному старту можно создать и вести в сервисе один тренировочный план, вместо того, чтобы планировать тренировки для каждого;
-* **Проведение тренировочных сборов**. Для участников сборов можно составить обновляемый план, чтобы вносить изменения по ходу сбора. Все изменения такого плана будут транслироваться ко всем участникам сбора и у всех в календарях будет актуальное расписание тренировок;
-* **Планирование очных групповых тренировок**. Планируете индивидуально для каждого, но проводите иногда общегрупповые очные тренировки? Создайте специальный план для них и все новые групповые тренировки будут попадать в календари учеников;
-* \(скоро\) **Продажа авторских планов подготовки к конкретным соревнованиям**. Для этого подойдут планы с фиксированными датами, в которых тренировки запланированы в конкретные календарные дни;
-* \(скоро\) **Продажа авторских планов подготовки к определенным типам соревнований**, от полумарафона до полной железной дистанции, для учеников с различным начальным уровнем. Для этого подойдут планы без привязки к датам, которые применяются с любого дня или к выбранной дате старта;
-  и т.д.
+![Training plan operating principle](https://264710.selcdn.ru/assets/images/_new/methodology/training-plan-scheme.png)
 
-### Создать тренировочный план {#createPlan}
+In Staminity there are several types of plans:
 
-> Создание тренировочных планов доступно только тренерам. [Как стать тренером](/coaches/coaches-and-club-coaches.md#coach)
+* Plan with non-fixed dates;
+* Plan with fixed dates;
+* Dynamic plan.
 
-Для создания тренировочного плана перейдите в раздел "Методология" - "Тренировочные планы" и нажмите кнопку "Добавить":
+### Plan with non-fixed dates {#notfixed}
 
-![Создать тренировочный план в Staminity](https://264710.selcdn.ru/assets/images/methodology/training-plan-create.png)
+Training plan with non-fixed dates is a multipurpose plan. A coach can apply it for different athletes on different dates.
 
-Укажите:
+Dates of items for the particular athlete are set when such plan is being assigned.
 
-* **Название плана**
-* **Вид спорта**, для которого предназначен тренировочный план
-* **Тип дистанции**, к которой выполняется подготовка в плане
-* **План на продажу**. Отметьте для планов, которые вы хотите выставить на продажу
-* **Фиксированные даты**. Установите признак, если при планировании вы хотите использовать конкретные календарные даты. Если признак не установлен, то планирование выполняется в относительных датах \(Неделя 1, День 1; Неделя 1, День 2 и т.п.\). Такой универсальный план можно применять в любые даты.
-* **Начальная дата плана**. Для планов с фиксированными датами выберите дату начала планирования.
-* **Обновляемый план** \(только для планов с фиксированными датами\). Установите признак, если хотите транслировать обновления плана ученикам даже после присвоения плана. 
-* **Характеристики плана**. Отметьте признаки, которые подходят для вашего плана. Они помогут вам фильтровать планы, а для планов, выставленных на продажу, помогут покупателям выбрать нужный план.
-* **Ключевые слова**. В дополнение к характеристикам плана вы можете указать ключевые слова. Они также призваны помочь покупателям выбрать нужный план.
-* **Описание**. Для планов на продажу описание будет одним из основных факторов при выборе плана. Сделайте описание запоминающимся, используйте форматированный текст, изображения, ссылки на видео. 
+![training plan not fixed dates](https://264710.selcdn.ru/assets/images/_new/methodology/tp-not-fixed-dates.gif)
 
-### Запланировать тренировки, события, соревнования в плане {#buildPlan}
+Such plan can be used:
 
-Для наполнения плана перейдите в конструктор плана. Для этого в списке планов нажмите на иконку "Календарь" или в контекстном меню плана выберите "Запланировать тренировки".
+* as a typical plan for starting work with newbies; 
+* as a universal author’s plan for preparing amateurs of approximately the same level for their first marathon, half-marathon, first run.  
+* as a template of several weeks of activities, focused on certain skills development.
 
-Создание [тренировок](/basics/create-plan-activity.md), [событий](/basics/create-record.md) и [соревнований](/basics/competition.md) в тренировочном плане полностью повторяет эти действия в календаре ученика.
+### Plan with fixed dates {#fixed}
 
-Тренировки в плане можно создавать:
+In the plan with fixed dates, a coach sets certain dates when creating plan items.  
+When assigning such plan to athletes, they will have activities on the same dates as in the plan.
 
-* вручную
-* из шаблонов, выбирая шаблон при вводе тренировки
-* из шаблонов, перетаскивая шаблон с левой панели шаблонов
-* копированием из другой тренировки
+![training plan fixed dates](https://264710.selcdn.ru/assets/images/_new/methodology/tp-fixed-dates.gif)
 
-![Тренировки в плане Staminity](https://264710.selcdn.ru/assets/images/methodology/training-plan-copy-paste.gif)
+Such plan can be used:
 
-**В заданиях тренировочного плана интенсивность всегда указывается в % от ПАНО**. Это позволяет один план использовать для нескольких спортсменов с разным уровнем подготовки и уровнем ПАНО.
+* as an author’s plan for preparing amateurs for a specific race \(Moscow marathon, Berlin marathon\);
+* for composing a training plan for a group of athletes. 
 
-### Присвоить план {#assignPlan}
+### Dynamic plan {#dynamic}
 
-Тренировочный план можно присвоить своим спортсменам и все записи плана попадут в их тренировочный календарь.
+Plan with fixed dates can additionally be made dynamic.  
+In dynamic plan, all changes are transferred to assigned athletes.
 
-Есть несколько способов присвоения плана.   
-1.В списке планов напротив нужного плана нажмите кнопку "Присвоить"  
-![Присвоить тренировочный план в Staminity](https://264710.selcdn.ru/assets/images/methodology/training-plan-assign-from-list.png)
+![training plan dynamic dates](https://264710.selcdn.ru/assets/images/_new/methodology/tp-fixed-dynamic.gif)
 
-2.В контекстном меню для строчки плана выберите "Присвоить..."   
-![Присвоить тренировочный план в Staminity](https://264710.selcdn.ru/assets/images/methodology/training-plan-assign-from-menu.png)
+Such plan will come in handy:
 
-3.В конструкторе планов нажмите на иконку "Присвоить"  
-![Присвоить тренировочный план в Staminity](https://264710.selcdn.ru/assets/images/methodology/training-plan-assign-from-builder.gif)
+* for holding** training camps**. Group of athletes, participating in the camp, is assigned to such plan and each participant sees an actual schedule on his calendar. If for some reason there are changes in the schedule, organizers need to edit only one plan and changes will be transferred to all athletes;
 
-В окне присвоения плана укажите:
+* for working with **corporate running and triathlon team** that train according to the same schedule. In this case, the coach works with one plan, and each team member sees actual schedule on his calendar.
 
-* **Спортсмена или спортсменов**, в чьих календарях вы хотите видеть записи плана,
-* **Режим присвоения**, который определяет способ расчета дат присвоения. Можно выбрать присвоение в даты плана или присвоение в даты записей \(событий, тренировок, соревнований\). Расчетный блок дат в карточке присвоения поможет выбрать нужный вам режим.
-* **Дату начала или дату окончания присвоения. **Выбор даты позволит применить план или начиная с определенной даты или по определенную дату. 
-
-| Дата | Описание |
-| :--- | :--- |
-| Дата начала плана | Первый день недели, начиная с которой в календаре спортсмена будут показаны записи плана |
-| Дата первой записи | Дата первой записи из плана в календаре спортсмена. Отличается от даты начала плана, если первая тренировка в плане запланирована не в первый день недели |
-| Дата последней записи | Дата последней записи из плана в календаре спортсмена. Отличается от даты окончания плана, если последняя тренировка в плане запланирована не в последний день недели |
-| Дата окончания плана | Последний день недели в календаре спортсмена, когда закончится тренировочный план |
-
-* Для обновляемого плана также можно указать **признак трансляции изменений **- нужно ли для спортсменов транслировать изменения плана после присвоения.
+* for planning group activities. Clubs that hold group offline activities, can use dynamic plan for this purpose. In this case, each athlete will have both individual schedule and group offline activities on his calendar.
 
 
 
-**Важные особенности присвоения плана:**
-
-1. **Тренировки в прошлом не создаются. **Если вы выберите даты так, что все или часть тренировок из плана окажутся в прошлом, то они не будут созданы в календаре спортсмена.
-2. **Обновляемый план с трансляцией изменений можно присвоить только в даты плана. **Если выбрать другие даты присвоения, обновления плана транслироваться спортсменам не будут. 
-3. **Изменения тренировок в прошлом в обновляемом плане не передаются спортсменам.** Если в обновляемом плане, присвоенном с трансляцией изменений, изменить тренировку за вчера, такие изменения не будут переданы спортсменам.
