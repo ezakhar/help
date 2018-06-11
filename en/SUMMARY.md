@@ -34,17 +34,18 @@
 * [Notification settings](settings/notifications.md)
 * [Privacy settings](basics/privacy-settings.md)
 
-## Ответы на вопросы
-
-* [Как управлять запросами](basics/kak-upravlyat-zaprosami.md)
-* [Что такое ПАНО \(Порог анаэробного обмена\)](basics/lactate-threshold.md)
-
-## Магазин тренировочных планов
+## Training plans
 
 * [Training plans in Staminity. Plan types](basics/training-plan.md)
-* [Управление тренировочными планами](basics/training-plan-management.md)
-* [Продажа тренировочных планов](training-plans/training-plans-for-coaches.md)
-* [Как заполнить профиль Автора планов](basics/plan-author-profile.md)
+* [Для тренера: Управление тренировочными планами](basics/training-plan-management.md)
+* [Для тренера: Продажа тренировочных планов](training-plans/training-plans-for-coaches.md)
+* [Для тренера: Регистрация в качестве Автора планов](basics/plan-author-profile.md)
+* [Для тренера: Баланс и вывод средств](basics/withdrawals.md)
+* [Для спортсмена: Как использовать тренировочный план](basics/use-training-plan.md)
+
+## FAQ
+
+* [What is Lactate threshold](basics/lactate-threshold.md)
 
 ## Tariffs and payments
 
