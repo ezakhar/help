@@ -41,12 +41,11 @@ Structure of the window:
 
 * 7 - attribute of changes available in the published plan. It is displayed when the current version of the plan differs from the one published in the Store.
 
-* 8 - a button to create a plan.
+* 8 - button to create a plan.
 
 ### Create a training plan {#createplan}
 
-In order to create a training plan you need to go to the section “Methodology” - “Training plans” and click on the “Add” button [8].
-
+In order to create a training plan you need to go to the section “Methodology” - “Training plans” and click on the “Add” button \[8\].
 
 There are several tabs in the new plan creation window.
 
@@ -63,7 +62,7 @@ On this tab you can set:
 * **Sport** for which the training plan is designed;
 * **Distance type**, for which the athlete is being prepared;
 * **Plan for publication**. Enable this attribute for plans, that you want to publish in the Store;
-* **Fixed dates**. Enable this attribute to create [plan with fixed dates](/basics/training-plan.md#fixed) and disable for [plans with non-fixed dates](/basics/training-plan.md#notfixed). If the attribute isn't set, then the plan will be created for unspecified dates (Week 1, Day 1; Week 1, Day 2 and etc.) Such universal plan can be used in any dates.
+* **Fixed dates**. Enable this attribute to create [plan with fixed dates](/basics/training-plan.md#fixed) and disable for [plans with non-fixed dates](/basics/training-plan.md#notfixed). If the attribute isn't set, then the plan will be created for unspecified dates \(Week 1, Day 1; Week 1, Day 2 and etc.\) Such universal plan can be used in any dates.
 * **Start date**. You need to set the start date for plans with fixed dates.
 * **Dynamic plan** \(only for plans with fixed dates\). Enable this attribute if you want to create a [dynamic plan](/basics/training-plan.md#dynamic) and transfer plan changes to assigned athletes. 
 * **Tags**. Select attributes suitable for your plan. They will help you to filter plans and as for plans put up for sale, they will help customers to select the required plan.
@@ -76,7 +75,6 @@ On this tab you can set:
 ![Tab Store for a plan](https://content.staminity.com/assets/images/_new/methodology/tp-create-storeInfo.png)
 
 On this tab you can set:
-
 
 * Attribute **"Paid plan"**. Enable for plans that are put up for sale. If the attribute is enabled, set currency and price. As for now, only "Rubles" currency is available and the price should be within 300 - 10 000 RUB.
 
@@ -123,7 +121,7 @@ On this tab you can set:
 
 ![Изображения плана](https://content.staminity.com/assets/images/_new/methodology/tp-create-images.png)
 
-Загруженные изображения используются в магазине тренировочных планов, а также при просмотре страницы плана.   
+Загруженные изображения используются в магазине тренировочных планов, а также при просмотре страницы плана.  
 Выбирайте качественные изображения, на которые у вас есть права для использования.
 
 ### Запланировать тренировки, события, соревнования в плане {#buildplan}
@@ -213,7 +211,7 @@ On this tab you can set:
 
 2 - Перейдите в диалог публикации плана. Для этого в контекстном меню выберите пункт **"Публикация"**.
 
-3 - Убедитесь, что в окне публикации плана пройдены все проверки.   
+3 - Убедитесь, что в окне публикации плана пройдены все проверки.  
 ![Основные параметры плана](https://content.staminity.com/assets/images/_new/methodology/tp-publication.png)
 
 Если часть проверок не пройдена, публикация будет невозможна. Устраните замечания, изменив значения характеристик плана или в настройках \(если не заполнен [профиль Автора планов](/basics/plan-author-profile.md)\).
