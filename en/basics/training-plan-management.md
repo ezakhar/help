@@ -78,7 +78,7 @@ On this tab you can set:
 On this tab you can set:
 
 
-* Attribute **"Paid plan"**. Включите для планов для продажи. Если признак включен, укажите валюту и стоимость плана. Пока доступна только валюта "Рубли", а стоимость плана необходимо указать в пределах 300 - 10 000 рублей.
+* Attribute **"Paid plan"**. Enable for plans that are put up for sale. If the attribute is enabled, set currency and price. As for now, only "Rubles" currency is available and the price should be within 300 - 10 000 RUB.
 
 * **Язык плана** - язык, на котором автор приводит описание тренировок в плане. По-умолчанию русский.
 
