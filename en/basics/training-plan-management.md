@@ -57,27 +57,28 @@ There are several tabs in the new plan creation window.
 
 ![Main params of the plan](https://content.staminity.com/assets/images/_new/methodology/tp-create-general.png)
 
-On this tab you need to set:
+On this tab you can set:
 
-* **Название плана**
-* **Вид спорта**, для которого предназначен тренировочный план;
-* **Тип дистанции**, к которой выполняется подготовка в плане;
-* **План для публикации**. Включите этот признак для планов, которые вы хотите публиковать в Магазине планов;
-* **Фиксированные даты**. Включите признак для создания [плана с фиксированными датами](/basics/training-plan.md#fixed) и выключите для [планов с нефиксированными датами](/basics/training-plan.md#notfixed). Если признак не установлен, то планирование выполняется в относительных датах \(Неделя 1 - День 1; Неделя 1 - День 2 и т.п.\). Такой универсальный план можно применять в любые даты.
-* **Начальная дата плана**. Для планов с фиксированными датами выберите дату начала планирования.
-* **Обновляемый план** \(только для планов с фиксированными датами\). Установите признак, если хотите создать [обновляемый план](/basics/training-plan.md#dynamic) и транслировать обновления плана ученикам даже после присвоения. 
-* **Характеристики плана**. Отметьте признаки, которые подходят для вашего плана. Они помогут вам фильтровать планы, а для планов, выставленных на продажу, помогут покупателям выбрать нужный план.
-* **Ключевые слова**. В дополнение к характеристикам плана вы можете указать ключевые слова. Они также призваны помочь покупателям выбрать нужный план.
+* **Plan name**
+* **Sport** for which the training plan is designed;
+* **Distance type**, for which the athlete is being prepared;
+* **Plan for publication**. Enable this attribute for plans, that you want to publish in the Store;
+* **Fixed dates**. Enable this attribute to create [plan with fixed dates](/basics/training-plan.md#fixed) and disable for [plans with non-fixed dates](/basics/training-plan.md#notfixed). If the attribute isn't set, then the plan will be created for unspecified dates (Week 1, Day 1; Week 1, Day 2 and etc.) Such universal plan can be used in any dates.
+* **Start date**. You need to set the start date for plans with fixed dates.
+* **Dynamic plan** \(only for plans with fixed dates\). Enable this attribute if you want to create a [dynamic plan](/basics/training-plan.md#dynamic) and transfer plan changes to assigned athletes. 
+* **Tags**. Select attributes suitable for your plan. They will help you to filter plans and as for plans put up for sale, they will help customers to select the required plan.
+* **Keywords**. In addition to the tags, you can set keywords. They are also meant to help customers in their plan selection.
 
-#### Вкладка "Магазин" {#store}
+#### Tab "Store" {#store}
 
-> доступна только для планов с признаком "Для публикации в магазине"
+> is available only for plans with enabled "For publish in Store" attribute
 
-![Вкладка Магазин для плана](https://content.staminity.com/assets/images/_new/methodology/tp-create-storeInfo.png)
+![Tab Store for a plan](https://content.staminity.com/assets/images/_new/methodology/tp-create-storeInfo.png)
 
-Укажите на вкладке:
+On this tab you can set:
 
-* Признак **"Платный план"**. Включите для планов для продажи. Если признак включен, укажите валюту и стоимость плана. Пока доступна только валюта "Рубли", а стоимость плана необходимо указать в пределах 300 - 10 000 рублей.
+
+* Attribute **"Paid plan"**. Включите для планов для продажи. Если признак включен, укажите валюту и стоимость плана. Пока доступна только валюта "Рубли", а стоимость плана необходимо указать в пределах 300 - 10 000 рублей.
 
 * **Язык плана** - язык, на котором автор приводит описание тренировок в плане. По-умолчанию русский.
 
