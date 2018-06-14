@@ -10,23 +10,23 @@ In this article:
     * [Tab "Description"](#description)
     * [Tab "Samples"](#samples)
     * [Images in the plan](#images)
-* [Запланировать тренировки, события, соревнования в плане](#buildplan)
-* [Присвоить план спортсменам](#assignplan)
-* [Отменить присвоение](#deleteassignment)
-* [Публикация плана в магазине](#publish)
-* [Публикация обновлений плана в магазине](#publishupdates)
-* [Снятие с публикации](#unpublish)
+* [Plan activities, events, competitions within the plan](#buildplan)
+* [Assign plan to athletes](#assignplan)
+* [Cancel assignment](#deleteassignment)
+* [Publish plan in the Store](#publish)
+* [Publish plan in the Store](#publishupdates)
+* [Unpublish plan](#unpublish)
 
-### Просмотр тренировочных планов {#view}
-Для управления тренировочными планами перейдите в раздел "Методология" - "Тренировочные планы" 
+### View training plans {#view}
+In order to manage training plans you need to go to the section “Methodology” - “Training plans” 
 
 ![Тренировочные планы для тренера](https://264710.selcdn.ru/assets/images/_new/methodology/training-plan-management.png)
 
-В окне отображаются созданные ранее тренировочные планы и доступны функции фильтрации планов, создания новых и управления существующими планами.
+In this window you can view previously created plans, filter plans, create new and manage existing ones.
 
-Структура окна:
-* 1 - Вкладка "Тренировочные планы" в Методологии. На других вкладках доступно управление [схемами периодизации](/methodology/periodisation-schemes.md), [категориями](/basics/categories.md) и [шаблонами тренировок](/basics/templates.md). Описание работы с данными разделами приведено в соответствующих разделах справки. 
-* 2 - фильтр планов. Позволяет выбрать только нужные тренировочные планы. 
+Structure of the window:
+* 1 - "Training plans" tab in Methodology. Using the other tabs you can manage [periodization schemes](/methodology/periodisation-schemes.md), [categories](/basics/categories.md) and [activity templates](/basics/templates.md). Information about how to work with these sections you can find in relevant articles. 
+* 2 - plans filter. Enables to select only the needed training plans. 
 * 3 - список тренировочных планов. Планы сгруппированы по признаку публикации в Магазине.
 * 4 - контекстное меню плана для доступа к функциям: "Запланировать тренировки", "Управлять присвоениями", "Публикация плана", "Предпросмотр плана в магазине" и "Удаление плана".
 
