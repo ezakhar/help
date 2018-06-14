@@ -1,15 +1,15 @@
-#Управление тренировочными планами
+#Training plans management
 
-> Просмотр, создание и изменение тренировочных планов доступно только пользователям с заполненным профилем тренера
+> Only users with completed coach profile canview, create and edit training plans
 
-В этой статье:
-* [Просмотр тренировочных планов](#view)
-* [Создание тренировочного плана](#createplan):
-    * [Вкладка "Основные данные"](#general)
-    * [Вкладка "Магазин"](#store)
-    * [Вкладка "Описание"](#description)
-    * [Вкладка "Примеры"](#samples)
-    * [Изображения плана](#images)
+In this article:
+* [View training plans](#view)
+* [Create a training plan](#createplan):
+    * [Tab "General params"](#general)
+    * [Tab "Store"](#store)
+    * [Tab "Description"](#description)
+    * [Tab "Samples"](#samples)
+    * [Images in the plan](#images)
 * [Запланировать тренировки, события, соревнования в плане](#buildplan)
 * [Присвоить план спортсменам](#assignplan)
 * [Отменить присвоение](#deleteassignment)
