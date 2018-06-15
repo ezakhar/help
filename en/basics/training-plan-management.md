@@ -35,47 +35,46 @@ Structure of the window:
 * 5 -  dynamic plan attribute. Detailed information about plan types you can find in this [article](/basics/training-plan.md);  
 
 * 6 - training plan publication in the Store;
-* 7 - признак наличия изменений в опубликованном плане. Отображается, когда текущая версия плана отличается от версии, опубликованной в Магазине планов. 
+* attribute of changes available in thepublished plan. It is displayed when the currentversion of the plan differs from the onepublished in the Store; 
+* 8 - button to create a plan.
 
-* 8 - Кнопка создания плана. 
+### Create a training plan {#createplan}
 
-### Создать тренировочный план {#createplan}
+In order to create a training plan you need to go to the section “Methodology” - “Training plans” and click on the “Add” button [8]. 
 
-Для создания тренировочного плана перейдите в раздел "Методология" - "Тренировочные планы" и нажмите кнопку "Добавить" [8]. 
+There are several tabs in the new plan creation window
+* tab "**General params**" is available always, 
+* tabs "**Store**", "**Description**" и "**Samples**" are available only for plans meant for publication.
 
-В окне добавления тренировочного плана несколько вкладок.
-* Вкладка **"Основные параметры"** доступна всегда, 
-* вкладки **"Магазин"**, **"Описание"** и **"Примеры"** доступны только для планов, предназначенных для публикации.
-
-####Вкладка "Основные параметры"{#general} 
+####Tab "General params"{#general} 
 ![Основные параметры плана](https://264710.selcdn.ru/assets/images/_new/methodology/tp-create-general.png)
 
-Укажите на вкладке:  
-* **Название плана**
-* **Вид спорта**, для которого предназначен тренировочный план;
-* **Тип дистанции**, к которой выполняется подготовка в плане;
-* **План для публикации**. Включите этот признак для планов, которые вы хотите публиковать в Магазине планов;
-* **Фиксированные даты**. Включите признак для создания [плана с фиксированными датами](/basics/training-plan.md#fixed) и выключите для [планов с нефиксированными датами](/basics/training-plan.md#notfixed). Если признак не установлен, то планирование выполняется в относительных датах \(Неделя 1 - День 1; Неделя 1 - День 2 и т.п.\). Такой универсальный план можно применять в любые даты.
-* **Начальная дата плана**. Для планов с фиксированными датами выберите дату начала планирования.
-* **Обновляемый план** \(только для планов с фиксированными датами\). Установите признак, если хотите создать [обновляемый план](/basics/training-plan.md#dynamic) и транслировать обновления плана ученикам даже после присвоения. 
-* **Характеристики плана**. Отметьте признаки, которые подходят для вашего плана. Они помогут вам фильтровать планы, а для планов, выставленных на продажу, помогут покупателям выбрать нужный план.
-* **Ключевые слова**. В дополнение к характеристикам плана вы можете указать ключевые слова. Они также призваны помочь покупателям выбрать нужный план.
+On this tab you can set:  
+* **Plan name**
+* **Sport **for which the training plan is designed;
+* **Distance type**, for which the athlete is being prepared;
+* **Plan for publication**. Enable this attribute for plans, that you want to publish in the Store;
+* **Fixed dates**. Enable this attribute to create [plan with fixed dates](/basics/training-plan.md#fixed) and disable for [plans with non-fixed dates](/basics/training-plan.md#notfixed).  If the attribute isn't set, then the plan will be created for unspecified dates (Week 1, Day 1; Week 1, Day 2 and etc.) Such universal plan can be used in any dates.
+* **Start date**. You need to set the start date for plans with fixed dates.
+* **Dynamic plan** (only for plans with fixed dates). Enable this attribute if you want to create a [dynamic plan](/basics/training-plan.md#dynamic) and transfer plan changes to assigned athletes. 
+* **Tags**. Select attributes suitable for your plan. They will help you to filter plans and as for plans put up for sale, they will help customers to select the required plan.
+* **Keywords**. In addition to the tags, you can set keywords. They are also meant to help customers in their plan selection.
 
-####Вкладка "Магазин"{#store} 
-> доступна только для планов с признаком "Для публикации в магазине"
+####Tab "Store"{#store} 
+> is available only for plans with enabled "For publish in Store" attribute
 
 ![Вкладка Магазин для плана](https://264710.selcdn.ru/assets/images/_new/methodology/tp-create-storeInfo.png)
 
-Укажите на вкладке:  
-* Признак **"Платный план"**. Включите для планов для продажи. Если признак включен, укажите валюту и стоимость плана. Пока доступна только валюта "Рубли", а стоимость плана необходимо указать в пределах 300 - 10 000 рублей. 
+On this tab you can set:  
+* Attribute "**Paid plan**". Enable for plans that are put up for sale. If the attribute is enabled, set currency and price. As for now, only "Rubles" currency is available and the price should be within 300 - 10 000 RUB. 
 
-* **Язык плана** - язык, на котором автор приводит описание тренировок в плане. По-умолчанию русский.
+* **Plan language** is a language used by the author to describe activities within the plan. By default it's Russian.
 
-* **Целевая аудитория** (обязательное поле) - опишите в свободной форме, для кого предназначен данный план. 
+* **Target audience** (obligatory field) - describe for whom this plan has been designed. 
 
-* **Типовая неделя** (обязательное поле) - опишите в свободной форме нагрузки для типовой тренировочной недели в плане. Staminity также рассчитает и выведет на странице плана среднее, максимальное и минимальное значение по количеству тренировок, времени и расстоянию тренировок в плане, но ваше описание дополнит эту информацию.
+* **Typical week** (obligatory field) - describe training load for typical training week within the plan. Staminity will calculate and display on the plan page the average, maximum and minimum values based on the number of activities, duration and distance of activities within the plan, but your description will make the information complete.
 
-* **График тренировочных объемов в плане** - система Staminity автоматически рассчитывает и выводит на странице плана график тренировочных объемов. Этот график может быть выведен по времени или по расстоянию. В зависимости от вашего подхода к планированию тренировок выберите нужное значение. По-умолчанию установлено значение "По времени". 
+* **Chart of training volumes within the plan** -  Staminity system will automatically calculate the training volumes chart and display it on the plan page. This chart can be calculated based on duration or distance. You can select the required value depending on your planning approach. By default “By duration” value is set. 
 
 * Признак **"Включены консультации"**. Если в стоимость плана включены консультации с вами, включите данный признак и опишите как часто, и каким образом покупатель может задать вам вопрос.
 
