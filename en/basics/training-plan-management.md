@@ -140,16 +140,16 @@ In the plan constructor window you will find:
 
 The process of [activities](/basics/create-plan-activity.md), [events](/basics/create-record.md) and [competitions](/basics/competition.md) creation within the plan is similar to the process of their creation in the athlete’s calendar.  
 
-Тренировки в плане можно создавать:
+Activities within the plan can be  created:
 
-* вручную;
-* из шаблонов, выбирая шаблон при вводе тренировки;
-* из шаблонов, перетаскивая шаблон с левой панели шаблонов;
-* копированием из другой тренировки плана.
+* manually;
+* from templates, by selecting template when filling in information in activity;
+* from templates, by dragging and dropping template from the templates panel located to the left;
+* By copying from another activity within the plan.
 
-![Тренировки в плане Staminity](https://264710.selcdn.ru/assets/images/methodology/training-plan-copy-paste.gif)
+![Activities within the plan in Staminity](https://264710.selcdn.ru/assets/images/methodology/training-plan-copy-paste.gif)
 
-> **Обратите внимание!**  
+> **Please note!**  
 > В заданиях тренировочного плана интенсивность всегда указывается в % от ПАНО. Это позволяет один план использовать для нескольких спортсменов с разным уровнем подготовки и уровнем ПАНО.
 
 ### Присвоения плана {#assignplan}
