@@ -91,11 +91,11 @@ Describe the plan as you want to. For plans intended for sale, description is di
 Make it impressive and memorable, use text formattin, insert images and links to videos. 
 
 ####Tab “Samples”{#samples}
-> доступна только для планов с признаком "Для публикации в магазине"
+> Is available only for plans with “For publish in Store” attribute enabled.
 
-![Вкладка Примеры для плана](https://264710.selcdn.ru/assets/images/_new/methodology/tp-create-samples.png)
+![Tab Samples](https://264710.selcdn.ru/assets/images/_new/methodology/tp-create-samples.png)
 
-На данной вкладке выводятся примеры тренировок. Чтобы выбрать тренировку или событие из плана в качестве примера, войдите в конструктор плана и отметьте признак "Сделать примером". 
+On this tab you will find activity samples. In order to set an activity or event from the plan as a sample, go to the plan constructor and enable the “Set as sample” attribute. 
 
 Примеры тренировок в плане помогут оценить потенциальным покупателям ваш подход к планированию и детальность описания. 
 
