@@ -25,16 +25,16 @@ In order to manage training plans you need to go to the section “Methodology�
 In this window you can view previously created plans, filter plans, create new and manage existing ones.
 
 Structure of the window:
-* 1 - "Training plans" tab in Methodology. Using the other tabs you can manage [periodization schemes](/methodology/periodisation-schemes.md), [categories](/basics/categories.md) and [activity templates](/basics/templates.md). Information about how to work with these sections you can find in relevant articles. 
-* 2 - plans filter. Enables to select only the needed training plans. 
-* 3 - список тренировочных планов. Планы сгруппированы по признаку публикации в Магазине.
-* 4 - контекстное меню плана для доступа к функциям: "Запланировать тренировки", "Управлять присвоениями", "Публикация плана", "Предпросмотр плана в магазине" и "Удаление плана".
+* 1 - "Training plans" tab in Methodology. Using the other tabs you can manage [periodization schemes](/methodology/periodisation-schemes.md), [categories](/basics/categories.md) and [activity templates](/basics/templates.md). Information about how to work with these sections you can find in relevant articles; 
+* 2 - plans filter. Enables to select only the needed training plans; 
+* 3 - training plans list. Plans are grouped by publication in the Store;
+* 4 - plan’s context menu providing access to functions: "Create plan items", "Assignments", "Training plan publication", "Preview in Store" и "Unpublish plan";
 
 ![Тренировочные планы для тренера](https://264710.selcdn.ru/assets/images/_new/methodology/tp-menu-items-2.png)
 
-* 5 - признак обновляемого плана. Подробнее о типах планов см. в [статье](/basics/training-plan.md);  
+* 5 -  dynamic plan attribute. Detailed information about plan types you can find in this [article](/basics/training-plan.md);  
 
-* 6 - признак публикации тренировочного плана в Магазине;
+* 6 - training plan publication in the Store;
 * 7 - признак наличия изменений в опубликованном плане. Отображается, когда текущая версия плана отличается от версии, опубликованной в Магазине планов. 
 
 * 8 - Кнопка создания плана. 
