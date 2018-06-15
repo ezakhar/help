@@ -39,7 +39,8 @@ Structure of the window:
 
 * 6 - training plan publication in the Store;
 
-* attribute of changes available in thepublished plan. It is displayed when the currentversion of the plan differs from the onepublished in the Store; 
+* attribute of changes available in thepublished plan. It is displayed when the currentversion of the plan differs from the onepublished in the Store;
+
 * 8 - button to create a plan.
 
 ### Create a training plan {#createplan}
@@ -138,7 +139,7 @@ In the plan constructor window you will find:
 * **5 **- select the **mode of displaying records in the plan**: in detail/briefly;
 * **6 - training week** of the plan.
 
-The process of [activities](/basics/create-plan-activity.md), [events](/basics/create-record.md) and [competitions](/basics/competition.md) creation within the plan is similar to the process of their creation in the athlete’s calendar.  
+The process of [activities](/basics/create-plan-activity.md), [events](/basics/create-record.md) and [competitions](/basics/competition.md) creation within the plan is similar to the process of their creation in the athlete’s calendar.
 
 Activities within the plan can be  created:
 
@@ -167,26 +168,26 @@ In the plan assignment window you need to set:
 ![General params of the plan](https://264710.selcdn.ru/assets/images/_new/methodology/tp-assignment-window.png)
 
 * **1 - An athlete or athletes**, in whose calendars plan items should appear,
-* **2 - Assinment mode**, which determines the method of assignment dates calculation. You can select assinment in the plan dates or in the item \(events, activities, competitions\) dates. The calculated block of dates \[5\] in the assignments card will help you to choose the mode you need.
+* **2 - Assinment mode**, which determines the method of assignment dates calculation. You can select assinment in the plan dates or in the item \(events, activities, competitions\) dates. A block with dates calculation \[5\] in the assignments card will help you to choose the mode you need.
 * **3 - Start date and end date of assignment. **Date selection will help you to apply plan either starting from a specific date or till a specific date. 
 * **4 - Set a date**:
 
-| Date| Description|
+| Date | Description |
 | :--- | :--- |
 | Plan start date | The first day of th week starting from which the plan items will appear in the athlete's calendar |
 | First item date | Date of the first plan item displayed in the athlete's calendar. It differs from the plan start date if the first activity is planned not on the first day of the week |
 | Last item date | Date of the last plan item displayed in the athlete's calendar. It differs from the plan end date if the last activity is planned not on the last day of the week |
-| Plan end date| The last day of the week in the athlete's calendar when the training plan will end |
+| Plan end date | The last day of the week in the athlete's calendar when the training plan will end |
 
-* **5 - расчетный блок дат**, для помощи в правильности выбора параметров присвоения
+* **5 - block with dates calculation**, to help you check the correctness of the assignment dates.
 
-* Для обновляемого плана также можно указать **признак трансляции изменений **- нужно ли для спортсменов транслировать изменения плана после присвоения.
+* For a dynamic plan you can also set the **"Transfer plan changes" attribute**  - whether it is required to transfer plan changes to the assigned athletes. 
 
-**Важные особенности присвоения плана:**
+**Important features of the plan assignment:**
 
-1. **Тренировки в прошлом не создаются. **Если вы выберите даты так, что все или часть тренировок из плана окажутся в прошлом, то они не будут созданы в календаре спортсмена.
-2. **Обновляемый план с трансляцией изменений можно присвоить только в даты плана. **Если выбрать другие даты присвоения, обновления плана транслироваться спортсменам не будут. 
-3. **Изменения тренировок в прошлом в обновляемом плане не передаются спортсменам.** Если в обновляемом плане, присвоенном с трансляцией изменений, изменить тренировку за вчера, такие изменения не будут переданы спортсменам.
+1. **Workouts cannot be created on the past dates. **If you set such dates so that all plan activities or part of them are assigned on the past dates, then they won't appear in the athlete's calendar. or complete ** **Если вы выберите даты так, что все или часть тренировок из плана окажутся в прошлом, то они не будут созданы в календаре спортсмена.
+2. **Dynamic plan with changes transfer can be assigned only on the plan dates.** If you set different assignment dates, then plan changes won't be transferred to athletes. 
+3. **Changes made in activities which have happened in the past are not transferred to athletes. **In case if in a dynamic plan assigned with changes transfer you make changes in the activity happened yesterday, then such changes won't be transferred to athletes. 
 
 ### Удалить присвоение плана {#deleteassignment}
 
@@ -210,7 +211,7 @@ In the plan assignment window you need to set:
 
 2 - Перейдите в диалог публикации плана. Для этого в контекстном меню выберите пункт **"Публикация"**.
 
-3 - Убедитесь, что в окне публикации плана пройдены все проверки.   
+3 - Убедитесь, что в окне публикации плана пройдены все проверки.  
 ![Основные параметры плана](https://264710.selcdn.ru/assets/images/_new/methodology/tp-publication.png)
 
 Если часть проверок не пройдена, публикация будет невозможна. Устраните замечания, изменив значения характеристик плана или в настройках \(если не заполнен [профиль Автора планов](/basics/plan-author-profile.md)\).
