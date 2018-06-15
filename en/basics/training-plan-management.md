@@ -150,26 +150,26 @@ Activities within the plan can be  created:
 ![Activities within the plan in Staminity](https://264710.selcdn.ru/assets/images/methodology/training-plan-copy-paste.gif)
 
 > **Please note!**  
-> В заданиях тренировочного плана интенсивность всегда указывается в % от ПАНО. Это позволяет один план использовать для нескольких спортсменов с разным уровнем подготовки и уровнем ПАНО.
+> In the training plan activities, intensity is always set in % of LT. It enables to use the same plan for several athletes with different fitness and LT level.
 
-### Присвоения плана {#assignplan}
+### Assign plan to athletes {#assignplan}
 
-Тренировочный план можно присвоить своим спортсменам и все записи плана попадут в их тренировочный календарь.
+Training plan can be assigned to your athletes and all plan items will appear in their training calendars.
 
-Есть несколько способов присвоения плана.
+There are several ways to assign a plan.
 
-В контекстном меню для строчки плана выберите "Присвоения":  
-![Присвоения плана](https://264710.selcdn.ru/assets/images/_new/methodology/tp-menu-items-2.png)
+In the context menu for the plan line select "Assignments":  
+![Plan assignments](https://264710.selcdn.ru/assets/images/_new/methodology/tp-menu-items-2.png)
 
-ИЛИ в конструкторе планов нажмите на иконку "Присвоить" \[3\].
+OR in the plan constructor click on the "Assign" icon \[3\].
 
-В окне присвоения плана укажите:  
-![Основные параметры плана](https://264710.selcdn.ru/assets/images/_new/methodology/tp-assignment-window.png)
+In the plan assignment window you need to set:  
+![General params of the plan](https://264710.selcdn.ru/assets/images/_new/methodology/tp-assignment-window.png)
 
-* **1 - Спортсмена или спортсменов**, в чьих календарях вы хотите видеть записи плана,
-* **2 - Режим присвоения**, который определяет способ расчета дат присвоения. Можно выбрать присвоение в даты плана или присвоение в даты записей \(событий, тренировок, соревнований\). Расчетный блок дат \[5\] в карточке присвоения поможет выбрать нужный вам режим.
-* **3 - Дату начала или дату окончания присвоения. **Выбор даты позволит применить план или начиная с определенной даты или по определенную дату. 
-* **4 - Укажите дату**:
+* **1 - An athlete or athletes**, in whose calendars plan items should appear,
+* **2 - Assinment mode**, which determines the method of assignment dates calculation. Ypu can select assinment in the plan dates or in the item \(events, activities, competitions\) dates. The calculated block of dates \[5\] in the assignments card will help you to choose the mode you need.
+* **3 - Start date and end date of assignment. **Date selection will help you to apply plan either starting from a specific date or till a specific date. 
+* **4 - Set a date**:
 
 | Дата | Описание |
 | :--- | :--- |
