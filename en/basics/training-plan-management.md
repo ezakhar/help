@@ -47,7 +47,7 @@ There are several tabs in the new plan creation window
 * tabs "**Store**", "**Description**" и "**Samples**" are available only for plans meant for publication.
 
 ####Tab "General params"{#general} 
-![Основные параметры плана](https://264710.selcdn.ru/assets/images/_new/methodology/tp-create-general.png)
+![General params of the plan](https://264710.selcdn.ru/assets/images/_new/methodology/tp-create-general.png)
 
 On this tab you can set:  
 * **Plan name**
@@ -63,7 +63,7 @@ On this tab you can set:
 ####Tab "Store"{#store} 
 > is available only for plans with enabled "For publish in Store" attribute
 
-![Вкладка Магазин для плана](https://264710.selcdn.ru/assets/images/_new/methodology/tp-create-storeInfo.png)
+![Tab "Store"](https://264710.selcdn.ru/assets/images/_new/methodology/tp-create-storeInfo.png)
 
 On this tab you can set:  
 * Attribute "**Paid plan**". Enable for plans that are put up for sale. If the attribute is enabled, set currency and price. As for now, only "Rubles" currency is available and the price should be within 300 - 10 000 RUB. 
@@ -76,21 +76,21 @@ On this tab you can set:
 
 * **Chart of training volumes within the plan** -  Staminity system will automatically calculate the training volumes chart and display it on the plan page. This chart can be calculated based on duration or distance. You can select the required value depending on your planning approach. By default “By duration” value is set. 
 
-* Признак **"Включены консультации"**. Если в стоимость плана включены консультации с вами, включите данный признак и опишите как часто, и каким образом покупатель может задать вам вопрос.
+* Attribute **“Consultations included”**. If the plan’s cost include possibility of consulting with you, then you need to enable this attribute and describe how often the buyer can contact you and how exactly..
 
-* Признак **"Очные тренировки"**. Если в стоимость плана включены очные тренировки с вами, включите данный признак и опишите частоту, время и место проведения очных тренировок. 
+* Attribute**"Offline activities included"**. If the plan's cost includes offline activities with you, then you need to enable this attribute and describe frequency, time and place of these activities. 
 
-* Признак **"Тренировочные задания разбиты по сегментам"**. Если при подготовке плана вы используете структурированные тренировки, включите данный признак и опишите для покупателей, для каких тренировок вы применяете разбивку по сегментам и какой показатель интенсивности используете. Это важно сделать, чтобы покупатели планов смогли настроить значение ПАНО по данному показателю интенсивности для корректного расчета плановой нагрузки. 
+* Attribute  **"Structured activities included"**. In case if you use structured activities within the plan, then you need to enable this attribute and describe which activities you have divided to segments and which intensity indicator  you have used. It is important and must be done to enable athletes to set up the LT value based on this intensity indicator in order to calculate the training load in a correct way. 
 
-####Вкладка "Описание"{#description} 
-> доступна только для планов с признаком "Для публикации в магазине"
+####Tab "Description"{#description} 
+> Is available only for plans with “For publish in Store” attribute enabled
 
 ![Вкладка Описание для плана](https://264710.selcdn.ru/assets/images/_new/methodology/tp-create-description-2.png)
 
-В свободной форме укажите описание плана. Для планов на продажу описание выводится на странице плана в Магазине и будет одним из основных факторов при выборе плана.  
-Сделайте описание запоминающимся, используйте форматированный текст, изображения, ссылки на видео. 
+Describe the plan as you want to. For plans intended for sale, description is displayed on the plan page in the Store and greatly affect the plan selection.
+Make it impressive and memorable, use text formattin, insert images and links to videos. 
 
-####Вкладка "Примеры"{#samples}
+####Tab “Samples”{#samples}
 > доступна только для планов с признаком "Для публикации в магазине"
 
 ![Вкладка Примеры для плана](https://264710.selcdn.ru/assets/images/_new/methodology/tp-create-samples.png)
