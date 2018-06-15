@@ -1,15 +1,16 @@
-#Training plans management
+# Training plans management
 
 > Only users with completed coach profile canview, create and edit training plans
 
 In this article:
+
 * [View training plans](#view)
 * [Create a training plan](#createplan):
-    * [Tab "General params"](#general)
-    * [Tab "Store"](#store)
-    * [Tab "Description"](#description)
-    * [Tab "Samples"](#samples)
-    * [Images in the plan](#images)
+  * [Tab "General params"](#general)
+  * [Tab "Store"](#store)
+  * [Tab "Description"](#description)
+  * [Tab "Samples"](#samples)
+  * [Images in the plan](#images)
 * [Plan activities, events, competitions within the plan](#buildplan)
 * [Assign plan to athletes](#assignplan)
 * [Cancel assignment](#deleteassignment)
@@ -18,13 +19,15 @@ In this article:
 * [Unpublish plan](#unpublish)
 
 ### View training plans {#view}
-In order to manage training plans you need to go to the section “Methodology” - “Training plans” 
+
+In order to manage training plans you need to go to the section “Methodology” - “Training plans”
 
 ![Тренировочные планы для тренера](https://264710.selcdn.ru/assets/images/_new/methodology/training-plan-management.png)
 
 In this window you can view previously created plans, filter plans, create new and manage existing ones.
 
 Structure of the window:
+
 * 1 - "Training plans" tab in Methodology. Using the other tabs you can manage [periodization schemes](/methodology/periodisation-schemes.md), [categories](/basics/categories.md) and [activity templates](/basics/templates.md). Information about how to work with these sections you can find in relevant articles; 
 * 2 - plans filter. Enables to select only the needed training plans; 
 * 3 - training plans list. Plans are grouped by publication in the Store;
@@ -32,99 +35,110 @@ Structure of the window:
 
 ![Тренировочные планы для тренера](https://264710.selcdn.ru/assets/images/_new/methodology/tp-menu-items-2.png)
 
-* 5 -  dynamic plan attribute. Detailed information about plan types you can find in this [article](/basics/training-plan.md);  
+* 5 -  dynamic plan attribute. Detailed information about plan types you can find in this [article](/basics/training-plan.md);
 
 * 6 - training plan publication in the Store;
+
 * attribute of changes available in thepublished plan. It is displayed when the currentversion of the plan differs from the onepublished in the Store; 
 * 8 - button to create a plan.
 
 ### Create a training plan {#createplan}
 
-In order to create a training plan you need to go to the section “Methodology” - “Training plans” and click on the “Add” button [8]. 
+In order to create a training plan you need to go to the section “Methodology” - “Training plans” and click on the “Add” button \[8\].
 
 There are several tabs in the new plan creation window
+
 * tab "**General params**" is available always, 
 * tabs "**Store**", "**Description**" и "**Samples**" are available only for plans meant for publication.
 
-####Tab "General params"{#general} 
+#### Tab "General params" {#general}
+
 ![General params of the plan](https://264710.selcdn.ru/assets/images/_new/methodology/tp-create-general.png)
 
-On this tab you can set:  
+On this tab you can set:
+
 * **Plan name**
 * **Sport **for which the training plan is designed;
 * **Distance type**, for which the athlete is being prepared;
 * **Plan for publication**. Enable this attribute for plans, that you want to publish in the Store;
-* **Fixed dates**. Enable this attribute to create [plan with fixed dates](/basics/training-plan.md#fixed) and disable for [plans with non-fixed dates](/basics/training-plan.md#notfixed).  If the attribute isn't set, then the plan will be created for unspecified dates (Week 1, Day 1; Week 1, Day 2 and etc.) Such universal plan can be used in any dates.
+* **Fixed dates**. Enable this attribute to create [plan with fixed dates](/basics/training-plan.md#fixed) and disable for [plans with non-fixed dates](/basics/training-plan.md#notfixed).  If the attribute isn't set, then the plan will be created for unspecified dates \(Week 1, Day 1; Week 1, Day 2 and etc.\) Such universal plan can be used in any dates.
 * **Start date**. You need to set the start date for plans with fixed dates.
-* **Dynamic plan** (only for plans with fixed dates). Enable this attribute if you want to create a [dynamic plan](/basics/training-plan.md#dynamic) and transfer plan changes to assigned athletes. 
+* **Dynamic plan** \(only for plans with fixed dates\). Enable this attribute if you want to create a [dynamic plan](/basics/training-plan.md#dynamic) and transfer plan changes to assigned athletes. 
 * **Tags**. Select attributes suitable for your plan. They will help you to filter plans and as for plans put up for sale, they will help customers to select the required plan.
 * **Keywords**. In addition to the tags, you can set keywords. They are also meant to help customers in their plan selection.
 
-####Tab "Store"{#store} 
+#### Tab "Store" {#store}
+
 > is available only for plans with enabled "For publish in Store" attribute
 
-![Tab "Store"](https://264710.selcdn.ru/assets/images/_new/methodology/tp-create-storeInfo.png)
+![Tab &quot;Store&quot;](https://264710.selcdn.ru/assets/images/_new/methodology/tp-create-storeInfo.png)
 
-On this tab you can set:  
-* Attribute "**Paid plan**". Enable for plans that are put up for sale. If the attribute is enabled, set currency and price. As for now, only "Rubles" currency is available and the price should be within 300 - 10 000 RUB. 
+On this tab you can set:
+
+* Attribute "**Paid plan**". Enable for plans that are put up for sale. If the attribute is enabled, set currency and price. As for now, only "Rubles" currency is available and the price should be within 300 - 10 000 RUB.
 
 * **Plan language** is a language used by the author to describe activities within the plan. By default it's Russian.
 
-* **Target audience** (obligatory field) - describe for whom this plan has been designed. 
+* **Target audience** \(obligatory field\) - describe for whom this plan has been designed.
 
-* **Typical week** (obligatory field) - describe training load for typical training week within the plan. Staminity will calculate and display on the plan page the average, maximum and minimum values based on the number of activities, duration and distance of activities within the plan, but your description will make the information complete.
+* **Typical week** \(obligatory field\) - describe training load for typical training week within the plan. Staminity will calculate and display on the plan page the average, maximum and minimum values based on the number of activities, duration and distance of activities within the plan, but your description will make the information complete.
 
-* **Chart of training volumes within the plan** -  Staminity system will automatically calculate the training volumes chart and display it on the plan page. This chart can be calculated based on duration or distance. You can select the required value depending on your planning approach. By default “By duration” value is set. 
+* **Chart of training volumes within the plan** -  Staminity system will automatically calculate the training volumes chart and display it on the plan page. This chart can be calculated based on duration or distance. You can select the required value depending on your planning approach. By default “By duration” value is set.
 
 * Attribute **“Consultations included”**. If the plan’s cost include possibility of consulting with you, then you need to enable this attribute and describe how often the buyer can contact you and how exactly..
 
-* Attribute**"Offline activities included"**. If the plan's cost includes offline activities with you, then you need to enable this attribute and describe frequency, time and place of these activities. 
+* Attribute**"Offline activities included"**. If the plan's cost includes offline activities with you, then you need to enable this attribute and describe frequency, time and place of these activities.
 
-* Attribute  **"Structured activities included"**. In case if you use structured activities within the plan, then you need to enable this attribute and describe which activities you have divided to segments and which intensity indicator  you have used. It is important and must be done to enable athletes to set up the LT value based on this intensity indicator in order to calculate the training load in a correct way. 
+* Attribute  **"Structured activities included"**. In case if you use structured activities within the plan, then you need to enable this attribute and describe which activities you have divided to segments and which intensity indicator  you have used. It is important and must be done to enable athletes to set up the LT value based on this intensity indicator in order to calculate the training load in a correct way.
 
-####Tab "Description"{#description} 
+#### Tab "Description" {#description}
+
 > Is available only for plans with “For publish in Store” attribute enabled
 
 ![Вкладка Описание для плана](https://264710.selcdn.ru/assets/images/_new/methodology/tp-create-description-2.png)
 
-Describe the plan as you want to. For plans intended for sale, description is displayed on the plan page in the Store and greatly affect the plan selection.
-Make it impressive and memorable, use text formattin, insert images and links to videos. 
+Describe the plan as you want to. For plans intended for sale, description is displayed on the plan page in the Store and greatly affect the plan selection.  
+Make it impressive and memorable, use text formattin, insert images and links to videos.
 
-####Tab “Samples”{#samples}
+#### Tab “Samples” {#samples}
+
 > Is available only for plans with “For publish in Store” attribute enabled.
 
 ![Tab Samples](https://264710.selcdn.ru/assets/images/_new/methodology/tp-create-samples.png)
 
-On this tab you will find activity samples. In order to set an activity or event from the plan as a sample, go to the plan constructor and enable the “Set as sample” attribute. 
+On this tab you will find activity samples. In order to set an activity or event from the plan as a sample, go to the plan constructor and enable the “Set as sample” attribute.
 
-Примеры тренировок в плане помогут оценить потенциальным покупателям ваш подход к планированию и детальность описания. 
+Activity samples provided in the plan will help potential clients to study your planning approach and accuracy of description.
 
-####Изображения плана{#images}
-Изображения можно указать только для сохраненного плана.
-Для загрузки изображений перейдите на вкладку "Магазин" и выберите:
-* "Изменить" для загрузки аватара (кнопка доступна при наведении мышкой на изображение);
-* "Изменить фон" для загрузки основного изображения плана.
+#### Plan images {#images}
 
-![Изображения плана](https://264710.selcdn.ru/assets/images/_new/methodology/tp-create-images.png)
+Images can be set only for a saved plan.  
+In order to download images you need to go to the “Store” tab and select:
 
-Загруженные изображения используются в магазине тренировочных планов, а также при просмотре страницы плана. 
-Выбирайте качественные изображения, на которые у вас есть права для использования. 
+* "Edit" to download new plan image \(this button becomes available when you hover over the image\);
+* "Edit background" to download the main image of the plan.
 
-### Запланировать тренировки, события, соревнования в плане {#buildplan}
+![Plan images](https://264710.selcdn.ru/assets/images/_new/methodology/tp-create-images.png)
 
-Для наполнения плана перейдите в конструктор плана. Для этого в контекстном меню плана выберите "Запланировать тренировки".
+Downloaded images are used in the Store and when viewing the plan page.  
+Select high-quality images which you have the right to use.
 
-![Конструктор плана](https://264710.selcdn.ru/assets/images/_new/methodology/tp-builder-navigation.png)
+### Plan activities, events, competitions within the plan {#buildplan}
 
-В окне конструктора тренировочного плана доступно:
-* **1 - панель шаблонов**, как в календаре. Панель шаблонов доступна только пользователям с подключенными тарифами "Премиум" и "Тренер".
-* **2 - название плана и селектор планов**. По нажатию на название плана откроется карточка плана для редактирования его параметров, а при нажатии на иконку выпадающего списка можно быстро перейти в конструктор нужного плана, а также вернуться в список планов.
-* **3 - присвоения** для доступа к диалогу [присвоений](#assignplan) плана.
-* 4 - **операции над тренировками**: копирование, вставка и удаление тренировок.
-* 5 - выбор **режима отображения записей в плане**: подробно / кратко;
-* 6 - **тренировочная неделя** плана.
+In order to fill the plan, you need to go to the plan constructor. To do it, you should select “Create plan items” in the context menu of the plan.
 
-Создание [тренировок](/basics/create-plan-activity.md), [событий](/basics/create-record.md) и [соревнований](/basics/competition.md) в тренировочном плане полностью повторяет эти действия в календаре ученика.
+![Plan constructor](https://264710.selcdn.ru/assets/images/_new/methodology/tp-builder-navigation.png)
+
+In the plan constructor window you will find:
+
+* **1 - templates panel** just like in the calendar.  Templates panel is available only for users with “Coach” and “Premium” tariffs enabled.
+* **2 - plan name** and plan selector. When clicking on the plan name, the plan card will open where you can edit its parameters, and when clicking on the drop-down list icon, you can quickly go to the constructor of the required plan, and also return to the plans list.
+* **3 - assignments.** You need to click here to access the dialog box enabling to [assign](#assignplan) the plan.
+* **4 - operations with activities**: copy, paste and delete activities
+* **5 **- select the **mode of displaying records in the plan**: in detail/briefly;
+* **6 - training week** of the plan.
+
+The process of [activities](/basics/create-plan-activity.md), [events](/basics/create-record.md) and [competitions](/basics/competition.md) creation within the plan is similar to the process of their creation in the athlete’s calendar.  
 
 Тренировки в плане можно создавать:
 
@@ -135,27 +149,25 @@ On this tab you will find activity samples. In order to set an activity or event
 
 ![Тренировки в плане Staminity](https://264710.selcdn.ru/assets/images/methodology/training-plan-copy-paste.gif)
 
-
-> **Обратите внимание!**
-В заданиях тренировочного плана интенсивность всегда указывается в % от ПАНО. Это позволяет один план использовать для нескольких спортсменов с разным уровнем подготовки и уровнем ПАНО.
+> **Обратите внимание!**  
+> В заданиях тренировочного плана интенсивность всегда указывается в % от ПАНО. Это позволяет один план использовать для нескольких спортсменов с разным уровнем подготовки и уровнем ПАНО.
 
 ### Присвоения плана {#assignplan}
 
 Тренировочный план можно присвоить своим спортсменам и все записи плана попадут в их тренировочный календарь.
 
-Есть несколько способов присвоения плана.   
+Есть несколько способов присвоения плана.
 
-В контекстном меню для строчки плана выберите "Присвоения":   
+В контекстном меню для строчки плана выберите "Присвоения":  
 ![Присвоения плана](https://264710.selcdn.ru/assets/images/_new/methodology/tp-menu-items-2.png)
 
-ИЛИ в конструкторе планов нажмите на иконку "Присвоить" [3].
+ИЛИ в конструкторе планов нажмите на иконку "Присвоить" \[3\].
 
-В окне присвоения плана укажите:
+В окне присвоения плана укажите:  
 ![Основные параметры плана](https://264710.selcdn.ru/assets/images/_new/methodology/tp-assignment-window.png)
 
-
 * **1 - Спортсмена или спортсменов**, в чьих календарях вы хотите видеть записи плана,
-* **2 - Режим присвоения**, который определяет способ расчета дат присвоения. Можно выбрать присвоение в даты плана или присвоение в даты записей \(событий, тренировок, соревнований\). Расчетный блок дат [5] в карточке присвоения поможет выбрать нужный вам режим.
+* **2 - Режим присвоения**, который определяет способ расчета дат присвоения. Можно выбрать присвоение в даты плана или присвоение в даты записей \(событий, тренировок, соревнований\). Расчетный блок дат \[5\] в карточке присвоения поможет выбрать нужный вам режим.
 * **3 - Дату начала или дату окончания присвоения. **Выбор даты позволит применить план или начиная с определенной даты или по определенную дату. 
 * **4 - Укажите дату**:
 
@@ -166,10 +178,9 @@ On this tab you will find activity samples. In order to set an activity or event
 | Дата последней записи | Дата последней записи из плана в календаре спортсмена. Отличается от даты окончания плана, если последняя тренировка в плане запланирована не в последний день недели |
 | Дата окончания плана | Последний день недели в календаре спортсмена, когда закончится тренировочный план |
 
-* **5 - расчетный блок дат**, для помощи в правильности выбора параметров присвоения 
+* **5 - расчетный блок дат**, для помощи в правильности выбора параметров присвоения
 
 * Для обновляемого плана также можно указать **признак трансляции изменений **- нужно ли для спортсменов транслировать изменения плана после присвоения.
-
 
 **Важные особенности присвоения плана:**
 
@@ -177,51 +188,52 @@ On this tab you will find activity samples. In order to set an activity or event
 2. **Обновляемый план с трансляцией изменений можно присвоить только в даты плана. **Если выбрать другие даты присвоения, обновления плана транслироваться спортсменам не будут. 
 3. **Изменения тренировок в прошлом в обновляемом плане не передаются спортсменам.** Если в обновляемом плане, присвоенном с трансляцией изменений, изменить тренировку за вчера, такие изменения не будут переданы спортсменам.
 
-
 ### Удалить присвоение плана {#deleteassignment}
+
 В окне присвоений вы всегда можете видеть, кому и когда был присвоен данный план:
 
 ![Присвоения плана](https://264710.selcdn.ru/assets/images/_new/methodology/tp-assignments.png)
 
-Для удаления присвоения войдите в контекстное меню присвоения и выберите функцию "Удалить". 
+Для удаления присвоения войдите в контекстное меню присвоения и выберите функцию "Удалить".
 
-После удаления присвоения из календаря спортсмена будут удалены все невыполненные тренировки по данному плану. 
+После удаления присвоения из календаря спортсмена будут удалены все невыполненные тренировки по данному плану.
 
-###Опубликовать план{#publish}
+### Опубликовать план {#publish}
 
 Для публикации плана в Магазине:
 
-1 - Проверьте, как увидят ваш план потенциальные покупатели. Для этого в контекстном меню плана выберите **"Предпросмотр (текущая версия)**:
+1 - Проверьте, как увидят ваш план потенциальные покупатели. Для этого в контекстном меню плана выберите **"Предпросмотр \(текущая версия\)**:
 
 ![Основные параметры плана](https://264710.selcdn.ru/assets/images/_new/methodology/tp-menu-items-2.png)
 
 Тщательно проверьте корректность информации и при необходимости внесите изменения в [характеристики плана](#createplan), указанные при создании.
 
-2 - Перейдите в диалог публикации плана. Для этого в контекстном меню выберите пункт **"Публикация"**. 
+2 - Перейдите в диалог публикации плана. Для этого в контекстном меню выберите пункт **"Публикация"**.
 
-3 - Убедитесь, что в окне публикации плана пройдены все проверки. 
-![Основные параметры плана](https://264710.selcdn.ru/assets/images/_new/methodology/tp-publication.png)  
+3 - Убедитесь, что в окне публикации плана пройдены все проверки.   
+![Основные параметры плана](https://264710.selcdn.ru/assets/images/_new/methodology/tp-publication.png)
 
-Если часть проверок не пройдена, публикация будет невозможна. Устраните замечания, изменив значения характеристик плана или в настройках (если не заполнен [профиль Автора планов](/basics/plan-author-profile.md)). 
+Если часть проверок не пройдена, публикация будет невозможна. Устраните замечания, изменив значения характеристик плана или в настройках \(если не заполнен [профиль Автора планов](/basics/plan-author-profile.md)\).
 
 4 - Нажмите "Опубликовать" и подтвердите публикацию.
 
-###Опубликовать изменения плана{#publishupdates}
+### Опубликовать изменения плана {#publishupdates}
 
-Любые изменения, которые произошли в плане после публикации в магазине, автоматически НЕ ОТРАЖАЮТСЯ в магазине планов. 
+Любые изменения, которые произошли в плане после публикации в магазине, автоматически НЕ ОТРАЖАЮТСЯ в магазине планов.
 
-Чтобы в магазине планов появилась последняя актуальная версия плана, изменения необходимо опубликовать.  
+Чтобы в магазине планов появилась последняя актуальная версия плана, изменения необходимо опубликовать.
 
-Красная иконка магазина планов в списке опубликованных планов покажет, что у плана есть неопубликованные изменения.  
+Красная иконка магазина планов в списке опубликованных планов покажет, что у плана есть неопубликованные изменения.
 
-![Неопубликованы изменения](https://264710.selcdn.ru/assets/images/_new/methodology/tp-red-icon.png)  
+![Неопубликованы изменения](https://264710.selcdn.ru/assets/images/_new/methodology/tp-red-icon.png)
 
-Для публикации изменений нажмите на иконку или перейдите в окно публикации из контекстного меню плана. Убедитесь, что в окне публикации пройдены все проверки и нажмите "Опубликовать".  
+Для публикации изменений нажмите на иконку или перейдите в окно публикации из контекстного меню плана. Убедитесь, что в окне публикации пройдены все проверки и нажмите "Опубликовать".
 
+### Снять план с публикации {#unpublish}
 
-###Снять план с публикации{#unpublish}
-В любой момент план можно снять с публикации и удалить из магазина. 
+В любой момент план можно снять с публикации и удалить из магазина.
 
-Для снятия плана с публикации откройте окно публикации и нажмите на кнопку "Снять с публикации". 
+Для снятия плана с публикации откройте окно публикации и нажмите на кнопку "Снять с публикации".
 
-Кнопка доступна для любых опубликованных планов. 
+Кнопка доступна для любых опубликованных планов.
+
