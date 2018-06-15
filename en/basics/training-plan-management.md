@@ -167,16 +167,16 @@ In the plan assignment window you need to set:
 ![General params of the plan](https://264710.selcdn.ru/assets/images/_new/methodology/tp-assignment-window.png)
 
 * **1 - An athlete or athletes**, in whose calendars plan items should appear,
-* **2 - Assinment mode**, which determines the method of assignment dates calculation. Ypu can select assinment in the plan dates or in the item \(events, activities, competitions\) dates. The calculated block of dates \[5\] in the assignments card will help you to choose the mode you need.
+* **2 - Assinment mode**, which determines the method of assignment dates calculation. You can select assinment in the plan dates or in the item \(events, activities, competitions\) dates. The calculated block of dates \[5\] in the assignments card will help you to choose the mode you need.
 * **3 - Start date and end date of assignment. **Date selection will help you to apply plan either starting from a specific date or till a specific date. 
 * **4 - Set a date**:
 
-| Дата | Описание |
+| Date| Description|
 | :--- | :--- |
-| Дата начала плана | Первый день недели, начиная с которой в календаре спортсмена будут показаны записи плана |
-| Дата первой записи | Дата первой записи из плана в календаре спортсмена. Отличается от даты начала плана, если первая тренировка в плане запланирована не в первый день недели |
-| Дата последней записи | Дата последней записи из плана в календаре спортсмена. Отличается от даты окончания плана, если последняя тренировка в плане запланирована не в последний день недели |
-| Дата окончания плана | Последний день недели в календаре спортсмена, когда закончится тренировочный план |
+| Plan start date | The first day of th week starting from which the plan items will appear in the athlete's calendar |
+| First item date | Date of the first plan item displayed in the athlete's calendar. It differs from the plan start date if the first activity is planned not on the first day of the week |
+| Last item date | Date of the last plan item displayed in the athlete's calendar. It differs from the plan end date if the last activity is planned not on the last day of the week |
+| Plan end date| The last day of the week in the athlete's calendar when the training plan will end |
 
 * **5 - расчетный блок дат**, для помощи в правильности выбора параметров присвоения
 
