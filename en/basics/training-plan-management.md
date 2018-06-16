@@ -22,7 +22,7 @@ In this article:
 
 In order to manage training plans you need to go to the section “Methodology” - “Training plans”
 
-![Тренировочные планы для тренера](https://264710.selcdn.ru/assets/images/_new/methodology/training-plan-management.png)
+![Training plans for a coach](https://264710.selcdn.ru/assets/images/_new/methodology/training-plan-management.png)
 
 In this window you can view previously created plans, filter plans, create new and manage existing ones.
 
@@ -33,7 +33,7 @@ Structure of the window:
 * 3 - training plans list. Plans are grouped by publication in the Store;
 * 4 - plan’s context menu providing access to functions: "Create plan items", "Assignments", "Training plan publication", "Preview in Store" и "Unpublish plan";
 
-![Тренировочные планы для тренера](https://264710.selcdn.ru/assets/images/_new/methodology/tp-menu-items-2.png)
+![Training plans for a coach](https://264710.selcdn.ru/assets/images/_new/methodology/tp-menu-items-2.png)
 
 * 5 -  dynamic plan attribute. Detailed information about plan types you can find in this [article](/basics/training-plan.md);
 
@@ -72,7 +72,7 @@ On this tab you can set:
 
 > is available only for plans with enabled "For publish in Store" attribute
 
-![Tab &quot;Store&quot;](https://264710.selcdn.ru/assets/images/_new/methodology/tp-create-storeInfo.png)
+![Tab Store](https://264710.selcdn.ru/assets/images/_new/methodology/tp-create-storeInfo.png)
 
 On this tab you can set:
 
@@ -96,7 +96,7 @@ On this tab you can set:
 
 > Is available only for plans with “For publish in Store” attribute enabled
 
-![Вкладка Описание для плана](https://264710.selcdn.ru/assets/images/_new/methodology/tp-create-description-2.png)
+![Plan Description](https://264710.selcdn.ru/assets/images/_new/methodology/tp-create-description-2.png)
 
 Describe the plan as you want to. For plans intended for sale, description is displayed on the plan page in the Store and greatly affect the plan selection.  
 Make it impressive and memorable, use text formattin, insert images and links to videos.
@@ -193,7 +193,7 @@ In the plan assignment window you need to set:
 
 In the assignments window you can always track to whom and when a plan has been assigned:
 
-![Присвоения плана](https://264710.selcdn.ru/assets/images/_new/methodology/tp-assignments.png)
+![Plan assignments](https://264710.selcdn.ru/assets/images/_new/methodology/tp-assignments.png)
 
 To cancel assignment you need to go to the assignment context window and select "Cancel assignment" option.
 
@@ -228,13 +228,13 @@ A red icon of the Store in the list of published plans will show you that the pl
 
 ![Unpublished changes](https://264710.selcdn.ru/assets/images/_new/methodology/tp-red-icon.png)
 
-Для публикации изменений нажмите на иконку или перейдите в окно публикации из контекстного меню плана. Убедитесь, что в окне публикации пройдены все проверки и нажмите "Опубликовать".
+To publish changes you need to click on the icon or proceed to the publication window from the plan's context menu. Make sure that all checks are completed in the publication window and click on "Publish". 
 
-### Снять план с публикации {#unpublish}
+### Unpublish plan {#unpublish}
 
-В любой момент план можно снять с публикации и удалить из магазина.
+You can unpublish and delete plan from the store at any moment.
 
-Для снятия плана с публикации откройте окно публикации и нажмите на кнопку "Снять с публикации".
+In order to unpublish plan you need to open the publication window and click on the "Unpublish" button.
 
-Кнопка доступна для любых опубликованных планов.
+This button is available for all published plans.
 
