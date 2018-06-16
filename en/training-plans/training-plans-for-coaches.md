@@ -63,17 +63,17 @@ You can create a training plan and publish it in the Store for free. Staminity e
 
 |  | Staminity | TrainingPeaks |
 | ---: | :---: | :---: |
-| Разовый взнос \(лицензия тренера\) | Нет | $99 |
-| Ежемесячная абонентская плата | Нет\* | $19 - $49 |
-| Комиссия сервиса с продаж планов | 30% | 30% |
+| One-time payment \(coach license\) | No | $99 |
+| Monthly subscription fee | No\* | $19 - $49 |
+| Service commissions set for the plan sales | 30% | 30% |
 
-_\*Примечание: в Staminity не нужно покупать тариф "Тренер", чтобы опубликовать тренировочный план в Магазине планов и получать доход от продажи._
+_\*Note: in Staminity you don't need to buy the "Coach" tariff in order to publish a training plan in the Store and   earn on sales._
 
-Если вы уже предлагаете своим клиентам тренировочные планы, их копия в Staminity может стать хорошим дополнением для портфеля ваших продуктов.
+If you are already offering training plans to your clients, then their copy in Staminity can beneficially supplement your portfolio. 
 
-Предложите своим клиентам выбор:
+Offer your clients a choice:
 
-* или использовать план как раньше, получая его в файле или электронной таблице;
+* either use the plan as usually, receiving it или использовать план как раньше, получая его в файле или электронной таблице;
 * или получить этот же план в Staminity.
 
 ## Всё для продажи
