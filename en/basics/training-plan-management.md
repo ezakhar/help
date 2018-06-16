@@ -6,7 +6,7 @@ In this article:
 
 * [View training plans](#view)
 * [Create a training plan](#createplan):
-  * [Tab "General params"](#general)
+  * [Tab "General"](#general)
   * [Tab "Store"](#store)
   * [Tab "Description"](#description)
   * [Tab "Samples"](#samples)
@@ -15,7 +15,7 @@ In this article:
 * [Assign plan to athletes](#assignplan)
 * [Cancel assignment](#deleteassignment)
 * [Publish plan in the Store](#publish)
-* [Publish plan in the Store](#publishupdates)
+* [Publish plan updates in the Store](#publishupdates)
 * [Unpublish plan](#unpublish)
 
 ### View training plans {#view}
@@ -49,10 +49,10 @@ In order to create a training plan you need to go to the section “Methodology�
 
 There are several tabs in the new plan creation window
 
-* tab "**General params**" is available always, 
-* tabs "**Store**", "**Description**" и "**Samples**" are available only for plans meant for publication.
+* tab "**General**" is available always, 
+* tabs "**Store**", "**Description**" and "**Samples**" are available only for plans meant for publication.
 
-#### Tab "General params" {#general}
+#### Tab "General" {#general}
 
 ![General params of the plan](https://264710.selcdn.ru/assets/images/_new/methodology/tp-create-general.png)
 
@@ -185,7 +185,7 @@ In the plan assignment window you need to set:
 
 **Important features of the plan assignment:**
 
-1. **Workouts cannot be created on the past dates. **If you set such dates so that all plan activities or part of them are assigned on the past dates, then they won't appear in the athlete's calendar. or complete ** **Если вы выберите даты так, что все или часть тренировок из плана окажутся в прошлом, то они не будут созданы в календаре спортсмена.
+1. **Workouts cannot be created on the past dates. **If you set such dates so that all plan activities or part of them are assigned on the past dates, then they won't appear in the athlete's calendar.
 2. **Dynamic plan with changes transfer can be assigned only on the plan dates.** If you set different assignment dates, then plan changes won't be transferred to athletes. 
 3. **Changes made in activities which have happened in the past are not transferred to athletes. **In case if in a dynamic plan assigned with changes transfer you make changes in the activity happened yesterday, then such changes won't be transferred to athletes. 
 
@@ -195,38 +195,38 @@ In the assignments window you can always track to whom and when a plan has been 
 
 ![Присвоения плана](https://264710.selcdn.ru/assets/images/_new/methodology/tp-assignments.png)
 
-To cancel assignment you need to go to the assignment context window and select "Cancel assignment" option. 
+To cancel assignment you need to go to the assignment context window and select "Cancel assignment" option.
 
 After that, all uncompleted activities within the plan will be removed from the athlete's calendar.
 
-### Опубликовать план {#publish}
+### Publish plan in the Store {#publish}
 
-Для публикации плана в Магазине:
+In order to publish plan in the Store: 
 
-1 - Проверьте, как увидят ваш план потенциальные покупатели. Для этого в контекстном меню плана выберите **"Предпросмотр \(текущая версия\)**:
+1 - Check how your plan looks like when viewed by potential customers. To do it you need to select **"Preview \(current version\)**" in the context menu of the plan: 
 
-![Основные параметры плана](https://264710.selcdn.ru/assets/images/_new/methodology/tp-menu-items-2.png)
+![General params of the plan](https://264710.selcdn.ru/assets/images/_new/methodology/tp-menu-items-2.png)
 
-Тщательно проверьте корректность информации и при необходимости внесите изменения в [характеристики плана](#createplan), указанные при создании.
+Carefully check the validity of the information presented and if necessary edit [tags](#createplan) specified during the plan creation.
 
-2 - Перейдите в диалог публикации плана. Для этого в контекстном меню выберите пункт **"Публикация"**.
+2 - Go to the plan publication dialog box.  In order to do it you need to select **"Publication"** item in the context menu.
 
-3 - Убедитесь, что в окне публикации плана пройдены все проверки.  
-![Основные параметры плана](https://264710.selcdn.ru/assets/images/_new/methodology/tp-publication.png)
+3 - Make sure that all checks are completed in the plan publication window.  
+![General params of the plan](https://264710.selcdn.ru/assets/images/_new/methodology/tp-publication.png)
 
-Если часть проверок не пройдена, публикация будет невозможна. Устраните замечания, изменив значения характеристик плана или в настройках \(если не заполнен [профиль Автора планов](/basics/plan-author-profile.md)\).
+If not all checks are completed, you won't be able to publish the plan. Solve comments by changing tags or settings \(if the [plan Author profile](/basics/plan-author-profile.md) is not completed\).
 
-4 - Нажмите "Опубликовать" и подтвердите публикацию.
+4 - Click on "Publish" and confirm plan publication.
 
-### Опубликовать изменения плана {#publishupdates}
+### Publish plan updates in the Store {#publishupdates}
 
-Любые изменения, которые произошли в плане после публикации в магазине, автоматически НЕ ОТРАЖАЮТСЯ в магазине планов.
+Any changes made after the plan publication ARE NOT automatically DISPLAYED in the Store.
 
-Чтобы в магазине планов появилась последняя актуальная версия плана, изменения необходимо опубликовать.
+In order for the latest plan version to appear in the Store, you need to publish changes.
 
-Красная иконка магазина планов в списке опубликованных планов покажет, что у плана есть неопубликованные изменения.
+A red icon of the Store in the list of published plans will show you that the plan has unpublished changes.
 
-![Неопубликованы изменения](https://264710.selcdn.ru/assets/images/_new/methodology/tp-red-icon.png)
+![Unpublished changes](https://264710.selcdn.ru/assets/images/_new/methodology/tp-red-icon.png)
 
 Для публикации изменений нажмите на иконку или перейдите в окно публикации из контекстного меню плана. Убедитесь, что в окне публикации пройдены все проверки и нажмите "Опубликовать".
 
