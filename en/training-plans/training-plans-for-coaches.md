@@ -6,7 +6,7 @@ Staminity offers coaches and clubs a convenient platform for promoting and selli
 
 ## Extra income for a coach
 
-![Продажа тренировочных планов в Staminity](https://264710.selcdn.ru/assets/images/training-plan/training_plans_money.png)
+![Selling training plans in Staminity](https://264710.selcdn.ru/assets/images/training-plan/training_plans_money.png)
 
 All over the world training plans allow coaches to:
 
@@ -25,37 +25,37 @@ Staminity is a proffesional platform designed for supporting the training proces
 
 * **Training calendar is always at your disposal **and you can access it both via PC and via iOS and Android mobile apps. If needed, Staminity calendar can be integrated with Google calendar, Outlook and other calendar apps.
 
-* Completed activities are **automatically downloaded and compared with a plan**; 
+* Completed activities are **automatically downloaded and compared with a plan**;
 
 * The system evaluates correctness of the activity's performance;
 
 * There is detailed information available on every completed activity as well as reports on the whole training process;
 
-* In order to work according to the plan athletes don't need to enable a paid tariff, they can use Staminity app on PC and smartphones for free. The paid Premium tariff provides additional possibilities for analyzing activities. 
+* In order to work according to the plan athletes don't need to enable a paid tariff, they can use Staminity app on PC and smartphones for free. The paid Premium tariff provides additional possibilities for analyzing activities.
 
-![Календарь спортсмена](https://lh6.googleusercontent.com/TEQ-FWDz6mhZm4o7MLHPRSjLPf9trojZbAQuQ6V2EBI1yx8dkwdWoOKC2H7_uDCQz6jTi_dmbLo-4ZoBdlESQq2MBsw_BNsC9CYJo4pLtmE7ESuE0W9e1lUVrIAqQX3_eR0UEguN)Training calendar
+![Athlete&apos;s calendar](https://lh6.googleusercontent.com/TEQ-FWDz6mhZm4o7MLHPRSjLPf9trojZbAQuQ6V2EBI1yx8dkwdWoOKC2H7_uDCQz6jTi_dmbLo-4ZoBdlESQq2MBsw_BNsC9CYJo4pLtmE7ESuE0W9e1lUVrIAqQX3_eR0UEguN)Training calendar
 
-![Анализ выполненный тренировки](https://lh6.googleusercontent.com/QvFA0Sp4gMuYIZi3kfhRMw2UBbVyBzi2UlvhZpfBVY8-2gW2MVALK1_B2F5I4y_jqeGeiEssZ3Hk7jXogVpuUab0KEq7hxgkGMLpDU_3pE_5SimdiJWEjUTGMzmZjzsvFCptEVKX)Analysis of a completed activity
+![Analysis of a completed activity](https://lh6.googleusercontent.com/QvFA0Sp4gMuYIZi3kfhRMw2UBbVyBzi2UlvhZpfBVY8-2gW2MVALK1_B2F5I4y_jqeGeiEssZ3Hk7jXogVpuUab0KEq7hxgkGMLpDU_3pE_5SimdiJWEjUTGMzmZjzsvFCptEVKX)Analysis of a completed activity
 
 ## It is easy to create a plan
 
-You know the methods of athletes training and we make sure that working environment in Staminity is as comfortable as possible. In order to waste less time on planning: Чтобы тратить меньше времени на планирование:
+You know the methods of athletes training and we make sure that working environment in Staminity is as comfortable as possible. In order to waste less time on planning:
 
-* Копируйте и вставляйте повторяющиеся тренировки;
+* Copy and paste repeating activities;
 
-* Копируйте тренировки между планами;
+* Copy activity from one plan and paste it into another one;
 
-* Перетаскивайте задания мышкой в нужные даты, копируйте при перетаскивании;
+* Drag and drop activities to the required dates, copy when dragging;
 
-* Создавайте в один клик тренировку по шаблону.
+* Create activity in one click using template.
 
-Ввод тренировочного плана![Ввод тренировочного плана](https://lh4.googleusercontent.com/v44gR8_2JcAbAfhx60Q4rBo_a0neax_lnA-kiSpFedWEp1RSWMvWsvWD9z85fhn87eF3mgTSfwJrX7Pa-cOUhZTKprXiYwxGPMHBuX1v-jnYR-nKw2ADYKnxLaqSdqfC84rx_4_B)
+Using training plan![Training plan in the calendar](https://lh4.googleusercontent.com/v44gR8_2JcAbAfhx60Q4rBo_a0neax_lnA-kiSpFedWEp1RSWMvWsvWD9z85fhn87eF3mgTSfwJrX7Pa-cOUhZTKprXiYwxGPMHBuX1v-jnYR-nKw2ADYKnxLaqSdqfC84rx_4_B)
 
-Ввод задания на тренировку по сегментам![Ввод задания на тренировку по сегментам](https://lh5.googleusercontent.com/LjEX02hZ_4yhYVfS4tlirwdlndZaaG5oagRGB4ZKIg0fFuoldPTiAMCNRDTlYSMsi5N6KkVbrBB5YJe7OSkrEAlUh8ZMVzxJaAee7QTWsdWLzL8L4vOysa-k2AdI7CyInasjbT5J)
+Setting tasks for structured activities ![Setting tasks for structured activities](https://lh5.googleusercontent.com/LjEX02hZ_4yhYVfS4tlirwdlndZaaG5oagRGB4ZKIg0fFuoldPTiAMCNRDTlYSMsi5N6KkVbrBB5YJe7OSkrEAlUh8ZMVzxJaAee7QTWsdWLzL8L4vOysa-k2AdI7CyInasjbT5J)
 
-Добавление события![Добавление события](https://lh5.googleusercontent.com/IaKbjP06Gu1hHR8yNh-3KndgC8bUlExwzCrEQDwswzcbAE9AsmDJdoAs7vyJSGtGGqp3O_zVc0ho-ucuSf8lqBrdiYIw2YdazQmkFnTUaSuxKhHosJ2cWIL2-vqOOQUYTSDpTVBV)Подробнее о том как создать свой план в отдельной статье: [Тренировочные планы](/basics/training-plan.md)
+Adding event ![Adding event](https://lh5.googleusercontent.com/IaKbjP06Gu1hHR8yNh-3KndgC8bUlExwzCrEQDwswzcbAE9AsmDJdoAs7vyJSGtGGqp3O_zVc0ho-ucuSf8lqBrdiYIw2YdazQmkFnTUaSuxKhHosJ2cWIL2-vqOOQUYTSDpTVBV)More information about training plan creartion you can find in this article: [Training plans](/basics/training-plan.md)
 
-## Нет продаж - не нужно платить
+## No 
 
 Создать тренировочный план и опубликовать его для продажи в Staminity можно совершенно бесплатно. Staminity зарабатывает на процентах с продаж.
 
@@ -82,11 +82,11 @@ _\*Примечание: в Staminity не нужно покупать тари�
 
 Для каждого плана в Staminity доступна своя страница, на которой собрана вся необходимая информация по нему для потенциальных покупателей. Посмотрите примеры:
 
-![Страница тренировочного плана, пример 1](https://lh4.googleusercontent.com/6zgim2rjhrRMyBOvw6wP1BfZVLycgnstP58Pzupr-M6-5RMhtB5nd2NS5bGoSR4k5g1bj1eR0jSF0nroviBZHMc5XoN3fCDR4L7v2FVhyAo-1kSv5q8FjCAR_JsNiYJEEdci1Wq4)
+![Training plan page, sample 1](https://lh4.googleusercontent.com/6zgim2rjhrRMyBOvw6wP1BfZVLycgnstP58Pzupr-M6-5RMhtB5nd2NS5bGoSR4k5g1bj1eR0jSF0nroviBZHMc5XoN3fCDR4L7v2FVhyAo-1kSv5q8FjCAR_JsNiYJEEdci1Wq4)
 
 Пример 1: [https://dev1.staminity.com/plan/683](https://dev1.staminity.com/plan/683)
 
-![Страница тренировочного плана, пример 2](https://lh4.googleusercontent.com/SxAkm5DdGpWY7I235N7DhyjLH9AD7JNw11iEKl2QgxwkNLsOtdAslcxqTYJFEs4nAQIm3lBgbbVKXC4Z4aLu3TVEmxWLuF3OODLnYfHURPzU8KGsJrvYwuY0wFDREpmi5D_NrVtk)
+![Training plan page, sample 2](https://lh4.googleusercontent.com/SxAkm5DdGpWY7I235N7DhyjLH9AD7JNw11iEKl2QgxwkNLsOtdAslcxqTYJFEs4nAQIm3lBgbbVKXC4Z4aLu3TVEmxWLuF3OODLnYfHURPzU8KGsJrvYwuY0wFDREpmi5D_NrVtk)
 
 Пример 2: [https://dev1.staminity.com/plan/21](https://dev1.staminity.com/plan/21)
 
