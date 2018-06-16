@@ -1,25 +1,25 @@
-# Продажа тренировочных планов через Staminity
+# Selling training plans in Staminity
 
-Staminity предлагает тренерам и клубам платформу для продвижения и продаж тренировочных планов в циклических видах спорта.
+Staminity offers coaches and clubs a convenient platform for promoting and selling training plans in cyclic sports.
 
-Тренировочный план в Staminity - это набор тренировочных заданий и рекомендаций тренера по достижению определенной цели в спорте.
+**Training plan** in Staminity is a set of planned activities and recommendations of a coach, which should be completed by an athlete in order to achieve the planned goals.
 
-## Дополнительный доход для тренера
+## Extra income for a coach
 
 ![Продажа тренировочных планов в Staminity](https://264710.selcdn.ru/assets/images/training-plan/training_plans_money.png)
 
-Во всем мире тренировочные планы позволяют тренерам:
+All over the world training plans allow coaches to: 
 
-1. **получить дополнительный доход**
-2. **привлечь новых клиентов**
+1. **earn extra**
+2. **attract new clients**
 
-Тренировочный план и услуга дистанционного тренинга имеют пересечение аудиторий, но всё-таки ориентированы на разные группы клиентов: которые готовы/могут платить за тренера или не могут/ не хотят.
+Target audience of a training plan and remote work with a coach partly intersect but still they are focused on different groups of clients: the ones who are ready/can pay for a coach and the ones who cannot/don't want to.
 
-Спортсменов, кто использует для подготовки тренировочные планы, больше, чем спортсменов занимающихся online с тренером. Большинство этих спортсменов готовится к своим первым стартам по бегу и триатлону. Для тренера это является хорошей возможностью заработать и предложить свои услуги.
+There are more athletes who use training plans than those who work with a coach online. The majority of such athletes are preparing for their first races in running or triathlon. It is a great opportunity for a coach to to earn extra and offer his services. 
 
-Добавляя в свой тренировочный план консультации или очные тренировки, вы сможете познакомиться с вашими будущими клиентами и продемонстрировать ваши компетенции тренера, мотиватора.
+By adding consultation or offline activities to your training plan, you receive a chance to get acquainted with your future clients and show your competences as a coach and motivator.
 
-## Удобно для спортсменов
+## It is convenient for athletes
 
 Staminity - это профессиональная платформа для поддержки тренировочного процесса. Поэтому в отличие от плана на бумаге, в электронной таблице или в файле, заниматься по плану в Staminity для спортсменов гораздо удобнее:
 
@@ -64,10 +64,10 @@ Staminity - это профессиональная платформа для п
 |  | Staminity | TrainingPeaks |
 | ---: | :---: | :---: |
 | Разовый взнос \(лицензия тренера\) | Нет | $99 |
-| Ежемесячная абонентская плата | Нет* | $19 - $49 |
+| Ежемесячная абонентская плата | Нет\* | $19 - $49 |
 | Комиссия сервиса с продаж планов | 30% | 30% |
 
-_*Примечание: в Staminity не нужно покупать тариф "Тренер", чтобы опубликовать тренировочный план в Магазине планов и получать доход от продажи._   
+_\*Примечание: в Staminity не нужно покупать тариф "Тренер", чтобы опубликовать тренировочный план в Магазине планов и получать доход от продажи._
 
 Если вы уже предлагаете своим клиентам тренировочные планы, их копия в Staminity может стать хорошим дополнением для портфеля ваших продуктов.
 
@@ -168,3 +168,4 @@ _*Примечание: в Staminity не нужно покупать тариф
 **Как я узнаю о покупке и как устроен процесс продажи?**
 
 Информация о новой покупке поступит на почту и будет отражена в уведомлении в Личном кабинете.
+
