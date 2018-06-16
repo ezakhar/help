@@ -1,6 +1,6 @@
 # Training plans management
 
-> Only users with completed coach profile canview, create and edit training plans
+> Only users with completed coach profile can view, create and edit training plans
 
 In this article:
 
@@ -35,17 +35,17 @@ Structure of the window:
 
 ![Training plans for a coach](https://264710.selcdn.ru/assets/images/_new/methodology/tp-menu-items-2.png)
 
-* 5 -  dynamic plan attribute. Detailed information about plan types you can find in this [article](/basics/training-plan.md);
+* 5 - dynamic plan attribute. Detailed information about plan types you can find in this [article](/basics/training-plan.md);
 
 * 6 - training plan publication in the Store;
 
-* attribute of changes available in thepublished plan. It is displayed when the currentversion of the plan differs from the onepublished in the Store;
+* 7 - attribute of changes available in the published plan. It is displayed when the current version of the plan differs from the one published in the Store;
 
 * 8 - button to create a plan.
 
 ### Create a training plan {#createplan}
 
-In order to create a training plan you need to go to the section “Methodology” - “Training plans” and click on the “Add” button \[8\].
+In order to create a training plan, you need to go to the section “Methodology” - “Training plans” and click on the “Add” button \[8\].
 
 There are several tabs in the new plan creation window
 
@@ -62,7 +62,7 @@ On this tab you can set:
 * **Sport **for which the training plan is designed;
 * **Distance type**, for which the athlete is being prepared;
 * **Plan for publication**. Enable this attribute for plans, that you want to publish in the Store;
-* **Fixed dates**. Enable this attribute to create [plan with fixed dates](/basics/training-plan.md#fixed) and disable for [plans with non-fixed dates](/basics/training-plan.md#notfixed).  If the attribute isn't set, then the plan will be created for unspecified dates \(Week 1, Day 1; Week 1, Day 2 and etc.\) Such universal plan can be used in any dates.
+* **Fixed dates**. Enable this attribute to create a [plan with fixed dates](/basics/training-plan.md#fixed) and disable for [plans with non-fixed dates](/basics/training-plan.md#notfixed).  If the attribute isn't set, then the plan will be created for unspecified dates \(Week 1, Day 1; Week 1, Day 2 and etc.\) Such universal plan can be used in any dates.
 * **Start date**. You need to set the start date for plans with fixed dates.
 * **Dynamic plan** \(only for plans with fixed dates\). Enable this attribute if you want to create a [dynamic plan](/basics/training-plan.md#dynamic) and transfer plan changes to assigned athletes. 
 * **Tags**. Select attributes suitable for your plan. They will help you to filter plans and as for plans put up for sale, they will help customers to select the required plan.
@@ -86,11 +86,11 @@ On this tab you can set:
 
 * **Chart of training volumes within the plan** -  Staminity system will automatically calculate the training volumes chart and display it on the plan page. This chart can be calculated based on duration or distance. You can select the required value depending on your planning approach. By default “By duration” value is set.
 
-* Attribute **“Consultations included”**. If the plan’s cost include possibility of consulting with you, then you need to enable this attribute and describe how often the buyer can contact you and how exactly..
+* Attribute **“Consultations included”**. If the plan’s cost includes possibility of consulting with you, then you need to enable this attribute and describe how often the buyer can contact you and how exactly.
 
-* Attribute**"Offline activities included"**. If the plan's cost includes offline activities with you, then you need to enable this attribute and describe frequency, time and place of these activities.
+* Attribute**"Offline activities included"**. If the plan's cost includes offline activities with you, then you need to enable this attribute and describe the frequency, time and place of these activities.
 
-* Attribute  **"Structured activities included"**. In case if you use structured activities within the plan, then you need to enable this attribute and describe which activities you have divided to segments and which intensity indicator  you have used. It is important and must be done to enable athletes to set up the LT value based on this intensity indicator in order to calculate the training load in a correct way.
+* Attribute  **"Structured activities included"**. In case if you use structured activities within the plan, then you need to enable this attribute and describe which activities you have divided into segments and which intensity indicator  you have used. It is important and must be done to enable athletes to set up the LT value based on this intensity indicator in order to calculate the training load in a correct way.
 
 #### Tab "Description" {#description}
 
@@ -99,7 +99,7 @@ On this tab you can set:
 ![Plan Description](https://264710.selcdn.ru/assets/images/_new/methodology/tp-create-description-2.png)
 
 Describe the plan as you want to. For plans intended for sale, description is displayed on the plan page in the Store and greatly affect the plan selection.  
-Make it impressive and memorable, use text formattin, insert images and links to videos.
+Make it impressive and memorable, use text formatting, insert images and links to videos.
 
 #### Tab “Samples” {#samples}
 
@@ -107,7 +107,7 @@ Make it impressive and memorable, use text formattin, insert images and links to
 
 ![Tab Samples](https://264710.selcdn.ru/assets/images/_new/methodology/tp-create-samples.png)
 
-On this tab you will find activity samples. In order to set an activity or event from the plan as a sample, go to the plan constructor and enable the “Set as sample” attribute.
+On this tab, you will find activity samples. In order to set an activity or event from the plan as a sample, go to the plan constructor and enable the “Set as sample” attribute.
 
 Activity samples provided in the plan will help potential clients to study your planning approach and accuracy of description.
 
@@ -155,7 +155,7 @@ Activities within the plan can be  created:
 
 ### Assign plan to athletes {#assignplan}
 
-Training plan can be assigned to your athletes and all plan items will appear in their training calendars.
+A training plan can be assigned to your athletes and all plan items will appear in their training calendars.
 
 There are several ways to assign a plan.
 
@@ -168,7 +168,7 @@ In the plan assignment window you need to set:
 ![General params of the plan](https://264710.selcdn.ru/assets/images/_new/methodology/tp-assignment-window.png)
 
 * **1 - An athlete or athletes**, in whose calendars plan items should appear,
-* **2 - Assinment mode**, which determines the method of assignment dates calculation. You can select assinment in the plan dates or in the item \(events, activities, competitions\) dates. A block with dates calculation \[5\] in the assignments card will help you to choose the mode you need.
+* **2 - Assignment mode**, which determines the method of assignment dates calculation. You can select assignment in the plan dates or in the item \(events, activities, competitions\) dates. A block with dates calculation \[5\] in the assignments card will help you to choose the mode you need.
 * **3 - Start date and end date of assignment. **Date selection will help you to apply plan either starting from a specific date or till a specific date. 
 * **4 - Set a date**:
 
@@ -181,7 +181,7 @@ In the plan assignment window you need to set:
 
 * **5 - block with dates calculation**, to help you check the correctness of the assignment dates.
 
-* For a dynamic plan you can also set the **"Transfer plan changes" attribute**  - whether it is required to transfer plan changes to the assigned athletes.
+* For a dynamic plan, you can also set the **"Transfer plan changes" attribute**  - whether it is required to transfer plan changes to the assigned athletes.
 
 **Important features of the plan assignment:**
 
@@ -201,9 +201,9 @@ After that, all uncompleted activities within the plan will be removed from the 
 
 ### Publish plan in the Store {#publish}
 
-In order to publish plan in the Store: 
+In order to publish plan in the Store:
 
-1 - Check how your plan looks like when viewed by potential customers. To do it you need to select **"Preview \(current version\)**" in the context menu of the plan: 
+1 - Check how your plan looks like when viewed by potential customers. To do it you need to select **"Preview \(current version\)**" in the context menu of the plan:
 
 ![General params of the plan](https://264710.selcdn.ru/assets/images/_new/methodology/tp-menu-items-2.png)
 
@@ -228,7 +228,7 @@ A red icon of the Store in the list of published plans will show you that the pl
 
 ![Unpublished changes](https://264710.selcdn.ru/assets/images/_new/methodology/tp-red-icon.png)
 
-To publish changes you need to click on the icon or proceed to the publication window from the plan's context menu. Make sure that all checks are completed in the publication window and click on "Publish". 
+To publish changes you need to click on the icon or proceed to the publication window from the plan's context menu. Make sure that all checks are completed in the publication window and click on "Publish".
 
 ### Unpublish plan {#unpublish}
 
