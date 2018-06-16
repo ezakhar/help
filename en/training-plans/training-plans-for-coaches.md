@@ -55,11 +55,11 @@ Setting tasks for structured activities ![Setting tasks for structured activitie
 
 Adding event ![Adding event](https://lh5.googleusercontent.com/IaKbjP06Gu1hHR8yNh-3KndgC8bUlExwzCrEQDwswzcbAE9AsmDJdoAs7vyJSGtGGqp3O_zVc0ho-ucuSf8lqBrdiYIw2YdazQmkFnTUaSuxKhHosJ2cWIL2-vqOOQUYTSDpTVBV)More information about training plan creartion you can find in this article: [Training plans](/basics/training-plan.md)
 
-## No 
+## No sales - no costs
 
-Создать тренировочный план и опубликовать его для продажи в Staminity можно совершенно бесплатно. Staminity зарабатывает на процентах с продаж.
+You can create a training plan and publish it in the Store for free. Staminity earns on commissions received from each sale. зарабатывает на процентах с продаж.
 
-Сравнительная стоимость публикации тренировочных планов в Staminity и TrainingPeaks:
+Сomparing cost of the training plan publication in Staminity and in TrainingPeaks:
 
 |  | Staminity | TrainingPeaks |
 | ---: | :---: | :---: |
