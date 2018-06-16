@@ -10,7 +10,7 @@ In this article:
   * [Tab "Store"](#store)
   * [Tab "Description"](#description)
   * [Tab "Samples"](#samples)
-  * [Images in the plan](#images)
+  * [Plan images](#images)
 * [Plan activities, events, competitions within the plan](#buildplan)
 * [Assign plan to athletes](#assignplan)
 * [Cancel assignment](#deleteassignment)
@@ -60,13 +60,13 @@ On this tab you can set:
 
 * **Plan name**
 * **Sport **for which the training plan is designed;
-* **Distance type**, for which the athlete is being prepared;
-* **Plan for publication**. Enable this attribute for plans, that you want to publish in the Store;
+* **Distance type** for which the athlete is being prepared;
+* **Plan for publication**. Enable this attribute for plans you want to publish in the Store;
 * **Fixed dates**. Enable this attribute to create a [plan with fixed dates](/basics/training-plan.md#fixed) and disable for [plans with non-fixed dates](/basics/training-plan.md#notfixed).  If the attribute isn't set, then the plan will be created for unspecified dates \(Week 1, Day 1; Week 1, Day 2 and etc.\) Such universal plan can be used in any dates.
 * **Start date**. You need to set the start date for plans with fixed dates.
 * **Dynamic plan** \(only for plans with fixed dates\). Enable this attribute if you want to create a [dynamic plan](/basics/training-plan.md#dynamic) and transfer plan changes to assigned athletes. 
 * **Tags**. Select attributes suitable for your plan. They will help you to filter plans and as for plans put up for sale, they will help customers to select the required plan.
-* **Keywords**. In addition to the tags, you can set keywords. They are also meant to help customers in their plan selection.
+* **Keywords**. In addition to tags, you can set keywords. They are also meant to help customers in their plan selection.
 
 #### Tab "Store" {#store}
 
@@ -88,9 +88,9 @@ On this tab you can set:
 
 * Attribute **“Consultations included”**. If the plan’s cost includes possibility of consulting with you, then you need to enable this attribute and describe how often the buyer can contact you and how exactly.
 
-* Attribute**"Offline activities included"**. If the plan's cost includes offline activities with you, then you need to enable this attribute and describe the frequency, time and place of these activities.
+* Attribute **"Offline activities included"**. If the plan's cost includes offline activities with you, then you need to enable this attribute and describe the frequency, time and place of these activities.
 
-* Attribute  **"Structured activities included"**. In case if you use structured activities within the plan, then you need to enable this attribute and describe which activities you have divided into segments and which intensity indicator  you have used. It is important and must be done to enable athletes to set up the LT value based on this intensity indicator in order to calculate the training load in a correct way.
+* Attribute  **"Structured activities included"**. In case if you use structured activities within the plan, then you need to enable this attribute and describe which activities you have divided into segments and which intensity indicator you have used. It is important and must be done to enable athletes to set up the LT value based on this intensity indicator in order to calculate the training load in a correct way.
 
 #### Tab "Description" {#description}
 
@@ -98,7 +98,7 @@ On this tab you can set:
 
 ![Plan Description](https://264710.selcdn.ru/assets/images/_new/methodology/tp-create-description-2.png)
 
-Describe the plan as you want to. For plans intended for sale, description is displayed on the plan page in the Store and greatly affect the plan selection.  
+Describe the plan as you want to. For plans intended for sale, description is displayed on the plan page in the Store and greatly affects the plan selection.  
 Make it impressive and memorable, use text formatting, insert images and links to videos.
 
 #### Tab “Samples” {#samples}
@@ -133,7 +133,7 @@ In order to fill the plan, you need to go to the plan constructor. To do it, you
 In the plan constructor window you will find:
 
 * **1 - templates panel** just like in the calendar.  Templates panel is available only for users with “Coach” and “Premium” tariffs enabled.
-* **2 - plan name** and plan selector. When clicking on the plan name, the plan card will open where you can edit its parameters, and when clicking on the drop-down list icon, you can quickly go to the constructor of the required plan, and also return to the plans list.
+* **2 - plan name** and plan selector. When clicking on the plan name, the plan card will open where you can edit its parameters, and by clicking on the drop-down list icon, you can quickly go to the constructor of the required plan, and also return to the plans list.
 * **3 - assignments.** You need to click here to access the dialog box enabling to [assign](#assignplan) the plan.
 * **4 - operations with activities**: copy, paste and delete activities
 * **5 **- select the **mode of displaying records in the plan**: in detail/briefly;
@@ -169,19 +169,19 @@ In the plan assignment window you need to set:
 
 * **1 - An athlete or athletes**, in whose calendars plan items should appear,
 * **2 - Assignment mode**, which determines the method of assignment dates calculation. You can select assignment in the plan dates or in the item \(events, activities, competitions\) dates. A block with dates calculation \[5\] in the assignments card will help you to choose the mode you need.
-* **3 - Start date and end date of assignment. **Date selection will help you to apply plan either starting from a specific date or till a specific date. 
+* **3 - Start date and end date of assignment. **Date selection will help you to apply the plan either starting from a specific date or till a specific date. 
 * **4 - Set a date**:
 
 | Date | Description |
 | :--- | :--- |
-| Plan start date | The first day of th week starting from which the plan items will appear in the athlete's calendar |
+| Plan start date | The first day of the week starting from which the plan items will appear in the athlete's calendar |
 | First item date | Date of the first plan item displayed in the athlete's calendar. It differs from the plan start date if the first activity is planned not on the first day of the week |
 | Last item date | Date of the last plan item displayed in the athlete's calendar. It differs from the plan end date if the last activity is planned not on the last day of the week |
 | Plan end date | The last day of the week in the athlete's calendar when the training plan will end |
 
 * **5 - block with dates calculation**, to help you check the correctness of the assignment dates.
 
-* For a dynamic plan, you can also set the **"Transfer plan changes" attribute**  - whether it is required to transfer plan changes to the assigned athletes.
+* For a dynamic plan, you can also set the **"Transfer plan changes" attribute** if it is required to transfer plan changes to the assigned athletes.
 
 **Important features of the plan assignment:**
 
@@ -191,7 +191,7 @@ In the plan assignment window you need to set:
 
 ### Cancel assignment {#deleteassignment}
 
-In the assignments window you can always track to whom and when a plan has been assigned:
+In the assignments window you can always track to whom and when the plan has been assigned:
 
 ![Plan assignments](https://264710.selcdn.ru/assets/images/_new/methodology/tp-assignments.png)
 
@@ -201,7 +201,7 @@ After that, all uncompleted activities within the plan will be removed from the 
 
 ### Publish plan in the Store {#publish}
 
-In order to publish plan in the Store:
+In order to publish a plan in the Store:
 
 1 - Check how your plan looks like when viewed by potential customers. To do it you need to select **"Preview \(current version\)**" in the context menu of the plan:
 
@@ -234,7 +234,7 @@ To publish changes you need to click on the icon or proceed to the publication w
 
 You can unpublish and delete plan from the store at any moment.
 
-In order to unpublish plan you need to open the publication window and click on the "Unpublish" button.
+In order to unpublish plan, you need to open the publication window and click on the "Unpublish" button.
 
 This button is available for all published plans.
 
