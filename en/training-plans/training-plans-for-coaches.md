@@ -8,38 +8,38 @@ Staminity offers coaches and clubs a convenient platform for promoting and selli
 
 ![Продажа тренировочных планов в Staminity](https://264710.selcdn.ru/assets/images/training-plan/training_plans_money.png)
 
-All over the world training plans allow coaches to: 
+All over the world training plans allow coaches to:
 
 1. **earn extra**
 2. **attract new clients**
 
 Target audience of a training plan and remote work with a coach partly intersect but still they are focused on different groups of clients: the ones who are ready/can pay for a coach and the ones who cannot/don't want to.
 
-There are more athletes who use training plans than those who work with a coach online. The majority of such athletes are preparing for their first races in running or triathlon. It is a great opportunity for a coach to to earn extra and offer his services. 
+There are more athletes who use training plans than those who work with a coach online. The majority of such athletes are preparing for their first races in running or triathlon. It is a great opportunity for a coach to to earn extra and offer his services.
 
 By adding consultation or offline activities to your training plan, you receive a chance to get acquainted with your future clients and show your competences as a coach and motivator.
 
 ## It is convenient for athletes
 
-Staminity - это профессиональная платформа для поддержки тренировочного процесса. Поэтому в отличие от плана на бумаге, в электронной таблице или в файле, заниматься по плану в Staminity для спортсменов гораздо удобнее:
+Staminity is a proffesional platform designed for supporting the training process. That's why unlike a plan presented on a paper, in a spreadsheet or in a file, it is much more convenient for athletes to train according to the plan in Staminity:
 
-* **Тренировочный календарь всегда под рукой **и доступен с компьютера и с мобильных приложений для IOS и Android. При необходимости календарь Staminity интегрируется с рабочим календарем Google, Outlook и других календарных приложений;
+* **Training calendar is always at your disposal **and you can access it both via PC and via iOS and Android mobile apps. If needed, Staminity calendar can be integrated with Google calendar, Outlook and other calendar apps.
 
-* Выполненные тренировки загружаются **автоматически и сопоставляются с планом**;
+* Completed activities are **automatically downloaded and compared with a plan**; 
 
-* Система оценивает корректность выполнения задания;
+* The system evaluates correctness of the activity's performance;
 
-* Доступна подробная информация по каждой выполненной тренировке и отчетность в целом по процессу тренировок;
+* There is detailed information available on every completed activity as well as reports on the whole training process;
 
-* Для работы по плану спортсменам не требуется покупка платного тарифа, можно использовать приложение Staminity на компьютере и смартфонах совершенно бесплатно. Платный тариф Премиум дает дополнительные возможности для анализа тренировок.
+* In order to work according to the plan athletes don't need to enable a paid tariff, they can use Staminity app on PC and smartphones for free. The paid Premium tariff provides additional possibilities for analyzing activities. 
 
-![Календарь спортсмена](https://lh6.googleusercontent.com/TEQ-FWDz6mhZm4o7MLHPRSjLPf9trojZbAQuQ6V2EBI1yx8dkwdWoOKC2H7_uDCQz6jTi_dmbLo-4ZoBdlESQq2MBsw_BNsC9CYJo4pLtmE7ESuE0W9e1lUVrIAqQX3_eR0UEguN)Тренировочный календарь
+![Календарь спортсмена](https://lh6.googleusercontent.com/TEQ-FWDz6mhZm4o7MLHPRSjLPf9trojZbAQuQ6V2EBI1yx8dkwdWoOKC2H7_uDCQz6jTi_dmbLo-4ZoBdlESQq2MBsw_BNsC9CYJo4pLtmE7ESuE0W9e1lUVrIAqQX3_eR0UEguN)Training calendar
 
-![Анализ выполненный тренировки](https://lh6.googleusercontent.com/QvFA0Sp4gMuYIZi3kfhRMw2UBbVyBzi2UlvhZpfBVY8-2gW2MVALK1_B2F5I4y_jqeGeiEssZ3Hk7jXogVpuUab0KEq7hxgkGMLpDU_3pE_5SimdiJWEjUTGMzmZjzsvFCptEVKX)Анализ выполненный тренировки
+![Анализ выполненный тренировки](https://lh6.googleusercontent.com/QvFA0Sp4gMuYIZi3kfhRMw2UBbVyBzi2UlvhZpfBVY8-2gW2MVALK1_B2F5I4y_jqeGeiEssZ3Hk7jXogVpuUab0KEq7hxgkGMLpDU_3pE_5SimdiJWEjUTGMzmZjzsvFCptEVKX)Analysis of a completed activity
 
-## Легко создать план
+## It is easy to create a plan
 
-Вы знаете методику подготовки спортсменов, а мы заботимся о том, чтобы вам было удобно работать в сервисе. Чтобы тратить меньше времени на планирование:
+You know the methods of athletes training and we make sure that working environment in Staminity is as comfortable as possible. In order to waste less time on planning: Чтобы тратить меньше времени на планирование:
 
 * Копируйте и вставляйте повторяющиеся тренировки;
 
