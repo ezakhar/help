@@ -69,38 +69,38 @@ You can create a training plan and publish it in the Store for free. Staminity e
 
 _\*Note: in Staminity you don't need to buy the "Coach" tariff in order to publish a training plan in the Store and   earn on sales._
 
-If you are already offering training plans to your clients, then their copy in Staminity can beneficially supplement your portfolio. 
+If you are already offering training plans to your clients, then their copy in Staminity can beneficially supplement your portfolio.
 
 Offer your clients a choice:
 
-* either use the plan as usually, receiving it или использовать план как раньше, получая его в файле или электронной таблице;
-* или получить этот же план в Staminity.
+* either use the plan as usual, receiving it in a file or in a spreadsheet;
+* or receive the same plan in Staminity.
 
-## Всё для продажи
+## Simple and convenient selling process
 
-Вы создаете план и описываете его, а мы заботимся о том, как его представить его для клиентов.
+You create and describe a plan and we take care of how to present it to clients.
 
-Для каждого плана в Staminity доступна своя страница, на которой собрана вся необходимая информация по нему для потенциальных покупателей. Посмотрите примеры:
+Each plan has its own page in Staminity where potential customers can find all information they might need. Just look at the following examples:
 
 ![Training plan page, sample 1](https://lh4.googleusercontent.com/6zgim2rjhrRMyBOvw6wP1BfZVLycgnstP58Pzupr-M6-5RMhtB5nd2NS5bGoSR4k5g1bj1eR0jSF0nroviBZHMc5XoN3fCDR4L7v2FVhyAo-1kSv5q8FjCAR_JsNiYJEEdci1Wq4)
 
-Пример 1: [https://dev1.staminity.com/plan/683](https://dev1.staminity.com/plan/683)
+Example 1: [https://dev1.staminity.com/plan/683](https://dev1.staminity.com/plan/683)
 
 ![Training plan page, sample 2](https://lh4.googleusercontent.com/SxAkm5DdGpWY7I235N7DhyjLH9AD7JNw11iEKl2QgxwkNLsOtdAslcxqTYJFEs4nAQIm3lBgbbVKXC4Z4aLu3TVEmxWLuF3OODLnYfHURPzU8KGsJrvYwuY0wFDREpmi5D_NrVtk)
 
-Пример 2: [https://dev1.staminity.com/plan/21](https://dev1.staminity.com/plan/21)
+Example 2: [https://dev1.staminity.com/plan/21](https://dev1.staminity.com/plan/21)
 
-Страница адаптирована для мобильных телефонов.
+The page is adapted for convenient use on smartphones.
 
-Автоматически рассчитывается график нагрузки по неделям плана.
+The chart of training loads during each training week is calculated automatically.
 
 ![График нагрузки в плане](https://lh6.googleusercontent.com/m6C4YicmKOWniUWZnGV17t5p-aR5Gubus83OsnZTWkeE0-JSmj_PFNqDhBwprjsetUQda6Towj7JOam706EFeM2YqUfk3NiPmOdRadWItgyLy0y8_40_vKckN5xbbyWeNfXX6Glm)
 
-Примеры из тренировочного плана, по которым спортсмен сможет оценить подход автора к постановке тренировочного задания
+Examples from the training plan that would help an athlete to study the Author's approach to setting a training task
 
 ![](https://lh4.googleusercontent.com/AoTtaoC_XtjlR1CPlFXy1tK3gjxgJR4YqrtGII9aHru9BC-N_Zni8Izk6kJA_nr69jwb8vB_y_EZrur2e8qehxyvOcTHMVTguq8pHf-j8z2z75P7Y_oL2qIC6P3VWGKScedIqJuj)
 
-и примеров описания упражнений или иной методической информации
+and examples of exercises description or other methodical information
 
 ![Примеры тренировок в плане](https://lh6.googleusercontent.com/Yvkl3R1OpJManqZLEaKVkRA3kETy1A9FqEiE0fRivaDCgh8bO5bsFZoiZBevy8irk9qt3DMzYAt473qB2uo9MXP2n-_v80eCM4fLeFYx5zuP8oG1sXMN1pPVlxCslyUQ_1yAEpee)
 
