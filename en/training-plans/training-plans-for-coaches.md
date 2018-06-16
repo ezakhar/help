@@ -104,19 +104,19 @@ and examples of exercises description or other methodical information
 
 ![Примеры тренировок в плане](https://lh6.googleusercontent.com/Yvkl3R1OpJManqZLEaKVkRA3kETy1A9FqEiE0fRivaDCgh8bO5bsFZoiZBevy8irk9qt3DMzYAt473qB2uo9MXP2n-_v80eCM4fLeFYx5zuP8oG1sXMN1pPVlxCslyUQ_1yAEpee)
 
-Для увеличения продаж и отличия от других планов, мы рекомендуем:
+In order to promote sales and to make your plan notable, we recommend you to: 
 
-1. Создавать планы под конкретную цель, старт. Например, “Марафон за 3 часа, недельный объем не более 70 км”, “Моя первая половинка IRONSTAR KAZAN 113”, “10 км за 40 минут на Московском марафоне”
+1. Create plans designed for a specific race or goal. For example: "Marathon in 3 hours, week distance not more than 70 km", "My first half of IRONSTAR KAZAN 113", "10 km in 40 minutes during the Moscow marathon". 
 
-2. Добавить дополнительные услуги: консультации, очные тренировки и пр...
+2. Add extra services: consultations, offline activities, etc.
 
-3. Рекламировать свой план в интернете/соцсетях. Ваш план – это отдельная страница со своим адресом и вы можете рекламировать через свои каналы общения с клиентами.
+3. Promote your plan on the Internet/social networks. Your plan is a separate page with its own web-address and you can promote it via your own channels of communication with clients. 
 
-## Вопросы и ответы:
+## Q&A:
 
-**Какую комиссию берет Staminity?**
+**What is the commission of Staminity? **
 
-Комиссия Staminity - 30% от стоимости плана. В личном кабинете автора плана в Staminity на баланс с каждой покупки зачисляется 70% от цены плана.
+Staminity commission is 30% of the plan's cost. В личном кабинете автора плана в Staminity на баланс с каждой покупки зачисляется 70% от цены плана.
 
 **Кто может продавать планы?**
 
