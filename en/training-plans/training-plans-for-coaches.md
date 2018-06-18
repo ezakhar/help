@@ -104,13 +104,13 @@ and examples of exercises description or other methodical information
 
 ![Примеры тренировок в плане](https://lh6.googleusercontent.com/Yvkl3R1OpJManqZLEaKVkRA3kETy1A9FqEiE0fRivaDCgh8bO5bsFZoiZBevy8irk9qt3DMzYAt473qB2uo9MXP2n-_v80eCM4fLeFYx5zuP8oG1sXMN1pPVlxCslyUQ_1yAEpee)
 
-In order to promote sales and to make your plan notable, we recommend you to: 
+In order to promote sales and to make your plan notable, we recommend you to:
 
-1. Create plans designed for a specific race or goal. For example: "Marathon in 3 hours, week distance not more than 70 km", "My first half of IRONSTAR KAZAN 113", "10 km in 40 minutes during the Moscow marathon". 
+1. Create plans designed for a specific race or goal. For example: "Marathon in 3 hours, week distance not more than 70 km", "My first half of IRONSTAR KAZAN 113", "10 km in 40 minutes during the Moscow marathon".
 
 2. Add extra services: consultations, offline activities, etc.
 
-3. Promote your plan on the Internet/social networks. Your plan is a separate page with its own web-address and you can promote it via your own channels of communication with clients. 
+3. Promote your plan on the Internet/social networks. Your plan is a separate page with its own web-address and you can promote it via your own channels of communication with clients.
 
 ## Q&A:
 
@@ -118,15 +118,15 @@ In order to promote sales and to make your plan notable, we recommend you to:
 
 Staminity commission is 30% of the plan's cost. В личном кабинете автора плана в Staminity на баланс с каждой покупки зачисляется 70% от цены плана.
 
-**Кто может продавать планы?**
+**Who can sell plans?**
 
-* Физические лица, резиденты РФ,
-* ИП и юрлица, резиденты РФ.
+* Private individuals, residents of the Russian Federation,
+* Individual entrepreneurs and legal entities, residents of the Russian Federation.
 
-**Как можно вывести денежные средства, полученные от продажи планов?**
+**How to withdraw money earned on selling plans?**
 
-* Для физических лиц вывод производится на банковскую карту;
-* Для юридических лиц и ИП – перевод на расчетный счет.
+* Private individuals can transfer money to any bank card;
+* **Legal entities and individual entrepreneurs can transfer money to their settlement accounts**.
 
 **Какие условия вывода средств?**
 
