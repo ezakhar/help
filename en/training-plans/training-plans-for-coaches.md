@@ -126,33 +126,33 @@ Staminity commission is 30% of the plan's cost. В личном кабинете
 **How to withdraw money earned on selling plans?**
 
 * Private individuals can transfer money to any bank card;
-* **Legal entities and individual entrepreneurs can transfer money to their settlement accounts**.
+* Legal entities and individual entrepreneurs can transfer money to their settlement accounts.
 
-**Какие условия вывода средств?**
+**What are the withdrawal terms?**
 
-Вывод средств бесплатен, если сумма вывода больше или равна 3000 рублей. При выводе меньше этой суммы взимается комиссия платежной системы в размере 1.5%, минимум 60 рублей.
+Withdrawal is made for free if the amount of withdrawal is more than or equals 3000 RUB. If less, then the system commission is changed in the amount of 1,5%, 60 RUB minimum.
 
-**Можно публиковать бесплатные планы?**
+**Can I publish free plans?**
 
-Нет, минимальная стоимость плана - 300 рублей.
+No, the minimum cost of the plan is 300 RUB.
 
-**Как начать продавать планы?**
+**How to start selling plans?**
 
-**1.Стать тренером и заполнить профиль тренера. Для этого:**
+**1.Become a coach and fill in your coach profile. In order to do it:**
 
-* Подключить на пробный период тариф "Тренер". Это необходимо, чтобы в профиле в сервисе отразился признак "Я-тренер". Если вы не планируете работать с учениками в Staminity, оплачивать тариф "Тренер" после окончания пробного периода не требуется.
+* Enable “Coach” tariff for a trial period. It is required for the “I can a coach” attribute to appear in the profile. If you don't plan to work with athletes in Staminity, you don't have to pay for the “Coach” tariff after the trial period.
 
-**2.Заполнить профиль тренера.**
+**2.Fill in your coach profile.**
 
-* Для физических лиц – заполнить профиль Автора планов и привязать банковскую карту для вывода средств
+* For private individuals - to fill in the plan Author profile and set the bank card for withdrawal;
 
-* Для юридических лиц и ИП - заполнить профиль Автора планов, заполнить и подписать анкету юридического лица, отправить по e-mail в адрес Staminity.
+* For legal entities and individual entrepreneurs - to fill in the plan Author profile, fill in and sign the legal entity form and send it to Staminity via email.
 
-**Кто платит налоги?**
+**Who pays taxes?**
 
-Сделка покупки плана выполняется между Продавцом, физическим или юридическим лицом, автором тренировочного плана и Покупателем, физическим лицом. Staminity не является стороной сделки, а обеспечивает платформу для создания и работы с планом для Автора и Покупателя, а также информационно-техническое взаимодействие Продавца и Покупателя.
+The plan purchase deal is concluded between the Seller \(private individual or legal entity\) who is the training plan Author and the Buyer \(private individual\). Staminity doesn't participate as a party to the deal but only provides a platform enabling the Seller and the Buyer to create a plan and work with it as well as informational and technical support of the cooperation between the Seller and the Buyer.
 
-Продавцы, физические и юридические лица, самостоятельно осуществляют уплату налогов и сборов в бюджет, согласно законодательству Российской Федерации.
+Sellers, private individuals and legal entities, have to pay the required taxes and fees according to the current legislation of the Russian Federation on their own.
 
 **Какие требования к Продавцу планов?**
 
