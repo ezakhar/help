@@ -58,19 +58,19 @@ Upon doing so you will be able to fill in the plan Author profile.
 * \[1\] Agreement with the training plans authors - legal entities or individual entrepreneurs:  
   [https://legal.staminity.com/eng/offer-author-company.html](https://legal.staminity.com/eng/offer-author-company.html)
 * \[2\] Agreement between the training plan Author and the plan Buyer: [https://legal.staminity.com/eng/offer-author-buyer.html](https://legal.staminity.com/eng/offer-author-buyer.html)
-* \[3\] Agreements on money transfers without the need to open accounts in MONETA.RU System and implementation of informational and technological interaction between legal entities and individual entrepreneurs - residents of the Russian Federation: [https://moneta.ru/info/d/eng/public/merchants/b2boffer.pdf](https://moneta.ru/info/d/eng/public/merchants/b2boffer.pdf)
+* \[3\] Agreements on money transfers without the need to open accounts in MONETA.RU System and implementation of informational and technological interaction with legal entities and individual entrepreneurs - residents of the Russian Federation: [https://moneta.ru/info/d/eng/public/merchants/b2boffer.pdf](https://moneta.ru/info/d/eng/public/merchants/b2boffer.pdf)
 
 In order to find the template for legal entity/individual entrepreneur form please visit:  [https://docs.google.com/spreadsheets/d/1EBDE40iqPtk8gSNVNE2XcJHuEp6UU2Xtigqv7vplcY4/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1EBDE40iqPtk8gSNVNE2XcJHuEp6UU2Xtigqv7vplcY4/edit?usp=sharing).
 
 4.Print the completed form, sign it, scan and send the scanned copy together with the form’s file by email: [support@staminity.com](mailto:support@staminity.com) with the subject of the letter: “Signing up as a plan Author - legal entity or individual entrepreneur”.
 
-5.После обработки анкеты Получатель платежа будет зарегистрирован в НКО "Монета" \(ООО\), после чего будет открыта возможность публикации планов в Магазине. Автор тренировочных планов получит уведомление о факте обработки Анкеты по e-mail.
+5.Upon the form's processing, the Payee will be registered with the NCO "Moneta" \(LLC\), after that he will be able to publish plans in the Store. The plan Author will be notified of the form's processing completion by e-mail.
 
-6.В соответствии с условиями Договора \[3\], в течение 30 дней с момента регистрации Автору необходимо отправить Заявление о заключении Договора о переводах без открытия счетов в Системе МОНЕТА.РУ при осуществлении информационно-технологического взаимодействия.
+6.In accordance with terms of the Agreement \[3\], within 30 days from the date of registration, the Author has to send an Application for the conclusion of the Agreement on money transfers without the need to open accounts in MONETA.RU System and implementation of informational and technological interaction
 
-Для этого на основании заполненной Анкеты будет подготовлено Заявление по форме Приложения №9 к Договору \[3\] и отправлено Автору. Автору необходимо подписать Заявление и отправить оригинал в НКО "Монета" любым из способов, предусмотренных пунктом 2.6 Договора \[3\].
+For this purpose, on the basis of the completed Form, an Application will be prepared according to the form provided in Annex No. 9 to the Agreement \[3\] and sent to the Author. The Author has to sign the Application and send the original to the NCO "Moneta" by any means provided for in clause 2.6 of the Agreement \[3\].
 
-> Обратите внимание. В соответствии с условиями Договора \[3\], п.2.5.1, "если в течение 30 дней с момента регистрации оригинал заявления не был получен НКО, на 31 календарный день после регистрации Получателя в НКО "Монета" прекращается прием платежей."
+> Please note. According to terms of the Agreement \[3\], clause 2.5.1, "if within 30 days from the date of registration, the original application is not being received by the NCO, then the reception of payments shall be terminated on the 31 calendar day after the Payee registration in the NCO "Moneta."
 
 
 
