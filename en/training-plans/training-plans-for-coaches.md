@@ -29,7 +29,7 @@ Staminity is a professional platform designed for supporting the training proces
 
 * The system evaluates the correctness of the activity's performance;
 
-* There is detailed information available on every completed activity as well as reports on the whole training process;
+* Detailed information on every completed activity as well as reports on the whole training process are available;
 
 * In order to work according to the plan, athletes don't need to enable a paid tariff, they can use Staminity app on PC and smartphones for free. The paid Premium tariff provides additional possibilities for analyzing activities.
 
