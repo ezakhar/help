@@ -11,12 +11,12 @@ As for now only residents of the Russian Federation - private individuals, legal
 
 In order to sign up as a plan Author - private individual you need to:
 
-1.Enable the “I want to publish training plans in Store” attribute in Settings:   
-![Основные параметры плана](https://264710.selcdn.ru/assets/images/_new/settings/agent-author-isactive.png)
+1.Enable the “I want to publish training plans in Store” attribute in Settings:  
+![General params of the plan](https://264710.selcdn.ru/assets/images/_new/settings/agent-author-isactive.png)
 
 Upon doing so you will be able to fill in the plan Author profile.
 
-2.Fill in the **“Plan Author profile” **as a private individual. In order to do it: 
+2.Fill in the **“Plan Author profile” **as a private individual. In order to do it:
 
 * Specify the** country of residence,** confirming that the plan Author is a resident of the Russian Federation;
 
@@ -28,37 +28,37 @@ Upon doing so you will be able to fill in the plan Author profile.
 
 * Provide your email and phone number;
 
-* Read the ["Agreement with the training plans authors - private individuals"](https://legal.staminity.com/ru/offer-author-individual.html) and [Agreement between the training plan Author and the plan Buyer](https://legal.staminity.com/ru/offer-author-buyer.html) and confirm that you accept all terms of these agreements. 
+* Read the ["Agreement with the training plans authors - private individuals"](https://legal.staminity.com/ru/offer-author-individual.html) and "[Agreement between the training plan Author and the plan Buyer](https://legal.staminity.com/ru/offer-author-buyer.html)" and confirm that you accept all terms of these agreements.
 
 ![General params of the plan](https://264710.selcdn.ru/assets/images/_new/settings/agent-author-individual.png)
 
 3.Complete your sign up by saving the provided information.
 
-### Регистрация Автора планов - юридического лица или ИП {#individual}
+### Signing up as a plan Author - legal entity or individual entrepreneur {#individual}
 
-Регистрация Автора планов в качестве юридического лица или ИП позволит получать денежные средства, вырученные от продажи планов, на расчетный счет организации/ИП в банке РФ.
+Signing up as a plan Author - legal entity or individual entrepreneur will allow you to withdraw money earned on selling plans to a settlement account of an organization/individual entrepreneur opened in the Russian Federation bank.
 
-Расчеты с юридическими лицами и ИП производятся ООО "Стаминити" с привлечением партнера - **Небанковской кредитной организацией «МОНЕТА.РУ»** \(общество с ограниченной ответственностью\), лицензия на осуществление банковских операций со средствами в рублях и иностранной валюте №3508-К выдана Банком России 02.07.2012г.
+Settlements with legal entities and individual entrepreneurs are conducted by LLC Staminity with the involvement of a partner - **non banking credit organization «MONETA.RU»** \(Limited Liability Company\), license to conduct banking operations with funds in Roubles and foreign currencies No. 3508-K issued by the Bank of Russia on 02.07.2012.
 
-Для регистрации юридического лица или ИП в качестве Автора планов в Staminity необходимо:
+In order to register a legal entity or individual entrepreneur as a plan Author in Staminity you need to:
 
-1.Установить признак "Я хочу публиковать тренировочные планы" в Настройках:  
-![Основные параметры плана](https://264710.selcdn.ru/assets/images/_new/settings/agent-author-isactive.png)
+1.Enable the “I want to publish training plans in Store” attribute in Settings:  
+![General params of the plan](https://264710.selcdn.ru/assets/images/_new/settings/agent-author-isactive.png)
 
-При этом появится возможность заполнить Профиль автора планов.
+Upon doing so you will be able to fill in the plan Author profile.
 
-2.Заполнить "Профиль Автора планов" в качестве юридического лица или ИП. Для этого:
+2.Fill in the “Plan Author profile” as a legal entity or individual entrepreneur. In order to do it:
 
-* Указать страну резидентства, подтвердив, что Автор плана является резидентом Российской федерации;
-* Установить признак, что Автор плана является юридическим лицом или ИП;
-* Указать ИНН, КПП и полное наименование юридического лица/ИП.
+* Specify the country of residence, confirming that the plan Author is a resident of the Russian Federation;
+* Enable the attribute saying that the plan Author is a legal entity or individual entrepreneur;
+* Indicate INN, KPP and full name of the legal entity or individual entrepreneur. 
 
-3.Заполнить анкету юридического лица или ИП, с указанием данных, необходимых для регистрации Автора в качестве получателя денежных средств в НКО \(НКО "Монета" \(ООО\)\), подтвердив согласие с условиями:
+3.Fill in the legal entity or individual entrepreneur form, specifying data required to register the Author as a recipient of funds in an NCO \(NCO "Moneta" \(LLC\)\), confirming agreement with terms of: 
 
-* \[1\] Договора с Авторами планов - юридическими лицами или ИП:  
-  [https://legal.staminity.com/ru/offer-author-company.html](https://legal.staminity.com/ru/offer-author-company.html)
-* \[2\] Договора между Авторами планов и Покупателями тренировочнх планов: [https://legal.staminity.com/ru/offer-author-buyer.html](https://legal.staminity.com/ru/offer-author-buyer.html)
-* \[3\] Договора о переводах без открытия счетов в Системе МОНЕТА.РУ и осуществлении информационно-технологического взаимодействия для юридических лиц и индивидуальных предпринимателей — резидентов РФ: [https://moneta.ru/info/d/ru/public/merchants/b2boffer.pdf](https://moneta.ru/info/d/ru/public/merchants/b2boffer.pdf)
+* \[1\] Agreement with the training plans authors - legal entities or individual entrepreneurs:  
+  [https://legal.staminity.com/eng/offer-author-company.html](https://legal.staminity.com/eng/offer-author-company.html)
+* \[2\] Договора между Авторами планов и Покупателями тренировочнх планов: [https://legal.staminity.com/eng/offer-author-buyer.html](https://legal.staminity.com/eng/offer-author-buyer.html)
+* \[3\] Договора о переводах без открытия счетов в Системе МОНЕТА.РУ и осуществлении информационно-технологического взаимодействия для юридических лиц и индивидуальных предпринимателей — резидентов РФ: [https://moneta.ru/info/d/eng/public/merchants/b2boffer.pdf](https://moneta.ru/info/d/eng/public/merchants/b2boffer.pdf)
 
 Шаблон анкеты юридического лица / индивидуального предпринимателя приведен по ссылке: [https://docs.google.com/spreadsheets/d/1EBDE40iqPtk8gSNVNE2XcJHuEp6UU2Xtigqv7vplcY4/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1EBDE40iqPtk8gSNVNE2XcJHuEp6UU2Xtigqv7vplcY4/edit?usp=sharing).
 
