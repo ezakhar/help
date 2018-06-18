@@ -13,11 +13,11 @@ All over the world training plans allow coaches to:
 1. **earn extra**
 2. **attract new clients**
 
-The target audience of a training plan and remote work with a coach partly intersect but still, they are focused on different groups of clients: the ones who are ready/can pay for a coach and the ones who cannot/don't want to.
+The target audience of a training plan and of a remote work with a coach partly overlap but still, they are focused on different groups of clients: the ones who are ready/can pay for a coach and the ones who can't/don't want to.
 
-There are more athletes who use training plans than those who work with a coach online. The majority of such athletes are preparing for their first races in running or triathlon. It is a great opportunity for a coach to earn extra and offer his services.
+There are more athletes who use training plans than those who work with a coach online. The majority of these athletes are preparing for their first races in running or triathlon. It is a great opportunity for a coach to earn extra and offer his services.
 
-By adding consultation or offline activities to your training plan, you receive a chance to get acquainted with your future clients and show your competences as a coach and motivator.
+By adding consultations or offline activities to your training plan, you receive a chance to get acquainted with your future clients and show your competences as a coach and motivator.
 
 ## It is convenient for athletes
 
