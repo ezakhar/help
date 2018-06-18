@@ -53,16 +53,16 @@ Upon doing so you will be able to fill in the plan Author profile.
 * Enable the attribute saying that the plan Author is a legal entity or individual entrepreneur;
 * Indicate INN, KPP and full name of the legal entity or individual entrepreneur. 
 
-3.Fill in the legal entity or individual entrepreneur form, specifying data required to register the Author as a recipient of funds in an NCO \(NCO "Moneta" \(LLC\)\), confirming agreement with terms of: 
+3.Fill in the legal entity or individual entrepreneur form, specifying data required to register the Author as a recipient of funds in an NCO \(NCO "Moneta" \(LLC\)\), confirming agreement with terms of:
 
 * \[1\] Agreement with the training plans authors - legal entities or individual entrepreneurs:  
   [https://legal.staminity.com/eng/offer-author-company.html](https://legal.staminity.com/eng/offer-author-company.html)
-* \[2\] Договора между Авторами планов и Покупателями тренировочнх планов: [https://legal.staminity.com/eng/offer-author-buyer.html](https://legal.staminity.com/eng/offer-author-buyer.html)
-* \[3\] Договора о переводах без открытия счетов в Системе МОНЕТА.РУ и осуществлении информационно-технологического взаимодействия для юридических лиц и индивидуальных предпринимателей — резидентов РФ: [https://moneta.ru/info/d/eng/public/merchants/b2boffer.pdf](https://moneta.ru/info/d/eng/public/merchants/b2boffer.pdf)
+* \[2\] Agreement between the training plan Author and the plan Buyer: [https://legal.staminity.com/eng/offer-author-buyer.html](https://legal.staminity.com/eng/offer-author-buyer.html)
+* \[3\] Agreements on money transfers without the need to open accounts in MONETA.RU System and implementation of informational and technological interaction between legal entities and individual entrepreneurs - residents of the Russian Federation: [https://moneta.ru/info/d/eng/public/merchants/b2boffer.pdf](https://moneta.ru/info/d/eng/public/merchants/b2boffer.pdf)
 
-Шаблон анкеты юридического лица / индивидуального предпринимателя приведен по ссылке: [https://docs.google.com/spreadsheets/d/1EBDE40iqPtk8gSNVNE2XcJHuEp6UU2Xtigqv7vplcY4/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1EBDE40iqPtk8gSNVNE2XcJHuEp6UU2Xtigqv7vplcY4/edit?usp=sharing).
+In order to find the template for legal entity/individual entrepreneur form please visit:  [https://docs.google.com/spreadsheets/d/1EBDE40iqPtk8gSNVNE2XcJHuEp6UU2Xtigqv7vplcY4/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1EBDE40iqPtk8gSNVNE2XcJHuEp6UU2Xtigqv7vplcY4/edit?usp=sharing).
 
-4.Распечатать заполненную анкету, подписать, отсканировать и направить скан-копию анкеты вместе с файлом анкеты по адресу: [support@staminity.com](mailto:support@staminity.com) с темой "Регистрация Автора планов - юрлица или ИП".
+4.Print the completed form, sign it, scan and send the scanned copy together with the form’s file by email: [support@staminity.com](mailto:support@staminity.com) with the subject of the letter: “Signing up as a plan Author - legal entity or individual entrepreneur”.
 
 5.После обработки анкеты Получатель платежа будет зарегистрирован в НКО "Монета" \(ООО\), после чего будет открыта возможность публикации планов в Магазине. Автор тренировочных планов получит уведомление о факте обработки Анкеты по e-mail.
 
