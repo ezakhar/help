@@ -43,7 +43,7 @@ You know the methods of athletes training and we make sure that working environm
 
 * Copy and paste repeating activities;
 
-* Copy activity from one plan and paste it into another one;
+* Copy activity from one plan and paste it into another;
 
 * Drag and drop activities to the required dates, copy when dragging;
 
@@ -57,7 +57,7 @@ Adding event ![Adding event](https://lh5.googleusercontent.com/IaKbjP06Gu1hHR8yN
 
 ## No sales - no costs
 
-You can create a training plan and publish it in the Store for free. Staminity earns on commissions received from each sale. зарабатывает на процентах с продаж.
+You can create a training plan and publish it in the Store for free. Staminity earns on commissions received from each sale. 
 
 Сomparing cost of the training plan publication in Staminity and in TrainingPeaks:
 
@@ -67,13 +67,13 @@ You can create a training plan and publish it in the Store for free. Staminity e
 | Monthly subscription fee | No\* | $19 - $49 |
 | Service commissions set for the plan sales | 30% | 30% |
 
-_\*Note: in Staminity you don't need to buy the "Coach" tariff in order to publish a training plan in the Store and   earn on sales._
+_\*Note: in Staminity you don't need to buy the "Coach" tariff in order to publish a training plan in the Store and earn on sales._
 
-If you are already offering training plans to your clients, then their copy in Staminity can beneficially supplement your portfolio.
+If you are already offering your training plans to clients, then their copy in Staminity can beneficially supplement your portfolio.
 
 Offer your clients a choice:
 
-* either use the plan as usual, receiving it in a file or in a spreadsheet;
+* either use the plan as before, receiving it in a file or in a spreadsheet;
 * or receive the same plan in Staminity.
 
 ## Simple and convenient selling process
@@ -96,11 +96,11 @@ The chart of training loads during each training week is calculated automaticall
 
 ![График нагрузки в плане](https://lh6.googleusercontent.com/m6C4YicmKOWniUWZnGV17t5p-aR5Gubus83OsnZTWkeE0-JSmj_PFNqDhBwprjsetUQda6Towj7JOam706EFeM2YqUfk3NiPmOdRadWItgyLy0y8_40_vKckN5xbbyWeNfXX6Glm)
 
-Examples from the training plan that would help an athlete to study the Author's approach to setting a training task
+Samples from the training plan that would help an athlete to study the Author's approach to setting a training task
 
 ![](https://lh4.googleusercontent.com/AoTtaoC_XtjlR1CPlFXy1tK3gjxgJR4YqrtGII9aHru9BC-N_Zni8Izk6kJA_nr69jwb8vB_y_EZrur2e8qehxyvOcTHMVTguq8pHf-j8z2z75P7Y_oL2qIC6P3VWGKScedIqJuj)
 
-and examples of exercises description or other methodical information
+and samples of exercises description or other methodical information
 
 ![Примеры тренировок в плане](https://lh6.googleusercontent.com/Yvkl3R1OpJManqZLEaKVkRA3kETy1A9FqEiE0fRivaDCgh8bO5bsFZoiZBevy8irk9qt3DMzYAt473qB2uo9MXP2n-_v80eCM4fLeFYx5zuP8oG1sXMN1pPVlxCslyUQ_1yAEpee)
 
@@ -116,7 +116,7 @@ In order to promote sales and to make your plan notable, we recommend you to:
 
 **What is the commission of Staminity? **
 
-Staminity commission is 30% of the plan's cost. В личном кабинете автора плана в Staminity на баланс с каждой покупки зачисляется 70% от цены плана.
+Staminity commission is 30% of the plan's cost. And the rest 70% go to the plan Author's balance.
 
 **Who can sell plans?**
 
@@ -140,7 +140,7 @@ No, the minimum cost of the plan is 300 RUB.
 
 **1.Become a coach and fill in your coach profile. In order to do it:**
 
-* Enable “Coach” tariff for a trial period. It is required for the “I can a coach” attribute to appear in the profile. If you don't plan to work with athletes in Staminity, you don't have to pay for the “Coach” tariff after the trial period.
+* Enable “Coach” tariff for a trial period. It is required for the “I am a coach” attribute to appear in the profile. If you don't plan to work with athletes in Staminity, you don't have to pay for the “Coach” tariff after the trial period.
 
 **2.Fill in your coach profile.**
 
