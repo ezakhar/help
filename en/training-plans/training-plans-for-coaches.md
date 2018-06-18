@@ -154,18 +154,18 @@ The plan purchase deal is concluded between the Seller \(private individual or l
 
 Sellers, private individuals and legal entities, have to pay the required taxes and fees according to the current legislation of the Russian Federation on their own.
 
-**Какие требования к Продавцу планов?**
+**What are the requirements to a plan's Seller?**
 
-Нам важно, чтобы Вы были успешны, а Ваши планы продавались. Поэтому просим обращать внимание на:
+We want you to be successful and your plans to be popular. That's why we ask you to pay attention to:
 
-* **Фотографии** в описании плана. Проверьте, что у Вас есть права на используемые фотографии.
+* **Photos **in the plan description. Check that you have the required rights to dispose these photos..
 
-* **Интеллектуальная собственность**. Вы гарантируете, что обладаете правами на интеллектуальную собственность, на основании которой создан план.  
-  Мы оставляем за собой право удалить план с публикации и запретить его последующую публикацию в магазине в случае получения жалоб на нарушение авторских прав.
+* **Intellectual property.** You guarantee that you have intellectual property rights, on the basis of which a plan has been created.  
+  We reserve the right to unpublish the plan and to prohibit its subsequent publication in the Store in case of receiving complaints of copyright infringement.
 
-* **Описание плана**. Описание должно быть корректным, правдивым, соответствовать содержанию плана и размещенным фотографиям, не содержать грамматических ошибок и нецензурной лексики.
+* **Plan description**. The description has to be correct, true and correspond to the plan content and plan images, without any grammatical mistakes as well as coarse language.
 
-**Как я узнаю о покупке и как устроен процесс продажи?**
+**How will I find out about the plan purchase and how is the sale process arranged?**
 
-Информация о новой покупке поступит на почту и будет отражена в уведомлении в Личном кабинете.
+You will receive information about the plan purchase via email and also you will see a relevant notification in your Account.
 
