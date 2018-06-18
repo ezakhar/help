@@ -13,25 +13,25 @@ All over the world training plans allow coaches to:
 1. **earn extra**
 2. **attract new clients**
 
-Target audience of a training plan and remote work with a coach partly intersect but still they are focused on different groups of clients: the ones who are ready/can pay for a coach and the ones who cannot/don't want to.
+The target audience of a training plan and remote work with a coach partly intersect but still, they are focused on different groups of clients: the ones who are ready/can pay for a coach and the ones who cannot/don't want to.
 
-There are more athletes who use training plans than those who work with a coach online. The majority of such athletes are preparing for their first races in running or triathlon. It is a great opportunity for a coach to to earn extra and offer his services.
+There are more athletes who use training plans than those who work with a coach online. The majority of such athletes are preparing for their first races in running or triathlon. It is a great opportunity for a coach to earn extra and offer his services.
 
 By adding consultation or offline activities to your training plan, you receive a chance to get acquainted with your future clients and show your competences as a coach and motivator.
 
 ## It is convenient for athletes
 
-Staminity is a proffesional platform designed for supporting the training process. That's why unlike a plan presented on a paper, in a spreadsheet or in a file, it is much more convenient for athletes to train according to the plan in Staminity:
+Staminity is a professional platform designed for supporting the training process. That's why unlike a plan presented on a paper, in a spreadsheet or in a file, it is much more convenient for athletes to train according to the plan in Staminity:
 
-* **Training calendar is always at your disposal **and you can access it both via PC and via iOS and Android mobile apps. If needed, Staminity calendar can be integrated with Google calendar, Outlook and other calendar apps.
+* **Training calendar is always at your disposal **and you can access it both via PC and via iOS and Android mobile apps. If needed, Staminity calendar can be integrated with Google calendar, Outlook, and other calendar apps.
 
 * Completed activities are **automatically downloaded and compared with a plan**;
 
-* The system evaluates correctness of the activity's performance;
+* The system evaluates the correctness of the activity's performance;
 
 * There is detailed information available on every completed activity as well as reports on the whole training process;
 
-* In order to work according to the plan athletes don't need to enable a paid tariff, they can use Staminity app on PC and smartphones for free. The paid Premium tariff provides additional possibilities for analyzing activities.
+* In order to work according to the plan, athletes don't need to enable a paid tariff, they can use Staminity app on PC and smartphones for free. The paid Premium tariff provides additional possibilities for analyzing activities.
 
 ![Athlete&apos;s calendar](https://lh6.googleusercontent.com/TEQ-FWDz6mhZm4o7MLHPRSjLPf9trojZbAQuQ6V2EBI1yx8dkwdWoOKC2H7_uDCQz6jTi_dmbLo-4ZoBdlESQq2MBsw_BNsC9CYJo4pLtmE7ESuE0W9e1lUVrIAqQX3_eR0UEguN)Training calendar
 
@@ -47,13 +47,13 @@ You know the methods of athletes training and we make sure that working environm
 
 * Drag and drop activities to the required dates, copy when dragging;
 
-* Create activity in one click using template.
+* Create activity in one click using a template.
 
 Using training plan![Training plan in the calendar](https://lh4.googleusercontent.com/v44gR8_2JcAbAfhx60Q4rBo_a0neax_lnA-kiSpFedWEp1RSWMvWsvWD9z85fhn87eF3mgTSfwJrX7Pa-cOUhZTKprXiYwxGPMHBuX1v-jnYR-nKw2ADYKnxLaqSdqfC84rx_4_B)
 
 Setting tasks for structured activities ![Setting tasks for structured activities](https://lh5.googleusercontent.com/LjEX02hZ_4yhYVfS4tlirwdlndZaaG5oagRGB4ZKIg0fFuoldPTiAMCNRDTlYSMsi5N6KkVbrBB5YJe7OSkrEAlUh8ZMVzxJaAee7QTWsdWLzL8L4vOysa-k2AdI7CyInasjbT5J)
 
-Adding event ![Adding event](https://lh5.googleusercontent.com/IaKbjP06Gu1hHR8yNh-3KndgC8bUlExwzCrEQDwswzcbAE9AsmDJdoAs7vyJSGtGGqp3O_zVc0ho-ucuSf8lqBrdiYIw2YdazQmkFnTUaSuxKhHosJ2cWIL2-vqOOQUYTSDpTVBV)More information about training plan creartion you can find in this article: [Training plans](/basics/training-plan.md)
+Adding event ![Adding event](https://lh5.googleusercontent.com/IaKbjP06Gu1hHR8yNh-3KndgC8bUlExwzCrEQDwswzcbAE9AsmDJdoAs7vyJSGtGGqp3O_zVc0ho-ucuSf8lqBrdiYIw2YdazQmkFnTUaSuxKhHosJ2cWIL2-vqOOQUYTSDpTVBV)More information about training plan creation you can find in this article: [Training plans](/basics/training-plan.md)
 
 ## No sales - no costs
 
@@ -123,7 +123,7 @@ Staminity commission is 30% of the plan's cost. В личном кабинете
 * Private individuals, residents of the Russian Federation,
 * Individual entrepreneurs and legal entities, residents of the Russian Federation.
 
-**How to withdraw money earned on selling plans?**
+**How to withdraw money made by selling plans?**
 
 * Private individuals can transfer money to any bank card;
 * Legal entities and individual entrepreneurs can transfer money to their settlement accounts.
@@ -158,7 +158,7 @@ Sellers, private individuals and legal entities, have to pay the required taxes 
 
 We want you to be successful and your plans to be popular. That's why we ask you to pay attention to:
 
-* **Photos **in the plan description. Check that you have the required rights to dispose these photos..
+* **Photos **in the plan description. Check that you have the required rights to dispose of these photos.
 
 * **Intellectual property.** You guarantee that you have intellectual property rights, on the basis of which a plan has been created.  
   We reserve the right to unpublish the plan and to prohibit its subsequent publication in the Store in case of receiving complaints of copyright infringement.
