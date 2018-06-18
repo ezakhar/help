@@ -82,11 +82,11 @@ You create and describe a plan and we take care of how to present it to clients.
 
 Each plan has its own page in Staminity where potential customers can find all information they might need. Just look at the following examples:
 
-![Training plan page, sample 1](https://lh4.googleusercontent.com/6zgim2rjhrRMyBOvw6wP1BfZVLycgnstP58Pzupr-M6-5RMhtB5nd2NS5bGoSR4k5g1bj1eR0jSF0nroviBZHMc5XoN3fCDR4L7v2FVhyAo-1kSv5q8FjCAR_JsNiYJEEdci1Wq4)
+![Training plan page, example 1](https://lh4.googleusercontent.com/6zgim2rjhrRMyBOvw6wP1BfZVLycgnstP58Pzupr-M6-5RMhtB5nd2NS5bGoSR4k5g1bj1eR0jSF0nroviBZHMc5XoN3fCDR4L7v2FVhyAo-1kSv5q8FjCAR_JsNiYJEEdci1Wq4)
 
 Example 1: [https://dev1.staminity.com/plan/683](https://dev1.staminity.com/plan/683)
 
-![Training plan page, sample 2](https://lh4.googleusercontent.com/SxAkm5DdGpWY7I235N7DhyjLH9AD7JNw11iEKl2QgxwkNLsOtdAslcxqTYJFEs4nAQIm3lBgbbVKXC4Z4aLu3TVEmxWLuF3OODLnYfHURPzU8KGsJrvYwuY0wFDREpmi5D_NrVtk)
+![Training plan page, example 2](https://lh4.googleusercontent.com/SxAkm5DdGpWY7I235N7DhyjLH9AD7JNw11iEKl2QgxwkNLsOtdAslcxqTYJFEs4nAQIm3lBgbbVKXC4Z4aLu3TVEmxWLuF3OODLnYfHURPzU8KGsJrvYwuY0wFDREpmi5D_NrVtk)
 
 Example 2: [https://dev1.staminity.com/plan/21](https://dev1.staminity.com/plan/21)
 
@@ -94,7 +94,7 @@ The page is adapted for convenient use on smartphones.
 
 The chart of training loads during each training week is calculated automatically.
 
-![График нагрузки в плане](https://lh6.googleusercontent.com/m6C4YicmKOWniUWZnGV17t5p-aR5Gubus83OsnZTWkeE0-JSmj_PFNqDhBwprjsetUQda6Towj7JOam706EFeM2YqUfk3NiPmOdRadWItgyLy0y8_40_vKckN5xbbyWeNfXX6Glm)
+![Chart of training load in the plan](https://lh6.googleusercontent.com/m6C4YicmKOWniUWZnGV17t5p-aR5Gubus83OsnZTWkeE0-JSmj_PFNqDhBwprjsetUQda6Towj7JOam706EFeM2YqUfk3NiPmOdRadWItgyLy0y8_40_vKckN5xbbyWeNfXX6Glm)
 
 Samples from the training plan that would help an athlete to study the Author's approach to setting a training task
 
@@ -102,7 +102,7 @@ Samples from the training plan that would help an athlete to study the Author's 
 
 and samples of exercises description or other methodical information
 
-![Примеры тренировок в плане](https://lh6.googleusercontent.com/Yvkl3R1OpJManqZLEaKVkRA3kETy1A9FqEiE0fRivaDCgh8bO5bsFZoiZBevy8irk9qt3DMzYAt473qB2uo9MXP2n-_v80eCM4fLeFYx5zuP8oG1sXMN1pPVlxCslyUQ_1yAEpee)
+![Samples of activities within the plan](https://lh6.googleusercontent.com/Yvkl3R1OpJManqZLEaKVkRA3kETy1A9FqEiE0fRivaDCgh8bO5bsFZoiZBevy8irk9qt3DMzYAt473qB2uo9MXP2n-_v80eCM4fLeFYx5zuP8oG1sXMN1pPVlxCslyUQ_1yAEpee)
 
 In order to promote sales and to make your plan notable, we recommend you to:
 
