@@ -9,30 +9,30 @@ As for now only residents of the Russian Federation - private individuals, legal
 
 ### Signing up as a plan Author - private individual {#individual}
 
-Для регистрации Автора плана - физического лица необходимо:
+In order to sign up as a plan Author - private individual you need to:
 
-1.Установить признак "Я хочу публиковать тренировочные планы" в Настройках:  
+1.Enable the “I want to publish training plans in Store” attribute in Settings:   
 ![Основные параметры плана](https://264710.selcdn.ru/assets/images/_new/settings/agent-author-isactive.png)
 
-При этом появится возможность заполнить Профиль автора планов.
+Upon doing so you will be able to fill in the plan Author profile.
 
-2.Заполнить **"Профиль автора планов"** в качестве физического лица.  
-Для этого:
+2.Fill in the **“Plan Author profile” **as a private individual. In order to do it: 
 
-* Указать **страну резидентства**, подтвердив, что Автор плана является резидентом Российской федерации;
+* Specify the** country of residence,** confirming that the plan Author is a resident of the Russian Federation;
 
-  > Обратите внимание, для вывода средств от продажи планов можно привязать только банковские карты, эмитированные банками Российской федерации.
+  > Please note, that to withdraw money earned on plans selling, you can use only cards issued by the Russian Federation banks
 
-* Установить признак, что Автор плана является физическим лицом;
+* Enable the attribute saying that the plan Author is a private individual;
 
-* Проверить правильность указания Фамилии и Имени Автора плана;
+* Check if you have correctly indicated last name and first name of the plan Author;
 
-* Указать Е-mail и номер телефона;
-* Прочитать ["Договор с авторами планов - физическими лицами"](https://legal.staminity.com/ru/offer-author-individual.html) и [Договор между Автором и Покупателем тренировочного плана](https://legal.staminity.com/ru/offer-author-buyer.html) и подтвердить акцепт условий данных договоров. 
+* Provide your email and phone number;
 
-![Основные параметры плана](https://264710.selcdn.ru/assets/images/_new/settings/agent-author-individual.png)
+* Read the ["Agreement with the training plans authors - private individuals"](https://legal.staminity.com/ru/offer-author-individual.html) and [Agreement between the training plan Author and the plan Buyer](https://legal.staminity.com/ru/offer-author-buyer.html) and confirm that you accept all terms of these agreements. 
 
-3.Завершить регистрацию, сохранив введенную информацию.
+![General params of the plan](https://264710.selcdn.ru/assets/images/_new/settings/agent-author-individual.png)
+
+3.Complete your sign up by saving the provided information.
 
 ### Регистрация Автора планов - юридического лица или ИП {#individual}
 
