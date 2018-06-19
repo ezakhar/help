@@ -13,24 +13,24 @@ In Settings in the "Training plans sale" section you can check the available bal
 
 > Only for plan Authors - private individuals
 
-A plan Author can withdraw money made by selling plans in Staminity, in the following ways: 
+A plan Author can withdraw money made by selling plans in Staminity, in the following ways:
 
 | Plan Authors | Ways of withdrawal |
 | :--- | :--- |
-| Private individuals | **To a bank card. **Plan Authors - private individuals can independently add bank cards to which they would like to transfer money.  |
+| Private individuals | **To a bank card. **Plan Authors - private individuals can independently add bank cards to which they would like to transfer money. |
 | Legal entities and individual entrepreneurs | **To a settlement account.** You can't manage the account details in Staminity interface, details of the settlement account for legal entities and individual entrepreneurs are indicated in the form which is filled in when signing up. |
 
-Для добавления новой карты Автору плана-физическому лицу необходимо:
+In order to add a new bank card, plan Author - private individual has to:
 
-1.Перейти в Настройки и в разделе "Продажа тренировочных планов" выбрать пункт "Карты и счета":
+1. Go to Settings and in hte "Training plans sale" section select the "Cards and bank accounts" item: 
 
 ![Управление картами](https://264710.selcdn.ru/assets/images/_new/settings/user-cards.png)
 
-2.Нажать на кнопку "Добавить новую карту" и ввести реквизиты карты.
+2.Click on the "Add new card button" and enter the card details.
 
-> **ВАЖНО:**
+> IMPORTANT**:**
 >
-> 1.Staminity не хранит данные карт, вводимые в данном разделе. За хранение карт отвечает партнер по проведению расчетов между Авторами и Покупателями тренировочных планов - **Небанковская кредитная организация «МОНЕТА.РУ»** \(общество с ограниченной ответственностью\), лицензия на осуществление банковских операций со средствами в рублях и иностранной валюте №3508-К выдана Банком России 02.07.2012г.за тренировочные планы.
+> 1. Staminity doesn't store card details, entered in this section. They are stored by the partner responsible for making settlements between training plan Authors and Buyers - **Non-banking credit organization «MONETA.RU» **\(Limited Liability Company\), license to conduct banking operations with funds in Roubles and foreign currencies No. 3508-K issued by the Bank of Russia on 02.07.2012.
 >
 > 2.**Для проверки корректности ввода реквизитов карты, в момент привязки с нее будет списана сумма не более одного рубля. Данная сумма НЕ БУДЕТ ВОЗВРАЩЕНА на карту.**
 >
