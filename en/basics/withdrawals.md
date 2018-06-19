@@ -30,19 +30,19 @@ In order to add a new bank card, plan Author - private individual has to:
 
 > IMPORTANT**:**
 >
-> 1. Staminity doesn't store card details, entered in this section. They are stored by the partner responsible for making settlements between training plan Authors and Buyers - **Non-banking credit organization «MONETA.RU» **\(Limited Liability Company\), license to conduct banking operations with funds in Roubles and foreign currencies No. 3508-K issued by the Bank of Russia on 02.07.2012.
+> 1.Staminity doesn't store card details, entered in this section. They are stored by the partner responsible for making settlements between training plan Authors and Buyers - **Non-banking credit organization «MONETA.RU» **\(Limited Liability Company\), license to conduct banking operations with funds in Roubles and foreign currencies No. 3508-K issued by the Bank of Russia on 02.07.2012.
+
+> 2.**In order to verify the correctness of the card details, an amount of not more than one rouble is charged from it at the moment you enter the card details. This amount WON'T BE RETURNED to the card.**
 >
-> 2.**Для проверки корректности ввода реквизитов карты, в момент привязки с нее будет списана сумма не более одного рубля. Данная сумма НЕ БУДЕТ ВОЗВРАЩЕНА на карту.**
->
-> 3.Введенная карта может быть использована только в качестве средства вывода денежных средств, полученных от продажи тренировочных планов в Staminity.
+> 3.The set card can be used only for withdrawal of money made by selling training plans in Staminity.
 
-Обратите внимание на признак "По-умолчанию" для карты.  
-При оформлении запроса на вывод средств платеж будет выполнен на карту, установленную по-умолчанию для данной валюты.
+Note the “By default” attribute for cards. 
+When making a withdrawal request, money will be transferred to the card, set as the one used by default for this specific currency. 
 
-![Карта по-умолчанию](https://264710.selcdn.ru/assets/images/_new/settings/user-cards-default.png)
+![Card set as "By default"](https://264710.selcdn.ru/assets/images/_new/settings/user-cards-default.png)
 
-Данные любой введенной карты можно удалить.  
-После удаления карта в интерфейсе помечается удаленной \(DELETED\) и отправляется запрос на удаление ее данных в адрес НКО "Монета" \(ООО\).
+You can delete details of any card.  
+After deleting, the card is marked as \(DELETED\) in the interface and  и отправляется запрос на удаление ее данных в адрес НКО "Монета" \(ООО\).
 
 ### Реестр продаж тренировочных планов {#purchases}
 
