@@ -36,7 +36,7 @@ In order to add a new bank card, plan Author - private individual has to:
 >
 > 3.The set card can be used only for withdrawal of money made by selling training plans in Staminity.
 
-Note the “By default” attribute for cards.   
+Note the “By default” attribute for cards.  
 When making a withdrawal request, money will be transferred to the card, set as the one used by default for this specific currency.
 
 ![Card set as &quot;By default&quot;](https://264710.selcdn.ru/assets/images/_new/settings/user-cards-default.png)

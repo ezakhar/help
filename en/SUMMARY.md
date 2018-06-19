@@ -40,7 +40,7 @@
 * [For a coach: Training plans management](basics/training-plan-management.md)
 * [For a coach: Selling training plans](training-plans/training-plans-for-coaches.md)
 * [For a coach: Signing up as a plan Author](basics/plan-author-profile.md)
-* [Для тренера: Баланс и вывод средств](basics/withdrawals.md)
+* [For a coach: Available balance and withdrawal of funds](basics/withdrawals.md)
 * [Для спортсмена: Как использовать тренировочный план](basics/use-training-plan.md)
 
 ## FAQ
