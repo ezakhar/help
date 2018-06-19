@@ -76,20 +76,20 @@ In order to withdraw funds, you need to click on the "Withdraw" button and confi
 * the available balance is more then 300 RUB;
 * there are cards or accounts set for money withdrawal.
 
-После подтверждения условий вывода Ваш запрос \(поручение на вывод средств\) будет сформирован и отправлен на подтверждение. Рассмотрение запроса обычно занимает несколько часов, но может продолжаться до 3 рабочих дней.
+After you confirm your agreement with terms of withdrawal, your request will be generated and sent for confirmation. Request processing usually takes a few hours, but it may require up to 3 business days.
 
-### Реестр поручений на вывод средств {#withdrawals}
+### Withdrawal requests register {#withdrawals}
 
-В разделе "Вывод средств" выводится информация обо всех оформленных ранее запросах на вывод средств с их статусом:
+In the "Withdraw" section you will see information about all withdrawal requests made earlier with their status:
 
-![Продажи планов](https://264710.selcdn.ru/assets/images/_new/settings/user-withdrawals.png)
+![Training plan purchases](https://264710.selcdn.ru/assets/images/_new/settings/user-withdrawals.png)
 
-Доступные статусы:
+Statuses available:
 
-* **Создан** - Запрос на вывод средств создан и отправлен на рассмотрение и подтверждение;
-* **Подтверждён** - Запрос подтвержден, передана информация платежному партнеру на перечисление денежных средств;
-* **Отменён** - Запрос отменен по результатам рассмотрения;
-* **Выполнен** - Получена информация от платежного партнера об успешном перечислении денежных средств.
+* **Created** - Запрос на вывод средств создан и отправлен на рассмотрение и подтверждение;
+* **Approved** - Запрос подтвержден, передана информация платежному партнеру на перечисление денежных средств;
+* **Declined** - Запрос отменен по результатам рассмотрения;
+* **Executed** - Получена информация от платежного партнера об успешном перечислении денежных средств.
 
 
 
