@@ -5,20 +5,19 @@
 * [How to start using plan](#assign)
 * [How to cancel the plan's assignment and delete activities from the calendar](#deleteassignment)
 
-# Тренировочный план в Staminity - это удобно {#plan}
+# Training plan in Staminity - it is convenient{#plan}
 
-Staminity - это профессиональная платформа для поддержки тренировочного процесса.   
-Поэтому в отличие от плана на бумаге, в электронной таблице или в файле, заниматься по тренировочному плану в Staminity для спортсменов гораздо удобнее:
+Staminity is a professional platform designed for supporting training process.   
+That's why unlike a plan presented on a paper, in a spreadsheet or in a file, it is much more convenient for athletes to train according to the plan in Staminity:
+* **Training calendar is always at your disposal** and you can access it both via PC and via iOS and Android mobile apps. If needed, Staminity calendar can be integrated with Google calendar, Outlook, and other calendar apps;
 
-* **Тренировочный календарь всегда под рукой** и доступен с компьютера и с мобильных приложений для IOS и Android. При необходимости календарь Staminity интегрируется с рабочим календарем Google, Outlook и других календарных приложений;
+* Completed activities are **automatically downloaded and compared with a plan**;
 
-* Выполненные тренировки загружаются **автоматически и сопоставляются с планом**;
+* The system evaluates the correctness of the activity's performance;
 
-* Система оценивает корректность выполнения задания;
+* Detailed information on every completed activity as well as reports on the whole training process are available;
 
-* Доступна подробная информация по каждой выполненной тренировке и отчетность в целом по процессу тренировок;
-
-* Для работы по плану спортсменам не требуется покупка платного тарифа, можно использовать приложение Staminity на компьютере и смартфонах совершенно бесплатно. Платный тариф Премиум дает дополнительные возможности для анализа тренировок.
+* In order to work according to the plan,athletes don't need to enable a paid tariff, they can use Staminity app on PC and smartphones for free. The paid Premium tariff provides additional possibilities for analyzing activities.
 
 ![Календарь спортсмена](https://lh6.googleusercontent.com/TEQ-FWDz6mhZm4o7MLHPRSjLPf9trojZbAQuQ6V2EBI1yx8dkwdWoOKC2H7_uDCQz6jTi_dmbLo-4ZoBdlESQq2MBsw_BNsC9CYJo4pLtmE7ESuE0W9e1lUVrIAqQX3_eR0UEguN)Тренировочный календарь
 
