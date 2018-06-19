@@ -86,10 +86,10 @@ In the "Withdraw" section you will see information about all withdrawal requests
 
 Statuses available:
 
-* **Created** - Запрос на вывод средств создан и отправлен на рассмотрение и подтверждение;
-* **Approved** - Запрос подтвержден, передана информация платежному партнеру на перечисление денежных средств;
-* **Declined** - Запрос отменен по результатам рассмотрения;
-* **Executed** - Получена информация от платежного партнера об успешном перечислении денежных средств.
+* **Created** - Withdrawal request has been generated and sent for consideration and confirmation;
+* **Approved** - The request has been approved and information on the transfer of funds has been sent to the payment partner; 
+* **Declined** - The request has been declined upon consideration;
+* **Executed** - Information about successful transfer of funds has been received from the payment partner.
 
 
 
