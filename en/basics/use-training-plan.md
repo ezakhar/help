@@ -33,14 +33,14 @@ That's why unlike a plan presented on a paper, in a spreadsheet or in a file, it
 
 ![Training plans Store](https://264710.selcdn.ru/assets/images/_new/training-plan/training-plan-store.png)
 
-При необходимости отфильтруйте доступные планы, выбрав один или несколько признаков на левой панели.
+If needed filter the available plans by selecting one or several attributes on the panel located to the left.
 
-2.Изучите предлагаемые планы, просматривая подробную информацию на странице плана, а также информацию об Авторе плана.
+2.Study the offered plans by familiarizing with detailed information provided on the plan page and information about plan Author.
 
-3.Чтобы приобрести план:
+3.In order to purchase a plan:
 
-* для бесплатных планов нажмите на кнопку "Добавить бесплатно" в Магазине планов или на странице выбранного плана;
-* для платных планов - нажмите "Купить". 
+* for free plans you need to click on the "Take for free" button in the Store or on the plan page; 
+* for paid plans - click on "Buy". 
 
 4.Изучите [Правила приобретения тренировочных планов](https://legal.staminity.com/ru/offer-plan-buyer.html) и условия [Договора между Автором и Покупателем тренировочного плана](https://legal.staminity.com/ru/offer-author-buyer.html).  Для приобретения плана необходимо согласиться с условиями данных договоров.
 
