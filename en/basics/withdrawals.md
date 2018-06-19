@@ -68,13 +68,13 @@ In order to withdraw funds, you need to click on the "Withdraw" button and confi
 
 > **Terms of withdrawal:**
 >
-> * При выводе 3000 рублей и выше дополнительная комиссия не взимается;
-> * При выводе менее 3000 рублей платежной системой взимается дополнительная комиссия в размере 1.5%, минимум 60 рублей.
+> * Withdrawal is made for free if the amount of withdrawal is more than or equals 3000 RUB;
+> *  If less, then the system commission is charged in the amount of 1,5%, 60 RUB minimum.
 
-**Кнопка "Вывести"** доступна, если:
+**The "Withdraw" button** is available if:
 
-* доступный для вывода баланс выше минимального лимита: 300 рублей.
-* есть доступные карты или счета для вывода средств.
+* the available balance is more then 300 RUB;
+* there are cards or accounts set for money withdrawal.
 
 После подтверждения условий вывода Ваш запрос \(поручение на вывод средств\) будет сформирован и отправлен на подтверждение. Рассмотрение запроса обычно занимает несколько часов, но может продолжаться до 3 рабочих дней.
 

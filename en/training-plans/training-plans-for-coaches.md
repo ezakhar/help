@@ -130,7 +130,7 @@ Staminity commission is 30% of the plan's cost. And the rest 70% go to the plan 
 
 **What are the withdrawal terms?**
 
-Withdrawal is made for free if the amount of withdrawal is more than or equals 3000 RUB. If less, then the system commission is changed in the amount of 1,5%, 60 RUB minimum.
+Withdrawal is made for free if the amount of withdrawal is more than or equals 3000 RUB. If less, then the system commission is charged in the amount of 1,5%, 60 RUB minimum.
 
 **Can I publish free plans?**
 
