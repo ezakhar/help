@@ -56,17 +56,17 @@ In the register, you will see the "net" amount, i.e. sales amount minus the Stam
 
 ### Available balance and withdrawal of funds{#balance}
 
-В строке "Баланс" указывается сумма средств, полученная автором от продажи тренировочных планов, доступная для вывода на банковскую карту или на расчетный счет Автору.
+In the "Available balance" line you will see the amount of money made by selling training plans and available for withdrawal to the Author's bank card or settlement account.
 
-В сумме доступного баланса учитывается:
+In the amount of available balance are accounted: 
 
-* сумма продаж тренировочных планов;
-* комиссия Staminity:
-* сумма ранее выполненных поручений на вывод денежных средств.
+* the amount of training plans purchases;
+* Staminity commission.
+* the amount of completed withdrawal requests.
 
-Для вывода средств необходимо нажать на кнопку "Вывести" и подтвердить условия выполнения операции.
+In order to withdraw funds, you need to click on the "Withdraw" button and confirm agreement with terms of the operation.
 
-> **Условия вывода средств:**
+> **Terms of withdrawal:**
 >
 > * При выводе 3000 рублей и выше дополнительная комиссия не взимается;
 > * При выводе менее 3000 рублей платежной системой взимается дополнительная комиссия в размере 1.5%, минимум 60 рублей.
