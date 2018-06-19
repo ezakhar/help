@@ -42,19 +42,19 @@ When making a withdrawal request, money will be transferred to the card, set as 
 ![Card set as "By default"](https://264710.selcdn.ru/assets/images/_new/settings/user-cards-default.png)
 
 You can delete details of any card.  
-After deleting, the card is marked as \(DELETED\) in the interface and  и отправляется запрос на удаление ее данных в адрес НКО "Монета" \(ООО\).
+After deleting, the card is marked as \(DELETED\) in the interface and a request to delete its data is sent to the address of the NCO Moneta \(LLC\).
 
-### Реестр продаж тренировочных планов {#purchases}
+### Training plans purchases register {#purchases}
 
-В разделе "Продажи тренировочных планов" отображается реестр всех продаж тренировочных планов Автора в Staminity.
+A register of all Author's plans purchases in Staminity is displayed in the “Training plans purchases” section.
 
-![Продажи планов](https://264710.selcdn.ru/assets/images/_new/settings/user-purchases.png)
+![Training plans purchases](https://264710.selcdn.ru/assets/images/_new/settings/user-purchases.png)
 
-В реестре отображается "чистая" сумма, т.е. сумма продажи за вычетом комиссии Staminity
+In the register, you will see the "net" amount, i.e. sales amount minus the Staminity commission.
 
-> Комиссия Staminity составляет 30% с каждой продажи от установленной Автором стоимости плана.
+> Staminity charges a commission of 30% of the plan's cost set by the Author from each sale.
 
-### Доступный баланс и вывод средств {#balance}
+### Available balance and withdrawal of funds{#balance}
 
 В строке "Баланс" указывается сумма средств, полученная автором от продажи тренировочных планов, доступная для вывода на банковскую карту или на расчетный счет Автору.
 
