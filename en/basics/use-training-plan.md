@@ -19,19 +19,19 @@ That's why unlike a plan presented on a paper, in a spreadsheet or in a file, it
 
 * In order to work according to the plan,athletes don't need to enable a paid tariff, they can use Staminity app on PC and smartphones for free. The paid Premium tariff provides additional possibilities for analyzing activities.
 
-![Календарь спортсмена](https://lh6.googleusercontent.com/TEQ-FWDz6mhZm4o7MLHPRSjLPf9trojZbAQuQ6V2EBI1yx8dkwdWoOKC2H7_uDCQz6jTi_dmbLo-4ZoBdlESQq2MBsw_BNsC9CYJo4pLtmE7ESuE0W9e1lUVrIAqQX3_eR0UEguN)Тренировочный календарь
+![Athlete's calendar](https://lh6.googleusercontent.com/TEQ-FWDz6mhZm4o7MLHPRSjLPf9trojZbAQuQ6V2EBI1yx8dkwdWoOKC2H7_uDCQz6jTi_dmbLo-4ZoBdlESQq2MBsw_BNsC9CYJo4pLtmE7ESuE0W9e1lUVrIAqQX3_eR0UEguN)Training calendar
 
-![Анализ выполненной тренировки](https://lh6.googleusercontent.com/QvFA0Sp4gMuYIZi3kfhRMw2UBbVyBzi2UlvhZpfBVY8-2gW2MVALK1_B2F5I4y_jqeGeiEssZ3Hk7jXogVpuUab0KEq7hxgkGMLpDU_3pE_5SimdiJWEjUTGMzmZjzsvFCptEVKX)Анализ выполненной тренировки
+![Analysis of a completed activity](https://lh6.googleusercontent.com/QvFA0Sp4gMuYIZi3kfhRMw2UBbVyBzi2UlvhZpfBVY8-2gW2MVALK1_B2F5I4y_jqeGeiEssZ3Hk7jXogVpuUab0KEq7hxgkGMLpDU_3pE_5SimdiJWEjUTGMzmZjzsvFCptEVKX)Analysis of a completed activity
 
-### Как приобрести тренировочный план {#purchase}
+### How to purchase a training plan{#purchase}
 
-1.Выбрать подходящий тренировочный план можно в **Магазине тренировочных планов**. Для перехода в Магазин:
+1.You can select a suitable training plan in the **Training plans store**. In order to proceed to te Store:
 
-* Выберите пункт "Тренировочные планы" в левом меню, если вы вошли в приложение;
-* ИЛИ Откройте ссылку "Магазин планов" с главной страницы сайта [https://staminity.com](https://staminity.com)
-* ИЛИ перейдите по ссылке: [https://staminity.com/training-plans-store?state=store](https://staminity.com/training-plans-store?state=store)
+* Select the "Training plans" item in the menu to the left if you use Staminity via mobile app;
+* OR open the "Plans store" link located on the main page of the website [https://staminity.com](https://staminity.com)
+* OR follow the link: [https://staminity.com/training-plans-store?state=store](https://staminity.com/training-plans-store?state=store)
 
-![Магазин тренировочных планов](https://264710.selcdn.ru/assets/images/_new/training-plan/training-plan-store.png)
+![Training plans Store](https://264710.selcdn.ru/assets/images/_new/training-plan/training-plan-store.png)
 
 При необходимости отфильтруйте доступные планы, выбрав один или несколько признаков на левой панели.
 
