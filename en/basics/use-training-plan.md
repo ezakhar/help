@@ -76,17 +76,17 @@ By default, the system will offer you to start using a plan:
 * Starting from the next week, if the plan doesn't have fixed dates;
 * Starting from the plan dates, if the plan has fixed dates.
 
-Но вы всегда можете изменить предлагаемые по-умолчанию параметры:  
-![Окно присвоения плана](https://264710.selcdn.ru/assets/images/_new/methodology/tp-assignment-window.png)
+But you can always change parameters offered by the system by default.   
+![Plan assignment window](https://264710.selcdn.ru/assets/images/_new/methodology/tp-assignment-window.png)
 
-* **1 - Ваше имя и фамилия** для применения плана. Купленный план вы можете присвоить только себе,
-* **2 - Режим присвоения**, который определяет способ расчета дат присвоения. Можно выбрать присвоение в даты плана или присвоение в даты записей \(событий, тренировок, соревнований\). Расчетный блок дат \[5\] в карточке присвоения поможет выбрать нужный вам режим.
-* **3 - Дату начала или дату окончания присвоения. **Выбор даты позволит применить план или начиная с определенной даты или по определенную дату. 
-* **4 - Укажите дату**:
+* **1 - Your first name and last name** for plan assignment. The purchased plan you can assign only to yourself,
+* **2 - Assignment mode**, which determines the method of assignment dates calculation. You can select assignment in the plan dates or in the item \(events, activities, competitions\) dates. A block with dates calculation \[5\] in the assignments card will help you to choose the mode you need.
+* **3 - Start date and end date of assignment. **Date selection will help you to apply the plan either starting from a specific date or till a specific date.. 
+* **4 - Set a date**:
 
-| Дата | Описание |
+| Date| Description|
 | :--- | :--- |
-| Дата начала плана | Первый день недели, начиная с которой в вашем календаре будут показаны записи плана |
+| Plan start date | The first day of the week starting from which the plan items will appear in the athlete's calendar |
 | Дата первой записи | Дата первой записи из плана в вашем календаре. Отличается от даты начала плана, если первая тренировка в плане запланирована не в первый день недели |
 | Дата последней записи | Дата последней записи из плана в вашем календаре. Отличается от даты окончания плана, если последняя тренировка в плане запланирована не в последний день недели |
 | Дата окончания плана | Последний день недели в вашем календаре, когда закончится тренировочный план |
