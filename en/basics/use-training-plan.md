@@ -3,7 +3,7 @@
 * [Advantages of training according to a plan in Staminity](#plan)
 * [How to purchase a training plan](#purchase)
 * [How to start using a plan](#assign)
-* [How to cancel the plan's assignment and delete activities from the calendar](#deleteassignment)
+* [How to remove plan assignment and delete activities from the calendar](#deleteassignment)
 
 # Training plan in Staminity - it is convenient {#plan}
 
@@ -99,15 +99,15 @@ But you can always change parameters offered by the system by default.
 
 * **Plan can be assigned several times.** You can easily assign plan several times to different dates.
 
-### Как отключить план и удалить тренировки из календаря {#deleteassignment}
+### How to remove plan assignment and delete activities from the calendar {#deleteassignment}
 
-В окне присвоений вы всегда можете видеть, когда был присвоен данный план:
+In the assignments window you can always check when the given plan has been assigned: 
 
-![Присвоения плана](https://264710.selcdn.ru/assets/images/_new/methodology/tp-assignments.png)
+![Plan assignments](https://264710.selcdn.ru/assets/images/_new/methodology/tp-assignments.png)
 
-Для просмотра подробной информации по присвоению, по датам и режимам присвоения плана, щелкните мышкой на строчке присвоения.
+In order to view detailed information on plan assignments, dates and modes of assignment, click on the assignments line.
 
-Для удаления присвоения войдите в контекстное меню присвоения и выберите функцию "Удалить".
+In order to remove assignment, go to the assignments context menu and select the "Remove" option. 
 
 После удаления присвоения из вашего календаря будут удалены все невыполненные тренировки по данному плану.
 
