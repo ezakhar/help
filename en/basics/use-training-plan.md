@@ -18,7 +18,7 @@ That's why unlike a plan presented on a paper, in a spreadsheet or in a file, it
 
 * Detailed information on every completed activity as well as reports on the whole training process are available;
 
-* In order to work according to the plan,athletes don't need to enable a paid tariff, they can use Staminity app on PC and smartphones for free. The paid Premium tariff provides additional possibilities for analyzing activities.
+* In order to work according to the plan, athletes don't need to enable a paid tariff, they can use Staminity app on PC and smartphones for free. The paid Premium tariff provides additional possibilities for analyzing activities.
 
 ![Athlete&apos;s calendar](https://lh6.googleusercontent.com/TEQ-FWDz6mhZm4o7MLHPRSjLPf9trojZbAQuQ6V2EBI1yx8dkwdWoOKC2H7_uDCQz6jTi_dmbLo-4ZoBdlESQq2MBsw_BNsC9CYJo4pLtmE7ESuE0W9e1lUVrIAqQX3_eR0UEguN)Training calendar
 
@@ -26,7 +26,7 @@ That's why unlike a plan presented on a paper, in a spreadsheet or in a file, it
 
 ### How to purchase a training plan {#purchase}
 
-1.You can select a suitable training plan in the **Training plans store**. In order to proceed to te Store:
+1.You can select a suitable training plan in the **Training plans store**. In order to proceed to the Store:
 
 * Select the "Training plans" item in the menu to the left if you use Staminity via mobile app;
 * OR open the "Plans store" link located on the main page of the website [https://staminity.com](https://staminity.com)
@@ -34,7 +34,7 @@ That's why unlike a plan presented on a paper, in a spreadsheet or in a file, it
 
 ![Training plans Store](https://264710.selcdn.ru/assets/images/_new/training-plan/training-plan-store.png)
 
-If needed filter the available plans by selecting one or several attributes on the panel located to the left.
+If needed you can filter the available plans by selecting one or several attributes on the panel located to the left.
 
 2.Study the offered plans by familiarizing with detailed information provided on the plan page and information about plan Author.
 
@@ -43,10 +43,10 @@ If needed filter the available plans by selecting one or several attributes on t
 * for free plans you need to click on the "Take for free" button in the Store or on the plan page; 
 * for paid plans - click on "Buy". 
 
-4.Study the [Training plans purchase policy](https://legal.staminity.com/ru/offer-plan-buyer.html) and terms of the [Agreement between the training plans Author and the plan Buyer](https://legal.staminity.com/ru/offer-author-buyer.html). In order to purchase a plan, you have to confirm your consent with terms of these agreements.
+4.Study the [Training plans purchase policy](https://legal.staminity.com/eng/offer-plan-buyer.html) and terms of the [Agreement between the training plans Author and the plan Buyer](https://legal.staminity.com/eng/offer-author-buyer.html). In order to purchase a plan, you have to confirm your consent with terms of these agreements.
 
 > **Please note:**  
-> Staminity provides platform for creating and promoting plans (for Author) and training according to the plan (for Buyer), but the Author of the plan bears full responsibility for description and content of the training plan.  
+> Staminity provides a platform for creating and promoting plans \(for Author\) and training according to the plan \(for Buyer\), but the Author of the plan bears full responsibility for description and content of the training plan.  
 > If you have any questions related to the content of a particular plan, you need to contact the plan Author directly.
 
 5.You can pay for a training plan using your bank card.
@@ -61,22 +61,22 @@ In this window:
 
 * **2 - Training plan.** If you click on the plan name, the plan page will open.
 
-* **3 - Button "Assignments"**, it enables to assign the plan to required dates or cancel assignment. 
+* **3 - Button "Assignments"**, it enables to assign the plan to required dates or remove the assignment.
 
 * **4 - "Ordered" status** of the plan means that information about the payment is in processing. You can't assign a plan with "Ordered" status.
 
-### How to start usng a plan {#assign}
+### How to start using a plan {#assign}
 
 In order to start training according to the purchased plan, you need to assign it to required dates. By doing so all items of the plan will appear in your training calendar.
 
-In order to assign a plan you need to click on the button \[3\] \(see the image above\).
+To assign a plan you need to click on the button \[3\] \(see the image above\).
 
-By default, the system will offer you to start using a plan:
+By default, the system will offer you to use a plan:
 
 * Starting from the next week, if the plan doesn't have fixed dates;
 * Starting from the plan dates, if the plan has fixed dates.
 
-But you can always change parameters offered by the system by default.   
+But you can always change parameters offered by the system by default.  
 ![Plan assignment window](https://264710.selcdn.ru/assets/images/_new/methodology/tp-assignment-window.png)
 
 * **1 - Your first name and last name** for plan assignment. The purchased plan you can assign only to yourself,
@@ -84,7 +84,7 @@ But you can always change parameters offered by the system by default.
 * **3 - Start date and end date of assignment. **Date selection will help you to apply the plan either starting from a specific date or till a specific date.. 
 * **4 - Set a date**:
 
-| Date| Description|
+| Date | Description |
 | :--- | :--- |
 | Plan start date | The first day of the week starting from which the plan items will appear in the athlete's calendar |
 | First item date | Date of the first plan item displayed in the athlete's calendar. It differs from the plan start date if the first activity is planned not on the first day of the week |
@@ -97,17 +97,17 @@ But you can always change parameters offered by the system by default.
 
 * **Workouts cannot be created on the past dates.** If you set such dates so that all plan activities or part of them are assigned on the past dates, then they won't appear in your calendar.
 
-* **Plan can be assigned several times.** You can easily assign plan several times to different dates.
+* **A plan can be assigned several times.** You can easily assign plan several times to different dates.
 
 ### How to remove plan assignment and delete activities from the calendar {#deleteassignment}
 
-In the assignments window you can always check when the given plan has been assigned: 
+In the assignments window you can always check when the given plan has been assigned:
 
 ![Plan assignments](https://264710.selcdn.ru/assets/images/_new/methodology/tp-assignments.png)
 
 In order to view detailed information on plan assignments, dates and modes of assignment, click on the assignments line.
 
-In order to remove assignment, go to the assignments context menu and select the "Remove" option. 
+In order to remove the assignment, go to the assignments context menu and select the "Remove" option.
 
 After that, all uncompleted activities within the plan will be removed from your calendar.
 
