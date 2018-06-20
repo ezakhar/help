@@ -87,17 +87,17 @@ But you can always change parameters offered by the system by default.
 | Date| Description|
 | :--- | :--- |
 | Plan start date | The first day of the week starting from which the plan items will appear in the athlete's calendar |
-| Дата первой записи | Дата первой записи из плана в вашем календаре. Отличается от даты начала плана, если первая тренировка в плане запланирована не в первый день недели |
-| Дата последней записи | Дата последней записи из плана в вашем календаре. Отличается от даты окончания плана, если последняя тренировка в плане запланирована не в последний день недели |
-| Дата окончания плана | Последний день недели в вашем календаре, когда закончится тренировочный план |
+| First item date | Date of the first plan item displayed in the athlete's calendar. It differs from the plan start date if the first activity is planned not on the first day of the week |
+| Last item date | Date of the last plan item displayed in the athlete's calendar. It differs from the plan end date if the last activity is planned not on the last day of the week |
+| Plan end date | The last day of the week in the athlete's calendar when the training plan will end |
 
-* **5 - расчетный блок дат**, для помощи в правильности выбора параметров присвоения 
+* **5 - block with dates calculation**, to help you check the correctness of the assignment dates 
 
-**Важные особенности присвоения плана:**
+**Important features of the plan assignment:**
 
-* **Тренировки в прошлом не создаются.** Если вы выберите даты так, что все или часть тренировок из плана окажутся в прошлом, то они не будут созданы в вашем календаре.
+* **Workouts cannot be created on the past dates.** If you set such dates so that all plan activities or part of them are assigned on the past dates, then they won't appear in your calendar.
 
-* **План можно присвоить несколько раз.** Вы свободно можете присваивать план несколько раз в разные даты.
+* **Plan can be assigned several times.** You can easily assign plan several times to different dates.
 
 ### Как отключить план и удалить тренировки из календаря {#deleteassignment}
 
