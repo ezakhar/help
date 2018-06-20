@@ -51,17 +51,17 @@ If needed filter the available plans by selecting one or several attributes on t
 
 5.You can pay for a training plan using your bank card.
 
-6.Приобретенный план появится на вкладке "Приобретения" в Магазине планов.
+6.The purchased plan will appear on the "Purchases" tab in the Store.
 
-![Приобретенные планы](https://264710.selcdn.ru/assets/images/_new/training-plan/training-plan-purchases-navigation2.png)
+![Purchased plans](https://264710.selcdn.ru/assets/images/_new/training-plan/training-plan-purchases-navigation2.png)
 
-В этом окне:
+In this window:
 
-* **1 - Переключение вкладок "Все планы" или "Приобретения".** На вкладке "Все планы" отображаются все доступные опубликованные Авторами тренировочные планы в Staminity, а на вкладке "Приобретения" - доступные для использования планы для пользователя.
+* **1 - You can switch between tabs "All plans" and "Purchases".** On the "All plans" tab you can view all available plans published by Authors in the Store, and on the "Purchases" tab - plans that can be used by the user.
 
-* **2 - Тренировочный план.** По клику на название плана откроется страница плана.
+* **2 - Training plan.** If you click on the plan name, the plan page will open.
 
-* **3 - Кнопка "Присвоения"**, позволяющая применить план в нужные даты, либо отключить его.
+* **3 - Button "Assignments"**, it enables to apply the plan in required dates or disable it. 
 
 * **4 - Статус "Заказан"** у плана, означающий, что информация о платеже находится в стадии обработки. В статусе "Заказан" применить план невозможно.
 
