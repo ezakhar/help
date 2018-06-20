@@ -109,5 +109,5 @@ In order to view detailed information on plan assignments, dates and modes of as
 
 In order to remove assignment, go to the assignments context menu and select the "Remove" option. 
 
-После удаления присвоения из вашего календаря будут удалены все невыполненные тренировки по данному плану.
+After that, all uncompleted activities within the plan will be removed from your calendar.
 

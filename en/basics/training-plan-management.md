@@ -13,7 +13,7 @@ In this article:
   * [Plan images](#images)
 * [Plan activities, events, competitions within the plan](#buildplan)
 * [Assign plan to athletes](#assignplan)
-* [Cancel assignment](#deleteassignment)
+* [Remove assignment](#deleteassignment)
 * [Publish plan in the Store](#publish)
 * [Publish plan updates in the Store](#publishupdates)
 * [Unpublish plan](#unpublish)
@@ -189,13 +189,13 @@ In the plan assignment window you need to set:
 2. **Dynamic plan with changes transfer can be assigned only on the plan dates.** If you set different assignment dates, then plan changes won't be transferred to athletes. 
 3. **Changes made in activities which have happened in the past are not transferred to athletes. **In case if in a dynamic plan assigned with changes transfer you make changes in the activity happened yesterday, then such changes won't be transferred to athletes. 
 
-### Cancel assignment {#deleteassignment}
+### Remove assignment {#deleteassignment}
 
 In the assignments window you can always track to whom and when the plan has been assigned:
 
 ![Plan assignments](https://264710.selcdn.ru/assets/images/_new/methodology/tp-assignments.png)
 
-To cancel assignment you need to go to the assignment context window and select "Cancel assignment" option.
+To remove assignment you need to go to the assignments context window and select the "Remove assignment" option.
 
 After that, all uncompleted activities within the plan will be removed from the athlete's calendar.
 
