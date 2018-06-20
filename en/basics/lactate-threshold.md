@@ -1,16 +1,18 @@
-#Порог анаэробного обмена (ПАНО)
+# Lactate threshold
 
-###Что такое ПАНО
-При движении в мышцах образуется молочная кислота, которая превращаясь в лактат попадает в кровь, а затем выводится из организма. **Интенсивность тренировки, выше которой механизмы нейтрализации лактата не поспевают за его выработкой, называется лактатным порогом, или Порогом АНаэробного Обмена (ПАНО).** При интенсивности выше уровня ПАНО концентрация лактата в мышцах и крови возрастает, мышцы закисляются, проявляется чувство мышечной усталости. И если на уровне ПАНО, как выяснили спортивные физиологи, спортсмен может выполнять работу непрерывно в течение часа, то при превышении данного уровня интенсивности время тренировки снижается драматически.
+### What is LT
 
-ПАНО спортсмена – величина не постоянная, над его повышением можно работать и с ростом тренированности он повышается. Поэтому так важно знать текущий уровень ПАНО спортсмена и выстраивать тренировочный процесс с его учетом, а также целенаправленно работать над его повышением.
+When you're moving the lactic acid is being formed in muscles, and when it turns into lactate it hits the bloodstream, and after that, it is excreted from the body. **The intensity level of training, above which the mechanisms for lactate neutralizing do not keep up with its production, is called lactate threshold, or anaerobic threshold \(AnP\). **When intensity is above the LT level, the concentration of lactate in muscles and blood increases, muscles accumulate too much acid, and a feeling of muscle fatigue appears.  Sports physiologists have discovered that if at the LT level an athlete can train during an hour, then if this level of intensity is exceeded, the training time decreases dramatically. 
 
-При этом важно учитывать, что при занятиях разными видами спорта задействуются различные группы мышц и уровни ПАНО различаются по показателям интенсивности для разных видов спорта. 
+LT of an athlete – is not a constant, it increases along with athlete's fitness level. That's why it is so important to know the current level of the athlete's LT and take it into account when planning training process and constantly work on its increasing.
 
-В Стаминити мы предусмотрели указание текущего уровня ПАНО по всем показателям интенсивности в разрезе видов спорта
+You should note that that different groups of muscles are involved when training in different sports and thus LT levels vary in intensity indicators for different sports.
+
+In Staminity we have provided a possibility to indicate the current LT level for all intensity indicators in different sports.
 
 ![](http://264710.selcdn.ru/assets/images/settings/Staminity-settings-zones-by-sport.png)
 
-По выполненной тренировке мы также показываем интенсивность в % от ПАНО.
+As for the completed activity, we also show intensity in % of LT. 
 
 ![](http://264710.selcdn.ru/assets/images/settings/Staminity-intensity-by-FTP.png)
+
