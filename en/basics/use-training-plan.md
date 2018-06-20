@@ -2,7 +2,7 @@
 
 * [Advantages of training according to a plan in Staminity](#plan)
 * [How to purchase a training plan](#purchase)
-* [How to start using plan](#assign)
+* [How to start using a plan](#assign)
 * [How to cancel the plan's assignment and delete activities from the calendar](#deleteassignment)
 
 # Training plan in Staminity - it is convenient {#plan}
@@ -61,20 +61,20 @@ In this window:
 
 * **2 - Training plan.** If you click on the plan name, the plan page will open.
 
-* **3 - Button "Assignments"**, it enables to apply the plan in required dates or disable it. 
+* **3 - Button "Assignments"**, it enables to assign the plan to required dates or cancel assignment. 
 
-* **4 - Статус "Заказан"** у плана, означающий, что информация о платеже находится в стадии обработки. В статусе "Заказан" применить план невозможно.
+* **4 - "Ordered" status** of the plan means that information about the payment is in processing. You can't assign a plan with "Ordered" status.
 
-### Как начать заниматься по плану {#assign}
+### How to start usng a plan {#assign}
 
-Чтобы начать заниматься по плану, необходимо применить его в нужные даты. При этом все записи плана попадут в ваш тренировочный календарь.
+In order to start training according to the purchased plan, you need to assign it to required dates. By doing so all items of the plan will appear in your training calendar.
 
-Для применения плана нажмите на кнопку \[3\] \(см. изображение выше\).
+In order to assign a plan you need to click on the button \[3\] \(see the image above\).
 
-По-умолчанию система предложит вам начать заниматься по плану:
+By default, the system will offer you to start using a plan:
 
-* С начала следующей недели, если план не привязан к конкретным датам;
-* В даты плана, если план привязан к конкретным датам.
+* Starting from the next week, if the plan doesn't have fixed dates;
+* Starting from the plan dates, if the plan has fixed dates.
 
 Но вы всегда можете изменить предлагаемые по-умолчанию параметры:  
 ![Окно присвоения плана](https://264710.selcdn.ru/assets/images/_new/methodology/tp-assignment-window.png)
