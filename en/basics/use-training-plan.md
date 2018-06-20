@@ -5,10 +5,11 @@
 * [How to start using plan](#assign)
 * [How to cancel the plan's assignment and delete activities from the calendar](#deleteassignment)
 
-# Training plan in Staminity - it is convenient{#plan}
+# Training plan in Staminity - it is convenient {#plan}
 
-Staminity is a professional platform designed for supporting training process.   
+Staminity is a professional platform designed for supporting training process.  
 That's why unlike a plan presented on a paper, in a spreadsheet or in a file, it is much more convenient for athletes to train according to the plan in Staminity:
+
 * **Training calendar is always at your disposal** and you can access it both via PC and via iOS and Android mobile apps. If needed, Staminity calendar can be integrated with Google calendar, Outlook, and other calendar apps;
 
 * Completed activities are **automatically downloaded and compared with a plan**;
@@ -19,11 +20,11 @@ That's why unlike a plan presented on a paper, in a spreadsheet or in a file, it
 
 * In order to work according to the plan,athletes don't need to enable a paid tariff, they can use Staminity app on PC and smartphones for free. The paid Premium tariff provides additional possibilities for analyzing activities.
 
-![Athlete's calendar](https://lh6.googleusercontent.com/TEQ-FWDz6mhZm4o7MLHPRSjLPf9trojZbAQuQ6V2EBI1yx8dkwdWoOKC2H7_uDCQz6jTi_dmbLo-4ZoBdlESQq2MBsw_BNsC9CYJo4pLtmE7ESuE0W9e1lUVrIAqQX3_eR0UEguN)Training calendar
+![Athlete&apos;s calendar](https://lh6.googleusercontent.com/TEQ-FWDz6mhZm4o7MLHPRSjLPf9trojZbAQuQ6V2EBI1yx8dkwdWoOKC2H7_uDCQz6jTi_dmbLo-4ZoBdlESQq2MBsw_BNsC9CYJo4pLtmE7ESuE0W9e1lUVrIAqQX3_eR0UEguN)Training calendar
 
 ![Analysis of a completed activity](https://lh6.googleusercontent.com/QvFA0Sp4gMuYIZi3kfhRMw2UBbVyBzi2UlvhZpfBVY8-2gW2MVALK1_B2F5I4y_jqeGeiEssZ3Hk7jXogVpuUab0KEq7hxgkGMLpDU_3pE_5SimdiJWEjUTGMzmZjzsvFCptEVKX)Analysis of a completed activity
 
-### How to purchase a training plan{#purchase}
+### How to purchase a training plan {#purchase}
 
 1.You can select a suitable training plan in the **Training plans store**. In order to proceed to te Store:
 
@@ -42,13 +43,13 @@ If needed filter the available plans by selecting one or several attributes on t
 * for free plans you need to click on the "Take for free" button in the Store or on the plan page; 
 * for paid plans - click on "Buy". 
 
-4.Изучите [Правила приобретения тренировочных планов](https://legal.staminity.com/ru/offer-plan-buyer.html) и условия [Договора между Автором и Покупателем тренировочного плана](https://legal.staminity.com/ru/offer-author-buyer.html).  Для приобретения плана необходимо согласиться с условиями данных договоров.
+4.Study the [Training plans purchase policy](https://legal.staminity.com/ru/offer-plan-buyer.html) and terms of the [Agreement between the training plans Author and the plan Buyer](https://legal.staminity.com/ru/offer-author-buyer.html). In order to purchase a plan, you have to confirm your consent with terms of these agreements.
 
-> **Обратите внимание:**  
-> Staminity предоставляет платформу для создания и продвижения планов \(для Автора\) и для работы по плану \(для Покупателя\), но полную ответственность за описание и содержимое тренировочного плана несет Автор плана.   
-> По любым вопросам, связанным с содержанием конкретного плана необходимо обращаться напрямую к Автору.
+> **Please note:**  
+> Staminity provides platform for creating and promoting plans (for Author) and training according to the plan (for Buyer), but the Author of the plan bears full responsibility for description and content of the training plan.  
+> If you have any questions related to the content of a particular plan, you need to contact the plan Author directly.
 
-5.Оплатить тренировочный план можно с использованием банковской карты.
+5.You can pay for a training plan using your bank card.
 
 6.Приобретенный план появится на вкладке "Приобретения" в Магазине планов.
 
