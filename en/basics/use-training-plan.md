@@ -7,10 +7,10 @@
 
 # Training plan in Staminity - it is convenient {#plan}
 
-Staminity is a professional platform designed for supporting training process.  
+Staminity is a professional platform designed for supporting training process in cyclic sports.  
 That's why unlike a plan presented on a paper, in a spreadsheet or in a file, it is much more convenient for athletes to train according to the plan in Staminity:
 
-* **Training calendar is always at your disposal** and you can access it both via PC and via iOS and Android mobile apps. If needed, Staminity calendar can be integrated with Google calendar, Outlook, and other calendar apps;
+* **Training calendar is always at your disposal** and you can access it both via desktop and via iOS and Android mobile apps. If needed, Staminity calendar can be integrated with Google calendar, Outlook, and other calendar apps;
 
 * Completed activities are **automatically downloaded and compared with a plan**;
 
@@ -18,7 +18,7 @@ That's why unlike a plan presented on a paper, in a spreadsheet or in a file, it
 
 * Detailed information on every completed activity as well as reports on the whole training process are available;
 
-* In order to work according to the plan, athletes don't need to enable a paid tariff, they can use Staminity app on PC and smartphones for free. The paid Premium tariff provides additional possibilities for analyzing activities.
+* In order to work according to the plan, athletes don't need to enable a paid tariff, they can use Staminity app on the desktop and smartphones for free. The paid Premium tariff provides additional possibilities for analyzing activities.
 
 ![Athlete&apos;s calendar](https://lh6.googleusercontent.com/TEQ-FWDz6mhZm4o7MLHPRSjLPf9trojZbAQuQ6V2EBI1yx8dkwdWoOKC2H7_uDCQz6jTi_dmbLo-4ZoBdlESQq2MBsw_BNsC9CYJo4pLtmE7ESuE0W9e1lUVrIAqQX3_eR0UEguN)Training calendar
 
@@ -43,10 +43,10 @@ If needed you can filter the available plans by selecting one or several attribu
 * for free plans you need to click on the "Take for free" button in the Store or on the plan page; 
 * for paid plans - click on "Buy". 
 
-4.Study the [Training plans purchase policy](https://legal.staminity.com/eng/offer-plan-buyer.html) and terms of the [Agreement between the training plans Author and the plan Buyer](https://legal.staminity.com/eng/offer-author-buyer.html). In order to purchase a plan, you have to confirm your consent with terms of these agreements.
+4.Study the [Training plans purchase policy](https://legal.staminity.com/eng/offer-plan-buyer.html) and terms of the [Agreement between the training plans Author and the plan Acquirer](https://legal.staminity.com/eng/offer-author-buyer.html). In order to purchase a plan, you have to confirm your consent with terms of these agreements.
 
 > **Please note:**  
-> Staminity provides a platform for creating and promoting plans \(for Author\) and training according to the plan \(for Buyer\), but the Author of the plan bears full responsibility for description and content of the training plan.  
+> Staminity provides a platform for creating and promoting plans \(for Author\) and training according to the plan \(for Acquirer\), but the Author of the plan bears full responsibility for description and content of the training plan.  
 > If you have any questions related to the content of a particular plan, you need to contact the plan Author directly.
 
 5.You can pay for a training plan using your bank card.
@@ -95,7 +95,7 @@ But you can always change parameters offered by the system by default.
 
 **Important features of the plan assignment:**
 
-* **Workouts cannot be created on the past dates.** If you set such dates so that all plan activities or part of them are assigned on the past dates, then they won't appear in your calendar.
+* **Activities from the plan cannot be created on the past dates in your calendar. **If you set such dates so that all plan activities or part of them are assigned on the past dates, then they won't appear in your calendar.
 
 * **A plan can be assigned several times.** You can easily assign plan several times to different dates.
 

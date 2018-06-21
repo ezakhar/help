@@ -1,8 +1,8 @@
 # Available balance and withdrawal of funds
 
-In Settings in the "Training plans sale" section you can view the available balance and the relevant information:
+In Settings in the "Training plans sales" section you can view the available balance and the relevant information:
 
-![Продажи планов](https://264710.selcdn.ru/assets/images/_new/settings/user-purchases-all.png)
+![Training plan sales](https://264710.selcdn.ru/assets/images/_new/settings/user-purchases-all.png)
 
 * [**Cards and bank accounts**](#addcard) -  here you can set bank cards that will be used for withdrawal and manage them; 
 * [**Training plans purchases**](#purchases) - here you can view detailed information about plan purchases;  
@@ -24,7 +24,7 @@ In order to add a new bank card, plan Author - private individual has to:
 
 1. Go to Settings and in the "Training plans sale" section select the "Cards and bank accounts" item: 
 
-![Управление картами](https://264710.selcdn.ru/assets/images/_new/settings/user-cards.png)
+![Card management](https://264710.selcdn.ru/assets/images/_new/settings/user-cards.png)
 
 2.Click on the "Add new card" button and enter the card details.
 
@@ -36,8 +36,8 @@ In order to add a new bank card, plan Author - private individual has to:
 >
 > 3.The set card can be used only for withdrawal of money made by selling training plans in Staminity.
 
-Note the “By default” attribute for cards.  
-When making a withdrawal request, money will be transferred to the card, set as the one used by default for this specific currency.
+Note the “Default” attribute for cards.  
+When making a withdrawal request, money will be transferred to the card, set as "default" for this specific currency.
 
 ![Card set as &quot;By default&quot;](https://264710.selcdn.ru/assets/images/_new/settings/user-cards-default.png)
 
@@ -82,7 +82,7 @@ After you confirm your agreement with terms of withdrawal, your request will be 
 
 In the "Withdraw" section you can view information about all withdrawal requests made earlier and their status:
 
-![Training plan purchases](https://264710.selcdn.ru/assets/images/_new/settings/user-withdrawals.png)
+![Withdrawal requests](https://264710.selcdn.ru/assets/images/_new/settings/user-withdrawals.png)
 
 Statuses available:
 

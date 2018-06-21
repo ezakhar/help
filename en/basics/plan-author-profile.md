@@ -1,15 +1,15 @@
-# Signing up as a plan Author
+# Registering as a plan Author
 
-In order to publish training plans in the Store you need to sign up as a plan Author and fill in the plan Author profile.
+In order to publish training plans in the Store you need to register as a plan Author and fill in the plan Author profile.
 
 As for now, only residents of the Russian Federation \(private individuals, legal entities and individual entrepreneurs\) can sell training plans in Staminity.
 
-* [Signing up as a plan Author - private individual](#individual)
-* [Signing up as a plan Author - legal entity or individual entrepreneur](#company)
+* [Registering as a plan Author - private individual](#individual)
+* [Registering as a plan Author - legal entity or individual entrepreneur](#company)
 
-### Signing up as a plan Author - private individual {#individual}
+### Registering as a plan Author - private individual {#individual}
 
-In order to sign up as a plan Author - private individual you need to:
+In order to register as a plan Author - private individual you need to:
 
 1.Enable the “I want to publish training plans in Store” attribute in Settings:  
 ![General params of the plan](https://264710.selcdn.ru/assets/images/_new/settings/agent-author-isactive.png)
@@ -28,15 +28,15 @@ Upon doing so you will be able to fill in the plan Author profile.
 
 * Provide your email and phone number;
 
-* Read the ["Agreement with the training plans authors - private individuals"](https://legal.staminity.com/ru/offer-author-individual.html) and "[Agreement between the training plan Author and the plan Buyer](https://legal.staminity.com/ru/offer-author-buyer.html)" and confirm that you accept all terms of these agreements.
+* Read the ["Agreement with the training plans authors - private individuals"](https://legal.staminity.com/en/offer-author-individual.html) and "[Agreement between the training plan Author and the plan Buyer](https://legal.staminity.com/en/offer-author-buyer.html)" and confirm that you accept all terms of these agreements.
 
 ![General params of the plan](https://264710.selcdn.ru/assets/images/_new/settings/agent-author-individual.png)
 
-3.Complete your sign up by saving the provided information.
+3.Complete your registration by saving the provided information.
 
-### Signing up as a plan Author - legal entity or individual entrepreneur {#individual}
+### Registering as a plan Author - legal entity or individual entrepreneur {#individual}
 
-Signing up as a plan Author - legal entity or individual entrepreneur will allow you to withdraw money made by selling plans to a settlement account of an organization/individual entrepreneur opened in the Russian Federation bank.
+Registering as a plan Author - legal entity or individual entrepreneur will allow you to withdraw money made by selling plans to a settlement account of an organization/individual entrepreneur opened in the Russian Federation bank.
 
 Settlements with legal entities and individual entrepreneurs are conducted by LLC Staminity with the involvement of a partner - **non-banking credit organization «MONETA.RU»** \(Limited Liability Company\), license to conduct banking operations with funds in Roubles and foreign currencies No. 3508-K issued by the Bank of Russia on 02.07.2012.
 
