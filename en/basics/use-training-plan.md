@@ -1,3 +1,12 @@
+---
+related:
+  - basics/training-plan.md
+  - basics/training-plan-management.md
+  - basics/training-plans-for-coaches.md
+  - basics/plan-author-profile.md
+  - basics/withdrawals.md
+---
+
 # For an athlete: How to use a training plan
 
 * [Advantages of training according to a plan in Staminity](#plan)

@@ -1,3 +1,12 @@
+---
+related:
+  - basics/training-plan.md
+  - basics/training-plan-management.md
+  - basics/training-plans-for-coaches.md
+  - basics/plan-author-profile.md
+  - basics/use-training-plan.md  
+---
+
 # Available balance and withdrawal of funds
 
 In Settings in the "Training plans sales" section you can view the available balance and the relevant information:

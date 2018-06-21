@@ -1,3 +1,12 @@
+---
+related:
+  - basics/training-plan.md
+  - basics/training-plan-management.md
+  - basics/plan-author-profile.md
+  - basics/withdrawals.md
+  - basics/use-training-plan.md  
+---
+
 # Selling training plans in Staminity
 
 Staminity offers coaches and clubs a convenient platform for promoting and selling training plans in cyclic sports.

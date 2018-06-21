@@ -1,3 +1,12 @@
+---
+related:
+  - basics/training-plan.md
+  - basics/training-plans-for-coaches.md
+  - basics/plan-author-profile.md
+  - basics/withdrawals.md
+  - basics/use-training-plan.md  
+---
+
 # Training plans management
 
 > Only users with completed coach profile can view, create and edit training plans

@@ -27,6 +27,7 @@
 
 * [Season planning and periodization](basics/season-plan.md)
 * [Periodization schemes](methodology/periodisation-schemes.md)
+* [Training plan based training](basics/use-training-plan.md)
 * [Activity categories](basics/categories.md)
 * [Templates](basics/templates.md)
 * [External calendars](basics/calendar-subscription-ical.md)
@@ -39,7 +40,7 @@
 * [Training plans in Staminity. Plan types](basics/training-plan.md)
 * [For a coach: Training plans management](basics/training-plan-management.md)
 * [For a coach: Selling training plans](training-plans/training-plans-for-coaches.md)
-* [For a coach: Signing up as a plan Author](basics/plan-author-profile.md)
+* [For a coach: Registering as a plan Author](basics/plan-author-profile.md)
 * [For a coach: Available balance and withdrawal of funds](basics/withdrawals.md)
 * [For an athlete: How to use a training plan](basics/use-training-plan.md)
 

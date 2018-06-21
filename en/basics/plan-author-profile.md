@@ -1,3 +1,12 @@
+---
+related:
+  - basics/training-plan.md
+  - basics/training-plan-management.md
+  - basics/training-plans-for-coaches.md
+  - basics/withdrawals.md
+  - basics/use-training-plan.md  
+---
+
 # Registering as a plan Author
 
 In order to publish training plans in the Store you need to register as a plan Author and fill in the plan Author profile.

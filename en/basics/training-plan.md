@@ -1,3 +1,12 @@
+---
+related:
+  - basics/training-plan-management.md
+  - basics/training-plans-for-coaches.md
+  - basics/plan-author-profile.md
+  - basics/withdrawals.md
+  - basics/use-training-plan.md  
+---
+
 # Training plans in Staminity. Plan types
 
 * [What is a training plan](#plan)
