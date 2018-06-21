@@ -10,7 +10,7 @@ Staminity offers coaches and clubs a convenient platform for promoting and selli
 
 All over the world training plans allow coaches to:
 
-1. **earn extra**
+1. **earn extra income**
 2. **attract new clients**
 
 The target audience of a training plan and of a remote work with a coach partly overlap but still, they are focused on different groups of clients: the ones who are ready/can pay for a coach and the ones who can't/don't want to.
@@ -23,7 +23,7 @@ By adding consultations or offline activities to your training plan, you receive
 
 Staminity is a professional platform designed for supporting the training process. That's why unlike a plan presented on a paper, in a spreadsheet or in a file, it is much more convenient for athletes to train according to the plan in Staminity:
 
-* **Training calendar is always at your disposal **and you can access it both via PC and via iOS and Android mobile apps. If needed, Staminity calendar can be integrated with Google calendar, Outlook, and other calendar apps.
+* **Training calendar is always at your disposal **and you can access it both via desktop or via iOS and Android mobile apps. If needed, Staminity calendar can be integrated with Google calendar, Outlook, and other calendar apps.
 
 * Completed activities are **automatically downloaded and compared with a plan**;
 
@@ -31,9 +31,9 @@ Staminity is a professional platform designed for supporting the training proces
 
 * Detailed information on every completed activity as well as reports on the whole training process are available;
 
-* In order to work according to the plan, athletes don't need to enable a paid tariff, they can use Staminity app on PC and smartphones for free. The paid Premium tariff provides additional possibilities for analyzing activities.
+* In order to work according to the plan, athletes don't need to enable a paid tariff, they can use Staminity app on the desktop and smartphones for free. The paid Premium tariff provides additional possibilities for analyzing activities.
 
-![Athlete&apos;s calendar](https://lh6.googleusercontent.com/TEQ-FWDz6mhZm4o7MLHPRSjLPf9trojZbAQuQ6V2EBI1yx8dkwdWoOKC2H7_uDCQz6jTi_dmbLo-4ZoBdlESQq2MBsw_BNsC9CYJo4pLtmE7ESuE0W9e1lUVrIAqQX3_eR0UEguN)Training calendar
+![Athletes calendar](https://lh6.googleusercontent.com/TEQ-FWDz6mhZm4o7MLHPRSjLPf9trojZbAQuQ6V2EBI1yx8dkwdWoOKC2H7_uDCQz6jTi_dmbLo-4ZoBdlESQq2MBsw_BNsC9CYJo4pLtmE7ESuE0W9e1lUVrIAqQX3_eR0UEguN)Training calendar
 
 ![Analysis of a completed activity](https://lh6.googleusercontent.com/QvFA0Sp4gMuYIZi3kfhRMw2UBbVyBzi2UlvhZpfBVY8-2gW2MVALK1_B2F5I4y_jqeGeiEssZ3Hk7jXogVpuUab0KEq7hxgkGMLpDU_3pE_5SimdiJWEjUTGMzmZjzsvFCptEVKX)Analysis of a completed activity
 
@@ -51,9 +51,7 @@ You know the methods of athletes training and we make sure that working environm
 
 Using training plan![Training plan in the calendar](https://lh4.googleusercontent.com/v44gR8_2JcAbAfhx60Q4rBo_a0neax_lnA-kiSpFedWEp1RSWMvWsvWD9z85fhn87eF3mgTSfwJrX7Pa-cOUhZTKprXiYwxGPMHBuX1v-jnYR-nKw2ADYKnxLaqSdqfC84rx_4_B)
 
-Setting tasks for structured activities ![Setting tasks for structured activities](https://lh5.googleusercontent.com/LjEX02hZ_4yhYVfS4tlirwdlndZaaG5oagRGB4ZKIg0fFuoldPTiAMCNRDTlYSMsi5N6KkVbrBB5YJe7OSkrEAlUh8ZMVzxJaAee7QTWsdWLzL8L4vOysa-k2AdI7CyInasjbT5J)
-
-Adding event ![Adding event](https://lh5.googleusercontent.com/IaKbjP06Gu1hHR8yNh-3KndgC8bUlExwzCrEQDwswzcbAE9AsmDJdoAs7vyJSGtGGqp3O_zVc0ho-ucuSf8lqBrdiYIw2YdazQmkFnTUaSuxKhHosJ2cWIL2-vqOOQUYTSDpTVBV)More information about training plan creation you can find in this article: [Training plans](/basics/training-plan.md)
+More information about training plan creation you can find in this article: [Training plans management](/basics/training-plan-management.md) 
 
 ## No sales - no costs
 
@@ -84,11 +82,11 @@ Each plan has its own page in Staminity where potential customers can find all i
 
 ![Training plan page, example 1](https://lh4.googleusercontent.com/6zgim2rjhrRMyBOvw6wP1BfZVLycgnstP58Pzupr-M6-5RMhtB5nd2NS5bGoSR4k5g1bj1eR0jSF0nroviBZHMc5XoN3fCDR4L7v2FVhyAo-1kSv5q8FjCAR_JsNiYJEEdci1Wq4)
 
-Example 1: [https://dev1.staminity.com/plan/683](https://dev1.staminity.com/plan/683)
+Example 1
 
 ![Training plan page, example 2](https://lh4.googleusercontent.com/SxAkm5DdGpWY7I235N7DhyjLH9AD7JNw11iEKl2QgxwkNLsOtdAslcxqTYJFEs4nAQIm3lBgbbVKXC4Z4aLu3TVEmxWLuF3OODLnYfHURPzU8KGsJrvYwuY0wFDREpmi5D_NrVtk)
 
-Example 2: [https://dev1.staminity.com/plan/21](https://dev1.staminity.com/plan/21)
+Example 2
 
 The page is adapted for convenient use on smartphones.
 
@@ -130,11 +128,11 @@ Staminity commission is 30% of the plan's cost. And the rest 70% go to the plan 
 
 **What are the withdrawal terms?**
 
-Withdrawal is made for free if the amount of withdrawal is more than or equals 3000 RUB. If less, then the system commission is charged in the amount of 1,5%, 60 RUB minimum.
+Withdrawal is made for free if the amount of withdrawal is more than or equals 3000 RUB. If less, then the payment system commission is charged in the amount of 1,5%, min 60 RUB.
 
 **Can I publish free plans?**
 
-No, the minimum cost of the plan is 300 RUB.
+Yes.
 
 **How to start selling plans?**
 
@@ -150,7 +148,7 @@ No, the minimum cost of the plan is 300 RUB.
 
 **Who pays taxes?**
 
-The plan purchase deal is concluded between the Seller \(private individual or legal entity\) who is the training plan Author and the Buyer \(private individual\). Staminity doesn't participate as a party to the deal but only provides a platform enabling the Seller and the Buyer to create a plan and work with it as well as informational and technical support of the cooperation between the Seller and the Buyer.
+The plan purchase deal is concluded between the Author \(private individual or legal entity\) and the Buyer \(private individual\). Staminity doesn't participate as a party to the deal but only provides a platform enabling the Author and the Buyer to create a plan and work with it as well as informational and technical support of the cooperation between the Author and the Buyer.
 
 Sellers, private individuals and legal entities, have to pay the required taxes and fees according to the current legislation of the Russian Federation on their own.
 

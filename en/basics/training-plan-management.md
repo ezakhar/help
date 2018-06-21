@@ -31,13 +31,13 @@ Structure of the window:
 * 1 - "Training plans" tab in Methodology. Using the other tabs you can manage [periodization schemes](/methodology/periodisation-schemes.md), [categories](/basics/categories.md) and [activity templates](/basics/templates.md). Information about how to work with these sections you can find in relevant articles; 
 * 2 - plans filter. Enables to select only the needed training plans; 
 * 3 - training plans list. Plans are grouped by publication in the Store;
-* 4 - plan’s context menu providing access to functions: "Create plan items", "Assignments", "Training plan publication", "Preview in Store" и "Unpublish plan";
+* 4 - plan’s context menu providing access to functions: "Create plan items", "Assignments", "Training plan publication", "Preview in Store" and "Unpublish plan";
 
 ![Training plans for a coach](https://264710.selcdn.ru/assets/images/_new/methodology/tp-menu-items-2.png)
 
 * 5 - dynamic plan attribute. Detailed information about plan types you can find in this [article](/basics/training-plan.md);
 
-* 6 - training plan publication in the Store;
+* 6 - attribute of training plan publication in the Store without any changes to update the plan;
 
 * 7 - attribute of changes available in the published plan. It is displayed when the current version of the plan differs from the one published in the Store;
 
@@ -84,13 +84,13 @@ On this tab you can set:
 
 * **Typical week** \(obligatory field\) - describe training load for typical training week within the plan. Staminity will calculate and display on the plan page the average, maximum and minimum values based on the number of activities, duration and distance of activities within the plan, but your description will make the information complete.
 
-* **Chart of training volumes within the plan** -  Staminity system will automatically calculate the training volumes chart and display it on the plan page. This chart can be calculated based on duration or distance. You can select the required value depending on your planning approach. By default “By duration” value is set.
+* **Chart of training volumes within the plan** -  Staminity will automatically calculate the training volumes chart and display it on the plan page. This chart can be calculated based on duration or distance. You can select the required value depending on your planning approach. By default “By duration” value is set.
 
 * Attribute **“Consultations included”**. If the plan’s cost includes possibility of consulting with you, then you need to enable this attribute and describe how often the buyer can contact you and how exactly.
 
 * Attribute **"Offline activities included"**. If the plan's cost includes offline activities with you, then you need to enable this attribute and describe the frequency, time and place of these activities.
 
-* Attribute  **"Structured activities included"**. In case if you use structured activities within the plan, then you need to enable this attribute and describe which activities you have divided into segments and which intensity indicator you have used. It is important and must be done to enable athletes to set up the LT value based on this intensity indicator in order to calculate the training load in a correct way.
+* Attribute  **"Structured activities included"**. In case if you use structured activities within the plan, then you may enable this attribute and describe which activities you have divided into segments and which intensity indicator you have used. It is important information for athletes to check their LT value based on this intensity indicator in order to calculate the training load in a correct way.
 
 #### Tab "Description" {#description}
 
@@ -98,7 +98,7 @@ On this tab you can set:
 
 ![Plan Description](https://264710.selcdn.ru/assets/images/_new/methodology/tp-create-description-2.png)
 
-Describe the plan as you want to. For plans intended for sale, description is displayed on the plan page in the Store and greatly affects the plan selection.  
+Describe the plan as you want to. For plans intended for publication, description is displayed on the plan page in the Store and greatly affects the plan selection.  
 Make it impressive and memorable, use text formatting, insert images and links to videos.
 
 #### Tab “Samples” {#samples}
@@ -185,7 +185,7 @@ In the plan assignment window you need to set:
 
 **Important features of the plan assignment:**
 
-1. **Workouts cannot be created on the past dates. **If you set such dates so that all plan activities or part of them are assigned on the past dates, then they won't appear in the athlete's calendar.
+1. **Activities from the plan cannot be created on the past dates in athlete's calendars. **If you set such dates so that all plan activities or part of them are assigned on the past dates, then they won't appear in the athlete's calendar.
 2. **Dynamic plan with changes transfer can be assigned only on the plan dates.** If you set different assignment dates, then plan changes won't be transferred to athletes. 
 3. **Changes made in activities which have happened in the past are not transferred to athletes. **In case if in a dynamic plan assigned with changes transfer you make changes in the activity happened yesterday, then such changes won't be transferred to athletes. 
 
@@ -203,24 +203,24 @@ After that, all uncompleted activities within the plan will be removed from the 
 
 In order to publish a plan in the Store:
 
-1 - Check how your plan looks like when viewed by potential customers. To do it you need to select **"Preview \(current version\)**" in the context menu of the plan:
+1 - Check how your plan looks like when viewed by potential customers. To do it you need to select **"Store preview \(current version\)**" in the context menu of the plan:
 
 ![General params of the plan](https://264710.selcdn.ru/assets/images/_new/methodology/tp-menu-items-2.png)
 
-Carefully check the validity of the information presented and if necessary edit [tags](#createplan) specified during the plan creation.
+Carefully check the validity of the information presented and if necessary edit [attributes](#createplan) specified during the plan creation.
 
 2 - Go to the plan publication dialog box.  In order to do it you need to select **"Publication"** item in the context menu.
 
 3 - Make sure that all checks are completed in the plan publication window.  
 ![General params of the plan](https://264710.selcdn.ru/assets/images/_new/methodology/tp-publication.png)
 
-If not all checks are completed, you won't be able to publish the plan. Solve comments by changing tags or settings \(if the [plan Author profile](/basics/plan-author-profile.md) is not completed\).
+If not all checks are completed, you won't be able to publish the plan. Solve comments by changing plan attributes or user settings \(if the [plan Author profile](/basics/plan-author-profile.md) is not completed\).
 
 4 - Click on "Publish" and confirm plan publication.
 
 ### Publish plan updates in the Store {#publishupdates}
 
-Any changes made after the plan publication ARE NOT automatically DISPLAYED in the Store.
+Any changes made after the plan publication ARE NOT AUTOMATICALLY PUBLISHED in the Store.
 
 In order for the latest plan version to appear in the Store, you need to publish changes.
 
@@ -232,9 +232,8 @@ To publish changes you need to click on the icon or proceed to the publication w
 
 ### Unpublish plan {#unpublish}
 
-You can unpublish and delete plan from the store at any moment.
+You can unpublish and remove plan from the store at any moment.
 
 In order to unpublish plan, you need to open the publication window and click on the "Unpublish" button.
 
 This button is available for all published plans.
-

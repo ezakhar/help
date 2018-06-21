@@ -51,9 +51,7 @@ Staminity - это профессиональная платформа для п
 
 Ввод тренировочного плана![Ввод тренировочного плана](https://lh4.googleusercontent.com/v44gR8_2JcAbAfhx60Q4rBo_a0neax_lnA-kiSpFedWEp1RSWMvWsvWD9z85fhn87eF3mgTSfwJrX7Pa-cOUhZTKprXiYwxGPMHBuX1v-jnYR-nKw2ADYKnxLaqSdqfC84rx_4_B)
 
-Ввод задания на тренировку по сегментам![Ввод задания на тренировку по сегментам](https://lh5.googleusercontent.com/LjEX02hZ_4yhYVfS4tlirwdlndZaaG5oagRGB4ZKIg0fFuoldPTiAMCNRDTlYSMsi5N6KkVbrBB5YJe7OSkrEAlUh8ZMVzxJaAee7QTWsdWLzL8L4vOysa-k2AdI7CyInasjbT5J)
-
-Добавление события![Добавление события](https://lh5.googleusercontent.com/IaKbjP06Gu1hHR8yNh-3KndgC8bUlExwzCrEQDwswzcbAE9AsmDJdoAs7vyJSGtGGqp3O_zVc0ho-ucuSf8lqBrdiYIw2YdazQmkFnTUaSuxKhHosJ2cWIL2-vqOOQUYTSDpTVBV)Подробнее о том как создать свой план в отдельной статье: [Тренировочные планы](/basics/training-plan.md)
+Подробнее о том как создать свой план в отдельной статье: [Управление тренировочными планами](/basics/training-plan-management.md) 
 
 ## Нет продаж - не нужно платить
 
