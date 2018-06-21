@@ -86,7 +86,7 @@ On this tab you can set:
 
 * **Chart of training volumes within the plan** -  Staminity will automatically calculate the training volumes chart and display it on the plan page. This chart can be calculated based on duration or distance. You can select the required value depending on your planning approach. By default “By duration” value is set.
 
-* Attribute **“Consultations included”**. If the plan’s cost includes possibility of consulting with you, then you need to enable this attribute and describe how often the buyer can contact you and how exactly.
+* Attribute **“Consultations included”**. If the plan’s cost includes possibility of consulting with you, then you need to enable this attribute and describe how often the acquirer can contact you and how exactly.
 
 * Attribute **"Offline activities included"**. If the plan's cost includes offline activities with you, then you need to enable this attribute and describe the frequency, time and place of these activities.
 

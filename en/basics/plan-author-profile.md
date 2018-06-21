@@ -28,7 +28,7 @@ Upon doing so you will be able to fill in the plan Author profile.
 
 * Provide your email and phone number;
 
-* Read the ["Agreement with the training plans authors - private individuals"](https://legal.staminity.com/en/offer-author-individual.html) and "[Agreement between the training plan Author and the plan Buyer](https://legal.staminity.com/en/offer-author-buyer.html)" and confirm that you accept all terms of these agreements.
+* Read the ["Agreement with the training plans authors - private individuals"](https://legal.staminity.com/en/offer-author-individual.html) and "[Agreement between the training plan Author and the plan Acquirer](https://legal.staminity.com/en/offer-author-buyer.html)" and confirm that you accept all terms of these agreements.
 
 ![General params of the plan](https://264710.selcdn.ru/assets/images/_new/settings/agent-author-individual.png)
 
@@ -57,7 +57,7 @@ Upon doing so you will be able to fill in the plan Author profile.
 
 * \[1\] Agreement with the training plans authors - legal entities or individual entrepreneurs:  
   [https://legal.staminity.com/eng/offer-author-company.html](https://legal.staminity.com/eng/offer-author-company.html)
-* \[2\] Agreement between the training plan Author and the plan Buyer: [https://legal.staminity.com/eng/offer-author-buyer.html](https://legal.staminity.com/eng/offer-author-buyer.html)
+* \[2\] Agreement between the training plan Author and the plan Acquirer: [https://legal.staminity.com/eng/offer-author-buyer.html](https://legal.staminity.com/eng/offer-author-buyer.html)
 * \[3\] Agreements on money transfers without the need to open accounts in MONETA.RU System and implementation of informational and technological interaction with legal entities and individual entrepreneurs - residents of the Russian Federation: [https://moneta.ru/info/d/eng/public/merchants/b2boffer.pdf](https://moneta.ru/info/d/eng/public/merchants/b2boffer.pdf)
 
 In order to find the template for legal entity/individual entrepreneur form please visit:  [https://docs.google.com/spreadsheets/d/1EBDE40iqPtk8gSNVNE2XcJHuEp6UU2Xtigqv7vplcY4/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1EBDE40iqPtk8gSNVNE2XcJHuEp6UU2Xtigqv7vplcY4/edit?usp=sharing).
