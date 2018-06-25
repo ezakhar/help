@@ -31,7 +31,7 @@
 We have added a possibility to merge planned and completed activities manually and improved the algorithm for automatic comparison of activities. Now you can manually:
 
 * \(new\) Split completed and planned activities; 
-* \(new\) Split completed and planned activities of a competition stage;
+* \(new\) Split completed and planned activities within a competition stage;
 * \(new\) Merge completed and planned activities; 
 * \(new\) Merge completed activities with a competition stage.
 
@@ -39,10 +39,10 @@ We have added a possibility to merge planned and completed activities manually a
 
 ### v2.1.12 - 28.03.2018
 
-* \(new\) Корректировка факта в выполненных тренировках
-* \(new\) Новый просмотр тренировок
-* \(new\) Новый поиск тренеров и клубов 
-* \(new\) Новый внешний вид соревнований в календаре
+* \(new\) Correcting actual values in completed activities
+* \(new\) New view of activities
+* \(new\) New search for coaches and clubs 
+* \(new\) New look for competitions in the calendar
 
 ---
 
@@ -63,6 +63,7 @@ We have added a possibility to merge planned and completed activities manually a
 * **\(fix\)** Работа с календарем и с тренировочными планами, когда неделя начинается с воскресенья,
 
 * **\(fix\)** Ошибки редактирования настроек пользователя, приводившие к обнулению часового пояса, дня недели, языка отображения и системы мер;
+
 * **\(fix\)** Копирование тренировок между учениками сразу после добавления нового ученика;
 * **\(fix\)** Создание соревнований в Планах на сезон;
 * **\(fix\)** Отображение удаления тренировок из тренировочного плана
