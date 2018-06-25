@@ -31,7 +31,7 @@
 We have added a possibility to merge planned and completed activities manually and improved the algorithm for automatic comparison of activities. Now you can manually:
 
 * \(new\) Split completed and planned activities; 
-* \(new\) Split completed and planned activities within a competition stage;
+* \(new\) Split completed and planned activities of a competition stage;
 * \(new\) Merge completed and planned activities; 
 * \(new\) Merge completed activities with a competition stage.
 
@@ -39,7 +39,7 @@ We have added a possibility to merge planned and completed activities manually a
 
 ### v2.1.12 - 28.03.2018
 
-* \(new\) Correcting actual values in completed activities
+* \(new\) Possibility to correct actual values in completed activities
 * \(new\) New view of activities
 * \(new\) New search for coaches and clubs 
 * \(new\) New look for competitions in the calendar
@@ -48,23 +48,24 @@ We have added a possibility to merge planned and completed activities manually a
 
 ### v2.1.5 - 16.02.2018
 
-Добавлено присвоение спортсменов к тренировочным планам. Тренировочные планы стали полноценным инструментом, облегчающим работу тренера с группами спортсменов в Staminity.
+An option of assigning athletes to training plans has been added. Training plans became a full-fledged tool that facilitates the work of a coach with groups of athletes in Staminity.
 
 ---
 
 ### v2.1.1 - 01.02.2018 {#release008}
 
-* \(new\) Клубные шаблоны и категории тренировок
-* \(new\) Шаблоны и категории переведены на базовые виды спорта
-* \(new\) Копирование шаблонов
+* \(new\) Club templates and activity categories
+* \(new\) Templates and categories have been transferred to basic sports
+* \(new\) Copying templates
 
-* **\(fix\)** Исправлена ошибка, из-за которой нельзя было создавать тренировки ученикам после редактирования своих настроек,
+* **\(fix\)** Has been fifed a bug because of which it was impossible to create activities for athletes after editing your settings,
 
-* **\(fix\)** Работа с календарем и с тренировочными планами, когда неделя начинается с воскресенья,
+* **\(fix\)** Working with the calendar and training plans when a week starts with Sunday, 
 
 * **\(fix\)** Ошибки редактирования настроек пользователя, приводившие к обнулению часового пояса, дня недели, языка отображения и системы мер;
 
 * **\(fix\)** Копирование тренировок между учениками сразу после добавления нового ученика;
+
 * **\(fix\)** Создание соревнований в Планах на сезон;
 * **\(fix\)** Отображение удаления тренировок из тренировочного плана
 
