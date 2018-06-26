@@ -60,21 +60,22 @@ An option of assigning athletes to training plans has been added. Training plans
 
 * **\(fix\)** Has been fifed a bug because of which it was impossible to create activities for athletes after editing your settings,
 
-* **\(fix\)** Working with the calendar and training plans when a week starts with Sunday, 
+* **\(fix\)** Working with the calendar and training plans when a week starts with Sunday,
 
-* **\(fix\)** Ошибки редактирования настроек пользователя, приводившие к обнулению часового пояса, дня недели, языка отображения и системы мер;
+* **\(fix\)** Bugs with editing user settings, that resulted in nulling of the time zone, day of the week, display language and measures system;
 
-* **\(fix\)** Копирование тренировок между учениками сразу после добавления нового ученика;
+* **\(fix\)** Copying activities between athletes right after adding new athlete;
 
-* **\(fix\)** Создание соревнований в Планах на сезон;
-* **\(fix\)** Отображение удаления тренировок из тренировочного плана
+* **\(fix\)** Creating competitions in Season plans; 
+
+* **\(fix\)** Displaying the removal of activities from the training plan.
 
 ---
 
 ### v2.1 - 15.01.2018 {#release007}
 
-* \(new\) Создание тренировочных планов
-* \(new\) Задания от тренера с форматированным текстом, изображениями и видео
+* \(new\) Training plans creation
+* \(new\) Activities from a coach with formatted text, images and videos Задания от тренера с форматированным текстом, изображениями и видео
 * \(new\) Новые возможности оформления профиля тренера и клуба
 * \(new\) Копирование тренировок между спортсменами в календаре
 * \(fix\) Указание плана в выполненной тренировке
