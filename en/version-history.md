@@ -154,7 +154,7 @@ Mass operations with activities in the dashboard and in the calendar
 
 ### v0.5.2.beta\#090 - 11.07.2017 {#beta009}
 
-We have fixed bugs with Staminity operation in Safari 
+We have fixed bugs with Staminity operation in Safari
 
 ---
 
@@ -190,24 +190,24 @@ Public beta:
 
 ### v0.0.1.beta\#020 - 13.04.2017 {#beta005}
 
-* **\(new\) Автоматическая синхронизация со Strava**
-* **\(new\) Дэшборд тренера по ученикам**
-* **\(new\) Планирование тренировок в %ПАНО**
-* \(new\) Планирование интенсивности в тренировке в % от ПАНО  
-* \(new\) Переписка с тренером в тренировке  
-* \(new\) Управление масштабом графика в тренировке
-* \(new\) Новые показатели: кардиокомпенсация по скорости
-* \(fix\) Расчет градиента по выделенному отрезку тренировки
-* \(fix\) Исправлены границы пульсовых зон по Карвонену
-* \(fix\) Отображение времени начала тренировок
-* \(fix\) Расчет % выполнения для тренировок
-* \(fix\) Расчет показателей по выделенному отрезку тренировки
+* **\(new\) Automatic synchronization with Strava**
+* **\(new\) Coach dashboard on athletes**
+* **\(new\) Planning activities in % of the LT **
+* \(new\) Planning intensity of the activity in % of the LT 
+* \(new\) Chatting with coach in activities 
+* \(new\) Managing chart scale in activities 
+* \(new\) New indicators: decoupling \(pace\)
+* \(fix\) Calculating grade for the selected part of the activity
+* \(fix\) Have been fixed limits of the HR zones according to Karvonen 
+* \(fix\) Displaying activity starting time
+* \(fix\) Calculating % of completion for activities 
+* \(fix\) Calculating indicators for the selected part of an activity
 
 ---
 
 ### v0.0.1.beta\#015 - 03.04.2017 {#beta004}
 
-* **\(new\) Тренировочные зоны и ПАНО**.
+* **\(new\) Training zones and LT **
 
   * Ведение ПАНО по показателям интенсивности и  видам спорта
   * Расчет границ тренировочных зон
