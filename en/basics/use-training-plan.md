@@ -78,7 +78,7 @@ In this window:
 
 In order to start training according to the purchased plan, you need to assign it to required dates. By doing so all items of the plan will appear in your training calendar.
 
-To assign a plan you need to click on the button \[3\] \(see the image above\).
+To assign a plan you need to open "Training plans" - "Purchases" view and click on the button "Assign" (button \[3\] \ on the image above\).
 
 By default, the system will offer you to use a plan:
 
