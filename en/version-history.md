@@ -17,7 +17,7 @@
 
 ### v2.1.18 - 29.04.2018
 
-* \(new\) A new indicator "Total duration" is now being used in activities instead of "Motion time". 
+* \(new\) A new indicator "Duration" is now being used in activities instead of "Moving duration". 
 * \(new\) Service settings have been completely rewritten. Now they are more convenient for users and have two levels;
 * \(new\) The process of applying to the support service became much easier. Now you can write a message to the support service directly from the website main page and by clicking on the "Ask a question" button in the mobile app;  
 * An order of athletes sorting has been changed. When sorting by First name, Last name the Last name is being used; 
@@ -209,27 +209,27 @@ Public beta:
 
 * **\(new\) Training zones and LT **
 
-  * Ведение ПАНО по показателям интенсивности и  видам спорта
-  * Расчет границ тренировочных зон
-  * Расчет в тренировке интенсивности в процентах от ПАНО по каждому кругу
-  * Расчет времени в зонах в тренировке
+  * Setting LT level depending on intensity indicators and sports
+  * Calculating training zones limits 
+  * Calculating intensity in % of the LT for each lap within activity
+  * Calculating time in zones during activity
 
 ### v0.0.1.beta\#014 - 28.03.2017 {#beta003}
 
-* **\(new\) Уведомления**. 
-* \(fix\) оптимизация календаря. 
+* **\(new\) Notifications**. 
+* \(fix\) calendar optimization. 
 
 ### v0.0.1.beta\#002 - 20.03.2017 {#beta002}
 
-* \(new\) Анализ показателей по любому выбранному отрезку в тренировке
+* \(new\) Analyzing indicators for any given part of the activity
   ![](http://264710.selcdn.ru/assets/images/ChartUserSelection.gif)
-* \(new\) Отображение плановых объемов в итогах недели в календаре
+* \(new\) Displaying planned duration/distance in week summary in the calendar 
   ![](http://264710.selcdn.ru/assets/images/WeekTotals.png)
-* \(new\) Отображение плановой интенсивности для тренировок в календаре
-* \(fix\) Отображение графика в тренировках по плаванию
-* \(fix\) Расчет среднего темпа в беговых тренировках
-* \(fix\) Расчет % выполнения по тренировкам с фактом, введенным вручную
-* \(fix\) Отображение ошибок подключения к Garmin Connect и статуса подключения   
+* \(new\) Displaying planned intensity of activities in the calendar 
+* \(fix\) Displaying chart in the swimming activities
+* \(fix\) Calculating average pace during running activities 
+* \(fix\) Calculating % of completion for activities where actual values have been set manually
+* \(fix\) Displaying errors when connecting to Garmin Connect and connection status
 
 ### v0.0.1.beta\#001 - 13.03.2017 {#beta001}
 
