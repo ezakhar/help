@@ -75,7 +75,7 @@ An option of assigning athletes to training plans has been added. Training plans
 * \(new\) Training plans creation
 * \(new\) Activities from a coach with rich text format, images and links to videos. 
 * \(new\) New features of club profile and coach profile's layout
-* \(new\) Копирование тренировок между спортсменами в календаре
+* \(new\) Copying activities between athletes in the calendar
 * \(fix\) Setting plan in a completed activity
 
 ---
@@ -85,56 +85,56 @@ An option of assigning athletes to training plans has been added. Training plans
 * **\(new\) Season planning**
 * **\(new\) Competitions**
 * **\(new\) New design of the calendar **
-* **\(new\) Mothodology**
+* **\(new\) Methodology**
 
 ---
 
 ### v1.4 - 15.11.2017 {#release006}
 
-* **\(new\) Possibility of working with Добавлена работа с событиями**
+* **\(new\) Working with events**
 
-События - записи о фактически произошедшем или запланированном событии , важном для тренировочного процесса. Примеры событий: день отдыха, недомогание, перелёт, диета, витамины и добавки и т.п.  
-Можно планировать одиночные и повторяющиеся события, ежедневные, еженедельные, ежемесячные и т.п. [Подробнее](/basics/create-record.md)
+Event - an item with information about an event that is going to happen or has already happened and which is important for the training process. Examples: rest day, sickness, travel, diet, supplements, etc.  
+You can plan single and repeating events, daily, weekly, monthly events, etc. [Learn more](/basics/create-record.md)
 
 ---
 
 ### v1.3 - 07.11.2017 {#release005}
 
-* **\(new\) Настройка уведомлений, рассылка их по почте**
+* **\(new\) Notification settings, emailing notifications **
 
 ---
 
-* **\(new\) Экспорт тренировок во внешние календари**
-  Ваш календарь тренировок теперь доступен в Google calendar, Apple iCal, Microsoft Outlook и других приложениях, поддерживающих внешние календари в формате iCal. [Подробнее](/basics/calendar-subscription-ical.md)
+* **\(new\) Exporting activities to external calendars**
+  Your training calendar is now available in Google calendar, Apple iCal, Microsoft Outlook and other apps that support external calendars in the iCal format.** **[Learn more](/basics/calendar-subscription-ical.md)
 
 ---
 
 ### v1.2 - 18.10.2017 {#release004}
 
-* \(**new\) Добавлен блок "Отчетность и аналитика"**
-  Интерактивные аналитические отчеты по тренировочному процессу теперь доступны всем пользователям
+* \(**new\) “Reports and analytics” section has been added.**
+  Interactive analytical reports on the training process are now available to all users
 
 ---
 
 ### v1.1 - 13.09.2017 {#release003}
 
-* **\(new\) Добавлены структурированные тренировки**
-  Теперь можно планировать тренировочные задания по отдельным сегментам.
+* **\(new\) Structured activities have been added**
+  Now you can create training tasks for separate segments. 
 
 ---
 
 ### v1.0.1\#167 - 01.09.2017 {#release002}
 
-**\(new\) Добавлена работа с шаблонами**  
-Подробнее см. в специальном разделе: [Как использовать шаблоны тренировок](/basics/templates.md)
+**\(new\) Working with templates**  
+Detailed information on the subject you can find in this section: [How to use activity templates](/basics/templates.md)
 
 ---
 
 ### v1.0.0\#007 - 21.08.2017 {#release001}
 
-Бета-тестирование Стаминити завершено, вышла первая версия приложения:
+Beta-testing of Staminity has been completed and the first version of the application was issued
 
-* **\(new\) **[**Управление категориями пользователя**](/basics/categories.md): создание, изменение, управление порядком сортировки, управление видимостью, 
+* **\(new\) **[**User categories management**](/basics/categories.md): creating, editing, managing sorting order and visibility 
 * **\(new\) Поиск клубов**
 * **\(new\) Восстановление пароля**
 * **\(new\) Онлайн обновление доступных функций приложения** при подключении/отключении тарифов,  при изменении ролей в клубе, 
