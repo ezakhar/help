@@ -148,43 +148,43 @@ Beta-testing of Staminity has been completed and the first version of the applic
 
 ### v0.5.3.beta\#137 - 22.07.2017 {#beta009}
 
-Массовые операции с тренировками в дэшборде и календаре.
+Mass operations with activities in the dashboard and in the calendar
 
 ---
 
 ### v0.5.2.beta\#090 - 11.07.2017 {#beta009}
 
-Исправили работу Стаминити в Сафари
+We have fixed bugs with Staminity operation in Safari 
 
 ---
 
 ### v0.5.2.beta\#078 - 03.07.2017 {#beta008}
 
-\(new\) Новый режим для тренера: теперь можно планировать тренировки сразу для нескольких учеников.
+\(new\) New mode for a coach: now you can plan activities for several athletes at once.
 
 ---
 
 ### v0.5.1.beta\#065 - 19.06.2017 {#beta007}
 
-* \(new\) Новый дэшборд для тренера и менеджера клуба.
+* \(new\) New dashboard for a coach and for a club manager.
 
 ---
 
 ### v0.5.0.beta\#030 - 29.05.2017 {#beta006}
 
-Открытая бета:
+Public beta:
 
-* **\(new\) Работа в Стаминити с мобильных устройств**  
-* **\(new\) Поиск пользователей**  
-* **\(new\) Обновления календаря**
-* **\(new\) Скопировать/вставить/переместить тренировки**  
-* **\(new\) Чат с тренером онлайн**  
-* **\(new\) Обновления в тренировке**  
-* **\(new\) Дэшборд для менеджеров клуба**  
-* \(new\) Добавлена поддержка браузеров Firefox и Safari
-* \(fix\) Исправление ошибок с уведомлениями
-* \(fix\) Исправление ошибок в чате с тренером
-* \(fix\) Исправление ошибок в управлении членами клуба
+* **\(new\) Using Staminiy on mobile devices** 
+* **\(new\) Users search**  
+* **\(new\) Calendar updates**
+* **\(new\) Copy/paste/drag and drop activities**
+* **\(new\) Online chat with a coach**
+* **\(new\) Updates in activity** 
+* **\(new\) Dashboard for club managers** 
+* \(new\) Now Firefox and Safari browsers are supported 
+* \(fix\) Fixed bugs with notifications
+* \(fix\) Fixed bugs arising in the chat with a coach 
+* \(fix\) Fixed bugs with club memebers management
 
 ---
 
