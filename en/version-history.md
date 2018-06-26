@@ -66,34 +66,32 @@ An option of assigning athletes to training plans has been added. Training plans
 
 * **\(fix\)** Copying activities between athletes right after adding new athlete;
 
-* **\(fix\)** Creating competitions in Season plans; 
+* **\(fix\)** Creating competitions in Season plans;
 
-* **\(fix\)** Displaying the removal of activities from the training plan.
-
----
+* **\(fix\)** Displaying the removal of activities from the training plan
 
 ### v2.1 - 15.01.2018 {#release007}
 
 * \(new\) Training plans creation
-* \(new\) Activities from a coach with formatted text, images and videos Задания от тренера с форматированным текстом, изображениями и видео
-* \(new\) Новые возможности оформления профиля тренера и клуба
+* \(new\) Activities from a coach with rich text format, images and links to videos. 
+* \(new\) New features of club profile and coach profile's layout
 * \(new\) Копирование тренировок между спортсменами в календаре
-* \(fix\) Указание плана в выполненной тренировке
+* \(fix\) Setting plan in a completed activity
 
 ---
 
 ### v2.0 - 24.12.2017 {#release006}
 
-* **\(new\) Планирование сезона**  
-* **\(new\) Соревнования**
-* **\(new\) Новый дизайн календаря**
-* **\(new\) Методология**
+* **\(new\) Season planning**
+* **\(new\) Competitions**
+* **\(new\) New design of the calendar **
+* **\(new\) Mothodology**
 
 ---
 
 ### v1.4 - 15.11.2017 {#release006}
 
-* **\(new\) Добавлена работа с событиями**
+* **\(new\) Possibility of working with Добавлена работа с событиями**
 
 События - записи о фактически произошедшем или запланированном событии , важном для тренировочного процесса. Примеры событий: день отдыха, недомогание, перелёт, диета, витамины и добавки и т.п.  
 Можно планировать одиночные и повторяющиеся события, ежедневные, еженедельные, ежемесячные и т.п. [Подробнее](/basics/create-record.md)
