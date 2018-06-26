@@ -137,12 +137,12 @@ Beta-testing of Staminity has been completed and the first version of the applic
 * **\(new\) **[**User categories management**](/basics/categories.md): creating, editing, managing sorting order and visibility 
 * **\(new\) Club search**
 * **\(new\) Password reset**
-* **\(new\) Online updating of available application functions **when enabling/disabling tariffs, when changing roles in the club, 
-* **\(new\) Online updating of the list of athletes of the coach and of the club,** when adding and removing athletes **Онлайн обновление перечня спортсменов тренера и клуба** при подключении и отключении учеников
-* **\(new\) Тарифы и биллинг.** Управление подключением тарифных планов, просмотр и оплата выставленных счетов
-* \(fix\) Исправлен ввод даты рождения вручную
-* \(fix\) График в тренировке по плаванию не работал в некоторых кейсах
-* \(fix\) Смена пароля в Настройках 
+* **\(new\) Online updating available application functions **when enabling/disabling tariffs, when changing roles in the club
+* **\(new\) Online updating the list of athletes of the coach and of the club,** when adding and removing athletes
+* **\(new\) Tariffs and billing.** Enabling tariff plans, viewing and paying invoices
+* \(fix\) Has been fixed a bug with manual input of the date of birth
+* \(fix\) Chart in the swimming activity didn't work in some cases
+* \(fix\) Changing password in Settings
 
 ---
 
