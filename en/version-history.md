@@ -10,7 +10,7 @@
   * setting bank cards for withdrawal;
   * withdrawing to a bank card.
 * **\(new\) For an athlete - training according to a plan in Staminity:**
-  * purchaising/ adding training plans, published in the Store;
+  * purchasing/adding training plans, published in the Store;
   * assigning plans to required dates.
 
 ---
@@ -21,8 +21,8 @@
 * \(new\) Service settings have been completely rewritten. Now they are more convenient for users and have two levels;
 * \(new\) The process of applying to the support service became much easier. Now you can write a message to the support service directly from the website main page and by clicking on the "Ask a question" button in the mobile app;  
 * An order of athletes sorting has been changed. When sorting by First name, Last name the Last name is being used; 
-* \(fix\) We have fixed a bug with sorting of competition stages in case if one of the stages has not been completed; 
-* \(fix\) We have fixed a bug with displaying of series of segments when one of the series' segments has been removed. 
+* \(fix\) We have fixed a bug with competition stages sorting in case if one of the stages hasn't been completed; 
+* \(fix\) We have fixed a bug with displaying series of segments when one of the series' segments has been removed. 
 
 ---
 
@@ -39,7 +39,7 @@ We have added a possibility to merge planned and completed activities manually a
 
 ### v2.1.12 - 28.03.2018
 
-* \(new\) Possibility to correct actual values in completed activities
+* \(new\) Possibility to edit actual values in completed activities
 * \(new\) New view of activities
 * \(new\) New search for coaches and clubs 
 * \(new\) New look for competitions in the calendar
@@ -58,7 +58,7 @@ An option of assigning athletes to training plans has been added. Training plans
 * \(new\) Templates and categories have been transferred to basic sports
 * \(new\) Copying templates
 
-* **\(fix\)** Has been fifed a bug because of which it was impossible to create activities for athletes after editing your settings,
+* **\(fix\)** Has been fixed a bug because of which it was impossible to create activities for athletes after editing your settings,
 
 * **\(fix\)** Working with the calendar and training plans when a week starts with Sunday,
 
@@ -76,7 +76,7 @@ An option of assigning athletes to training plans has been added. Training plans
 * \(new\) Activities from a coach with rich text format, images and links to videos. 
 * \(new\) New features of club profile and coach profile's layout
 * \(new\) Copying activities between athletes in the calendar
-* \(fix\) Setting plan in a completed activity
+* \(fix\) Setting planned values in a completed activity
 
 ---
 
@@ -141,7 +141,7 @@ Beta-testing of Staminity has been completed and the first version of the applic
 * **\(new\) Online updating the list of athletes of the coach and of the club,** when adding and removing athletes
 * **\(new\) Tariffs and billing.** Enabling tariff plans, viewing and paying invoices
 * \(fix\) Has been fixed a bug with manual input of the date of birth
-* \(fix\) Chart in the swimming activity didn't work in some cases
+* \(fix\) The chart in the swimming activity didn't work in some cases
 * \(fix\) Changing password in Settings
 
 ---
@@ -174,7 +174,7 @@ We have fixed bugs with Staminity operation in Safari
 
 Public beta:
 
-* **\(new\) Using Staminiy on mobile devices** 
+* **\(new\) Using Staminity on mobile devices** 
 * **\(new\) Users search**  
 * **\(new\) Calendar updates**
 * **\(new\) Copy/paste/drag and drop activities**
@@ -184,7 +184,7 @@ Public beta:
 * \(new\) Now Firefox and Safari browsers are supported 
 * \(fix\) Fixed bugs with notifications
 * \(fix\) Fixed bugs arising in the chat with a coach 
-* \(fix\) Fixed bugs with club memebers management
+* \(fix\) Fixed bugs with club members management
 
 ---
 
@@ -193,8 +193,8 @@ Public beta:
 * **\(new\) Automatic synchronization with Strava**
 * **\(new\) Coach dashboard on athletes**
 * **\(new\) Planning activities in % of the LT **
-* \(new\) Planning intensity of the activity in % of the LT 
-* \(new\) Chatting with coach in activities 
+* \(new\) Planning intensity of an activity in % of the LT 
+* \(new\) Chatting with a coach in activities 
 * \(new\) Managing chart scale in activities 
 * \(new\) New indicators: decoupling \(pace\)
 * \(fix\) Calculating grade for the selected part of the activity
@@ -211,7 +211,7 @@ Public beta:
 
   * Setting LT level depending on intensity indicators and sports
   * Calculating training zones limits 
-  * Calculating intensity in % of the LT for each lap within activity
+  * Calculating intensity in % of the LT for each lap within an activity
   * Calculating time in zones during activity
 
 ### v0.0.1.beta\#014 - 28.03.2017 {#beta003}
@@ -233,13 +233,13 @@ Public beta:
 
 ### v0.0.1.beta\#001 - 13.03.2017 {#beta001}
 
-* Тренировочный календарь
-* Создание плановых тренировок
-* Импорт из Garmin connect
-* Анализ фактических тренировок
-* Подключение спортсменов к тренеру и клубу
-* Управление спортсменами тренера
-* Управление членами клуба
+* **Training calendar**
+* **Creating planned activities**
+* **Uploading activities from Garmin connect**
+* **Analyzing completed activities**
+* **Connecting athletes to a coach and to a club**
+* **Managing athletes of a coach**
+* **Managing club members**
 
 
 
