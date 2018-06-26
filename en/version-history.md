@@ -135,10 +135,10 @@ Detailed information on the subject you can find in this section: [How to use ac
 Beta-testing of Staminity has been completed and the first version of the application was issued
 
 * **\(new\) **[**User categories management**](/basics/categories.md): creating, editing, managing sorting order and visibility 
-* **\(new\) Поиск клубов**
-* **\(new\) Восстановление пароля**
-* **\(new\) Онлайн обновление доступных функций приложения** при подключении/отключении тарифов,  при изменении ролей в клубе, 
-* **\(new\) Онлайн обновление перечня спортсменов тренера и клуба** при подключении и отключении учеников
+* **\(new\) Club search**
+* **\(new\) Password reset**
+* **\(new\) Online updating of available application functions **when enabling/disabling tariffs, when changing roles in the club, 
+* **\(new\) Online updating of the list of athletes of the coach and of the club,** when adding and removing athletes **Онлайн обновление перечня спортсменов тренера и клуба** при подключении и отключении учеников
 * **\(new\) Тарифы и биллинг.** Управление подключением тарифных планов, просмотр и оплата выставленных счетов
 * \(fix\) Исправлен ввод даты рождения вручную
 * \(fix\) График в тренировке по плаванию не работал в некоторых кейсах
