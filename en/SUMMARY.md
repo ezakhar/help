@@ -4,7 +4,7 @@
 
 * [Introduction](README.md)
 * [What is Staminity](about/staminity.md)
-* [История версий](version-history.md)
+* [Version history](version-history.md)
 
 ## Basics
 
