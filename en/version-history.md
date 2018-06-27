@@ -72,7 +72,7 @@ An option of assigning athletes to training plans has been added. Training plans
 
 ### v2.1 - 15.01.2018 {#release007}
 
-* \(new\) Training plans creation
+* **\(new\) Training plans creation**
 * \(new\) Activities from a coach with rich text format, images and links to videos. 
 * \(new\) New features of club profile and coach profile's layout
 * \(new\) Copying activities between athletes in the calendar
@@ -101,8 +101,6 @@ You can plan single and repeating events, daily, weekly, monthly events, etc. [L
 ### v1.3 - 07.11.2017 {#release005}
 
 * **\(new\) Notification settings, emailing notifications **
-
----
 
 * **\(new\) Exporting activities to external calendars**
   Your training calendar is now available in Google calendar, Apple iCal, Microsoft Outlook and other apps that support external calendars in the iCal format.** **[Learn more](/basics/calendar-subscription-ical.md)
@@ -217,7 +215,7 @@ Public beta:
 ### v0.0.1.beta\#014 - 28.03.2017 {#beta003}
 
 * **\(new\) Notifications**. 
-* \(fix\) calendar optimization. 
+* \(fix\) Calendar optimization. 
 
 ### v0.0.1.beta\#002 - 20.03.2017 {#beta002}
 
@@ -233,13 +231,13 @@ Public beta:
 
 ### v0.0.1.beta\#001 - 13.03.2017 {#beta001}
 
-* **Training calendar**
-* **Creating planned activities**
-* **Uploading activities from Garmin connect**
-* **Analyzing completed activities**
-* **Connecting athletes to a coach and to a club**
-* **Managing athletes of a coach**
-* **Managing club members**
+* Training calendar
+* Creating planned activities
+* Uploading activities from Garmin connect
+* Analyzing completed activities
+* Connecting athletes to a coach and to a club
+* Managing athletes of a coach
+* Managing club members
 
 
 
