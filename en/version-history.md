@@ -1,6 +1,6 @@
 # Staminity version history
 
-### v2.2.2 - 13.07.2018
+### v2.2.3 - 13.07.2018
 Changes in Activity + bug fixes:
 * (**new**) Input form for simple activity has become easier and more understandable;
 * (**new**) In the chat with the trainer added support for images and external links;
