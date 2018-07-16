@@ -1,5 +1,16 @@
 # Staminity version history
 
+### v2.2.2 - 13.07.2018
+Changes in Activity + bug fixes:
+* (**new**) Input form for simple activity has become easier and more understandable;
+* (**new**) In the chat with the trainer added support for images and external links;
+* (**new**) E-mail notifications for new comments now include comment text.
+* (fixed) Season planning: in some cases there was no updating of the plan for the season when making changes;
+* (fixed) Season planning: the training load chart in the Safari browser was displayed with black fill;
+* (fixed) Calendar: some workouts were not correctly displayed in the Safari browser;
+* (fixed) Training plans: fixed a bug with displaying the plan builder with dynamic dates in the Safari browser;
+* (fixed) Saving user zones: the change in the user zones was not saved if the LT value was reset to zero. Added a warning about this.
+
 ### v2.2.1 - 24.06.2018
 
 **Training plans store:**
