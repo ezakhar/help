@@ -4,7 +4,7 @@ related:
   - basics/training-plan-management.md
   - basics/training-plans-for-coaches.md
   - basics/withdrawals.md
-  - basics/use-training-plan.md  
+  - basics/use-training-plan.md
 ---
 
 # Registering as a plan Author
@@ -71,7 +71,7 @@ Upon doing so you will be able to fill in the plan Author profile.
 
 In order to find the template for legal entity/individual entrepreneur form please visit:  [https://docs.google.com/spreadsheets/d/1EBDE40iqPtk8gSNVNE2XcJHuEp6UU2Xtigqv7vplcY4/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1EBDE40iqPtk8gSNVNE2XcJHuEp6UU2Xtigqv7vplcY4/edit?usp=sharing).
 
-4.Print the completed form, sign it, scan and send the scanned copy together with the form’s file by email: [support@staminity.com](mailto:support@staminity.com) with the subject of the letter: “Signing up as a plan Author - legal entity or individual entrepreneur”.
+4.Print the completed form, sign it, scan and send the scanned copy together with the form’s file by email: [support@staminity.com](mailto:support@staminity.com) with the subject of the letter: “Registration as a plan Author - legal entity or individual entrepreneur”.
 
 5.Upon the form's processing, the Payee will be registered in the NCO "Moneta" \(LLC\), after that he will be able to publish plans in the Store. The plan Author will be notified of the form's processing completion by e-mail.
 
